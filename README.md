@@ -5,7 +5,7 @@
 ## Overview
 
 
-![image](./3.1 PDF Document Acquisition/Overview.png)
+![image]("./3.1 PDF Document Acquisition/Overview-CCASL.png")
 ***
 
 This overview displays the main sections of CCASL, known as:
