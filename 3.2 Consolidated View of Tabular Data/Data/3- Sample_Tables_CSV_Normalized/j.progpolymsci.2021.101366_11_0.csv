@@ -1,0 +1,5 @@
+,Samples,P content (wt%),Tgb (°C),T5% C (C),CY (wt%),LOI (%),UL-94,Reduction PHRR (%),Reduction THR (%),Ref.,Vectors,Ref
+0,DDM + BPD,0.75,160.0,310.0,18.1,36.9,0.0,21.7,31.4,86.0,"['DDM', 'BPD']",j.progpolymsci.2021.101366_11_0
+1,DDM + DPT,0.75,169.0,322.0,17.8,36.5,0.0,28.6,30.9,87.0,"['DDM', 'DPT']",j.progpolymsci.2021.101366_11_0
+2,DDS + DIB,0.75,186.0,347.0,24.0,36.8,0.0,58.4,27.3,88.0,"['DDS', 'DIB']",j.progpolymsci.2021.101366_11_0
+3,DDS + DIB,0.75,192.0,339.0,23.5,36.7,0.0,41.1,24.2,89.0,"['DDS', 'DIB']",j.progpolymsci.2021.101366_11_0

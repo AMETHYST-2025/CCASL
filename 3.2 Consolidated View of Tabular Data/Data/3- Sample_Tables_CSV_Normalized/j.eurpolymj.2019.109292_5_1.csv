@@ -1,0 +1,5 @@
+,Entry,Samples,Tg a (°C),Erb (MPa),E° (MPa),Ve (mol/dm³),Tensile strength (MPa),Elongation at break (%),Shore Hardness (HD),Vectors,Ref
+0,1.0,DGF/33DDS,180.0,3921.0,36.0,2.48,56.0,8.5,88.3,"['DGF', '33DDS']",j.eurpolymj.2019.109292_5_1
+1,2.0,DGF/44DDS,216.0,2510.0,25.0,1.39,50.2,13.8,86.9,"['DGF', '44DDS']",j.eurpolymj.2019.109292_5_1
+2,3.0,DGEBA/33DDS,178.0,1858.0,17.56,1.46,49.9,8.2,76.6,"['DGEBA', '33DDS']",j.eurpolymj.2019.109292_5_1
+3,4.0,DGEBA/44DDS,237.0,1932.0,16.02,1.18,44.6,10.3,80.5,"['DGEBA', '44DDS']",j.eurpolymj.2019.109292_5_1

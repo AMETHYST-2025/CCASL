@@ -1,0 +1,4 @@
+,Samples,TTI (s),THR (MJ/m²),PHRR (kW/m²),EHC (MJ/kg),Tp (s),FIGRA (kW/m²s),TSP (m²),Residue (wt%),Vectors,Ref
+0,EP,72.0,95.0,1010.0,25.0,141.0,7.17,89.0,6.9,['EP'],j.polymdegradstab.2019.07.004_5_1
+1,EP/7 wt%PNP,54.0,61.0,748.0,21.0,120.0,6.24,45.0,15.0,"['EP', '(0.07)PNP']",j.polymdegradstab.2019.07.004_5_1
+2,EP/7 wt%PNS,67.0,82.0,520.0,23.0,125.0,4.16,32.0,15.7,"['EP', '(0.07)PNS']",j.polymdegradstab.2019.07.004_5_1

@@ -1,0 +1,9 @@
+,Samples,The linear,burning rate,(mm/min),Classification,Vectors,Ref
+0,,1.0,2.0,3.0,,[''],j.polymdegradstab.2020.109292_8_0
+1,EP,17.4,18.7,16.5,HB,['EP'],j.polymdegradstab.2020.109292_8_0
+2,20APP,-,-,-,HB,['(20)APP'],j.polymdegradstab.2020.109292_8_0
+3,20LHP,-,-,-,HB,['(20)LHP'],j.polymdegradstab.2020.109292_8_0
+4,20HS,17.6,15.0,15.6,HB,['(20)HS'],j.polymdegradstab.2020.109292_8_0
+5,15HS/5LHP,-,-,-,HB,"['(15)HS', '(5)LHP']",j.polymdegradstab.2020.109292_8_0
+6,10HS/10LHP,-,-,-,HB,"['(10)HS', '(10)LHP']",j.polymdegradstab.2020.109292_8_0
+7,5HS/15LHP,-,-,-,HB,"['(5)HS', '(15)LHP']",j.polymdegradstab.2020.109292_8_0

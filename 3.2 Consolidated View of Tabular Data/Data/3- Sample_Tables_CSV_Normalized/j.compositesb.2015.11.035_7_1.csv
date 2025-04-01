@@ -1,0 +1,6 @@
+,Samples,Storage modulus (30°C) (MPa),Rubbery modulus (200°C) (MPa),Tg (°C),Vectors,Ref
+0,Epoxy,2367.0,17.0,171.0,['EP'],j.compositesb.2015.11.035_7_1
+1,1%-Graphenit-ox-Epoxy,2148.0,24.0,170.0,"['(0.01)Graphenit-ox', 'EP']",j.compositesb.2015.11.035_7_1
+2,3%-Graphenit-ox-Epoxy,2254.0,27.0,168.0,"['(0.03)Graphenit-ox', 'EP']",j.compositesb.2015.11.035_7_1
+3,1%-Graphenit-Cu-Epoxy,2280.0,25.0,176.0,"['(0.01)Graphenit-Cu', 'EP']",j.compositesb.2015.11.035_7_1
+4,3%-Graphenit-Cu-Epoxy,2223.0,28.0,176.0,"['(0.03)Graphenit-Cu', 'EP']",j.compositesb.2015.11.035_7_1

@@ -1,0 +1,8 @@
+,Samples,compartson KC (MPa m 1/2,compartson % Increase,compartson GIC (J/m²,compartson$$$$ % Increase,Vectors,compartson KC (MPa m 1/2_err,compartson GIC (J/m²_err,Ref
+0,Neat Epoxy,0.75,-,247.4,-,['EP'],0.04,29.87,j.compositesb.2021.109177_6_0
+1,0.1-CNT-Epoxy,1.14,52.0,502.92,103.0,"['(0.1)CNT', 'EP']",0.02,16.27,j.compositesb.2021.109177_6_0
+2,0.1-GNP-Epoxy,1.1,46.0,469.18,89.0,"['(0.1)GNP', 'EP']",0.05,39.69,j.compositesb.2021.109177_6_0
+3,0.1-CNT/GNP-Epoxy,1.06,41.0,440.53,78.0,"['(0.1)CNT/GNP', 'EP']",0.07,49.1,j.compositesb.2021.109177_6_0
+4,0.5-CNT-Epoxy,1.64,118.0,1017.6,311.0,"['(0.5)CNT', 'EP']",0.059,65.57,j.compositesb.2021.109177_6_0
+5,0.5-GNP-Epoxy,1.58,110.0,923.0,273.0,"['(0.5)GNP', 'EP']",0.05,43.69,j.compositesb.2021.109177_6_0
+6,0.5-CNT/GNP-Epoxy,1.55,106.0,927.14,275.0,"['(0.5)CNT/GNP', 'EP']",0.043,36.64,j.compositesb.2021.109177_6_0

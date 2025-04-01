@@ -1,0 +1,8 @@
+,Samples,Peak load (N),Increase (%),Fracture displacement (mm),Increase.1 (%),Vectors,Peak load (N)_err,Fracture displacement (mm)_err,Ref
+0,Neat Epoxy,86.74,-,0.19,-,['EP'],5.04,0.01,j.compositesb.2021.109177_5_0
+1,0.1-CNT-Epoxy,132.09,53.0,0.26,36.0,"['(0.1)CNT', 'EP']",2.86,0.003,j.compositesb.2021.109177_5_0
+2,0.1-GNP-Epoxy,126.99,46.0,0.25,32.0,"['(0.1)GNP', 'EP']",6.01,0.01,j.compositesb.2021.109177_5_0
+3,0.1-CNT/GNP-Epoxy,122.84,41.0,0.24,26.0,"['(0.1)CNT/GNP', 'EP']",8.32,0.01,j.compositesb.2021.109177_5_0
+4,0.5-CNT-Epoxy,190.49,120.0,0.36,89.0,"['(0.5)CNT', 'EP']",6.94,0.01,j.compositesb.2021.109177_5_0
+5,0.5-GNP-Epoxy,182.7,111.0,0.34,78.0,"['(0.5)GNP', 'EP']",5.91,0.01,j.compositesb.2021.109177_5_0
+6,0.5-CNT/GNP-Epoxy,179.4,108.0,0.35,84.0,"['(0.5)CNT/GNP', 'EP']",4.97,0.01,j.compositesb.2021.109177_5_0

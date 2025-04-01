@@ -1,0 +1,8 @@
+,Samples,PHRR (W/g),THR (kJ g-1),Tp (°C),Vectors,Ref
+0,EP,727.3,36.4,396.6,['EP'],j.polymdegradstab.2019.07.004_5_0
+1,EP/3 wt%PNP,601.7,33.6,390.5,"['EP', '(0.03)PNP']",j.polymdegradstab.2019.07.004_5_0
+2,EP/5 wt%PNP,538.4,33.5,387.0,"['EP', '(0.05)PNP']",j.polymdegradstab.2019.07.004_5_0
+3,EP/7 wt%PNP,531.0,33.5,388.3,"['EP', '(0.07)PNP']",j.polymdegradstab.2019.07.004_5_0
+4,EP/3 wt%PNS,393.4,29.5,385.7,"['EP', '(0.03)PNS']",j.polymdegradstab.2019.07.004_5_0
+5,EP/5 wt%PNS,353.2,29.4,379.6,"['EP', '(0.05)PNS']",j.polymdegradstab.2019.07.004_5_0
+6,EP/7 wt%PNS,317.0,28.8,374.1,"['EP', '(0.07)PNS']",j.polymdegradstab.2019.07.004_5_0

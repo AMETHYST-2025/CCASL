@@ -1,0 +1,4 @@
+,Samples,,Toughness (MJ/m³),E' at 50 °C (GPa) b,Vectors,Toughness (MJ/m³)_err,E' at 50 °C (GPa) b_err,Ref
+0,Pure epoxy resin,,39.3,3.66,['EP'],9.5,0.16,j.polymdegradstab.2020.109213_6_0
+1,MHHPA/BADGE,1.0,58.3,4.43,"['MHHPA', 'BADGE']",3.0,0.5,j.polymdegradstab.2020.109213_6_0
+2,.1,0.9,69.7,4.36,['(.1)'],7.6,0.36,j.polymdegradstab.2020.109213_6_0

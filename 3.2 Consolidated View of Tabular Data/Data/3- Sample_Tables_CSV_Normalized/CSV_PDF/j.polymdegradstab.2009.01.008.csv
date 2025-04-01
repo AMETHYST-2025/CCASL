@@ -1,0 +1,9 @@
+,Samples,Curing temperature (°C),Curing time (min),Postcuring temperature (°C),Postcuril time (m),Tg (°C),Temperature characteristic weight 3 wt%,at loss (C) 10 wt%,Temperature at rapid weight loss (C),Char yield at 600 °C (wt%),UL94 rating  Horizontal burning test,UL94 rating  Vertical burning test,Dripping,LOI (%),P% (wt%),N% (wt%,Vectors,Ref
+0,DGEBA/DDM,,,,,132.7,281.6,385.4,395.5,9.4,,,,,,,"['DGEBA', 'DDM']",j.polymdegradstab.2009.01.008
+1,DGEBA/DICY,,,,,129.6,325.1,362.4,402.5,7.6,,,,,,,"['DGEBA', 'DICY']",j.polymdegradstab.2009.01.008
+2,DGEBA/PMDA,,,,,131.5,259.4,352.6,385.6,8.1,,,,,,,"['DGEBA', 'PMDA']",j.polymdegradstab.2009.01.008
+3,DGEBA/novolak,,,,,135.4,362.1,390.5,401.7,8.7,,,,,,,"['DGEBA', 'novolak']",j.polymdegradstab.2009.01.008
+4,PN-EP/DDM,120.0,60.0,150.0,180.0,137.5,270.7,373.8,396.9,23.5,HB,1.0,,28.5,2.4,3.47,"['PN-EP', 'DDM']",j.polymdegradstab.2009.01.008
+5,PN-EP/DICY,160.0,30.0,190.0,60.0,133.8,322.4,365.8,408.8,42.4,HB,0.0,,31.2,2.52,3.64,"['PN-EP', 'DICY']",j.polymdegradstab.2009.01.008
+6,PN-EP/PMDA,180.0,60.0,200.0,180.0,138.2,238.2,340.8,387.3,54.6,HB,0.0,,32.9,2.38,1.07,"['PN-EP', 'PMDA']",j.polymdegradstab.2009.01.008
+7,PN-EP/novolak,140.0,60.0,170.0,180.0,144.6,378.6,400.1,409.4,56.2,HB,0.0,,33.5,2.18,0.98,"['PN-EP', 'novolak']",j.polymdegradstab.2009.01.008

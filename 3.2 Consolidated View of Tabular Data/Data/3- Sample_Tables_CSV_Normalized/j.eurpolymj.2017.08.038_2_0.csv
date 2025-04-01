@@ -1,0 +1,15 @@
+,Samples,Filler amount,Thickness,EMI SE (dB),Frequency,Ref.,Vectors,Ref
+0,TPU/rGO,20 wt%,50.0,20.0,X band,39.0,"['TPU', 'rGO']",j.eurpolymj.2017.08.038_2_0
+1,TPU/EG,20 wt%,4.0,16.0,X band,54.0,"['TPU', 'EG']",j.eurpolymj.2017.08.038_2_0
+2,TPU/G/CNT,10 wt%,3.0,30.0,Ku band,37.0,"['TPU', 'G', 'CNT']",j.eurpolymj.2017.08.038_2_0
+3,Epoxy/rGO,15 wt%,2.0,21.0,X band,11.0,"['EP', 'rGO']",j.eurpolymj.2017.08.038_2_0
+4,SiO/rGO,20 wt%,1.5,36.0,X band,55.0,"['SiO', 'rGO']",j.eurpolymj.2017.08.038_2_0
+5,UHMWPE/TRGO,0.660 vol%,2.5,28.3,X band,56.0,"['UHMWPE', 'TRGO']",j.eurpolymj.2017.08.038_2_0
+6,PS/rGO,3.47 vol%,2.5,45.1,X band,57.0,"['PS', 'rGO']",j.eurpolymj.2017.08.038_2_0
+7,PS/FGN (foam),30 wt%,2.5,29.0,X band,58.0,"['PS', 'FGN(foam)']",j.eurpolymj.2017.08.038_2_0
+8,PEI/rGO,10 wt%,2.3,20.0,X band,59.0,"['PEI', 'rGO']",j.eurpolymj.2017.08.038_2_0
+9,PMMA/rGO,8 wt%,3.4,30.0,X band,60.0,"['PMMA', 'rGO']",j.eurpolymj.2017.08.038_2_0
+10,Phenolic/rGO,70 wt%,0.2,43.42,X band,61.0,"['Phenolic', 'rGO']",j.eurpolymj.2017.08.038_2_0
+11,PS/TRGO (foam),10 wt%,2.8,18.0,X band,62.0,"['PS', 'TRGO(foam)']",j.eurpolymj.2017.08.038_2_0
+12,PS/rGO/MWCNT,1.5 wt% rGO + 2 wt% MWCNT,5.6,20.2,X band,63.0,"['PS', 'rGO', 'MWCNT']",j.eurpolymj.2017.08.038_2_0
+13,PMMA (foam)/rGO,1.8 vol%,2.4,13.0,X band,64.0,"['PMMA(foam)', 'rGO']",j.eurpolymj.2017.08.038_2_0

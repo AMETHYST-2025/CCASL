@@ -1,0 +1,14 @@
+,Samples,T5% (°C),Tmax (°C),Char yields at 800 C (%),Vectors,Ref
+0,EG,333.0,-,89.0,['EG'],j.polymdegradstab.2016.03.017_3_0
+1,EP/DDS,379.0,415.0,16.0,"['EP', 'DDS']",j.polymdegradstab.2016.03.017_3_0
+2,EP/EG,344.0,412.0,31.0,"['EP', 'EG']",j.polymdegradstab.2016.03.017_3_0
+3,EP/DOPO,342.0,368.0,27.0,"['EP', 'DOPO']",j.polymdegradstab.2016.03.017_3_0
+4,EP/HPCP,344.0,372.0,30.0,"['EP', 'HPCP']",j.polymdegradstab.2016.03.017_3_0
+5,EP/EG/DOPO-1,322.0,398.0,32.3,"['EP', 'EG', 'DOPO-1']",j.polymdegradstab.2016.03.017_3_0
+6,EP/EG/DOPO-2,326.0,394.0,31.7,"['EP', 'EG', 'DOPO-2']",j.polymdegradstab.2016.03.017_3_0
+7,EP/EG/DOPO-3,327.0,389.0,28.4,"['EP', 'EG', 'DOPO-3']",j.polymdegradstab.2016.03.017_3_0
+8,EP/EG/DOPO-4,326.0,383.0,29.1,"['EP', 'EG', 'DOPO-4']",j.polymdegradstab.2016.03.017_3_0
+9,EP/EG/HPCP-1,320.0,389.0,32.0,"['EP', 'EG', 'HPCP-1']",j.polymdegradstab.2016.03.017_3_0
+10,EP/EG/HPCP-2,318.0,380.0,31.3,"['EP', 'EG', 'HPCP-2']",j.polymdegradstab.2016.03.017_3_0
+11,EP/EG/HPCP-3,321.0,370.0,32.5,"['EP', 'EG', 'HPCP-3']",j.polymdegradstab.2016.03.017_3_0
+12,EP/EG/HPCP-4,316.0,364.0,31.0,"['EP', 'EG', 'HPCP-4']",j.polymdegradstab.2016.03.017_3_0

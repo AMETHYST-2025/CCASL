@@ -1,0 +1,4 @@
+,Samples,TTI (s),PHRR (kW/m²),TT-PHRR (s),Av-HRR (kW/m²),THR (MJ/m²),Mass loss (%),TSP (m²),Vectors,Ref
+0,EP,64.0,939.0,265.0,261.0,179.0,95.6,58.1,['EP'],j.polymdegradstab.2009.01.006_6_0
+1,EP-APP,61.0,283.0,325.0,134.0,111.0,63.5,25.6,"['EP', 'APP']",j.polymdegradstab.2009.01.006_6_0
+2,EP-APP- CoSA3,65.0,310.0,355.0,126.0,95.0,52.1,23.4,"['EP', 'APP', 'CoSA3']",j.polymdegradstab.2009.01.006_6_0

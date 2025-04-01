@@ -1,0 +1,5 @@
+,Samples,Disbonding radius repeat 1 (mm),Disbonding radius repeat 2 (mm),Disbonding radius repeat 3 (mm),Average (mm),Vectors,Ref
+0,Blank/EP,9.5,11.5,11.5,10.8,['Blank/EP'],j.cej.2021.128637_21_0
+1,O-MWCNT/ EP,10.0,10.0,11.5,10.5,"['O', 'MWCNT/EP']",j.cej.2021.128637_21_0
+2,O-MWCNT- PANI/EP,6.0,6.5,7.5,6.6,"['O', 'MWCNT', 'PANI/EP']",j.cej.2021.128637_21_0
+3,O-MWCNT- PANI-Zn/ EP,4.5,5.0,4.0,4.5,"['O', 'MWCNT', 'PANI', 'Zn/EP']",j.cej.2021.128637_21_0

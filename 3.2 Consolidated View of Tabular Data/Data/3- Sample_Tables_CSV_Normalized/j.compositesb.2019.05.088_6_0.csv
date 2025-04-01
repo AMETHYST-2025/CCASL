@@ -1,0 +1,8 @@
+,Samples,K (MPa.m ²/²,GIC (kJ/m²),Young's modulus (),Tensile strength (MPa),Elongation at break (%),Vectors,K (MPa.m ²/²_err,GIC (kJ/m²)_err,Young's modulus ()_err,Tensile strength (MPa)_err,Elongation at break (%)_err,Ref
+0,Neat Epoxy,0.7,0.246,1.0,59.82,0.08,['EP'],0.06,0.041,0.01,1.63,0.005,j.compositesb.2019.05.088_6_0
+1,CNF-S.E.A.,1.22,0.708,1.07,58.2,0.057,"['CNF', 'S.E.A']",0.16,0.046,0.2,2.82,0.0028,j.compositesb.2019.05.088_6_0
+2,0.5 CNF-S.E.A.,1.53,1.145,1.09,51.89,0.05,"['(0.5)CNF', 'S.E.A']",0.02,0.05,0.03,3.72,0.0057,j.compositesb.2019.05.088_6_0
+3,1 CNF-S.E.A.,1.54,1.103,1.04,60.34,0.0718,"['(1)CNF', 'S.E.A']",0.11,0.121,0.02,1.5,0.0103,j.compositesb.2019.05.088_6_0
+4,0.1 CNF-S.A.,1.06,0.512,1.17,60.34,0.06,"['(0.1)CNF', 'S.A']",0.16,0.158,0.04,1.5,0.005,j.compositesb.2019.05.088_6_0
+5,0.5 CNF-S.A.,1.18,0.92,1.19,61.98,0.057,"['(0.5)CNF', 'S.A']",0.09,0.04,0.03,2.76,0.005,j.compositesb.2019.05.088_6_0
+6,1 CNF-S.A.,1.32,0.772,1.13,68.59,0.079,"['(1)CNF', 'S.A']",0.15,0.136,0.03,0.59,0.005,j.compositesb.2019.05.088_6_0

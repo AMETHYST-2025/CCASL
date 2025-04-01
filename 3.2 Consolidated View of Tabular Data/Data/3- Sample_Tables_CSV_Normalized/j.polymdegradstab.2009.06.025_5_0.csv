@@ -1,0 +1,5 @@
+,Samples,Tignition (s),HRRmax (KW/m²),Improvement (%),Vectors,Tignition (s)_err,HRRmax (KW/m²)_err,Ref
+0,Neat epoxy,132.0,1040.0,/,['EP'],16.0,74.0,j.polymdegradstab.2009.06.025_5_0
+1,+ 3.7 wt% pre-reacted Gly-Ph POSS,153.0,622.0,40.0,"['(0.037)pre', 'reactedGly', 'PhPOSS']",6.0,20.0,j.polymdegradstab.2009.06.025_5_0
+2,+ 3.7 wt% pre-reacted Gly-iBu POSS,129.0,782.0,25.0,"['(0.037)pre', 'reactedGly', 'iBuPOSS']",12.0,25.0,j.polymdegradstab.2009.06.025_5_0
+3,+ 3.7 wt% OctaPh POSS,140.0,689.0,34.0,['(0.037)OctaPhPOSS'],17.0,43.0,j.polymdegradstab.2009.06.025_5_0

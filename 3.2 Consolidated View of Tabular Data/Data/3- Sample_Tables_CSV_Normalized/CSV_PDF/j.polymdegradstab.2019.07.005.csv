@@ -1,0 +1,7 @@
+,Samples,.1,DGEBA/15%PA-AEP,DGEBA/20%PA-AEP,T5% (°C),Tmax (°C),Rate at Tmax (%/min),Residue (800 °C) (wt%),TTI (s),Tp (s),PHRR (kW/m²),FIGRA (kW/m²s),THR (MJ/m²),PSPR (m²/s),TSP (m²),Char residue (wt%),TTI (s)_err,Tp (s)_err,PHRR (kW/m²)_err,THR (MJ/m²)_err,PSPR (m²/s)_err,TSP (m²)_err,Char residue (wt%)_err,Vectors,Ref
+0,EP/15% PA-AEP,,,,324.8,382.0,26.5,18.4,,,,,,,,,,,,,,,,"['EP', '(0.15)PA-AEP']",j.polymdegradstab.2019.07.005
+1,EP/20% AEP,,,,326.2,364.5,23.2,5.9,50.0,105.0,1274.0,12.1,93.2,0.53,68.2,2.8,1.0,3.0,60.0,2.0,0.02,2.5,0.2,"['EP', '(0.2)AEP']",j.polymdegradstab.2019.07.005
+2,EP/20% PA-AEP,,,,304.5,375.0,17.2,20.6,82.0,95.0,708.0,7.5,41.9,0.27,13.1,35.2,2.0,2.0,36.0,1.0,0.01,0.5,1.0,"['EP', '(0.2)PA-AEP']",j.polymdegradstab.2019.07.005
+3,Flynn-Wall-Ozawa eq,E,89.73,110.68,,,,,,,,,,,,,,,,,,,,"['Flynn', 'Wall', 'Ozawaeq']",j.polymdegradstab.2019.07.005
+4,Kissinger and Crane eqe,E,88.05,108.75,,,,,,,,,,,,,,,,,,,,['KissingerandCraneeqe'],j.polymdegradstab.2019.07.005
+5,PA-AEP,,,,222.3,227.3,11.2,25.6,,,,,,,,,,,,,,,,['PA-AEP'],j.polymdegradstab.2019.07.005

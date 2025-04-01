@@ -1,0 +1,6 @@
+,Samples,Tonset (°C),Tmax1 (°C),Tmax2 (°C),Residues (800 °C) (%),Vectors,Ref
+0,DGEBA/PA650,319.0,372.0,426.0,2.6,"['DGEBA', 'PA650']",j.polymdegradstab.2012.05.020_5_1
+1,DGEBA/PA650/2.5 wt.% DOPO-POSS,316.0,372.0,421.0,4.3,"['DGEBA', 'PA650', '(0.025)DOPO-POSS']",j.polymdegradstab.2012.05.020_5_1
+2,DGEBA/PA650/5 wt.% DOPO-POSS,316.0,364.0,425.0,6.6,"['DGEBA', 'PA650', '(0.05)DOPO-POSS']",j.polymdegradstab.2012.05.020_5_1
+3,DGEBA/PA650/10 wt.% DOPO-POSS,313.0,369.0,426.0,8.4,"['DGEBA', 'PA650', '(0.1)DOPO-POSS']",j.polymdegradstab.2012.05.020_5_1
+4,DOPO-POSS,334.0,479.0,/,40.6,['DOPO-POSS'],j.polymdegradstab.2012.05.020_5_1

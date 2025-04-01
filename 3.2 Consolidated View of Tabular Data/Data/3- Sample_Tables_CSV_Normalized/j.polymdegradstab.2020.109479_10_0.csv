@@ -1,0 +1,5 @@
+,Samples,Elongation at break (%),Impact strength (KJ/m²),Tensile strength (MPa),Vectors,Elongation at break (%)_err,Ref
+0,EP,4.715,7.1,41.325,['EP'],0.112,j.polymdegradstab.2020.109479_10_0
+1,EP/APP,4.012,6.23,33.895,"['EP', 'APP']",0.102,j.polymdegradstab.2020.109479_10_0
+2,EP/HPCA,6.015,9.94,38.462,"['EP', 'HPCA']",0.085,j.polymdegradstab.2020.109479_10_0
+3,EP/APP/HPCA,5.323,8.56,37.1234,"['EP', 'APP', 'HPCA']",0.109,j.polymdegradstab.2020.109479_10_0

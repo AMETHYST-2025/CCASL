@@ -1,0 +1,6 @@
+,Samples,Tensile strength (MPa),Flexural strength (MPa),Impact strength (KJ/m²),Vectors,Impact strength (KJ/m²)_err,Ref
+0,PEI-EP,52.6,89.8,7.5,"['PEI', 'EP']",0.4,j.cej.2018.03.142_20_0
+1,DPPEI(20)-EP,48.4,70.3,6.1,"['DPPEI(20)', 'EP']",0.2,j.cej.2018.03.142_20_0
+2,DPPEI(25)-EP,51.4,82.3,6.9,"['DPPEI(25)', 'EP']",0.3,j.cej.2018.03.142_20_0
+3,DPPEI(30)-EP,51.5,88.9,7.4,"['DPPEI(30)', 'EP']",0.5,j.cej.2018.03.142_20_0
+4,DPPEI(35)-EP,53.4,84.6,7.0,"['DPPEI(35)', 'EP']",0.7,j.cej.2018.03.142_20_0

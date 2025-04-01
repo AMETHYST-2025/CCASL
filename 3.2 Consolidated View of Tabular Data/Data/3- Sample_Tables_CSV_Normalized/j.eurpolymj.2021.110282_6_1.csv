@@ -1,0 +1,4 @@
+,Samples,Td5%,Td15%,Td30%,Ts,Char yield (%),IPDT,LOI (%),Vectors,Ref
+0,REEP/ HDDM,319.9,334.86,347.83,165.0,12.4,553.8,24.3,"['REEP', 'HDDM']",j.eurpolymj.2021.110282_6_1
+1,REEP/ DGEBA/ HDDM,335.1,347.7,358.44,171.1,9.4,508.1,22.8,"['REEP', 'DGEBA', 'HDDM']",j.eurpolymj.2021.110282_6_1
+2,DGEBA/ HDDM,348.1,359.35,369.04,176.7,4.2,438.5,21.0,"['DGEBA', 'HDDM']",j.eurpolymj.2021.110282_6_1

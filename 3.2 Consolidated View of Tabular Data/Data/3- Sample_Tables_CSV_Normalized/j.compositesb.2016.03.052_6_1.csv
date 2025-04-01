@@ -1,0 +1,7 @@
+,Samples,PDT (°C),IPDT (°C),Et (kJ/mol),Char yield (800 °C) (%),Vectors,Ref
+0,DGEBA,359.8,391.0,59.2,11.2,['DGEBA'],j.compositesb.2016.03.052_6_1
+1,DGEBA/EG1,360.3,396.6,65.6,16.2,"['DGEBA', 'EG(1)']",j.compositesb.2016.03.052_6_1
+2,DGEBA/EG0.75/GO0.25,370.2,400.7,72.5,16.4,"['DGEBA', 'EG(0.75)', 'GO(0.25)']",j.compositesb.2016.03.052_6_1
+3,DGEBA/EGo.s/GO0.5,371.1,406.0,79.2,17.0,"['DGEBA', 'EGo.s', 'GO(0.5)']",j.compositesb.2016.03.052_6_1
+4,DGEBA/EGo.25/GO0.75,355.4,393.2,64.8,12.5,"['DGEBA', 'EGo(.25)', 'GO(0.75)']",j.compositesb.2016.03.052_6_1
+5,DGEBA/GO1,358.5,391.9,61.0,12.4,"['DGEBA', 'GO1']",j.compositesb.2016.03.052_6_1

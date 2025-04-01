@@ -1,0 +1,8 @@
+,Samples,T5% (°C),Tmax (°C),Char yield at 800 °C (%) Measured value,Char yield at 800 °C (%) Calculated value,Vectors,Ref
+0,DIB,190.0,483.0,34.1,-,['DIB'],j.polymdegradstab.2018.11.021_5_0
+1,EP/DDS,383.0,408.0,17.3,-,"['EP', 'DDS']",j.polymdegradstab.2018.11.021_5_0
+2,EP/DDS/DOPO,343.0,396.0,19.6,-,"['EP', 'DDS', 'DOPO']",j.polymdegradstab.2018.11.021_5_0
+3,EP/DDS/DIB-0.25,368.0,402.0,20.9,17.8,"['EP', 'DDS', 'DIB(0.25)']",j.polymdegradstab.2018.11.021_5_0
+4,EP/DDS/DIB-0.5,358.0,394.0,22.5,18.2,"['EP', 'DDS', 'DIB(0.5)']",j.polymdegradstab.2018.11.021_5_0
+5,EP/DDS/DIB-0.75,347.0,388.0,24.0,18.7,"['EP', 'DDS', 'DIB(0.75)']",j.polymdegradstab.2018.11.021_5_0
+6,EP/DDS/DIB-1.0,344.0,385.0,24.5,19.2,"['EP', 'DDS', 'DIB(1.0)']",j.polymdegradstab.2018.11.021_5_0

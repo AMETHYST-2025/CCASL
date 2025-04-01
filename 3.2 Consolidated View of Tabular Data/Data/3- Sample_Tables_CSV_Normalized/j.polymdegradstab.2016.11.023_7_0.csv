@@ -1,0 +1,7 @@
+,Samples,Tonset (°C),Tmax (°C),a-max a (%/°C),Residue (700 °C) (wt%),,Vectors,Ref
+0,,,,,Experimental values (R(exp)),Calculated values (R(cal))b,[''],j.polymdegradstab.2016.11.023_7_0
+1,BPS-BPP,276.2,305.9,0.19,57.1,/,['BPS-BPP'],j.polymdegradstab.2016.11.023_7_0
+2,EP,386.1,400.8,2.23,16.6,/,['EP'],j.polymdegradstab.2016.11.023_7_0
+3,EP/3%BPS-BPP,331.3,372.5,1.29,22.5,17.8,"['EP', '(0.03)BPS-BPP']",j.polymdegradstab.2016.11.023_7_0
+4,EP/6%BPS-BPP,330.0,365.9,1.33,24.6,19.0,"['EP', '(0.06)BPS-BPP']",j.polymdegradstab.2016.11.023_7_0
+5,EP/9%BPS-BPP,327.5,363.0,1.34,26.1,20.2,"['EP', '(0.09)BPS-BPP']",j.polymdegradstab.2016.11.023_7_0

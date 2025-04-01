@@ -1,0 +1,6 @@
+,Samples,Tg (°C),E (50 °C) (MPa),E' (Tg + 40°C) (MPa),Ve (mol/m³),Vectors,Ref
+0,EP,164.0,2273.0,49.5,4159.0,['EP'],j.polymdegradstab.2021.109548_10_0
+1,EP/VFD-5,155.0,2486.0,45.4,3888.0,"['EP', 'VFD(5)']",j.polymdegradstab.2021.109548_10_0
+2,EP/VFD-7.5,150.0,2668.0,36.8,3185.0,"['EP', 'VFD(7.5)']",j.polymdegradstab.2021.109548_10_0
+3,EP/VFD-10,149.0,2510.0,36.9,3201.0,"['EP', 'VFD(10)']",j.polymdegradstab.2021.109548_10_0
+4,EP/VFD-12.5,146.0,2407.0,31.2,2724.0,"['EP', 'VFD(12.5)']",j.polymdegradstab.2021.109548_10_0

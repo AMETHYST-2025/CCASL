@@ -1,0 +1,4 @@
+,Samples,Eox [V],ESI [eV],ΔGet(S1) (eV),Kgv (M-1),Det(S1),ETI [eV],ΔGet(T1) (eV),Vectors,Ref
+0,ZnTPP/Iod,0.78,2.11,1.13,59.3,0.6,1.59,0.61,"['ZnTPP', 'Iod']",acs.macromol.6b02596_6_0
+1,ZnTPP/th,0.78,2.11,0.12,n.q.b b,0.1,1.59,0.39,"['ZnTPP', 'th']",acs.macromol.6b02596_6_0
+2,H2TPMP/Iod,1.05,1.99,0.65,,,,,"['H2TPMP', 'Iod']",acs.macromol.6b02596_6_0

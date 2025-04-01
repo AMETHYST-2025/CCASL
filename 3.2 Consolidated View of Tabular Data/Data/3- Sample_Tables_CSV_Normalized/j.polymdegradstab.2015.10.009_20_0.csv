@@ -1,0 +1,5 @@
+,Samples,I (s)a,IRR (kW/m²),eraged HRR (kW/m²),Vectors,Ref
+0,DGEBA-PA,63.0,694.0,77.0,"['DGEBA', 'PA']",j.polymdegradstab.2015.10.009_20_0
+1,DGEBA-PEPA,62.0,857.0,61.0,"['DGEBA', 'PEPA']",j.polymdegradstab.2015.10.009_20_0
+2,Azo-EP-PA,39.0,344.0,58.0,"['Azo', 'EP', 'PA']",j.polymdegradstab.2015.10.009_20_0
+3,Azo-EP-PEPA,45.0,289.0,42.0,"['Azo', 'EP', 'PEPA']",j.polymdegradstab.2015.10.009_20_0

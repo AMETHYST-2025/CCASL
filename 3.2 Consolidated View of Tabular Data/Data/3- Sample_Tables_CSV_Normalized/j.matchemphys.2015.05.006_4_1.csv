@@ -1,0 +1,4 @@
+,Samples,TB (°C),Intensity (MPa),Width (°C),Area (MPa.min) d,Vectors,Ref
+0,DGEBA-MHHPA,34.6,130.0,93.0,622.1,"['DGEBA', 'MHHPA']",j.matchemphys.2015.05.006_4_1
+1,DGEBA-PMSE-0.2,35.6,116.9,116.5,540.0,"['DGEBA', 'PMSE(0.2)']",j.matchemphys.2015.05.006_4_1
+2,DGEBA-PMSE-0.4,38.3,117.3,92.2,119.3,"['DGEBA', 'PMSE(0.4)']",j.matchemphys.2015.05.006_4_1

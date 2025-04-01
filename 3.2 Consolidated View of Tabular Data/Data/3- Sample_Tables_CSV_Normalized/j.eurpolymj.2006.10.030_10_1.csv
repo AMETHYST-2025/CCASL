@@ -1,0 +1,5 @@
+,Samples,Pv (S2 cm),Ps (S2),Er (1 MHz),tan S,Water absorption I (%),Water absorption II (%),Vectors,Ref
+0,BGTF/HMPA,3.6,2.2,3.3,2.8,0.38,0.85,"['BGTF', 'HMPA']",j.eurpolymj.2006.10.030_10_1
+1,BGTF/DDM,1.2,2.8,3.2,2.1,0.4,0.9,"['BGTF', 'DDM']",j.eurpolymj.2006.10.030_10_1
+2,BADGE/HMPA,1.9,4.9,3.5,7.3,0.49,0.92,"['BADGE', 'HMPA']",j.eurpolymj.2006.10.030_10_1
+3,BADGE/DDM,2.7,4.5,3.6,6.9,0.41,0.98,"['BADGE', 'DDM']",j.eurpolymj.2006.10.030_10_1

@@ -1,0 +1,5 @@
+,Samples,EP control,EP-1,EP-2,EP-3,Vectors,Ref
+0,DGEBA (g),100.0,100.0,100.0,100.0,['DGEBA(g)'],j.polymdegradstab.2011.07.014_2_0
+1,m-Phenylenediamine (g),12.0,12.0,12.0,12.0,['m-Phenylenediamine(g)'],j.polymdegradstab.2011.07.014_2_0
+2,DOPO-POSS (g),0.0,5.89,12.44,28.0,"['DOPO', 'POSS(g)']",j.polymdegradstab.2011.07.014_2_0
+3,DOPO-POSS (wt%),0.0,5.0,10.0,20.0,"['DOPO', 'POSS(wt%)']",j.polymdegradstab.2011.07.014_2_0

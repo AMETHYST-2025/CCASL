@@ -1,0 +1,5 @@
+,Samples,T d at 95wt%,Td onset,Td max,Tdfinal,R wt% at 600°C,Vectors,Ref
+0,UPR,188.0,275.0,325.0,400.0,1.8,['UPR'],j.polymdegradstab.2020.109377_14_0
+1,UPR/30ATH,204.0,255.0,340.0,405.0,30.5,"['UPR', '(30)ATH']",j.polymdegradstab.2020.109377_14_0
+2,UPR/30SA,190.0,278.0,340.0,415.0,6.8,"['UPR', '(30)SA']",j.polymdegradstab.2020.109377_14_0
+3,UPR/15ATH15SA,215.0,305.0,355.0,430.0,18.1,"['UPR', '15ATH15SA']",j.polymdegradstab.2020.109377_14_0

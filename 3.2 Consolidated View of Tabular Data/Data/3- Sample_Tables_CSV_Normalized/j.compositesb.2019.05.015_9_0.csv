@@ -1,0 +1,4 @@
+,Samples,Crosslink Before (m³),density (mol/After),Tg(°C)) Before,Tg(°C)) After,Peak Before,width After (°C),Vectors,Ref
+0,Neat Epoxy,2061.74,1450.41,74.1,77.4,20.0,21.0,['EP'],j.compositesb.2019.05.015_9_0
+1,GO/Epoxy,1164.07,1242.69,75.5,76.4,14.0,20.0,"['GO', 'EP']",j.compositesb.2019.05.015_9_0
+2,GO-PANI/Epoxy,1015.75,1063.69,70.5,78.9,12.0,14.0,"['GO-PANI', 'EP']",j.compositesb.2019.05.015_9_0

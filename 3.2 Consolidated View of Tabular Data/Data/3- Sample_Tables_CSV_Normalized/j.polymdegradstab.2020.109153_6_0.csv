@@ -1,0 +1,7 @@
+,Samples,E(kj.mol-1),Preexponential factor (s⁻¹),Correlation coefficient,Standard deviation,Vectors,Ref
+0,PVC,108.0,5.0,0.9965,0.0242,['PVC'],j.polymdegradstab.2020.109153_6_0
+1,PVC/CNTsb,97.0,3.6,0.9956,0.0242,"['PVC', 'CNTsb']",j.polymdegradstab.2020.109153_6_0
+2,PVC/LDH,118.0,4.3,0.9986,0.0165,"['PVC', 'LDH']",j.polymdegradstab.2020.109153_6_0
+3,PVC/LDH/CNTs,188.0,3.5,0.9944,0.0665,"['PVC', 'LDH', 'CNTs']",j.polymdegradstab.2020.109153_6_0
+4,PVC/(LDH + CNTs)b,102.0,8.7,0.9904,0.0599,"['PVC', '(LDH+CNTs)b']",j.polymdegradstab.2020.109153_6_0
+5,PVC/LDH/CNTs,218.0,1.8,0.9926,0.0425,"['PVC', 'LDH', 'CNTs']",j.polymdegradstab.2020.109153_6_0

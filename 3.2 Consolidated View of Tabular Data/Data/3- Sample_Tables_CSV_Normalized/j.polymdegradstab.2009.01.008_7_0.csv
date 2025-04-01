@@ -1,0 +1,5 @@
+,Samples,UL94 rating  Horizontal burning test,UL94 rating  Vertical burning test,Dripping,LOI (%),P% (wt%),N% (wt%,Vectors,Ref
+0,PN-EP/DDM,HB,1.0,None,28.5,2.4,3.47,"['PN-EP', 'DDM']",j.polymdegradstab.2009.01.008_7_0
+1,PN-EP/DICY,HB,0.0,None,31.2,2.52,3.64,"['PN-EP', 'DICY']",j.polymdegradstab.2009.01.008_7_0
+2,PN-EP/novolak,HB,0.0,None,33.5,2.18,0.98,"['PN-EP', 'novolak']",j.polymdegradstab.2009.01.008_7_0
+3,PN-EP/PMDA,HB,0.0,None,32.9,2.38,1.07,"['PN-EP', 'PMDA']",j.polymdegradstab.2009.01.008_7_0

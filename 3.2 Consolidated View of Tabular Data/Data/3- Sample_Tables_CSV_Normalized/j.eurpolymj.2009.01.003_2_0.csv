@@ -1,0 +1,8 @@
+,Samples,UPOE,VPOP,UPDGEBA,UD2O,Vectors,Ref
+0,EP115 + D20 (fully swollen),0.13,0.099,0.358,0.413,"['EP(115)', 'D(20)(fullyswollen)']",j.eurpolymj.2009.01.003_2_0
+1,EP115 + D20 (part. swollen),0.148,0.113,0.407,0.332,"['EP(115)', 'D(20)(part.swollen)']",j.eurpolymj.2009.01.003_2_0
+2,EP115 + D20 (part. swollen),0.179,0.137,0.493,0.191,"['EP(115)', 'D(20)(part.swollen)']",j.eurpolymj.2009.01.003_2_0
+3,EP115 + 0.01 M KNO,0.153,0.117,0.421,0.309,"['EP(115)', '(0.01)MKNO']",j.eurpolymj.2009.01.003_2_0
+4,EP115 + 0.02 M KNO,0.152,0.116,0.418,0.314,"['EP(115)', '(0.02)MKNO']",j.eurpolymj.2009.01.003_2_0
+5,EP115 + 0.05 M KNO,0.154,0.118,0.426,0.302,"['EP(115)', '(0.05)MKNO']",j.eurpolymj.2009.01.003_2_0
+6,EP115 + 0.10 M KNO,0.149,0.114,0.411,0.326,"['EP(115)', '(0.10)MKNO']",j.eurpolymj.2009.01.003_2_0

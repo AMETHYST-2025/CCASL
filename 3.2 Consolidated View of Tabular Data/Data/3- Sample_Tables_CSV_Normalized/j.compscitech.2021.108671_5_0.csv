@@ -1,0 +1,6 @@
+,Samples,Tensile strength (MPa),Elongation at break (%),Young's modulus (GPa),Impact strength (KJ/m²),Vectors,Tensile strength (MPa)_err,Elongation at break (%)_err,Young's modulus (GPa)_err,Impact strength (KJ/m²)_err,Ref
+0,Pure epoxy resin,75.0,5.3,2.38,72.8,['EPresin'],0.9,0.19,0.19,1.9,j.compscitech.2021.108671_5_0
+1,0.5 wt% of GO@PAPF,89.8,7.1,2.34,77.2,"['(0.005)ofGO', 'PAPF']",1.5,0.24,0.21,1.6,j.compscitech.2021.108671_5_0
+2,1.0 wt% of GO @PAPF,104.4,6.6,2.31,78.8,"['(0.01)ofGO', 'PAPF']",1.8,0.26,0.25,1.4,j.compscitech.2021.108671_5_0
+3,1.5 wt% of GO @PAPF,121.6,5.8,2.28,79.6,"['(0.015)ofGO', 'PAPF']",1.9,0.29,0.27,1.7,j.compscitech.2021.108671_5_0
+4,2.0 wt% of GO @PAPF,116.1,5.6,2.25,78.3,"['(0.02)ofGO', 'PAPF']",2.1,0.33,0.22,2.1,j.compscitech.2021.108671_5_0

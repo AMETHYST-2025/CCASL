@@ -1,0 +1,8 @@
+,Sample,Samples,UL-94,PHRR (kW/m²),THR (MJ/m²),TTI (s),TSP (m²),Vectors,Ref
+0,1.0,UP,NR,804.0,131.0,24.0,79.6,['UP'],j.polymdegradstab.2020.109134_2_0
+1,2.0,UP-20% APP,NR,334.8,94.3,28.3,41.6,"['UP', '(0.2)APP']",j.polymdegradstab.2020.109134_2_0
+2,3.0,UP-25% APP,NR,329.2,97.9,26.3,38.4,"['UP', '(0.25)APP']",j.polymdegradstab.2020.109134_2_0
+3,4.0,UP-20% APP 5% ATH,V-1,266.5,86.2,30.0,30.0,"['UP', '(0.2)APP', '(0.05)ATH']",j.polymdegradstab.2020.109134_2_0
+4,5.0,UP-20% APP 5% MDH,NR,280.9,89.2,27.7,38.9,"['UP', '(0.2)APP', '(0.05)MDH']",j.polymdegradstab.2020.109134_2_0
+5,6.0,UP-20% APP 5% AlPi,V-0,253.0,84.1,24.5,38.7,"['UP', '(0.2)APP', '(0.05)AlPi']",j.polymdegradstab.2020.109134_2_0
+6,7.0,UP-20% APP 5% ZnPi,V-0,288.4,81.5,31.3,37.2,"['UP', '(0.2)APP', '(0.05)ZnPi']",j.polymdegradstab.2020.109134_2_0

@@ -1,0 +1,13 @@
+,DGEBA,Amine,Anhydride,DGEBA-amide (Fig. 1A),DGEBA-anhydride (Fig. 1B),Samples,Vectors,Ref
+0,3500.0,,,3500.0,3500.0,V O-H,['VO-H'],j.polymdegradstab.2005.09.009_4_0
+1,,3300.0,,3320.0,,V N-H,['VN-H'],j.polymdegradstab.2005.09.009_4_0
+2,3050.0,,,3050.0,3050.0,V phenyl-H,['Vphenyl-H'],j.polymdegradstab.2005.09.009_4_0
+3,2960.0,2920.0,,2930.0,2690.0,V C-H and V CH2,"['VC', 'HandVCH(2)']",j.polymdegradstab.2005.09.009_4_0
+4,,,1860.0,,1780.0,V C=0,['VC=(0)'],j.polymdegradstab.2005.09.009_4_0
+5,,1650.0,,1650.0,,V N-H,['VN-H'],j.polymdegradstab.2005.09.009_4_0
+6,1610.0,,,1610.0,1600.0,Aromatic ring,['Aromaticring'],j.polymdegradstab.2005.09.009_4_0
+7,1450.0,,,1460.0,1460.0,8 CH2,['(8)CH2'],j.polymdegradstab.2005.09.009_4_0
+8,,,1230.0,,1230.0,V C-0-C,"['VC', '(0)', 'C']",j.polymdegradstab.2005.09.009_4_0
+9,1250.0,,,,1250.0,"v phenyl-C-ph, v C-0-C","['vphenyl', 'C', 'ph,vC', '(0)', 'C']",j.polymdegradstab.2005.09.009_4_0
+10,,,907.0,,907.0,8 C=C,['(8)C=C'],j.polymdegradstab.2005.09.009_4_0
+11,830.0,,,830.0,830.0,o phenyl-H,['ophenyl-H'],j.polymdegradstab.2005.09.009_4_0

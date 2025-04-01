@@ -1,0 +1,5 @@
+,Samples,T5% (°C),Tmax (°C),Rate at Tmax (%/°C),Residue (700 °C) (wt%),Vectors,Ref
+0,EP,355.8,380.5,1.4,20.2,['EP'],j.polymdegradstab.2019.02.021_5_1
+1,APP,327.2,325.4,0.3,30.1,['APP'],j.polymdegradstab.2019.02.021_5_1
+2,EP/10APP,326.0,348.5,1.7,28.8,"['EP', '(10)APP']",j.polymdegradstab.2019.02.021_5_1
+3,EP/7.5APP/2.5BPOPA,314.9,344.9,1.4,26.2,"['EP', '(7.5)APP', '(2.5)BPOPA']",j.polymdegradstab.2019.02.021_5_1

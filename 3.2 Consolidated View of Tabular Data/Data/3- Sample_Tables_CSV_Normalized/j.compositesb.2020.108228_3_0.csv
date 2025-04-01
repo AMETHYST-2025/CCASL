@@ -1,0 +1,5 @@
+,Samples,E-51 (g),DDS (g),TAP (g),Content of TAP (wt%),Content of Phosphorus (wt%),Vectors,Ref
+0,EP,100.0,31.6,0.0,0.0,0.0,['EP'],j.compositesb.2020.108228_3_0
+1,EP/7.5%TAP,100.0,31.6,10.67,7.5,0.48,"['EP', '(0.075)TAP']",j.compositesb.2020.108228_3_0
+2,EP/10%TAP,100.0,31.6,14.62,10.0,0.67,"['EP', '(0.1)TAP']",j.compositesb.2020.108228_3_0
+3,EP/12.5%TAP,100.0,31.6,18.8,12.5,0.84,"['EP', '(0.125)TAP']",j.compositesb.2020.108228_3_0

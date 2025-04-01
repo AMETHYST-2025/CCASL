@@ -1,0 +1,8 @@
+,Samples,(1g-1),Tp (°C),Vectors,Ref
+0,Neat epoxy,440.0,200.0,['EP'],j.matchemphys.2009.07.045_4_0
+1,CNFs (1 wt.%)/epoxy,444.0,201.0,"['CNFs(0.01)', 'EP']",j.matchemphys.2009.07.045_4_0
+2,CNFs (3 wt.%)/epoxy,446.0,201.0,"['CNFs(0.03)', 'EP']",j.matchemphys.2009.07.045_4_0
+3,CNFs (5 wt.%)/epoxy,439.0,202.0,"['CNFs(0.05)', 'EP']",j.matchemphys.2009.07.045_4_0
+4,Silanized CNFs (1 wt.%)/epoxy,492.0,196.0,"['SilanizedCNFs(0.01)', 'EP']",j.matchemphys.2009.07.045_4_0
+5,Silanized CNFs (3 wt.%)/epoxy,464.0,201.0,"['SilanizedCNFs(0.03)', 'EP']",j.matchemphys.2009.07.045_4_0
+6,Silanized CNFs (5 wt.%)/epoxy,452.0,203.0,"['SilanizedCNFs(0.05)', 'EP']",j.matchemphys.2009.07.045_4_0

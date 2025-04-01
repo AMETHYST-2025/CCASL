@@ -1,0 +1,8 @@
+,Samples,DGEBA (wt%),DDS (wt%),DOPO (wt%),DIB (wt%),P content (wt%),T5% (°C),Tmax (°C),Char yield at 800 °C (%) Measured value,Char yield at 800 °C (%) Calculated value,LOI (%),UL-94,Unnamed: 5,Element C,content (wt%) o,content (wt%) P,content (wt%) N,content (wt%) S,Vectors,Ref
+0,DIB,,,,,,190.0,483.0,34.1,-,,,,,,,,,['DIB'],j.polymdegradstab.2018.11.021
+1,EP/DDS,75.2,24.8,0.0,0.0,0.0,383.0,408.0,17.3,-,22.5,No rating,Yes,,,,,,"['EP', 'DDS']",j.polymdegradstab.2018.11.021
+2,EP/DDS/DIB-0.25,73.9,23.3,0.0,2.8,0.25,368.0,402.0,20.9,17.8,32.3,No rating,No,,,,,,"['EP', 'DDS', 'DIB(0.25)']",j.polymdegradstab.2018.11.021
+3,EP/DDS/DIB-0.5,72.6,21.8,0.0,5.6,0.5,358.0,394.0,22.5,18.2,35.9,V-1,No,,,,,,"['EP', 'DDS', 'DIB(0.5)']",j.polymdegradstab.2018.11.021
+4,EP/DDS/DIB-0.75,71.2,20.4,0.0,8.4,0.75,347.0,388.0,24.0,18.7,36.8,V-0,No,81.67,9.85,0.55,7.36,0.57,"['EP', 'DDS', 'DIB(0.75)']",j.polymdegradstab.2018.11.021
+5,EP/DDS/DIB-1.0,69.8,19.0,0.0,11.2,1.0,344.0,385.0,24.5,19.2,38.5,V-0,No,79.59,10.29,1.19,8.43,0.5,"['EP', 'DDS', 'DIB(1.0)']",j.polymdegradstab.2018.11.021
+6,EP/DDS/DOPO,69.9,23.1,7.0,0.0,1.0,343.0,396.0,19.6,-,34.1,V-1,No,,,,,,"['EP', 'DDS', 'DOPO']",j.polymdegradstab.2018.11.021

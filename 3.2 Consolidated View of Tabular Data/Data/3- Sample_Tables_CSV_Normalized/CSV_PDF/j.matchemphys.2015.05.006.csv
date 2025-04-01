@@ -1,0 +1,8 @@
+,Samples,TB (°C),Intensity (MPa),Width (°C),Area (MPa.min) d,[g (°C),Storage modulus (25°C) (MPa),Storage modulus (Tg+30°C) (MPa),Crosslink density (v X 10 ³ (mol m 3,o-Ps lifetime 63 (ns),o-Ps intensity I3 (%),Free volume radius R (À),Fractional free volume FFV (%),Vectors,Ref
+0,DGEBA-MHHPA,34.6,130.0,93.0,622.1,,,,,1.8216,25.1212,2.6857,3.6693,"['DGEBA', 'MHHPA']",j.matchemphys.2015.05.006
+1,DGEBA-MHHPA,,405.2,11.1,,155.3,2166.7,33.8,3.1,1.8216,25.1212,2.6857,3.6693,"['DGEBA', 'MHHPA']",j.matchemphys.2015.05.006
+2,DGEBA-PMSE-0.2,35.6,116.9,116.5,540.0,,,,,1.8873,28.5537,2.7498,4.4761,"['DGEBA', 'PMSE(0.2)']",j.matchemphys.2015.05.006
+3,DGEBA-PMSE-0.2,,216.5,15.0,,95.4,2172.8,30.4,3.3,1.8873,28.5537,2.7498,4.4761,"['DGEBA', 'PMSE(0.2)']",j.matchemphys.2015.05.006
+4,DGEBA-PMSE-0.4,38.3,117.3,92.2,119.3,,,,,1.9843,31.9211,2.8409,5.5185,"['DGEBA', 'PMSE(0.4)']",j.matchemphys.2015.05.006
+5,DGEBA-PMSE-0.4,,180.5,20.4,,55.6,1802.2,28.6,3.5,1.9843,31.9211,2.8409,5.5185,"['DGEBA', 'PMSE(0.4)']",j.matchemphys.2015.05.006
+6,PMSE-MHHPA,,8.0,14.0,,15.6,5.7,2.4,0.3,,,,,"['PMSE', 'MHHPA']",j.matchemphys.2015.05.006

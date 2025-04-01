@@ -1,0 +1,13 @@
+,Samples,Heating rate (°C/min),Tp (°C),E (KJ/mol),Vectors,Ref
+0,DGEBA-MHHPA,10.0,164.9,60.9,"['DGEBA', 'MHHPA']",j.matchemphys.2012.03.070_4_0
+1,,12.0,170.7,,[''],j.matchemphys.2012.03.070_4_0
+2,,15.0,175.5,,[''],j.matchemphys.2012.03.070_4_0
+3,,17.0,177.5,,[''],j.matchemphys.2012.03.070_4_0
+4,DGEBA-PMSE-0.2,10.0,163.9,64.9,"['DGEBA', 'PMSE(0.2)']",j.matchemphys.2012.03.070_4_0
+5,,12.0,167.9,,[''],j.matchemphys.2012.03.070_4_0
+6,,15.0,173.4,,[''],j.matchemphys.2012.03.070_4_0
+7,,17.0,175.6,,[''],j.matchemphys.2012.03.070_4_0
+8,DGEBA-PMSE-0.4,10.0,163.3,69.4,"['DGEBA', 'PMSE(0.4)']",j.matchemphys.2012.03.070_4_0
+9,,12.0,167.1,,[''],j.matchemphys.2012.03.070_4_0
+10,,15.0,172.1,,[''],j.matchemphys.2012.03.070_4_0
+11,,17.0,174.4,,[''],j.matchemphys.2012.03.070_4_0

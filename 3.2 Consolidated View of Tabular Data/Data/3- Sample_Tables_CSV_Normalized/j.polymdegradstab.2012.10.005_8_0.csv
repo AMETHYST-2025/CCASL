@@ -1,0 +1,7 @@
+,Samples,Exterior C,Exterior o,Exterior Si,Exterior P,Exterior N,Interior C,Interior o,Interior Si,Interior P,Interior N,Vectors,Ref
+0,EP,78.58,19.27,0.0,0.0,2.15,80.5,17.01,0.0,0.0,2.49,['EP'],j.polymdegradstab.2012.10.005_8_0
+1,EP/OPS,6.74,65.92,27.34,0.0,0.0,82.54,11.17,2.33,0.0,3.97,"['EP', 'OPS']",j.polymdegradstab.2012.10.005_8_0
+2,EP/PPSQ,3.29,68.24,28.46,0.0,0.01,54.69,31.36,11.4,0.0,2.55,"['EP', 'PPSQ']",j.polymdegradstab.2012.10.005_8_0
+3,EP/DOPO,77.06,14.2,0.0,1.92,6.82,81.18,15.88,0.0,0.58,2.35,"['EP', 'DOPO']",j.polymdegradstab.2012.10.005_8_0
+4,EP/DOPO/OPS,24.45,53.88,19.11,2.55,0.0,80.7,11.47,2.39,0.29,5.16,"['EP', 'DOPO', 'OPS']",j.polymdegradstab.2012.10.005_8_0
+5,EP/DOPO/PPSQ,37.39,43.74,12.35,2.67,3.85,64.13,23.35,6.1,1.35,5.07,"['EP', 'DOPO', 'PPSQ']",j.polymdegradstab.2012.10.005_8_0

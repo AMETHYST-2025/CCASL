@@ -1,0 +1,5 @@
+,Samples,T5% (°C),Tmax (°C),Rate at Tmax (%/min),Residue (800 °C) (wt%),Vectors,Ref
+0,PA-AEP,222.3,227.3,11.2,25.6,['PA-AEP'],j.polymdegradstab.2019.07.005_5_0
+1,EP/15% PA-AEP,324.8,382.0,26.5,18.4,"['EP', '(0.15)PA-AEP']",j.polymdegradstab.2019.07.005_5_0
+2,EP/20% PA-AEP,304.5,375.0,17.2,20.6,"['EP', '(0.2)PA-AEP']",j.polymdegradstab.2019.07.005_5_0
+3,EP/20% AEP,326.2,364.5,23.2,5.9,"['EP', '(0.2)AEP']",j.polymdegradstab.2019.07.005_5_0

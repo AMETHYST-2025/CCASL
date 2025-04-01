@@ -1,0 +1,4 @@
+,Samples,Tensile strength (MPa),Failure strain (%),Young's modulus (GPa),Work of fracture (kJ/m³),Vectors,Tensile strength (MPa)_err,Failure strain (%)_err,Young's modulus (GPa)_err,Work of fracture (kJ/m³)_err,Ref
+0,CF/EP,760.3,1.75,29.01,104.0,"['CF', 'EP']",70.0,0.6,8.3,16.0,j.compscitech.2016.08.010_3_0
+1,CNT-CF/EP,835.83,2.54,32.61,91.7,"['CNT-CF', 'EP']",59.0,0.7,7.6,15.0,j.compscitech.2016.08.010_3_0
+2,NT-CNT-CF/EP,1031.45,2.13,49.31,108.8,"['NT-CNT-CF', 'EP']",100.0,0.4,5.4,2.3,j.compscitech.2016.08.010_3_0

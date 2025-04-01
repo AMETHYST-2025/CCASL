@@ -1,0 +1,10 @@
+,Samples,Tg (°C),Tonset (°C),Tmax (°C),Residues at 800 o °C (%),EP control,EP-1,EP-2,EP-3,Vectors,Ref
+0,DGEBA (g),,,,,100.0,100.0,100.0,100.0,['DGEBA(g)'],j.polymdegradstab.2011.07.014
+1,DOPO-POSS,106.6,334.0,479.0,40.6,,,,,"['DOPO', 'POSS']",j.polymdegradstab.2011.07.014
+2,DOPO-POSS (g),,,,,0.0,5.89,12.44,28.0,"['DOPO', 'POSS(g)']",j.polymdegradstab.2011.07.014
+3,DOPO-POSS (wt%),,,,,0.0,5.0,10.0,20.0,"['DOPO', 'POSS(wt%)']",j.polymdegradstab.2011.07.014
+4,EP control,137.9,372.0,390.0,11.6,,,,,['EPcontrol'],j.polymdegradstab.2011.07.014
+5,EP-1,145.6,360.0,391.0,13.0,,,,,['EP-1'],j.polymdegradstab.2011.07.014
+6,EP-2,146.6,359.0,394.0,16.1,,,,,['EP-2'],j.polymdegradstab.2011.07.014
+7,EP-3,142.7,362.0,442.0,20.9,,,,,['EP-3'],j.polymdegradstab.2011.07.014
+8,m-Phenylenediamine (g),,,,,12.0,12.0,12.0,12.0,['m-Phenylenediamine(g)'],j.polymdegradstab.2011.07.014

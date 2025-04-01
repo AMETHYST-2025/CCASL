@@ -1,0 +1,8 @@
+,Samples,LMP glass,glass content (wt%),APP (wt%),EP (wt%),Vectors,Ref
+0,EP,-,0.0,0.0,100.0,['EP'],j.polymdegradstab.2021.109495_3_0
+1,EP/9.5%APP/0.5%G1,1.0,0.5,9.5,90.0,"['EP', '(0.095)APP', '(0.005)G1']",j.polymdegradstab.2021.109495_3_0
+2,EP/9%APP/1%G1,1.0,9.0,1.0,90.0,"['EP', '(0.09)APP', '(0.01)G1']",j.polymdegradstab.2021.109495_3_0
+3,EP/8%APP/2%G1,1.0,8.0,2.0,90.0,"['EP', '(0.08)APP', '(0.02)G1']",j.polymdegradstab.2021.109495_3_0
+4,EP/7%APP/3%G1,1.0,7.0,3.0,90.0,"['EP', '(0.07)APP', '(0.03)G1']",j.polymdegradstab.2021.109495_3_0
+5,EP/9%APP/1%G2,2.0,9.0,1.0,90.0,"['EP', '(0.09)APP', '(0.01)G2']",j.polymdegradstab.2021.109495_3_0
+6,EP/9%APP/1%G3,3.0,9.0,1.0,90.0,"['EP', '(0.09)APP', '(0.01)G3']",j.polymdegradstab.2021.109495_3_0

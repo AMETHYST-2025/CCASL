@@ -1,0 +1,12 @@
+,Samples,Element C,content (wt%) o,content (wt%) N,content (wt%) P,PHRR (kW/m²),THR (MJ/m²),EHC (MJ/kg),COY (kg/kg),CO₂Y (kg/kg),Char yield (%),PHRR (kW/m²)_err,THR (MJ/m²)_err,EHC (MJ/kg)_err,COY (kg/kg)_err,CO₂Y (kg/kg)_err,Char yield (%)_err,EP (g),DDM (g),CNTs or (x = 5) (g),"CNT-PD-x 10,20) (wt%)",Vectors,Ref
+0,2%CNT-PD-10/EP,78.21,11.98,9.14,0.67,754.0,102.0,23.6,0.132,1.9,14.7,31.0,3.0,0.2,0.005,0.08,0.32,100.0,25.3,2.6,2.0,"['(0.02)CNT-PD-10', 'EP']",j.polymdegradstab.2016.04.011
+1,2%CNT-PD-20/EP,,,,,,,,,,,,,,,,,100.0,25.3,2.6,2.0,"['(0.02)CNT-PD-20', 'EP']",j.polymdegradstab.2016.04.011
+2,2%CNT-PD-5/EP,,,,,,,,,,,,,,,,,100.0,25.3,2.6,2.0,"['(0.02)CNT-PD-5', 'EP']",j.polymdegradstab.2016.04.011
+3,2%CNT/EP,82.21,7.89,9.9,0.0,963.0,119.0,26.4,0.101,2.16,9.75,36.0,3.0,0.3,0.004,0.09,0.27,100.0,25.3,2.6,2.0,"['(0.02)CNT', 'EP']",j.polymdegradstab.2016.04.011
+4,2%PD/EP,,,,,,,,,,,,,,,,,100.0,25.3,2.6,2.0,"['(0.02)PD', 'EP']",j.polymdegradstab.2016.04.011
+5,4%CNT-PD-10/EP,,,,,,,,,,,,,,,,,100.0,25.3,5.2,4.0,"['(0.04)CNT-PD-10', 'EP']",j.polymdegradstab.2016.04.011
+6,4%CNT-PD-20/EP,,,,,,,,,,,,,,,,,100.0,25.3,5.2,4.0,"['(0.04)CNT-PD-20', 'EP']",j.polymdegradstab.2016.04.011
+7,4%CNT-PD-5/EP,,,,,,,,,,,,,,,,,100.0,25.3,5.2,4.0,"['(0.04)CNT-PD-5', 'EP']",j.polymdegradstab.2016.04.011
+8,4%CNT/EP,,,,,,,,,,,,,,,,,100.0,25.3,5.2,4.0,"['(0.04)CNT', 'EP']",j.polymdegradstab.2016.04.011
+9,4%PD/EP,,,,,,,,,,,,,,,,,100.0,25.3,5.2,4.0,"['(0.04)PD', 'EP']",j.polymdegradstab.2016.04.011
+10,Pure EP,82.46,7.08,10.46,0.0,1420.0,144.0,29.9,0.126,2.51,8.81,53.0,5.0,0.3,0.005,0.1,0.25,100.0,25.3,0.0,0.0,['EP'],j.polymdegradstab.2016.04.011

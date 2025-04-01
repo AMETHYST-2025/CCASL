@@ -1,0 +1,11 @@
+,Samples,Tonset (°C),Tmax1 (°C),Tmax2 (°C),Weight 300 °C,of 400 O,residue (%) C 500 O,residue (600 °C) (%),residue (%) °C 700 O C,TTI (s),PHRR (kW/m²),TT-PHRR (s),Av-HRR (kW/m²),THR (MJ/m²),Mass loss (%),TSP (m²),APP:CoSA,Content of APPb (wt%),Content of CoSA b (wt%),LOI (%),UL-94,Dripping,Vectors,Ref
+0,EP,333.0,413.0,541.0,97.8,72.2,19.8,1.3,0.1,64.0,939.0,265.0,261.0,179.0,95.6,58.1,-,0.0,0.0,19.6,N.R.,Yes,['EP'],j.polymdegradstab.2009.01.006
+1,EP-APP,275.0,318.0,528.0,88.1,60.0,40.0,7.7,3.8,61.0,283.0,325.0,134.0,111.0,63.5,25.6,-,5.0,0.0,27.1,V-0,No,"['EP', 'APP']",j.polymdegradstab.2009.01.006
+2,EP-APP- CoSA3,271.0,313.0,531.0,86.2,59.2,39.5,8.7,3.4,65.0,310.0,355.0,126.0,95.0,52.1,23.4,,,,,,,"['EP', 'APP', 'CoSA3']",j.polymdegradstab.2009.01.006
+3,EP-APP- CuSAO,268.0,313.0,527.0,86.9,61.8,40.9,8.5,3.9,,,,,,,,,,,,,,"['EP', 'APP', 'CuSAO']",j.polymdegradstab.2009.01.006
+4,EP-APP-CoSA1,,,,,,,,,,,,,,,,149.0,4.97,0.03,28.0,V-0,No,"['EP', 'APP', 'CoSA1']",j.polymdegradstab.2009.01.006
+5,EP-APP-CoSA2,,,,,,,,,,,,,,,,59.0,4.92,0.08,28.4,V-0,No,"['EP', 'APP', 'CoSA2']",j.polymdegradstab.2009.01.006
+6,EP-APP-CoSA3,,,,,,,,,,,,,,,,29.0,4.83,0.17,29.4,V-0,No,"['EP', 'APP', 'CoSA3']",j.polymdegradstab.2009.01.006
+7,EP-APP-CoSA4,,,,,,,,,,,,,,,,19.0,4.75,0.25,28.4,V-0,No,"['EP', 'APP', 'CoSA4']",j.polymdegradstab.2009.01.006
+8,EP-APP-CoSA5,,,,,,,,,,,,,,,,14.0,4.67,0.33,28.7,V-0,No,"['EP', 'APP', 'CoSA5']",j.polymdegradstab.2009.01.006
+9,EP-APP2,,,,,,,,,,,,,,,,-,12.5,0.0,28.9,V-0,No,"['EP', 'APP(2)']",j.polymdegradstab.2009.01.006

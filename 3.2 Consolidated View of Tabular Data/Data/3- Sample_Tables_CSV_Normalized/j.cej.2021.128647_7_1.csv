@@ -1,0 +1,5 @@
+,Entry,Samples,Flexural Stress (MPa),Modulus (GPa),property Deflection (mm),Shore Hardness (HD),Vectors,Flexural Stress (MPa)_err,Modulus (GPa)_err,property Deflection (mm)_err,Shore Hardness (HD)_err,Ref
+0,1.0,DBDBBB/ 33DDS,80.0,3.03,4.94,77.5,"['DBDBBB', '33DDS']",12.0,0.25,1.14,0.95,j.cej.2021.128647_7_1
+1,2.0,DBDBBB/ 44DDS,57.2,3.06,2.86,59.2,"['DBDBBB', '44DDS']",11.2,0.14,0.57,0.5,j.cej.2021.128647_7_1
+2,3.0,DGEBA/ 33DDS,142.0,3.248,9.76,81.2,"['DGEBA', '33DDS']",12.1,0.88,2.56,0.95,j.cej.2021.128647_7_1
+3,4.0,DGEBA/ 44DDS,126.3,2.856,10.52,79.7,"['DGEBA', '44DDS']",11.9,0.24,1.48,1.5,j.cej.2021.128647_7_1

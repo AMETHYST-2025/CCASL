@@ -1,0 +1,5 @@
+,Samples,T5% (°C),"Tmax max (C)""",The rate of Tmax max (wt%/min),Residue (700 °C) (wt%),Vectors,Ref
+0,DGEBA-PA,345.5,394.0,16.3,6.2,"['DGEBA', 'PA']",j.polymdegradstab.2015.10.009_15_0
+1,DGEBA-PEPA,355.6,397.0,10.5,38.1,"['DGEBA', 'PEPA']",j.polymdegradstab.2015.10.009_15_0
+2,Azo-EP-PA,262.1,358.0,3.9,29.7,"['Azo', 'EP', 'PA']",j.polymdegradstab.2015.10.009_15_0
+3,Azo-EP-PEPA,296.4,362.0,2.6,48.2,"['Azo', 'EP', 'PEPA']",j.polymdegradstab.2015.10.009_15_0

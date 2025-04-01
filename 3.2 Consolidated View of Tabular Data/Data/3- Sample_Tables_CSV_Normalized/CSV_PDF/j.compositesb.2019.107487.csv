@@ -1,0 +1,21 @@
+,Samples,Curing agents,P content (%),Char yield (%) a,LOI (%),UL-94,PHRR reduction (%),Reference,IDDRA/MNA ratio,Tensile strength (MPa),Elongation at break (%),AP-EGDE/PMPS ratio,Residue (700 °C) (%),Vectors,Ref
+0,TECP,MXDA,2.4,12.0,/,/,52.0,29.0,,,,,,['TECP'],j.compositesb.2019.107487
+1,TEEP,MXDA,4.5,43.0,/,,56.0,29.0,,,,,,['TEEP'],j.compositesb.2019.107487
+2,DEEP,MXDA,5.8,41.0,,,60.0,29.0,,,,,,['DEEP'],j.compositesb.2019.107487
+3,DEEP-Ph,MXDA,5.8,35.0,,,55.0,29.0,,,,,,"['DEEP', 'Ph']",j.compositesb.2019.107487
+4,EP1,DDM,6.5,53.0,31.4,V-0,/,37.0,,,,,,['EP1'],j.compositesb.2019.107487
+5,EP2,DDM,7.2,58.0,32.8,V-0,/,37.0,,,,,,['EP2'],j.compositesb.2019.107487
+6,DOPO-III,DDM,3.9,18.0,31.0,/,/,44.0,,,,,,"['DOPO', 'III']",j.compositesb.2019.107487
+7,DOPO-III,BAMPO,5.7,16.0,32.0,/,/,44.0,,,,,,"['DOPO', 'III']",j.compositesb.2019.107487
+8,EADI,MHHPA,4.4,5.3,22.8,V-0,/,45.0,,,,,,['EADI'],j.compositesb.2019.107487
+9,GEBA/IDDRA/MNA-1,,,,22.8,,,,60.0,34.2,93.9,,,"['GEBA', 'IDDRA', 'MNA(1)']",j.compositesb.2019.107487
+10,GEBA/IDDRA/MNA-2,,,,23.0,,,,70.0,21.9,135.7,,,"['GEBA', 'IDDRA', 'MNA(2)']",j.compositesb.2019.107487
+11,GEBA/IDDRA/MNA-3,,,,23.6,,,,80.0,7.7,314.1,,,"['GEBA', 'IDDRA', 'MNA(3)']",j.compositesb.2019.107487
+12,GEBA/IDDRA/MNA-4,,,,24.2,,,,90.0,0.9,348.0,,,"['GEBA', 'IDDRA', 'MNA(4)']",j.compositesb.2019.107487
+13,GEBA/IDDRA,,,,24.8,,,,/,0.3,400.0,,,"['GEBA', 'IDDRA']",j.compositesb.2019.107487
+14,AESE20/MHHPA,,,,30.0,,,,,,,80.0,8.0,"['AESE(20)', 'MHHPA']",j.compositesb.2019.107487
+15,AESE30/MHHPA,,,,30.2,,,,,,,70.0,13.0,"['AESE(30)', 'MHHPA']",j.compositesb.2019.107487
+16,AESE40/MHHPA,,,,28.6,,,,,,,60.0,19.0,"['AESE(40)', 'MHHPA']",j.compositesb.2019.107487
+17,AESE50/MHHPA,,,,28.3,,,,,,,50.0,25.0,"['AESE(50)', 'MHHPA']",j.compositesb.2019.107487
+18,AP-EGDE/MHHPA,,,,21.6,,,,,,,100.0,0.0,"['AP-EGDE', 'MHHPA']",j.compositesb.2019.107487
+19,PAESE30/MHHPA b,,,,25.3,,,,,,,70.0,16.0,"['PAESE(30)', 'MHHPAb']",j.compositesb.2019.107487

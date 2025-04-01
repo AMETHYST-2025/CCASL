@@ -1,0 +1,11 @@
+,Samples,Thickness,Content,Transmission Loss (dB),Reflection Loss (dB),Ref.,Vectors,Ref
+0,Annealed graphene aerogel/epoxy,4.0,0.8 wt.% GA,30.0,5.0,[48],"['Annealedgrapheneaerogel', 'EP']",j.compositesb.2018.12.130_8_0
+1,Graphene nano-sheet/BaTiO3,1.5,4.0 wt.% GNA,42.0,6.0,[49],"['Graphenenano-sheet', 'BaTiO(3)']",j.compositesb.2018.12.130_8_0
+2,Sugarcane derived aerogel-like carbon,10.0,-,51.0,5.0,[50],['Sugarcanederivedaerogel-likecarbon'],j.compositesb.2018.12.130_8_0
+3,MWCNTs + graphene/PVDF,4.0,2.25 wt.% MWCNTs 2.25 wt.% graphene,45.0,8.0,[51],"['MWCNTs+graphene', 'PVDF']",j.compositesb.2018.12.130_8_0
+4,Acid-modified MWCNTs/polyurethane,1.5,10 wt.% a-MWCNT,29.0,9.0,[52],"['Acid-modifiedMWCNTs', 'polyurethane']",j.compositesb.2018.12.130_8_0
+5,MWCNTs/ABS,3.0,5 wt.% MWCNT,45.0,6.0,[53],"['MWCNTs', 'ABS']",j.compositesb.2018.12.130_8_0
+6,Graphene/PDMS,1.0,0.8 wt.% graphene,20.0,4.0,[54],"['Graphene', 'PDMS']",j.compositesb.2018.12.130_8_0
+7,Graphene/PS,2.5,30 wt.% graphene,29.0,3.0,[55],"['Graphene', 'PS']",j.compositesb.2018.12.130_8_0
+8,Nickel-coated carbon fiber/PP,0.5,30 wt.% Ni-CF,48.0,7.0,[56],"['Nickel-coatedcarbonfiber', 'PP']",j.compositesb.2018.12.130_8_0
+9,NdFeB; MWCNTs/epoxy + MWCNT film,1.1,5 wt.% MWCNTs 30 wt.% NdFeB,40.0,11.0,This work,"['NdFeB;MWCNTs', 'epoxy+MWCNTfilm']",j.compositesb.2018.12.130_8_0

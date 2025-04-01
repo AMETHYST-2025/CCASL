@@ -1,0 +1,5 @@
+,Samples,,Modulus (MPa),.1,Yield,Strength (),(MPa),Vectors,_err,Modulus (MPa)_err,.1_err,Yield_err,Strength ()_err,Ref
+0,Temperature,,,,,,80.0,['Temperature'],27.0,55.0,80.0,27.0,55.0,j.compscitech.2016.10.030_13_0
+1,E-0-CNT,450.27,206.9,6.5,16.7,5.29,-,"['E', '0', 'CNT']",13.0,23.0,1.4,0.8,1.7,j.compscitech.2016.10.030_13_0
+2,E-1-CNT,616.2,331.27,12.8,25.71,7.39,-,"['E', '1', 'CNT']",34.0,26.0,1.3,1.8,1.3,j.compscitech.2016.10.030_13_0
+3,,,,,,,,[''],,,,,,j.compscitech.2016.10.030_13_0

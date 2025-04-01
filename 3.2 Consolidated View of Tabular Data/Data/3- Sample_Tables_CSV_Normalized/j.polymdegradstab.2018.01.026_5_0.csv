@@ -1,0 +1,5 @@
+,Samples,TTI (s),PHRR (kW/m²),THE (MJ/ m²,EHC (MJ/kg),COY (kg/kg),CO₂Y (kg/kg),Residue (wt%),Vectors,Ref
+0,EP,61.0,1137.0,83.0,22.3,0.095,1.634,8.7,['EP'],j.polymdegradstab.2018.01.026_5_0
+1,EP/5% D- P-A,57.0,956.0,72.0,20.8,0.124,1.497,9.4,"['EP', '(0.05)D-P-A']",j.polymdegradstab.2018.01.026_5_0
+2,EP/7.5% D-P-A,67.0,713.0,69.0,20.5,0.104,1.207,11.4,"['EP', '(0.075)D-P-A']",j.polymdegradstab.2018.01.026_5_0
+3,EP/10% D-P-A,71.0,749.0,74.0,20.5,0.13,1.463,11.6,"['EP', '(0.1)D-P-A']",j.polymdegradstab.2018.01.026_5_0

@@ -1,0 +1,14 @@
+,,Samples,Ingredient,.1,.2,Vectors,Ref
+0,System 1,,Epoxy/mol%,Aniline/mol%,Multi-amines/ mol%,[''],j.compscitech.2021.108899_2_0
+1,,SMEP-1,60,35,Diamines 5,['SMEP-1'],j.compscitech.2021.108899_2_0
+2,,SMEP-2,60,35,Triamines 5,['SMEP-2'],j.compscitech.2021.108899_2_0
+3,,SMEP-3,60,35,Tetramine 5,['SMEP-3'],j.compscitech.2021.108899_2_0
+4,System 2,,Epoxy/mol%,Diamines/mol%,ETBN/mol%,[''],j.compscitech.2021.108899_2_0
+5,,EP-ETBN5,55,40,5,"['EP', 'ETBN(5)']",j.compscitech.2021.108899_2_0
+6,,EP-ETBN10,50,40,10,"['EP', 'ETBN(10)']",j.compscitech.2021.108899_2_0
+7,,EP-ETBN15,45,40,15,"['EP', 'ETBN(15)']",j.compscitech.2021.108899_2_0
+8,,EP-ETBN20,40,40,20,"['EP', 'ETBN(20)']",j.compscitech.2021.108899_2_0
+9,System 3,,EP-Di-/mol%,ETBN/mol%,DICY/mol%,[''],j.compscitech.2021.108899_2_0
+10,,EP-ETBN10,90,10,0,"['EP', 'ETBN(10)']",j.compscitech.2021.108899_2_0
+11,,EP-ETBN10*,80,10,10,"['EP', 'ETBN(10)*']",j.compscitech.2021.108899_2_0
+12,,EP-ETBN10**,80,10,10,"['EP', 'ETBN(10)**']",j.compscitech.2021.108899_2_0

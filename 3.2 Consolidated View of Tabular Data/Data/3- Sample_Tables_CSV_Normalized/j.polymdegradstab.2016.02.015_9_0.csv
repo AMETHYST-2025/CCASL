@@ -1,0 +1,7 @@
+,Samples,LOI (%),UL-94,TTI (s),PHRR (kW/m²),Time PHRR (s),FIGRA (kW/m²s),Burning time (s),THR (MJ/m²),EHC (MJ/kg),MARHE (kW/m²),Residue (wt%),Vectors,Ref
+0,PT-30,58.0,V-0,80.0,84.0,124.0,0.7,257.0,9.8,10.4,38.0,81.0,['PT-30'],j.polymdegradstab.2016.02.015_9_0
+1,DGEBA,33.0,HB,55.0,176.0,197.0,0.9,355.0,37.9,13.8,112.2,50.0,['DGEBA'],j.polymdegradstab.2016.02.015_9_0
+2,20% PT-30 - 80% DGEBA,41.0,HB,51.0,162.0,156.0,1.0,301.0,29.9,14.7,95.8,61.0,"['(0.2)PT-30', '(0.8)DGEBA']",j.polymdegradstab.2016.02.015_9_0
+3,40% PT-30 - 60% DGEBA,42.0,V-0,87.0,134.0,178.0,0.8,308.0,21.8,13.2,69.1,70.0,"['(0.4)PT-30', '(0.6)DGEBA']",j.polymdegradstab.2016.02.015_9_0
+4,40% PT-30 - DGEBA - DOPO 2%P,46.0,V-0,72.0,101.0,195.0,0.5,401.0,20.1,11.2,61.1,67.0,"['(0.4)PT-30', 'DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_9_0
+5,40% PT-30 - DGEBA - DOPO 3%P,48.0,V-0,70.0,84.0,233.0,0.4,372.0,18.7,10.1,53.6,67.0,"['(0.4)PT-30', 'DGEBA', 'DOPO(0.03)P']",j.polymdegradstab.2016.02.015_9_0

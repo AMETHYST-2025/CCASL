@@ -1,0 +1,5 @@
+,Samples,Tinitial (°C),Tmax (°C),Char yield (%),Vectors,Ref
+0,EP,369.0,390.0,15.2,['EP'],j.matchemphys.2019.122600_6_0
+1,EP/2%MnO2,348.0,378.0,18.7,"['EP', '(0.02)MnO2']",j.matchemphys.2019.122600_6_0
+2,EP/2%PANI,374.0,403.0,17.6,"['EP', '(0.02)PANI']",j.matchemphys.2019.122600_6_0
+3,EP/2%PANI- MnO2,346.0,370.0,18.5,"['EP', '(0.02)PANI-MnO2']",j.matchemphys.2019.122600_6_0

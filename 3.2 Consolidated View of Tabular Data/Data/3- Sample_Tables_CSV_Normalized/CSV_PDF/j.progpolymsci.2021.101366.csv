@@ -1,0 +1,85 @@
+,Samples,Curing agent,P content (wt%),LOI (%),UL-94,Tg (°C),CY (%),Ref.,P (wt%),CY (wt%),Tgb (°C),T5% C (C),Reduction PHRR (%),Reduction THR (%),Unnamed: 2,Vectors,Ref
+0,CE-,DDM,2.4,28.5,1.0,137.5,23.5,62.0,,,,,,,,"['CE', '']",j.progpolymsci.2021.101366
+1,1,DICY,2.52,31.2,0.0,133.8,42.4,,,,,,,,,['1'],j.progpolymsci.2021.101366
+2,CE-,DDM,/,31.6,0.0,156.6,26.68,63.0,,,,,,,,"['CE', '']",j.progpolymsci.2021.101366
+3,2,DICY,,32.4,0.0,159.2,33.24,,,,,,,,,['2'],j.progpolymsci.2021.101366
+4,CE-,MeTHPA,,36.5,0.0,156.8,42.19,64.0,,,,,,,,"['CE', '']",j.progpolymsci.2021.101366
+5,3,DDM,,39.2,0.0,166.1,42.85,,,,,,,,,['3'],j.progpolymsci.2021.101366
+6,CE-,DDS,,32.5,0.0,159.8,38.48,65.0,,,,,,,,"['CE', '']",j.progpolymsci.2021.101366
+7,4,DDM,,31.1,0.0,157.7,31.01,,,,,,,,,['4'],j.progpolymsci.2021.101366
+8,CTP-,DDM,5.8,33.5,0.0,167.0,39.0,66.0,,,,,,,,"['CTP', '']",j.progpolymsci.2021.101366
+9,EP,DDS,5.6,34.3,0.0,/,,,,,,,,,,['EP'],j.progpolymsci.2021.101366
+10,DE-,DDS,,30.0,0.0,124.0,18.7,53.0,2.49,,,,,,,"['DE', '']",j.progpolymsci.2021.101366
+11,1,PN,,27.0,0.0,117.0,20.7,,2.23,,,,,,,['1'],j.progpolymsci.2021.101366
+12,DE-,DDS,,32.0,0.0,254.0,32.0,54.0,4.5,,,,,,,"['DE', '']",j.progpolymsci.2021.101366
+13,2,PN,,34.0,0.0,181.0,37.0,,4.8,,,,,,,['2'],j.progpolymsci.2021.101366
+14,DE-,DDS,,32.0,0.0,/,/,55.0,2.89,,,,,,,"['DE', '']",j.progpolymsci.2021.101366
+15,3,PN,,32.0,0.0,/,,,2.89,,,,,,,['3'],j.progpolymsci.2021.101366
+16,DE-4,DDS,,/,0.0,143.0,27.5,56.0,2.2,,,,,,,['DE(4)'],j.progpolymsci.2021.101366
+17,DE-5,DDS,,/,0.0,140.0,27.8,56.0,2.24,,,,,,,['DE(5)'],j.progpolymsci.2021.101366
+18,DE-,DDS,,33.0,0.0,178.0,29.5,57.0,3.63,,,,,,,"['DE', '']",j.progpolymsci.2021.101366
+19,6,PN,,28.0,0.0,155.0,41.0,,3.29,,,,,,,['6'],j.progpolymsci.2021.101366
+20,TGDDM + DPBAEP,DDS,,33.4,0.0,244.0,4.2,58.0,0.5,,,,,,,['TGDDM+DPBAEP'],j.progpolymsci.2021.101366
+21,BPHPPO-EP,DDS,7.79,34.0,/,/,,68.0,,51.8,,,,,,"['BPHPPO', 'EP']",j.progpolymsci.2021.101366
+22,EP1,DDM,6.5,31.4,V-0,183.0,,71.0,,53.0,,,,,,['EP1'],j.progpolymsci.2021.101366
+23,EP2,DDM,7.18,32.8,V-0,214.0,,71.0,,58.0,,,,,,['EP2'],j.progpolymsci.2021.101366
+24,BEU-EP,DDM,5.18,38.4,V-0,112.0,,74.0,,23.4,,,,,,"['BEU', 'EP']",j.progpolymsci.2021.101366
+25,0D,,,,,,,,,,,,,,Zero-dimensional,['0D'],j.progpolymsci.2021.101366
+26,1D,,,,,,,,,,,,,,One-dimensional,['1D'],j.progpolymsci.2021.101366
+27,2D,,,,,,,,,,,,,,Two-dimensional,['2D'],j.progpolymsci.2021.101366
+28,3D,,,,,,,,,,,,,,Three-dimensional,['3D'],j.progpolymsci.2021.101366
+29,AHRR,,,,,,,,,,,,,,Average of heat release rate,['AHRR'],j.progpolymsci.2021.101366
+30,AI,,,,,,,,,,,,,,1-(3-Aminopropyl)-imidazole,['AI'],j.progpolymsci.2021.101366
+31,APP,,,,,,,,,,,,,,Ammonium polyphosphate,['APP'],j.progpolymsci.2021.101366
+32,BAMPO,,,,,,,,,,,,,,is(m-aminophenyl)methylphosphine oxide,['BAMPO'],j.progpolymsci.2021.101366
+33,BDP,,,,,,,,,,,,,,Bisphenol A bis(diphenyl phosphate),['BDP'],j.progpolymsci.2021.101366
+34,BIM,,,,,,,,,,,,,,Benzimidazole,['BIM'],j.progpolymsci.2021.101366
+35,CNT,,,,,,,,,,,,,,Carbon nanotube,['CNT'],j.progpolymsci.2021.101366
+36,CTP-EP,,,,,,,,,,,,,,Hexa-[4-(glycidyloxycarbonyl),"['CTP', 'EP']",j.progpolymsci.2021.101366
+37,CY,,,,,,,,,,,,,,Char yield,['CY'],j.progpolymsci.2021.101366
+38,D230,,,,,,,,,,,,,,"o, O'-Bis(2-aminopropyl)polypropyleneglyco)",['D230'],j.progpolymsci.2021.101366
+39,DDM,,,,,,,,,,,,,,"4, 4'-Methylene-dianiline",['DDM'],j.progpolymsci.2021.101366
+40,DDM + BPD,,0.75,36.9,0.0,,,86.0,,18.1,160.0,310.0,21.7,31.4,,"['DDM', 'BPD']",j.progpolymsci.2021.101366
+41,DDM + DPT,,0.75,36.5,0.0,,,87.0,,17.8,169.0,322.0,28.6,30.9,,"['DDM', 'DPT']",j.progpolymsci.2021.101366
+42,DDS,,,,,,,,,,,,,,"4, 4'-Diaminodiphenyl sulfone",['DDS'],j.progpolymsci.2021.101366
+43,DDS + DIB,,0.75,36.8,0.0,,,88.0,,24.0,186.0,347.0,58.4,27.3,,"['DDS', 'DIB']",j.progpolymsci.2021.101366
+44,DDS + DIB,,0.75,36.7,0.0,,,89.0,,23.5,192.0,339.0,41.1,24.2,,"['DDS', 'DIB']",j.progpolymsci.2021.101366
+45,DETA,,,,,,,,,,,,,,Diethylenetriamine,['DETA'],j.progpolymsci.2021.101366
+46,DGEBA,,,,,,,,,,,,,,Diglycidyl ether of bisphenol A,['DGEBA'],j.progpolymsci.2021.101366
+47,DICY,,,,,,,,,,,,,,Dicyandiamide,['DICY'],j.progpolymsci.2021.101366
+48,DMA,,,,,,,,,,,,,,Dynamic mechanical analysis,['DMA'],j.progpolymsci.2021.101366
+49,DOPO,,,,,,,,,,,,,,"9, 10-Dihydro-9-oxa-10-phosphaphenanthrene-10- oxide",['DOPO'],j.progpolymsci.2021.101366
+50,DSC,,,,,,,,,,,,,,Differential scanning calorimetry,['DSC'],j.progpolymsci.2021.101366
+51,EHPP,,,,,,,,,,,,,,Phosphonohydrazidic acid,['EHPP'],j.progpolymsci.2021.101366
+52,EP,,,,,,,,,,,,,,Epoxy resin,['EP'],j.progpolymsci.2021.101366
+53,FT-IR,,,,,,,,,,,,,,Fourier transform infrared spectroscopy,"['FT', 'IR']",j.progpolymsci.2021.101366
+54,GO,,,,,,,,,,,,,,Graphene oxide,['GO'],j.progpolymsci.2021.101366
+55,HGCP,,,,,,,,,,,,,,Hexaglycidyl cyclotriphosphazene,['HGCP'],j.progpolymsci.2021.101366
+56,HRR,,,,,,,,,,,,,,Heat release rate,['HRR'],j.progpolymsci.2021.101366
+57,IFR,,,,,,,,,,,,,,Intumescent flame retardant,['IFR'],j.progpolymsci.2021.101366
+58,IPDA,,,,,,,,,,,,,,Isophorone diamine,['IPDA'],j.progpolymsci.2021.101366
+59,LDH,,,,,,,,,,,,,,Layered double hydroxide,['LDH'],j.progpolymsci.2021.101366
+60,LOI,,,,,,,,,,,,,,Limited oxygen index,['LOI'],j.progpolymsci.2021.101366
+61,MCC,,,,,,,,,,,,,,Micro combustion calorimeter,['MCC'],j.progpolymsci.2021.101366
+62,MMT,,,,,,,,,,,,,,Montmorillonite,['MMT'],j.progpolymsci.2021.101366
+63,MeHHPA,,,,,,,,,,,,,,Methylhexahydrophthalic anhydride,['MeHHPA'],j.progpolymsci.2021.101366
+64,MeTHPA,,,,,,,,,,,,,,Methyl tetrahydrophthalic anhydride,['MeTHPA'],j.progpolymsci.2021.101366
+65,NR,,,,,,,,,,,,,,No rating,['NR'],j.progpolymsci.2021.101366
+66,PA,,,,,,,,,,,,,,Phytic acid,['PA'],j.progpolymsci.2021.101366
+67,PEI,,,,,,,,,,,,,,Polyethylenimine,['PEI'],j.progpolymsci.2021.101366
+68,PEPA,,,,,,,,,,,,,,"1-Oxo-4-hydroxymethyl-2,6,7-trioxa-",['PEPA'],j.progpolymsci.2021.101366
+69,PHRR,,,,,,,,,,,,,,Peak heat release rate,['PHRR'],j.progpolymsci.2021.101366
+70,PMDA,,,,,,,,,,,,,,Pyromellitic dianhydride,['PMDA'],j.progpolymsci.2021.101366
+71,PN,,,,,,,,,,,,,,Phenol novolac,['PN'],j.progpolymsci.2021.101366
+72,POSS,,,,,,,,,,,,,,Polyhedral oligomeric silsesquioxane,['POSS'],j.progpolymsci.2021.101366
+73,PPA,,,,,,,,,,,,,,Polyphosphamide,['PPA'],j.progpolymsci.2021.101366
+74,SDR,,,,,,,,,,,,,,Smoke density rate,['SDR'],j.progpolymsci.2021.101366
+75,SEM,,,,,,,,,,,,,,Scanning electron microscopy,['SEM'],j.progpolymsci.2021.101366
+76,SPR,,,,,,,,,,,,,,Smoke production release,['SPR'],j.progpolymsci.2021.101366
+77,T10%,,,,,,,,,,,,,,Temperature at which the thermoset undergoes 10 wt% of weight loss,['T(0.1)'],j.progpolymsci.2021.101366
+78,T2%,,,,,,,,,,,,,,Temperature at which the thermoset undergoes 2 wt% of weight loss,['T(0.02)'],j.progpolymsci.2021.101366
+79,T5%,,,,,,,,,,,,,,Temperature at which the thermoset undergoes 5 wt% of weight loss,['T(0.05)'],j.progpolymsci.2021.101366
+80,TEPA,,,,,,,,,,,,,,Tetraethylenepentamine,['TEPA'],j.progpolymsci.2021.101366
+81,h-BN,,,,,,,,,,,,,,Hexagonal boron nitride,"['h', 'BN']",j.progpolymsci.2021.101366
+82,mPDA,,,,,,,,,,,,,,"1,3-Phenylenediamine",['mPDA'],j.progpolymsci.2021.101366
+83,rGO,,,,,,,,,,,,,,Graphene,['rGO'],j.progpolymsci.2021.101366

@@ -1,0 +1,8 @@
+,Code,CS (MPa) (SD),Viscosity (cp),Samples,Vectors,CS (MPa) (SD)_err,Ref
+0,Different synthesized oligomers,,,,[''],,j.eurpolymj.2004.03.005_5_0
+1,A,235.5,172.0,BTTEMA/TEGDMA,"['BTTEMA', 'TEGDMA']",7.3,j.eurpolymj.2004.03.005_5_0
+2,B,184.8,151.0,BPTEMA/TEGDMA,"['BPTEMA', 'TEGDMA']",15.5,j.eurpolymj.2004.03.005_5_0
+3,C,199.4,84.0,IPTEMA/TEGDMA,"['IPTEMA', 'TEGDMA']",8.0,j.eurpolymj.2004.03.005_5_0
+4,Different glass compositions,,,,[''],,j.eurpolymj.2004.03.005_5_0
+5,A,235.5,172.0,35/6/47/12 (HA/SrF2/ZnO/SiO2),"['HA(0.35)', 'SrF2(0.06)', 'ZnO(0.47)', 'SiO2(0.12)']",7.3,j.eurpolymj.2004.03.005_5_0
+6,D,213.7,172.0,47/6/35/12 (HA/SrF2/ZnO/SiO2),"['HA(0.47)', 'SrF2(0.06)', 'ZnO(0.35)', 'SiO2(0.12)']",10.1,j.eurpolymj.2004.03.005_5_0

@@ -1,0 +1,6 @@
+,Samples,Tensile modulus (GPa),Tensile strength (MPa),Elongation at break (%),% age yielded (%),Tensile modulus (GPa)_err,Tensile strength (MPa)_err,Elongation at break (%)_err,Second heating Tm1 (°C),Second heating Tm2 (C),Second heating AHm1+2 (J/g),Second cooling Tc (C),Second cooling (J/g),Crystallinity X (%),Storage modulus (0°C) (MPa),y-Transition (°C),B-Transition (°C),Vectors,Ref
+0,pCBT,2.8,57.0,7.0,0.0,0.4,5.0,3.0,213.4,224.8,45.2,183.9,48.8,31.8,2810.0,82.9,65.7,['pCBT'],j.eurpolymj.2011.10.017
+1,pCBT/EP 1%,2.9,57.0,12.0,60.0,0.1,1.0,9.0,210.8,222.1,36.7,178.6,40.8,25.8,2072.0,88.4,67.9,"['pCBT', 'EP(0.01)']",j.eurpolymj.2011.10.017
+2,pCBT/EP 2%,2.8,62.0,49.0,80.0,0.1,1.0,25.0,209.3,220.2,34.3,176.0,38.0,24.2,2591.0,94.2,62.3,"['pCBT', 'EP(0.02)']",j.eurpolymj.2011.10.017
+3,pCBT/EP 3%,2.9,60.0,11.0,94.0,0.2,1.0,6.0,207.9,218.4,35.5,168.6,37.4,25.0,2142.0,92.9,62.6,"['pCBT', 'EP(0.03)']",j.eurpolymj.2011.10.017
+4,pCBT/EP 4%,2.7,56.0,11.0,94.0,0.2,2.0,7.0,-,213.2,29.8,164.5,36.4,21.0,2209.0,86.6,60.3,"['pCBT', 'EP(0.04)']",j.eurpolymj.2011.10.017

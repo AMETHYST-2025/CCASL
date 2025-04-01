@@ -1,0 +1,3 @@
+,Samples,LOI (%),TTI (s),PHRR (kW/m²),THR (MJ/m²),TSR (m²/m²),Mechanism,Vectors,Ref
+0,APP-MMT (P),2.1,3.0,115.5,20.5,679.3,Intumescence,['APP-MMT(P)'],j.polymdegradstab.2014.11.017_4_2
+1,OPS/DOPO (P+Si),8.9,8.9,307.8,27.1,207.6,Blowing-out,"['OPS', 'DOPO(P+Si)']",j.polymdegradstab.2014.11.017_4_2

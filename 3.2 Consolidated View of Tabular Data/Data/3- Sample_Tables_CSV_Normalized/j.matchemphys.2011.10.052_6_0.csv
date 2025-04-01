@@ -1,0 +1,22 @@
+,Samples,Fabrication method,"Thermal conductivity, Wm-1 K-¹","Standard deviation, Wm-¹ K-¹",Vectors,Ref
+0,Neat rubbery epoxy (RE),MM,0.1769,0.0003,['EPrubberyEP(RE)'],j.matchemphys.2011.10.052_6_0
+1,Neat glassy epoxy,MM,0.2256,0.0133,['EPglassyEP'],j.matchemphys.2011.10.052_6_0
+2,8 wt.% GNP-5/RE,MM,0.494,0.4281,"['(0.08)GNP-5', 'RE']",j.matchemphys.2011.10.052_6_0
+3,15 wt.% GNP-5/RE,MM,0.5728,0.3848,"['(0.15)GNP-5', 'RE']",j.matchemphys.2011.10.052_6_0
+4,20 wt.% GNP-5/RE,MM,0.7718,0.2227,"['(0.2)GNP-5', 'RE']",j.matchemphys.2011.10.052_6_0
+5,25 wt.% GNP-5/RE,MM,1.1235,0.012,"['(0.25)GNP-5', 'RE']",j.matchemphys.2011.10.052_6_0
+6,30 wt.% GNP-5/RE,MM,1.625,0.0268,"['(0.3)GNP-5', 'RE']",j.matchemphys.2011.10.052_6_0
+7,15 wt.% GNP-5/RE,SM,0.5938,0.4367,"['(0.15)GNP-5', 'RE']",j.matchemphys.2011.10.052_6_0
+8,20 wt.% GNP-5/RE,SM,0.7652,0.332,"['(0.2)GNP-5', 'RE']",j.matchemphys.2011.10.052_6_0
+9,8 wt.% GNP-15/RE,MM,0.6346,0.6115,"['(0.08)GNP-15', 'RE']",j.matchemphys.2011.10.052_6_0
+10,15 wt.% GNP-15/RE,MM,0.8625,0.6738,"['(0.15)GNP-15', 'RE']",j.matchemphys.2011.10.052_6_0
+11,20 wt.% GNP-15/RE,MM,1.652,0.0778,"['(0.2)GNP-15', 'RE']",j.matchemphys.2011.10.052_6_0
+12,25 wt.% GNP-15/RE,MM,2.35,0.0099,"['(0.25)GNP-15', 'RE']",j.matchemphys.2011.10.052_6_0
+13,20 wt.% GNP-15/RE,SM,1.5345,0.077,"['(0.2)GNP-15', 'RE']",j.matchemphys.2011.10.052_6_0
+14,25 wt.% GNP-15/RE,SM,2.155,0.0099,"['(0.25)GNP-15', 'RE']",j.matchemphys.2011.10.052_6_0
+15,2 wt.% GNP-20/RE,SM,0.1916,-,"['(0.02)GNP-20', 'RE']",j.matchemphys.2011.10.052_6_0
+16,8 wt.% GNP-20/RE,SM,0.6665,-,"['(0.08)GNP-20', 'RE']",j.matchemphys.2011.10.052_6_0
+17,12 wt.% GNP-20/RE,SM,1.088,-,"['(0.12)GNP-20', 'RE']",j.matchemphys.2011.10.052_6_0
+18,15 wt.% GNP-20/RE,SM,1.388,-,"['(0.15)GNP-20', 'RE']",j.matchemphys.2011.10.052_6_0
+19,12 wt.% GNP-20/glassy epoxy,SM,1.181,-,"['(0.12)GNP-20', 'glassyEP']",j.matchemphys.2011.10.052_6_0
+20,20 wt.% GNP-15/glassy epoxy,MM,1.385,-,"['(0.2)GNP-15', 'glassyEP']",j.matchemphys.2011.10.052_6_0

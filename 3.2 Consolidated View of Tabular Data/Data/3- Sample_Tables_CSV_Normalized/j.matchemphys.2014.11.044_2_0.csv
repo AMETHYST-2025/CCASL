@@ -1,0 +1,5 @@
+,Samples,Epoxy (wt%),Microcapsules (wt%),WCl6 (wt%),CNTs (wt%),Vectors,Ref
+0,Ep,100.0,-,-,-,['Ep'],j.matchemphys.2014.11.044_2_0
+1,Ep-CNT,98.0,-,-,2.0,"['Ep', 'CNT']",j.matchemphys.2014.11.044_2_0
+2,Ep-Caps,73.0,15.0,12.0,-,"['Ep', 'Caps']",j.matchemphys.2014.11.044_2_0
+3,Ep-CNT-Caps,71.0,15.0,12.0,2.0,"['Ep', 'CNT', 'Caps']",j.matchemphys.2014.11.044_2_0

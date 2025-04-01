@@ -1,0 +1,4 @@
+,Samples,EP,APP-MMT,OPS,DOPO,P content,Si content,Vectors,Ref
+0,Pure EP,100.0,/,/,/,/,/,['EP'],j.polymdegradstab.2014.11.017_2_0
+1,EP/APP-MMT,94.8,10.0,/,/,3.3,/,"['EP', 'APP-MMT']",j.polymdegradstab.2014.11.017_2_0
+2,EP/OPS/DOPO,94.8,/,2.5,2.5,0.54,0.36,"['EP', 'OPS', 'DOPO']",j.polymdegradstab.2014.11.017_2_0

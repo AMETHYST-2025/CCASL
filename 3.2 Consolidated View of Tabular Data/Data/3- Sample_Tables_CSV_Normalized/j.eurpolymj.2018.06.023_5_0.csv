@@ -1,0 +1,7 @@
+,,Samples,Vectors,Ref
+0,UCF,As-spun T700 carbon fiber any oxidative treatment and sizing,"['As', 'spunT(700)carbonfiberanyoxidativetreatmentandsizing']",j.eurpolymj.2018.06.023_5_0
+1,TCF,T700 carbon fiber with oxidized surface,['T(700)carbonfiberwithoxidizedsurface'],j.eurpolymj.2018.06.023_5_0
+2,SCF,T700S carbon fiber with oxidized and epoxy sized surface (commercial product),['T(700)ScarbonfiberwithoxidizedandEPsizedsurface(commercialproduct)'],j.eurpolymj.2018.06.023_5_0
+3,UCFCNT,CNT grown as-spun T700 carbon fiber,"['CNTgrownas', 'spunT(700)carbonfiber']",j.eurpolymj.2018.06.023_5_0
+4,TCFCNT,CNT grown T700 carbon fiber with oxidized surface,['CNTgrownT(700)carbonfiberwithoxidizedsurface'],j.eurpolymj.2018.06.023_5_0
+5,SF,Neat CNT fiber,['CNTfiber'],j.eurpolymj.2018.06.023_5_0

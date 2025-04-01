@@ -1,0 +1,7 @@
+,Samples,Decomposition time (h),Extract yield at 168 h (%),Vectors,Ref
+0,DGEBF/MXDA,50.0,17.0,"['DGEBF', 'MXDA']",j.polymdegradstab.2021.109537_3_0
+1,DGEBF/BAC,33.0,16.0,"['DGEBF', 'BAC']",j.polymdegradstab.2021.109537_3_0
+2,DGEBF/MDA,83.0,17.0,"['DGEBF', 'MDA']",j.polymdegradstab.2021.109537_3_0
+3,DGEBF/IPDA,72.0,18.0,"['DGEBF', 'IPDA']",j.polymdegradstab.2021.109537_3_0
+4,DGEBF/NBDA,40.0,13.0,"['DGEBF', 'NBDA']",j.polymdegradstab.2021.109537_3_0
+5,DGEBF/MPDA,-,11.0,"['DGEBF', 'MPDA']",j.polymdegradstab.2021.109537_3_0

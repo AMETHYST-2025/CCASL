@@ -1,0 +1,6 @@
+,Samples,"T1 ""(°C)",T2 (°C),HCI release ratio (%),Dehydrochlorination efficiency (%),Vectors,Ref
+0,PVC,225.0,264.0,100.0,0.0,['PVC'],j.polymdegradstab.2020.109153_8_0
+1,PVC/Mg-LDH/CNTs,231.0,268.0,77.9,22.1,"['PVC', 'Mg-LDH', 'CNTs']",j.polymdegradstab.2020.109153_8_0
+2,PVC/Zn-LDH/CNTs,229.0,274.0,78.9,21.1,"['PVC', 'Zn-LDH', 'CNTs']",j.polymdegradstab.2020.109153_8_0
+3,PVC/LDH/CNTs,272.0,300.0,57.8,42.2,"['PVC', 'LDH', 'CNTs']",j.polymdegradstab.2020.109153_8_0
+4,PVC/LDH/CNTs,277.0,300.0,35.2,64.8,"['PVC', 'LDH', 'CNTs']",j.polymdegradstab.2020.109153_8_0

@@ -1,0 +1,4 @@
+,Samples,TTI (s),THR (MJ/m²),PHRR (kW/m²),TSP (m²),PSPR (m²/s),MLR (g/s),Residue (wt%),Vectors,TTI (s)_err,THR (MJ/m²)_err,PHRR (kW/m²)_err,TSP (m²)_err,PSPR (m²/s)_err,MLR (g/s)_err,Residue (wt%)_err,Ref
+0,EP,60.0,108.9,703.6,42.0,0.32,0.101,5.3,['EP'],3.0,2.1,10.3,2.9,0.03,0.011,0.7,j.matchemphys.2020.124101_5_0
+1,Al-lignin 20/EP,44.0,57.5,571.0,14.1,0.16,0.066,16.6,"['Al-lignin(20)', 'EP']",2.0,1.9,7.6,3.1,0.02,0.009,1.1,j.matchemphys.2020.124101_5_0
+2,F-lignin@APP20/EP,31.0,53.1,385.4,9.9,0.09,0.049,25.5,"['F-lignin@APP(20)', 'EP']",2.0,1.9,8.0,2.6,0.02,0.005,1.6,j.matchemphys.2020.124101_5_0

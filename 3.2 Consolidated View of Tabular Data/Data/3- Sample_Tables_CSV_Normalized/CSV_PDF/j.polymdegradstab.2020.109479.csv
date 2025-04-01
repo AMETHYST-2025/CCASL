@@ -1,0 +1,5 @@
+,Samples,Elongation at break (%),Impact strength (KJ/m²),Tensile strength (MPa),Elongation at break (%)_err,PHRR (kW/m²),THR (MJ/m²),Residue (wt%),TTI (s),TSR (m²/m²),EHC (MJ/kg),Residue (wt%)_err,TTI (s)_err,EP,DDM,APP,HPCA,Vectors,Ref
+0,EP,4.715,7.1,41.325,0.112,138510.0,931.0,0.1,53.0,498515.0,22.1,0.2,2.0,100.0,25.0,-,-,['EP'],j.polymdegradstab.2020.109479
+1,EP/APP,4.012,6.23,33.895,0.102,126710.0,62.0,32.5,34.0,3501.0,20.14,1.0,1.0,100.0,25.0,14.0,-,"['EP', 'APP']",j.polymdegradstab.2020.109479
+2,EP/APP/HPCA,5.323,8.56,37.1234,0.109,3405.0,53.0,39.9,31.0,219410.0,17.7,1.3,1.0,100.0,25.0,7.0,7.0,"['EP', 'APP', 'HPCA']",j.polymdegradstab.2020.109479
+3,EP/HPCA,6.015,9.94,38.462,0.085,12009.0,841.0,12.1,28.0,351213.0,21.7,1.1,3.0,100.0,25.0,-,14.0,"['EP', 'HPCA']",j.polymdegradstab.2020.109479

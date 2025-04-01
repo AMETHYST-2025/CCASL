@@ -1,0 +1,9 @@
+,Samples,APP:CoSA,Content of APPb (wt%),Content of CoSA b (wt%),LOI (%),UL-94,Dripping,Vectors,Ref
+0,EP,-,0.0,0.0,19.6,N.R.,Yes,['EP'],j.polymdegradstab.2009.01.006_2_0
+1,EP-APP,-,5.0,0.0,27.1,V-0,No,"['EP', 'APP']",j.polymdegradstab.2009.01.006_2_0
+2,EP-APP-CoSA1,149.0,4.97,0.03,28.0,V-0,No,"['EP', 'APP', 'CoSA1']",j.polymdegradstab.2009.01.006_2_0
+3,EP-APP-CoSA2,59.0,4.92,0.08,28.4,V-0,No,"['EP', 'APP', 'CoSA2']",j.polymdegradstab.2009.01.006_2_0
+4,EP-APP-CoSA3,29.0,4.83,0.17,29.4,V-0,No,"['EP', 'APP', 'CoSA3']",j.polymdegradstab.2009.01.006_2_0
+5,EP-APP-CoSA4,19.0,4.75,0.25,28.4,V-0,No,"['EP', 'APP', 'CoSA4']",j.polymdegradstab.2009.01.006_2_0
+6,EP-APP-CoSA5,14.0,4.67,0.33,28.7,V-0,No,"['EP', 'APP', 'CoSA5']",j.polymdegradstab.2009.01.006_2_0
+7,EP-APP2,-,12.5,0.0,28.9,V-0,No,"['EP', 'APP2']",j.polymdegradstab.2009.01.006_2_0

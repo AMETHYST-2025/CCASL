@@ -1,0 +1,11 @@
+,Samples,(1g-1),Tp (°C),E1 (kJ mol-1,E2 (kJ mol-1),InA1,In A2,T(°C),k1 (min⁻¹),k2 (min⁻¹),m,n,m+ n,Of,Vectors,Ref
+0,Acid treated CNFs/epoxy,,,51.34,47.25,16.15,10.01,200.0,0.068,0.179,0.93,1.54,2.47,0.85,"['AcidtreatedCNFs', 'EP']",j.matchemphys.2009.07.045
+1,As-received CNFs/epoxy,,,52.55,46.11,17.06,10.23,200.0,0.063,0.157,1.12,1.56,2.68,0.83,"['As-receivedCNFs', 'EP']",j.matchemphys.2009.07.045
+2,CNFs (1 wt.%)/epoxy,444.0,201.0,,,,,,,,,,,,"['CNFs(0.01)', 'EP']",j.matchemphys.2009.07.045
+3,CNFs (3 wt.%)/epoxy,446.0,201.0,,,,,,,,,,,,"['CNFs(0.03)', 'EP']",j.matchemphys.2009.07.045
+4,CNFs (5 wt.%)/epoxy,439.0,202.0,,,,,,,,,,,,"['CNFs(0.05)', 'EP']",j.matchemphys.2009.07.045
+5,Neat epoxy,440.0,200.0,54.79,41.96,18.89,8.87,200.0,0.065,0.156,1.02,1.64,2.66,0.83,['EP'],j.matchemphys.2009.07.045
+6,Silane treated CNFs/epoxy,,,45.42,49.52,15.78,10.92,200.0,0.071,0.184,1.16,1.51,2.67,0.87,"['SilanetreatedCNFs', 'EP']",j.matchemphys.2009.07.045
+7,Silanized CNFs (1 wt.%)/epoxy,492.0,196.0,,,,,,,,,,,,"['SilanizedCNFs(0.01)', 'EP']",j.matchemphys.2009.07.045
+8,Silanized CNFs (3 wt.%)/epoxy,464.0,201.0,,,,,,,,,,,,"['SilanizedCNFs(0.03)', 'EP']",j.matchemphys.2009.07.045
+9,Silanized CNFs (5 wt.%)/epoxy,452.0,203.0,,,,,,,,,,,,"['SilanizedCNFs(0.05)', 'EP']",j.matchemphys.2009.07.045

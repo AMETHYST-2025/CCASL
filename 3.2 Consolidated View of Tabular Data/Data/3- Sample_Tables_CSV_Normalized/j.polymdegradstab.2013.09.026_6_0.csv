@@ -1,0 +1,8 @@
+,Samples,C (wt%),H (wt%),O (wt%),N (wt%),S (wt%),Vectors,Ref
+0,TGDDM/DDS,66.75,6.35,14.41,8.18,4.3,"['TGDDM', 'DDS']",j.polymdegradstab.2013.09.026_6_0
+1,TGDDM/DDS,64.58,6.43,17.01,7.92,4.06,"['TGDDM', 'DDS']",j.polymdegradstab.2013.09.026_6_0
+2,SR1,82.9,4.89,4.37,6.95,0.89,['SR(1)'],j.polymdegradstab.2013.09.026_6_0
+3,SR2,83.3,4.93,3.81,7.05,0.91,['SR(2)'],j.polymdegradstab.2013.09.026_6_0
+4,SR3,82.07,5.18,4.87,7.04,0.84,['SR(3)'],j.polymdegradstab.2013.09.026_6_0
+5,SR4,81.64,5.36,5.15,7.1,0.75,['SR(4)'],j.polymdegradstab.2013.09.026_6_0
+6,SR5,81.79,5.36,5.07,7.04,0.74,['SR(5)'],j.polymdegradstab.2013.09.026_6_0

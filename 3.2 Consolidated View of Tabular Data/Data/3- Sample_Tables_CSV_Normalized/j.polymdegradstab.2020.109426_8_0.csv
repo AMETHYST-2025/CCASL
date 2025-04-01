@@ -1,0 +1,5 @@
+,Samples,DGEBA (g),DDM (g),BPOPA (g),P content (wt%),UL-94,LOI (%),Vectors,LOI (%)_err,Ref
+0,EP,100.0,25.0,0.0,0.0,No rating,26.2,['EP'],0.3,j.polymdegradstab.2020.109426_8_0
+1,EP/POBDBI-0.5,100.0,25.0,8.96,0.5,V-1,32.5,"['EP', 'POBDBI(0.5)']",0.3,j.polymdegradstab.2020.109426_8_0
+2,EP/POBDBI-0.75,100.0,25.0,13.96,0.75,V-1,35.5,"['EP', 'POBDBI(0.75)']",0.3,j.polymdegradstab.2020.109426_8_0
+3,EP/POBDBI-1.0,100.0,25.0,19.32,1.0,V-0,36.5,"['EP', 'POBDBI(1.0)']",0.3,j.polymdegradstab.2020.109426_8_0

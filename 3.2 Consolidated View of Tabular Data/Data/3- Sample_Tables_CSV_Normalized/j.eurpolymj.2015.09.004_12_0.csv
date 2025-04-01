@@ -1,0 +1,4 @@
+,Samples,Onset (C),Endset (°C),Tg (°C),(Jg 1 °C),Vectors,Ref
+0,Neat epoxy,169.25,190.62,170.26,0.857,['EP'],j.eurpolymj.2015.09.004_12_0
+1,Epoxy/B-MPS,142.53,175.49,156.15,0.905,"['EP', 'B-MPS']",j.eurpolymj.2015.09.004_12_0
+2,Epoxy/B-MPS 4%/PGMA,181.8,195.14,184.03,0.531,"['EP', 'B-MPS(0.04)', 'PGMA']",j.eurpolymj.2015.09.004_12_0

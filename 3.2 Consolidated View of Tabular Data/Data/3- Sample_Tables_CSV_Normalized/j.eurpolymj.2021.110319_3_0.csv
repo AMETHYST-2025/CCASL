@@ -1,0 +1,5 @@
+,Samples,E44 (g),DABP-2DOPO (g),E (mol/100 g),DDM (g),P content (wt%),Curing Ti°C,procedures Tp (C),procedures Tfe (C),Vectors,Ref
+0,EP,100.0,0.0,0.475,23.5,0.0,80.0,130.0,180.0,['EP'],j.eurpolymj.2021.110319_3_0
+1,EP/1%DABP-2DOPO,100.0,1.0,0.467,23.3,0.07,78.8,127.6,186.8,"['EP', '(0.01)DABP-2DOPO']",j.eurpolymj.2021.110319_3_0
+2,EP/5%DABP-2DOPO,100.0,5.0,0.456,23.7,0.34,72.6,130.8,194.9,"['EP', '(0.05)DABP-2DOPO']",j.eurpolymj.2021.110319_3_0
+3,EP/10%DABP-2DOPO,100.0,10.0,0.423,23.0,0.67,81.4,129.7,196.9,"['EP', '(0.1)DABP-2DOPO']",j.eurpolymj.2021.110319_3_0

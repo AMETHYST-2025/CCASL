@@ -1,0 +1,4 @@
+,Samples,Number of Epon Molecules,Number of Jeffamine R Molecules,Total atoms,Vectors,Ref
+0,Epon/J230,1740 molecules with n 0 260 molecules with n 1,400 molecules with n 2 600 molecules with n 3,158180.0,"['Epon', 'J(230)']",j.compositesb.2020.107814_3_1
+1,Epon/J400,1392 molecules with n 0 208 molecules with n 1,720 molecules with n 6 80 molecules with n 7,154544.0,"['Epon', 'J(400)']",j.compositesb.2020.107814_3_1
+2,Epon/J600,1218 molecules with n 0 182 molecules with n 1,700 molecules with n 9,155526.0,"['Epon', 'J(600)']",j.compositesb.2020.107814_3_1

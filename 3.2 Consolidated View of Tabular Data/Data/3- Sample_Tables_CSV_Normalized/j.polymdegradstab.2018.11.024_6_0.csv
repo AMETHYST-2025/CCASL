@@ -1,0 +1,2 @@
+,Samples,TTI (s),PHRR (kW/m²),Time PHRR (s),AvHRR (kW/m²),THR (MJ/m²),TSP (m²),Char (%),MLR (g/s),FIGRA (kW/m²s),Vectors,TTI (s)_err,PHRR (kW/m²)_err,Time PHRR (s)_err,AvHRR (kW/m²)_err,THR (MJ/m²)_err,TSP (m²)_err,Char (%)_err,MLR (g/s)_err,FIGRA (kW/m²s)_err,Ref
+0,EP-0 EP-6,72.0,1050.5,165.0,172.7,101.0,73.9,4.4,17.2,6.4,"['EP', '0EP6']",2.0,60.0,3.5,11.0,1.8,4.3,1.0,1.2,0.3,j.polymdegradstab.2018.11.024_6_0

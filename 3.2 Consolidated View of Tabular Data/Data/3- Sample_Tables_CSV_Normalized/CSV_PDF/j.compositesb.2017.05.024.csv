@@ -1,0 +1,9 @@
+,Samples,TTI (s),PHRR (kW/m²),THR (MJ/m²),SPR (m ²/s),Time PHRR (s),FIGRA (kW/m²s),TTI (s)_err,PHRR (kW/m²)_err,THR (MJ/m²)_err,SPR (m ²/s)_err,Time PHRR (s)_err,C (%),O (%),N (wt%),P (at%),Vectors,Ref
+0,EP,28.0,1725.0,78.2,0.47,54.0,31.9,1.0,33.0,1.4,0.05,2.0,,,,,['EP'],j.compositesb.2017.05.024
+1,EP/PD-rGO10,24.0,821.0,40.5,0.32,53.0,15.5,2.0,19.0,1.9,0.03,3.0,,,,,"['EP', 'PD-rGO(10)']",j.compositesb.2017.05.024
+2,EP/PD-rGO5,25.0,1042.0,49.3,0.31,52.0,20.0,1.0,27.0,2.3,0.03,1.0,,,,,"['EP', 'PD-rGO(5)']",j.compositesb.2017.05.024
+3,EP/PiP-DOPO,24.0,1160.0,54.4,0.35,50.0,23.2,2.0,15.0,1.1,0.04,2.0,,,,,"['EP', 'PiP-DOPO']",j.compositesb.2017.05.024
+4,GO,,,,,,,,,,,,68.9,31.1,-,-,['GO'],j.compositesb.2017.05.024
+5,PD-rGO10,,,,,,,,,,,,76.9,11.7,6.0,5.4,"['PD', 'rGO(10)']",j.compositesb.2017.05.024
+6,PD-rGO5,,,,,,,,,,,,77.2,11.3,5.9,5.6,"['PD', 'rGO(5)']",j.compositesb.2017.05.024
+7,rGO,,,,,,,,,,,,74.0,18.4,7.6,-,['rGO'],j.compositesb.2017.05.024

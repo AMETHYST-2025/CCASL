@@ -1,0 +1,6 @@
+,Samples,DGEBA (g),DDS (g),TGIC-DOPO (g),TGIC-DOPO (wt%),Vectors,Ref
+0,DGEBA/DDS,100.0,31.6,-,-,"['DGEBA', 'DDS']",j.polymdegradstab.2014.05.007_3_1
+1,6%TGIC-DOPO/DGEBA/DDS,100.0,31.6,8.6,6.1,"['(0.06)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007_3_1
+2,8%TGIC-DOPO/DGEBA/DDS,100.0,31.6,11.6,8.1,"['(0.08)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007_3_1
+3,10%TGIC-DOPO/DGEBA/DDS,100.0,31.6,14.9,10.2,"['(0.1)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007_3_1
+4,12%TGIC-DOPO/DGEBA/DDS,100.0,31.6,18.3,12.2,"['(0.12)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007_3_1

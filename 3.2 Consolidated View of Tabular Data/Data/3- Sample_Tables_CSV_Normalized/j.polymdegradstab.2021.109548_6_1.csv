@@ -1,0 +1,5 @@
+,Samples,T5% (°C),Tmax (°C),Char residue (800 °C) (%),Vectors,Ref
+0,VFD,212.0,212.0,23.9,['VFD'],j.polymdegradstab.2021.109548_6_1
+1,EP,371.0,388.0,18.1,['EP'],j.polymdegradstab.2021.109548_6_1
+2,Cal-EP/VFD,364.0,388.0,18.8,"['Cal-EP', 'VFD']",j.polymdegradstab.2021.109548_6_1
+3,Exp-EP/VFD,332.0,368.0,24.5,"['Exp-EP', 'VFD']",j.polymdegradstab.2021.109548_6_1

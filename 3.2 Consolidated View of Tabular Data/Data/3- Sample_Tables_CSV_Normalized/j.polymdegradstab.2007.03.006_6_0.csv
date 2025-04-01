@@ -1,0 +1,4 @@
+,Samples,Tensile properties,,.1,Flexural properties,.2,.3,Vectors,Ref
+0,,Tensile strength (MPa),Tensile modulus (MPa),Strain at break (%),Flexural strength (MPa),Flexural modulus (MPa),Displacement at break (mm),[''],j.polymdegradstab.2007.03.006_6_0
+1,BA-EP,27.2,2980,1.0,53.5,2730,2.8,"['BA', 'EP']",j.polymdegradstab.2007.03.006_6_0
+2,BPHPPO-EP,14.6,3480,0.6,48.7,3060,2.4,"['BPHPPO', 'EP']",j.polymdegradstab.2007.03.006_6_0

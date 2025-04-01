@@ -1,0 +1,7 @@
+,Samples,Tg (°C),Adhesive strength (MPa),Vectors,Adhesive strength (MPa)_err,Ref
+0,DGEBA/3DCM (0 phr),174.9,13.8,"['DGEBA', '3DCM((0)phr)']",0.7,j.ijadhadh.2016.02.011_5_1
+1,DGEBA/3DCM (10 phr),154.2,13.9,"['DGEBA', '3DCM((10)phr)']",0.7,j.ijadhadh.2016.02.011_5_1
+2,DGEBA/3DCM (20 phr),149.7,14.2,"['DGEBA', '3DCM((20)phr)']",0.6,j.ijadhadh.2016.02.011_5_1
+3,DGEBA/3DCM (30 phr),142.3,14.6,"['DGEBA', '3DCM((30)phr)']",0.5,j.ijadhadh.2016.02.011_5_1
+4,DGEBA/IPD (30 phr),109.5,15.5,"['DGEBA', 'IPD((30)phr)']",0.4,j.ijadhadh.2016.02.011_5_1
+5,DGEBA/4MPip (30 phr),63.5,17.2,"['DGEBA', '4MPip(30phr)']",0.4,j.ijadhadh.2016.02.011_5_1

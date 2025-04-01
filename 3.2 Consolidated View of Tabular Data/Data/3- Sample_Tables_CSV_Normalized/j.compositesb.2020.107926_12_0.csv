@@ -1,0 +1,5 @@
+,Samples,C (wt%)',N (wt%),O (wt%),P (wt%),Vectors,Ref
+0,Samples DGEBA/DDM,84.38,4.27,11.35,-,"['DGEBA', 'DDM']",j.compositesb.2020.107926_12_0
+1,Samples B1D9/DDM,80.98,5.13,13.71,0.18,"['B1D9', 'DDM']",j.compositesb.2020.107926_12_0
+2,Samples B2D8/DDM,76.79,5.06,15.26,0.43,"['B2D8', 'DDM']",j.compositesb.2020.107926_12_0
+3,Samples B3D7/DDM,75.76,5.02,17.45,1.77,"['B3D7', 'DDM']",j.compositesb.2020.107926_12_0

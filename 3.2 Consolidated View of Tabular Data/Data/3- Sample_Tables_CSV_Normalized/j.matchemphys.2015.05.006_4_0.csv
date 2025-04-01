@@ -1,0 +1,4 @@
+,Samples,o-Ps lifetime 63 (ns),o-Ps intensity I3 (%),Free volume radius R (À),Fractional free volume FFV (%),Vectors,Ref
+0,DGEBA-MHHPA,1.8216,25.1212,2.6857,3.6693,"['DGEBA', 'MHHPA']",j.matchemphys.2015.05.006_4_0
+1,DGEBA-PMSE-0.2,1.8873,28.5537,2.7498,4.4761,"['DGEBA', 'PMSE(0.2)']",j.matchemphys.2015.05.006_4_0
+2,DGEBA-PMSE-0.4,1.9843,31.9211,2.8409,5.5185,"['DGEBA', 'PMSE(0.4)']",j.matchemphys.2015.05.006_4_0

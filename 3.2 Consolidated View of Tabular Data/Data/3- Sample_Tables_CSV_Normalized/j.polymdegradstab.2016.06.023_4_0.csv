@@ -1,0 +1,10 @@
+,Samples,T5wt% (°C),PMLR (wt%)/s +0.02,TPMLR in °C +,Residue (wt%) +1.0,Cal. residue (wt%),Vectors,Ref
+0,EP,346.0,0.3,373.0,9.5,-,['EP'],j.polymdegradstab.2016.06.023_4_0
+1,MPZnP,345.0,0.05,393.0,41.9,-,['MPZnP'],j.polymdegradstab.2016.06.023_4_0
+2,MPP,383.0,0.08,390.0,27.9,-,['MPP'],j.polymdegradstab.2016.06.023_4_0
+3,AIO(OH),495.0,0.06,521.0,83.2,-,['AIO(OH)'],j.polymdegradstab.2016.06.023_4_0
+4,EP + MPZnP,324.0,0.2,357.0,19.4,16.0,"['EP', 'MPZnP']",j.polymdegradstab.2016.06.023_4_0
+5,EP + MPP,324.0,0.22,349.0,17.6,13.2,"['EP', 'MPP']",j.polymdegradstab.2016.06.023_4_0
+6,EP + AIO(OH),346.0,0.22,373.0,23.9,24.2,"['EP', 'AIO(OH)']",j.polymdegradstab.2016.06.023_4_0
+7,EP + (MPZnP + MPP),324.0,0.21,350.0,18.7,14.6,"['EP', 'MPZnP', 'MPP']",j.polymdegradstab.2016.06.023_4_0
+8,EP + (MPZnP + AIO(OH)),334.0,0.21,362.0,21.1,20.1,"['EP', 'MPZnP', 'AIO(OH)']",j.polymdegradstab.2016.06.023_4_0

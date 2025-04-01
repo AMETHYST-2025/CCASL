@@ -1,0 +1,4 @@
+,Samples,Calculation method Area,Calculation method CBT,Calculation method ECM,Vectors,Calculation method Area_err,Calculation method CBT_err,Calculation method ECM_err,Ref
+0,Epoxy,86.3,87.0,92.1,['EP'],20.3,26.4,18.7,j.ijadhadh.2011.06.016_6_0
+1,Epoxy/CNF,99.1,96.0,96.7,"['EP', 'CNF']",7.7,8.7,8.2,j.ijadhadh.2011.06.016_6_0
+2,Epoxy/CNT,116.8,105.3,105.3,"['EP', 'CNT']",18.6,8.9,7.4,j.ijadhadh.2011.06.016_6_0

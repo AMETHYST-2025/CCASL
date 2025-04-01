@@ -1,0 +1,5 @@
+,Samples,Nitrogen T5% (°C),Nitrogen Tmax b (C),Nitrogen R800C (%),Air T5% (C),Air Tmax1 (C),Air Tmax2 (C),Air Tmax3 (C),Air R800 (%),Vectors,Ref
+0,EP,366.0,390.0,16.3,304.0,299.0,383.0,547.0,1.49,['EP'],j.polymdegradstab.2019.04.022_4_0
+1,EP/10%MFR,291.0,364.0,25.7,280.0,290.0,364.0,556.0,2.88,"['EP', '(0.1)MFR']",j.polymdegradstab.2019.04.022_4_0
+2,EP/15%MFR,281.0,363.0,26.3,277.0,289.0,358.0,564.0,1.14,"['EP', '(0.15)MFR']",j.polymdegradstab.2019.04.022_4_0
+3,EP/20%MFR,274.0,342.0,28.6,263.0,282.0,351.0,575.0,1.5,"['EP', '(0.2)MFR']",j.polymdegradstab.2019.04.022_4_0

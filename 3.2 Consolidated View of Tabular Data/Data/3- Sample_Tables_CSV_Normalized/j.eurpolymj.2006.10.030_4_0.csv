@@ -1,0 +1,5 @@
+,Samples,Curing temperature (°C),Curing time (h),Postcure temperature (°C),Postcure time (h),Vectors,Ref
+0,BGTF/HMPA,120.0,1.0,150.0,2.0,"['BGTF', 'HMPA']",j.eurpolymj.2006.10.030_4_0
+1,BGTF/DDM,150.0,1.0,190.0,2.0,"['BGTF', 'DDM']",j.eurpolymj.2006.10.030_4_0
+2,BADGE/HMPA,130.0,1.0,160.0,2.0,"['BADGE', 'HMPA']",j.eurpolymj.2006.10.030_4_0
+3,BADGE/DDM,160.0,1.0,200.0,2.0,"['BADGE', 'DDM']",j.eurpolymj.2006.10.030_4_0

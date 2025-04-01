@@ -1,0 +1,5 @@
+,Samples,Ecorr VS SCE (mV),icorr (A/cm²),Vcorr mm/year,IE/%,Vectors,Ref
+0,Bare Q235[5],745.0,7.455,0.869,,['BareQ(235)5'],j.cej.2021.131269_6_0
+1,Pure-epoxy,596.0,5.527,6.443,92.586,"['', 'EP']",j.cej.2021.131269_6_0
+2,G-epoxy,574.0,1.956,2.28,97.376,"['G', 'EP']",j.cej.2021.131269_6_0
+3,G-SPANI-LDH-epoxy,531.0,4.921,5.737,99.934,"['G', 'SPANI', 'LDH', 'EP']",j.cej.2021.131269_6_0

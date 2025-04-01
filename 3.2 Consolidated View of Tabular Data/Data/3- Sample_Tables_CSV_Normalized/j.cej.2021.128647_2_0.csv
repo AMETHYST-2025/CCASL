@@ -1,0 +1,5 @@
+,Samples,DBDBBB (g),DGEBA (g),DDS (g),Liquefied temp range (°C),Curing temperature (°C),Vectors,Ref
+0,DBDBBB/ 33DDS,7.56,-,2.48,130.0,210.0,"['DBDBBB', '33DDS']",j.cej.2021.128647_2_0
+1,DBDBBB/ 44DDS,7.56,-,2.48,130.0,210.0,"['DBDBBB', '44DDS']",j.cej.2021.128647_2_0
+2,DGEBA/ 33DDS,-,6.81,2.48,165.0,215.0,"['DGEBA', '33DDS']",j.cej.2021.128647_2_0
+3,DGEBA/ 44DDS,-,6.81,2.48,165.0,215.0,"['DGEBA', '44DDS']",j.cej.2021.128647_2_0

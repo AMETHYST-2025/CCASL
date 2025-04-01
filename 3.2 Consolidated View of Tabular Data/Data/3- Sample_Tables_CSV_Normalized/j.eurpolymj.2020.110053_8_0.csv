@@ -1,0 +1,4 @@
+,Samples,T&/°C,E' (MPa),ve/ x 10 3mol/cm3,Tensile strength (MPa),Tensile modulus (MPa),Elongation at break (%),Td5 (%/°C),Td30 (%/°C),Vectors,Tensile strength (MPa)_err,Tensile modulus (MPa)_err,Elongation at break (%)_err,Ref
+0,DADE-D230,106.0,35.2,3.7,57.4,2523.7,3.1,301.0,346.0,"['DADE', 'D230']",3.6,115.1,0.6,j.eurpolymj.2020.110053_8_0
+1,DGEBA-D230,98.0,16.9,1.8,44.5,2660.6,2.6,361.0,382.0,"['DGEBA', 'D230']",3.4,56.9,0.2,j.eurpolymj.2020.110053_8_0
+2,Reprocessed DADE-D230,97.0,28.4,3.1,47.0,2533.5,2.2,339.0,352.0,"['ReprocessedDADE', 'D230']",4.4,254.5,0.2,j.eurpolymj.2020.110053_8_0

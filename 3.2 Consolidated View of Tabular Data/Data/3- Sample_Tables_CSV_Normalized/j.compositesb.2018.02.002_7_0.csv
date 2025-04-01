@@ -1,0 +1,7 @@
+,Samples,Mixing time,Resin infusion time (Non- treated),Resin infusion time (Plasma- treated),Polymerization induction time,Solidification time,Process cycle time,Vectors,Ref
+0,Neat A-PA6/WCF,3.0,4.03,3.52,24.0,143.0,173.52,"['A-PA6', 'WCF']",j.compositesb.2018.02.002_7_0
+1,CNT/A-PA6/WCF,3.0,4.78,4.52,23.0,69.0,99.52,"['CNT', 'A-PA6', 'WCF']",j.compositesb.2018.02.002_7_0
+2,rGO/A-PA6/WCF,3.0,4.64,4.23,22.0,67.0,96.23,"['rGO', 'A-PA6', 'WCF']",j.compositesb.2018.02.002_7_0
+3,Clay/A-PA6/WCF,3.0,4.23,3.63,25.0,81.0,112.63,"['Clay', 'A-PA6', 'WCF']",j.compositesb.2018.02.002_7_0
+4,GO/A-PA6/WCF,3.0,4.35,3.98,21.0,46.0,73.98,"['GO', 'A-PA6', 'WCF']",j.compositesb.2018.02.002_7_0
+5,xGnP/A-PA6/ WCF,3.0,4.19,3.71,22.0,50.0,78.71,"['xGnP', 'A-PA6', 'WCF']",j.compositesb.2018.02.002_7_0

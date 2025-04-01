@@ -1,0 +1,7 @@
+,Samples,EP (wt%),DDM (wt%),Al-lignin (wt%),F-lignin@APP (wt%),LOI (%),UL-94,Vectors,Ref
+0,EP,83.3,16.7,-,-,26.7,-,['EP'],j.matchemphys.2020.124101_4_1
+1,Al-lignin 15/EP,70.8,14.2,15.0,-,27.9,-,"['Al-lignin(15)', 'EP']",j.matchemphys.2020.124101_4_1
+2,Al-lignin 20/EP,67.7,13.3,20.0,-,28.5,-,"['Al-lignin(20)', 'EP']",j.matchemphys.2020.124101_4_1
+3,F-lignin@APP 15/EP,70.8,14.2,-,15.0,34.2,-,"['F-lignin@APP(15)', 'EP']",j.matchemphys.2020.124101_4_1
+4,F-lignin@APP 18/EP,68.3,13.7,-,18.0,34.7,1.0,"['F-lignin@APP(18)', 'EP']",j.matchemphys.2020.124101_4_1
+5,F-lignin@APP 20/EP,67.7,13.3,-,20.0,36.1,0.0,"['F-lignin@APP(20)', 'EP']",j.matchemphys.2020.124101_4_1

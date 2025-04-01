@@ -1,0 +1,6 @@
+,Samples,Tensile strength (MPa),Strength (MPa),Tensile strength (MPa)_err,Strength (MPa)_err,Epoxy,Nanoclay,MWCNT,Vectors,Ref
+0,GFRP,332.5,373.1,21.6,28.2,100.0,-,-,['GFRP'],j.compositesb.2014.02.016
+1,GFRP + 0.5% CNT,318.8,360.9,4.9,38.5,99.5,-,0.5,"['GFRP', '(0.005)CNT']",j.compositesb.2014.02.016
+2,GFRP + 1% CNT,309.8,370.5,14.7,9.7,99.0,-,1.0,"['GFRP', '(0.01)CNT']",j.compositesb.2014.02.016
+3,GFRP + 1% NC,321.3,364.9,17.6,15.8,99.0,1.0,-,"['GFRP', '(0.01)NC']",j.compositesb.2014.02.016
+4,GFRP + 3% NC,305.4,319.6,15.5,12.4,97.0,3.0,-,"['GFRP', '(0.03)NC']",j.compositesb.2014.02.016

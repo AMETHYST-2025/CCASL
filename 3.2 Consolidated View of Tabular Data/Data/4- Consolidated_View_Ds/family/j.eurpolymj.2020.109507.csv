@@ -1,0 +1,14 @@
+,Samples,"Heat conduction coefficient, W/mK",The molar ratio of functional groups *Mass fraction of the whole,Tg (°C),E' (40 °C) (MPa),Maximum temperature of crosslinking peak (°C),"Curing enthalpy, J/g (kJ/mole of epoxy groups)",Impact strength (),Vectors,Ref
+0,DGEBA/BN,0.2,,,,,,,"['DGEBA', 'BN']",j.eurpolymj.2020.109507
+1,DGETAM (isotropic phase),0.35,,,,,,,['DGETAM(isotropicphase)'],j.eurpolymj.2020.109507
+2,DGETAM (multi-domain LC phase),0.38,,,,,,,['DGETAM(multi-domainLCphase)'],j.eurpolymj.2020.109507
+3,DMAP,,,,,,,,['DMAP'],j.eurpolymj.2020.109507
+4,LCERisotropic/DAT,,,,,,,170.0,"['LCERisotropic', 'DAT']",j.eurpolymj.2020.109507
+5,LCERmezophase/DAT,,,,,,,170.0,"['LCERmezophase', 'DAT']",j.eurpolymj.2020.109507
+6,LCERmezophase/DAT/Carbon Fibre,,,,,,,7.61,"['LCERmezophase', 'DAT', 'CarbonFibre']",j.eurpolymj.2020.109507
+7,MU22/DDM,,1.0,110.0,1045.0,190.5,133.7,,"['MU22', 'DDM']",j.eurpolymj.2020.109507
+8,MU22/DMAP,,1.0,114.0,986.0,189.0,240.6,,"['MU22', 'DMAP']",j.eurpolymj.2020.109507
+9,MU22/POSS-OG/,,1.0,88.0,1271.0,172.5,192.9,,"['MU22', 'POSS-OG', '']",j.eurpolymj.2020.109507
+10,MU22/POSS-OG/DDM,,1.0,101.0,2450.0,175.0,86.4,,"['MU22', 'POSS-OG', 'DDM']",j.eurpolymj.2020.109507
+11,MU22/POSS-OG/SA,,1.0,31.0,2023.0,210.0,108.2,,"['MU22', 'POSS-OG', 'SA']",j.eurpolymj.2020.109507
+12,MU22/SA,,1.0,36.0,1317.0,203.5,119.3,,"['MU22', 'SA']",j.eurpolymj.2020.109507

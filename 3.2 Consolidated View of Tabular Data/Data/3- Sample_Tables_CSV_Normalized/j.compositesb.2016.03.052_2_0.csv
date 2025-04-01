@@ -1,0 +1,7 @@
+,Samples,EG/GO-filled epoxy EG (wt%),composites GO (wt%),Vectors,Ref
+0,DGEBA,0.0,0.0,['DGEBA'],j.compositesb.2016.03.052_2_0
+1,DGEBA/EG1,1.0,0.0,"['DGEBA', 'EG(1)']",j.compositesb.2016.03.052_2_0
+2,DGEBA/EG0.75/GO0.25,0.75,0.25,"['DGEBA', 'EG(0.75)', 'GO(0.25)']",j.compositesb.2016.03.052_2_0
+3,DGEBA/EGo.5/GO0.5,0.5,0.5,"['DGEBA', 'EGo(.5)', 'GO(0.5)']",j.compositesb.2016.03.052_2_0
+4,DGEBA/EGo.25/GO0.75,0.25,0.75,"['DGEBA', 'EGo(.25)', 'GO(0.75)']",j.compositesb.2016.03.052_2_0
+5,DGEBA/GO1,0.0,1.0,"['DGEBA', 'GO1']",j.compositesb.2016.03.052_2_0

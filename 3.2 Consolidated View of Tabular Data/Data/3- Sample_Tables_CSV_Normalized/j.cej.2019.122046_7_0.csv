@@ -1,0 +1,9 @@
+,Samples,LOI (%),UL-94,vertical burning test,.1,Vectors,Ref
+0,,,Ratings,Self-extinguishment,Blowing-out,[''],j.cej.2019.122046_7_0
+1,EP,24.2,NR,No,No,['EP'],j.cej.2019.122046_7_0
+2,EP/2LDH-CD-Ferr,28.5,NR,Yes,Weak,"['EP', '(2)LDH-CD-Ferr']",j.cej.2019.122046_7_0
+3,EP/4LDH-CD-Ferr,28.9,V-1,Yes,Medium,"['EP', '(4)LDH-CD-Ferr']",j.cej.2019.122046_7_0
+4,EP/6LDH-CD-Ferr,29.2,V-1,Yes,Strong,"['EP', '(6)LDH-CD-Ferr']",j.cej.2019.122046_7_0
+5,EP/8LDH-CD-Ferr,28.8,NR,Yes,Medium,"['EP', '(8)LDH-CD-Ferr']",j.cej.2019.122046_7_0
+6,EP/6LDH-CD + Ferr,27.8,NR,Yes,Weak,"['EP', '(6)LDH-CD+Ferr']",j.cej.2019.122046_7_0
+7,EP/6LDH-CD,25.4,NR,No,Weak,"['EP', '(6)LDH-CD']",j.cej.2019.122046_7_0

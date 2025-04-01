@@ -1,0 +1,6 @@
+,Samples,Strength (MPa),Elongation at break (%),Modulus (MPa),Vectors,Strength (MPa)_err,Elongation at break (%)_err,Modulus (MPa)_err,Ref
+0,Neat PLLA,39.24,7.82,1053.74,['EPPLLA'],2.79,0.92,91.62,j.eurpolymj.2013.11.005_4_0
+1,PLLA/Me-MQ (1%),39.47,67.87,938.11,"['PLLA', 'Me-MQ(0.01)']",3.79,13.63,72.08,j.eurpolymj.2013.11.005_4_0
+2,PLLA/Me-MQ (2%),37.02,217.72,910.32,"['PLLA', 'Me-MQ(0.02)']",3.49,11.23,72.34,j.eurpolymj.2013.11.005_4_0
+3,PLLA/Me-MQ (4%),39.05,185.3,852.77,"['PLLA', 'Me-MQ(0.04)']",1.65,21.84,42.33,j.eurpolymj.2013.11.005_4_0
+4,PLLA/Me-MQ (6%),35.49,139.89,872.98,"['PLLA', 'Me-MQ(0.06)']",3.62,16.09,86.97,j.eurpolymj.2013.11.005_4_0

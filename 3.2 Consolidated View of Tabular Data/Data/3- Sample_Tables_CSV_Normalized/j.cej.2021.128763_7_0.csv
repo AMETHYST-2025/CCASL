@@ -1,0 +1,7 @@
+,Samples,SBET,Vt (cm3.g-1),dp (nm)b,Curve type,Vectors,Ref
+0,CNT-SD,112.0,0.58,2.6,IVa,"['CNT', 'SD']",j.cej.2021.128763_7_0
+1,CNT-SD_DETASi,88.0,0.37,1.9,,"['CNT', 'SD_DETASi']",j.cej.2021.128763_7_0
+2,CNT-OH,103.0,0.54,2.5,,"['CNT', 'OH']",j.cej.2021.128763_7_0
+3,CNT-OH_DETASI,83.0,0.34,1.9,,"['CNT', 'OH_DETASI']",j.cej.2021.128763_7_0
+4,CNT-COOH,121.0,0.63,1.3,,"['CNT', 'COOH']",j.cej.2021.128763_7_0
+5,CNT-COOH_DETASi,74.0,0.35,1.9,,"['CNT', 'COOH_DETASi']",j.cej.2021.128763_7_0

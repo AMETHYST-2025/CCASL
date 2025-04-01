@@ -1,0 +1,7 @@
+,Samples,Contact angles (°) Owater,Contact angles (°) Odiiodomethan,Surface d Y,energy (mN.m-) yP,energy (mN.m-) Y,Vectors,Contact angles (°) Owater_err,Contact angles (°) Odiiodomethan_err,Ref
+0,Untreated CF,85.68,64.6,25.93,4.63,30.56,['UntreatedCF'],2.0,2.0,j.compositesb.2019.107078_6_0
+1,CF-GO 0.5,59.25,50.22,34.15,15.07,49.22,"['CF', 'GO(0.5)']",2.0,2.0,j.compositesb.2019.107078_6_0
+2,CF-GO-TCT-DETA 0.1,51.98,45.37,36.81,18.23,55.04,"['CF', 'GO', 'TCT', 'DETA(0.1)']",2.0,2.0,j.compositesb.2019.107078_6_0
+3,CF-GO-TCT-DETA 0.5,41.32,39.62,39.8,23.04,62.84,"['CF', 'GO', 'TCT', 'DETA(0.5)']",2.0,2.0,j.compositesb.2019.107078_6_0
+4,CF-GO-TCT-DETA 1.0,34.69,33.58,42.67,25.17,67.78,"['CF', 'GO', 'TCT', 'DETA(1.0)']",2.0,2.0,j.compositesb.2019.107078_6_0
+5,CF-GO-TCT-DETA 1.5,37.57,31.34,43.66,23.2,66.86,"['CF', 'GO', 'TCT', 'DETA(1.5)']",2.0,2.0,j.compositesb.2019.107078_6_0

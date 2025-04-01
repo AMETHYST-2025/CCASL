@@ -1,0 +1,6 @@
+,Samples,D Peak Peak position (cm⁻¹),D Peak Half- height width (1/cm),G Peak Peak position (cm-¹),G Peak Half- height width (cm-1),R ( ID/ IG ),I/(IG + I),Vectors,Ref
+0,CF,24808.0,284.0,15836.0,105.0,1.567,0.61,['CF'],j.matchemphys.2020.123677_4_0
+1,CF/ 0.025 g CMC,42652.0,302.0,20392.0,104.0,2.092,0.677,"['CF', '(0.025)gCMC']",j.matchemphys.2020.123677_4_0
+2,CF/ 0.050 g CMC,161525.0,307.0,76359.0,103.0,2.115,0.679,"['CF', '(0.050)gCMC']",j.matchemphys.2020.123677_4_0
+3,CF/ 0.075 g CMC,205968.0,326.0,88048.0,99.0,2.339,0.701,"['CF', '(0.075)gCMC']",j.matchemphys.2020.123677_4_0
+4,CF/ 0.100 g CMC,198020.0,341.0,70165.0,97.0,2.822,0.738,"['CF', '(0.100)gCMC']",j.matchemphys.2020.123677_4_0

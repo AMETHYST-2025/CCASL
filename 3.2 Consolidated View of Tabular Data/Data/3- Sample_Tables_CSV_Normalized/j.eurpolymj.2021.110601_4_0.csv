@@ -1,0 +1,8 @@
+,Samples,T5% (°C),T50% I 1 (°C),Char residue (800 °C),Vectors,Ref
+0,EP,367.5,402.2,16.82,['EP'],j.eurpolymj.2021.110601_4_0
+1,EP/APP5,327.8,385.7,23.83,"['EP', 'APP5']",j.eurpolymj.2021.110601_4_0
+2,EP/APP@ATNi5,335.5,377.3,24.68,"['EP', 'APP@ATNi(5)']",j.eurpolymj.2021.110601_4_0
+3,EP/,334.3,384.5,29.09,['EP'],j.eurpolymj.2021.110601_4_0
+4,APP@ATNi10,,,,['APP@ATNi(10)'],j.eurpolymj.2021.110601_4_0
+5,EP/,340.6,387.4,27.0,['EP'],j.eurpolymj.2021.110601_4_0
+6,APP@ATNi15,,,,['APP@ATNi(15)'],j.eurpolymj.2021.110601_4_0

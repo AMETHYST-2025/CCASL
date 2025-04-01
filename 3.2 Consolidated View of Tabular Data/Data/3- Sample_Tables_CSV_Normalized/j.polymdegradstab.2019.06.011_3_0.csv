@@ -1,0 +1,5 @@
+,Samples,EP (g),DDM (g),DOPMPA (g),DOPMPA (wt%),UL-94,,Vectors,Ref
+0,EP,30.0,7.8,0.0,0.0,N.R,2.0,['EP'],j.polymdegradstab.2019.06.011_3_0
+1,EP/10% DOPMPA,30.0,7.8,4.2,10.0,N.R,2.0,"['EP', '(0.1)DOPMPA']",j.polymdegradstab.2019.06.011_3_0
+2,EP/13% DOPMPA,30.0,7.8,5.65,13.0,V-0,3.0,"['EP', '(0.13)DOPMPA']",j.polymdegradstab.2019.06.011_3_0
+3,EP/15% DOPMPA,30.0,7.8,6.67,15.0,V-0,3.0,"['EP', '(0.15)DOPMPA']",j.polymdegradstab.2019.06.011_3_0

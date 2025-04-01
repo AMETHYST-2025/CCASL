@@ -1,0 +1,6 @@
+,Samples,PHRR (kW/m²),THR (MJ/m²),TSP (m²),Time PHRR (s),Vectors,PHRR (kW/m²)_err,THR (MJ/m²)_err,TSP (m²)_err,Time PHRR (s)_err,Ref
+0,EP,1357.0,119.7,53.6,160.0,['EP'],28.0,2.1,0.4,5.0,j.compositesb.2020.108271_8_0
+1,CePhP-PGO/EP,497.0,73.3,36.9,145.0,"['CePhP-PGO', 'EP']",13.0,1.9,0.5,5.0,j.compositesb.2020.108271_8_0
+2,AlPhP-PGO/EP,628.0,78.9,40.0,150.0,"['AlPhP-PGO', 'EP']",15.0,1.4,0.7,5.0,j.compositesb.2020.108271_8_0
+3,CoPhP-PGO/EP,787.0,92.8,45.1,145.0,"['CoPhP-PGO', 'EP']",16.0,2.0,0.8,5.0,j.compositesb.2020.108271_8_0
+4,ZnPhP-PGO/EP,795.0,99.2,47.4,150.0,"['ZnPhP-PGO', 'EP']",19.0,1.8,0.7,5.0,j.compositesb.2020.108271_8_0

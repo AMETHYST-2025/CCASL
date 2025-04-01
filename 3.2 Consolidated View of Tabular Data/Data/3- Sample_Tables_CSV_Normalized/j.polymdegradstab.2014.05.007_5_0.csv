@@ -1,0 +1,6 @@
+,Samples,TTI (s),HRR (kW/m²),PHRR (kW/m²),EHC (MJ/kg),THR (MJ/m²),COY (kg/kg),CO₂Y (kg/kg),Vectors,Ref
+0,DGEBA/DDS,65.0,194.0,966.0,24.0,102.0,0.095,2.087,"['DGEBA', 'DDS']",j.polymdegradstab.2014.05.007_5_0
+1,6%TGIC-DOPO/DGEBA/DDS,54.0,135.0,800.0,22.0,75.0,0.154,1.94,"['(0.06)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007_5_0
+2,8%TGIC-DOPO/DGEBA/DDS,54.0,141.0,680.0,20.0,76.0,0.151,1.753,"['(0.08)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007_5_0
+3,10%TGIC-DOPO/DGEBA/DDS,50.0,131.0,520.0,19.0,71.0,0.14,1.521,"['(0.1)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007_5_0
+4,12%TGIC-DOPO/DGEBA/DDS,48.0,113.0,481.0,17.0,61.0,0.135,1.482,"['(0.12)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007_5_0

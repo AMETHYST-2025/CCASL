@@ -1,0 +1,8 @@
+,Samples,DMA Tg (°C),DMA E'190 MPa,DMA Tang,The 3-point Strain (%),blending Stress (Mpa),Vectors,DMA Tg (°C)_err,DMA E'190 MPa_err,DMA Tang_err,The 3-point Strain (%)_err,blending Stress (Mpa)_err,Ref
+0,EP,151.3,16.8,0.559,0.059,107.9,['EP'],0.2,0.1,0.005,0.001,1.6,j.compositesb.2020.108271_6_1
+1,GO/EP,155.9,24.4,,0.058,105.7,"['GO', 'EP']",0.1,0.2,0.442,0.001,1.5,j.compositesb.2020.108271_6_1
+2,CePhP- PGO/EP,167.0,25.3,0.636,0.063,111.9,"['CePhP-PGO', 'EP']",0.3,0.2,0.008,0.002,1.8,j.compositesb.2020.108271_6_1
+3,AlPhP-PGO/ EP,169.8,25.8,,0.062,110.1,"['AlPhP-PGO', 'EP']",0.2,0.4,0.597,0.004,2.0,j.compositesb.2020.108271_6_1
+4,CoPhP- PGO/EP,168.5,31.4,0.605,0.065,114.9,"['CoPhP-PGO', 'EP']",0.1,0.3,0.012,0.002,1.7,j.compositesb.2020.108271_6_1
+5,ZnPhP-,168.0,29.0,0.655,0.064,115.0,['ZnPhP-'],0.4,0.8,,,0.0,j.compositesb.2020.108271_6_1
+6,PGO/EP,,,,,,"['PGO', 'EP']",0.1,0.3,0.011,0.003,1.9,j.compositesb.2020.108271_6_1

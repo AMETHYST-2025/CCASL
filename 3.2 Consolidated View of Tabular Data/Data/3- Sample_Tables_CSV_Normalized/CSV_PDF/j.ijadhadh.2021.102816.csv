@@ -1,0 +1,8 @@
+,Samples,Epoxy resin (g),PEEKTOH (wt. % w.r.t. epoxy),Epoxy value (eq/kg),Initial contact angle (°),Stabilized contact angle (°),Tg experimental (°C),Tg predicted (°C),Vectors,Ref
+0,EP-NEAT,100.0,0.0,5.4,,,74.0,,"['EP', 'NEAT']",j.ijadhadh.2021.102816
+1,EP-PEEKTOH (10),100.0,10.0,4.9,,,75.0,76.0,"['EP', 'PEEKTOH(10)']",j.ijadhadh.2021.102816
+2,EP-PEEKTOH (15),100.0,15.0,4.7,,,80.0,79.0,"['EP', 'PEEKTOH(15)']",j.ijadhadh.2021.102816
+3,EP-PEEKTOH (5),100.0,5.0,5.3,,,77.0,76.0,"['EP', 'PEEKTOH(5)']",j.ijadhadh.2021.102816
+4,EP-PEEKTOH blend (10 wt %),,,,92.0,70.0,,,"['EP', 'PEEKTOHblend((0.1))']",j.ijadhadh.2021.102816
+5,EP-PEEKTOH blend (15 wt %),,,,123.0,82.0,,,"['EP', 'PEEKTOHblend((0.15))']",j.ijadhadh.2021.102816
+6,EP-PEEKTOH blend (5 wt %),,,,66.0,42.0,,,"['EP', 'PEEKTOHblend((0.05))']",j.ijadhadh.2021.102816

@@ -1,0 +1,13 @@
+,Samples,F-content (wt%),Contact angle of water (°),Nitrogen T5% (°C),Nitrogen Tmax (°C),atmosphere IPDT (°C),"atmosphere Char (700 °C, wt%)",Air T5% (°C),atmosphere Tmax (°C),atmosphere.1$ IPDT (C),"atmosphere Char (700 O C, wt%)","atmosphere.1$$$ Char (700 O C, wt%)",Storage modulus (MPa),Tg (DMA) (°C),Tg (DSC) (°C),Vectors,Ref
+0,3F-PFE-2MI,14.04,95.88,,,,,,,,,,,,,"['3F', 'PFE', '2MI']",j.polymdegradstab.2012.02.012
+1,3F-PFE-D230,11.6,96.73,,,,,,,,,,,,,"['3F', 'PFE', 'D230']",j.polymdegradstab.2012.02.012
+2,3F-PFE-DDM,12.03,98.08,,,,,,,,,,,,,"['3F', 'PFE', 'DDM']",j.polymdegradstab.2012.02.012
+3,3F-PFE-PA,11.11,105.5,,,,,,,,,,,,,"['3F', 'PFE', 'PA']",j.polymdegradstab.2012.02.012
+4,3F-PQE-2MI,,,,,,,,,,,,1522.0,109.0,95.0,"['3F', 'PQE', '2MI']",j.polymdegradstab.2012.02.012
+5,3F-PQE-D230,,,,,,,,,,,,2230.0,81.0,75.0,"['3F', 'PQE', 'D230']",j.polymdegradstab.2012.02.012
+6,3F-PQE-DDM,,,,,,,,,,,,1283.0,145.0,135.0,"['3F', 'PQE', 'DDM']",j.polymdegradstab.2012.02.012
+7,3F-PQE-PA,,,,,,,,,,,,2563.0,114.0,92.0,"['3F', 'PQE', 'PA']",j.polymdegradstab.2012.02.012
+8,3F-epxoy-2MI,,,337.5,427.6,637.6,19.2,347.6,436.7,470.7,0.2,,,,,"['3F', 'epxoy', '2MI']",j.polymdegradstab.2012.02.012
+9,3F-epxoy-D230,,,335.4,369.0,454.4,7.7,291.4,356.7,411.6,0.1,,,,,"['3F', 'epxoy', 'D230']",j.polymdegradstab.2012.02.012
+10,3F-epxoy-DDM,,,362.3,386.0,670.9,21.8,355.6,377.0,469.3,0.0,,,,,"['3F', 'epxoy', 'DDM']",j.polymdegradstab.2012.02.012
+11,3F-epxoy-PA,,,358.7,396.1,485.7,5.3,355.2,401.7,437.0,0.0,,,,,"['3F', 'epxoy', 'PA']",j.polymdegradstab.2012.02.012

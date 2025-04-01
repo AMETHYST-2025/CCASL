@@ -1,0 +1,10 @@
+,Samples,E'G (GPa),Tx (°C),o (S/m) Transversal,o (S/m) Longitudinal,Vectors,Ref
+0,Neat epoxy resin,2.1,181.4,10.0,,['EP'],j.compositesb.2012.10.002_5_0
+1,0.1-CNT,2.49,174.3,6.34,6.07,['(0.1)CNT'],j.compositesb.2012.10.002_5_0
+2,0.1-CNT-CM,2.38,167.2,2.0,8.64,"['(0.1)CNT', 'CM']",j.compositesb.2012.10.002_5_0
+3,0.1-FeO-CNT,2.63,164.8,3.81,3.32,"['(0.1)FeO', 'CNT']",j.compositesb.2012.10.002_5_0
+4,0.1-FeO-CNT-CM,2.39,165.2,8.95,5.21,"['(0.1)FeO', 'CNT', 'CM']",j.compositesb.2012.10.002_5_0
+5,0.25-CNT,2.55,170.7,1.0,9.36,['(0.25)CNT'],j.compositesb.2012.10.002_5_0
+6,0.25-CNT-CM,2.48,168.2,9.36,4.09,"['(0.25)CNT', 'CM']",j.compositesb.2012.10.002_5_0
+7,0.25-FeO-CNT,2.4,170.0,4.77,3.32,"['(0.25)FeO', 'CNT']",j.compositesb.2012.10.002_5_0
+8,0.25-FeO-CNT-CM,2.3,168.8,2.05,9.45,"['(0.25)FeO', 'CNT', 'CM']",j.compositesb.2012.10.002_5_0

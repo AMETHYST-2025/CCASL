@@ -1,0 +1,6 @@
+,Samples,IDDRA/MNA ratio,LOI (%),Tensile strength (MPa),Elongation at break (%),Vectors,Ref
+0,GEBA/IDDRA/MNA-1,60.0,22.8,34.2,93.9,"['GEBA', 'IDDRA', 'MNA(1)']",j.compositesb.2019.107487_48_0
+1,GEBA/IDDRA/MNA-2,70.0,23.0,21.9,135.7,"['GEBA', 'IDDRA', 'MNA(2)']",j.compositesb.2019.107487_48_0
+2,GEBA/IDDRA/MNA-3,80.0,23.6,7.7,314.1,"['GEBA', 'IDDRA', 'MNA(3)']",j.compositesb.2019.107487_48_0
+3,GEBA/IDDRA/MNA-4,90.0,24.2,0.9,348.0,"['GEBA', 'IDDRA', 'MNA(4)']",j.compositesb.2019.107487_48_0
+4,GEBA/IDDRA,/,24.8,0.3,400.0,"['GEBA', 'IDDRA']",j.compositesb.2019.107487_48_0

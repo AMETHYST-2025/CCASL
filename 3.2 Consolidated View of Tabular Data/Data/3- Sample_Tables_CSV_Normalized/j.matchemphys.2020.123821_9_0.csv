@@ -1,0 +1,8 @@
+,Samples,Filler (%),Onset Point (°C),Major Degradation (°C),Residue Left (%),Vectors,Ref
+0,SS-Neat,0.0,315.51,335.72,4.364,['SS-EP'],j.matchemphys.2020.123821_9_0
+1,SS/ GC3D,1.0,328.49,353.86,6.108,"['SS', 'GC(3)D']",j.matchemphys.2020.123821_9_0
+2,SS/ GC3D,2.0,328.8,360.96,5.759,"['SS', 'GC(3)D']",j.matchemphys.2020.123821_9_0
+3,SS/ GC3D,3.0,327.0,350.71,6.577,"['SS', 'GC(3)D']",j.matchemphys.2020.123821_9_0
+4,SS/ BORG,1.0,325.97,343.11,7.349,"['SS', 'BORG']",j.matchemphys.2020.123821_9_0
+5,SS/ BORG,2.0,326.74,352.85,6.681,"['SS', 'BORG']",j.matchemphys.2020.123821_9_0
+6,SS/ BORG,3.0,327.89,354.61,7.433,"['SS', 'BORG']",j.matchemphys.2020.123821_9_0

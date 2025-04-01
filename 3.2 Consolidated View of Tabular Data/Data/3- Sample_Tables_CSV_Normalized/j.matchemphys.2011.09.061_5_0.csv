@@ -1,0 +1,4 @@
+,Samples,Molecular weight (gmol-1),Inhibitor content (ppm),Viscosity (cP),nD20d,Theoretical heat of polymerization (Jg),Vectors,Ref
+0,BPA-PDA,568.71,300.0,2100b,1.521,303.1,"['BPA', 'PDA']",j.matchemphys.2011.09.061_5_0
+1,BPA-PGDA,600.7,1000.0,"59,900°",1.476,287.0,"['BPA', 'PGDA']",j.matchemphys.2011.09.061_5_0
+2,MI-POSS,943.64,-,White powder,-,58.1,"['MI', 'POSS']",j.matchemphys.2011.09.061_5_0

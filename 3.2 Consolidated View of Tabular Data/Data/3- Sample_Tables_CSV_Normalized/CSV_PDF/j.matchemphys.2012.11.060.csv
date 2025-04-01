@@ -1,0 +1,4 @@
+,Samples,Flexural strength (MPa),Impact strength (KJ/m²),Shear strength (MPa),Gel time (25 °C) (min),Flexural strength (MPa)_err,Impact strength (KJ/m²)_err,Shear strength (MPa)_err,.1,.2,Eg (kJ/mol),R,R5,ΔH (kJ/mol),a Relaxation ASt JK mol-¹,a Relaxation Tloss °C,B Relaxation kJ mol 1,B Relaxation AS+JK-1 mol-¹,B Relaxation Tloss °C,Vectors,Ref
+0,DGEBA/1.0GPPI,96.8,2.3,4.0,130.0,4.3,0.7,0.4,Tan o,713.0,71.7,0.984,0.987,709.0,1630.0,141.3,69.8,222.0,43.2,"['DGEBA', '1.0GPPI']",j.matchemphys.2012.11.060
+1,DGEBA/PAN4,51.8,9.8,16.1,720.0,2.3,1.5,1.0,Tan o,309.0,65.0,0.995,0.994,306.0,902.0,38.4,63.3,223.0,65.4,"['DGEBA', 'PAN4']",j.matchemphys.2012.11.060
+2,DGEBA/propanediamine,102.0,3.2,2.4,170.0,6.1,0.0,0.4,,,,,,,,,,,,"['DGEBA', 'propanediamine']",j.matchemphys.2012.11.060

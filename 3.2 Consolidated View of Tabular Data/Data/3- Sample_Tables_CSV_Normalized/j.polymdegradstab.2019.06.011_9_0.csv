@@ -1,0 +1,4 @@
+,Samples,Tensile strength (MPa),Flexural strength (MPa),Impact strength (KJ/m²),Vectors,Ref
+0,EP,82.0,78.0,46.0,['EP'],j.polymdegradstab.2019.06.011_9_0
+1,EP/13% DOPMPA,61.0,55.0,35.0,"['EP', '(0.13)DOPMPA']",j.polymdegradstab.2019.06.011_9_0
+2,EP/15% DOPMPA,56.0,49.0,32.0,"['EP', '(0.15)DOPMPA']",j.polymdegradstab.2019.06.011_9_0

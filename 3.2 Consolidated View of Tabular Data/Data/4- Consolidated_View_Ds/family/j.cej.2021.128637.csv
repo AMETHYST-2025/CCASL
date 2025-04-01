@@ -1,0 +1,8 @@
+,Samples,Disbonding radius repeat 1 (mm),Disbonding radius repeat 2 (mm),Disbonding radius repeat 3 (mm),Average (mm),Ecorr VS SCE (V),2 corr (uA/ cm ²,Ba 3 (V/ dec),BACK (V/ dec),Corrosion Rate (mm/year),Vectors,Ref
+0,Blank (NaCl),,,,,0.73,8.13,0.088,0.199,0.026,['Blank(NaCl)'],j.cej.2021.128637
+1,Blank/EP,9.5,11.5,11.5,10.8,,,,,,['Blank/EP'],j.cej.2021.128637
+2,O-MWCNT- PANI,,,,,0.7212,3.75,0.06,0.096,0.012,"['O', 'MWCNT', 'PANI']",j.cej.2021.128637
+3,O-MWCNT- PANI-Zn,,,,,0.7079,2.39,0.054,0.06,0.007,"['O', 'MWCNT', 'PANI', 'Zn']",j.cej.2021.128637
+4,O-MWCNT- PANI-Zn/ EP,4.5,5.0,4.0,4.5,,,,,,"['O', 'MWCNT', 'PANI', 'Zn/EP']",j.cej.2021.128637
+5,O-MWCNT- PANI/EP,6.0,6.5,7.5,6.6,,,,,,"['O', 'MWCNT', 'PANI/EP']",j.cej.2021.128637
+6,O-MWCNT/ EP,10.0,10.0,11.5,10.5,,,,,,"['O', 'MWCNT/EP']",j.cej.2021.128637

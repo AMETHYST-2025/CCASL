@@ -1,0 +1,7 @@
+,Samples,Epoxy (g),Hardener (g),Decomposition time (h),Extract yield at 168 h (%),Vectors,Ref
+0,DGEBF/BAC,100.0,21.0,33.0,16.0,"['DGEBF', 'BAC']",j.polymdegradstab.2021.109537
+1,DGEBF/IPDA,100.0,25.0,72.0,18.0,"['DGEBF', 'IPDA']",j.polymdegradstab.2021.109537
+2,DGEBF/MDA,100.0,25.0,83.0,17.0,"['DGEBF', 'MDA']",j.polymdegradstab.2021.109537
+3,DGEBF/MPDA,100.0,16.0,-,11.0,"['DGEBF', 'MPDA']",j.polymdegradstab.2021.109537
+4,DGEBF/MXDA,100.0,20.0,50.0,17.0,"['DGEBF', 'MXDA']",j.polymdegradstab.2021.109537
+5,DGEBF/NBDA,100.0,23.0,40.0,13.0,"['DGEBF', 'NBDA']",j.polymdegradstab.2021.109537

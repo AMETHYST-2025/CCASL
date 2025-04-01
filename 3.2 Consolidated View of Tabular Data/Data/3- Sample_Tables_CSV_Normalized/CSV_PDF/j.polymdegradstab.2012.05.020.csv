@@ -1,0 +1,15 @@
+,Samples,Tonset (°C),Tmax1 (°C),Tmax2 (°C),Residues (800 °C) (%),Cured epoxy resin (wt%),Content of DOPO- POSS (wt%),LOI (%),UL-94,t1 (s),t2 (s),Dripping,Tmax (°C),Vectors,Ref
+0,DGEBA/PA650,319.0,372.0,426.0,2.6,,,,,,,,,"['DGEBA', 'PA650']",j.polymdegradstab.2012.05.020
+1,DGEBA/PA650/2.5 wt.% DOPO-POSS,316.0,372.0,421.0,4.3,,,,,,,,,"['DGEBA', 'PA650', '(0.025)DOPO-POSS']",j.polymdegradstab.2012.05.020
+2,DGEBA/PA650/5 wt.% DOPO-POSS,316.0,364.0,425.0,6.6,,,,,,,,,"['DGEBA', 'PA650', '(0.05)DOPO-POSS']",j.polymdegradstab.2012.05.020
+3,DGEBA/PA650/10 wt.% DOPO-POSS,313.0,369.0,426.0,8.4,,,,,,,,,"['DGEBA', 'PA650', '(0.1)DOPO-POSS']",j.polymdegradstab.2012.05.020
+4,DOPO-POSS,334.0,479.0,/,40.6,,,,,,,,,['DOPO-POSS'],j.polymdegradstab.2012.05.020
+5,DGEBA/DDS,383.0,,,9.9,100.0,0.0,22.0,NR,30.0,/,Yes,430.0,"['DGEBA', 'DDS']",j.polymdegradstab.2012.05.020
+6,DGEBA/DDS/10 wt.% DOPO-POSS,382.0,,,20.9,90.0,10.0,24.8,NR,30.0,/,No,426.0,"['DGEBA', 'DDS', '(0.1)DOPO-POSS']",j.polymdegradstab.2012.05.020
+7,DGEBA/DDS/2.5 wt.% DOPO-POSS,384.0,,,16.3,97.5,2.5,27.1,V-1,8.0,5.0,No,424.0,"['DGEBA', 'DDS', '(0.025)DOPO-POSS']",j.polymdegradstab.2012.05.020
+8,DGEBA/DDS/5 wt.% DOPO-POSS,385.0,,,18.6,95.0,5.0,26.2,NR,44.0,35.0,No,424.0,"['DGEBA', 'DDS', '(0.05)DOPO-POSS']",j.polymdegradstab.2012.05.020
+9,DGEBA/PA650,,,,,100.0,0.0,20.0,NR,30.0,/,Yes,,"['DGEBA', 'PA650']",j.polymdegradstab.2012.05.020
+10,DGEBA/PA650/10 wt.% DOPO-POSS,,,,,90.0,10.0,25.9,V-1,14.0,15,No,,"['DGEBA', 'PA650', '(0.1)DOPO-POSS']",j.polymdegradstab.2012.05.020
+11,DGEBA/PA650/2.5 wt.% DOPO-POSS,,,,,97.5,2.5,21.5,NR,30.0,/,Yes,,"['DGEBA', 'PA650', '(0.025)DOPO-POSS']",j.polymdegradstab.2012.05.020
+12,DGEBA/PA650/5 wt.% DOPO-POSS,,,,,95.0,5.0,23.5,NR,30.0,/,Yes,,"['DGEBA', 'PA650', '(0.05)DOPO-POSS']",j.polymdegradstab.2012.05.020
+13,DOPO-POSS,334.0,,,40.6,,,,,,,,479.0,['DOPO-POSS'],j.polymdegradstab.2012.05.020

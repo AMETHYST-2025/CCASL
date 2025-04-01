@@ -1,0 +1,7 @@
+,Samples,T5% (°C),Table T50% (C),2 Tmax max (C),2 Char residues at 700 °C (wt%),Vectors,Ref
+0,Pure EP,350.0,410.0,412.0,14.8,['EP'],j.compscitech.2017.10.013_31_1
+1,EP/1 wt% CuPP,324.0,402.0,381.0,22.5,"['EP', '(0.01)CuPP']",j.compscitech.2017.10.013_31_1
+2,EP/2 wt% CuPP,320.0,398.0,375.0,25.3,"['EP', '(0.02)CuPP']",j.compscitech.2017.10.013_31_1
+3,EP/4 wt% CuPP,317.0,397.0,373.0,27.5,"['EP', '(0.04)CuPP']",j.compscitech.2017.10.013_31_1
+4,EP/6 wt% CuPP,316.0,397.0,370.0,28.9,"['EP', '(0.06)CuPP']",j.compscitech.2017.10.013_31_1
+5,EP/8 wt% CuPP,314.0,398.0,365.0,30.9,"['EP', '(0.08)CuPP']",j.compscitech.2017.10.013_31_1

@@ -1,0 +1,19 @@
+,Samples,Tg (°C),Sigma (MPa),E (%),Emax (%),Sigma (MPa)_err,E (%)_err,Emax (%)_err,Cohesive failure (%),Viscosity (Pa s),Contact angle (°),Contact angle (°)_err,Adhesive strength (MPa),Adhesive strength (MPa)_err,Tg g(°)),Chemical Structure,Supplied,M (g/mol),F,Vectors,Ref
+0,"4,4'-Diamino-3,3'- dimethyldicyclohexylmethane (3DCM)",,,,,,,,,,,,,,,H2N NH2 CH3 CH3,Aldrich (99.0%),238.41,4.0,"[""4,4'"", 'Diamino', ""3,3'"", 'dimethyldicyclohexylmethane(3DCM)']",j.ijadhadh.2016.02.011
+1,4-Methylpiperidine (4MPip),,,,,,,,,,,,,,,HN CH3,Aldrich (96.0%),98.17,1.0,"['4', 'Methylpiperidine(4MPip)']",j.ijadhadh.2016.02.011
+2,DGEBA/3DCM,142.3,91.4,6.4,39.1,0.7,0.3,0.3,,,,,,,,,,,,"['DGEBA', '3DCM']",j.ijadhadh.2016.02.011
+3,DGEBA/3DCM,,91.4,6.4,39.1,0.7,0.3,0.3,,,,,,,174.9,,,,,"['DGEBA', '3DCM']",j.ijadhadh.2016.02.011
+4,DGEBA/3DCM,,80.4,8.4,41.4,0.4,0.1,0.1,,,,,,,142.3,,,,,"['DGEBA', '3DCM']",j.ijadhadh.2016.02.011
+5,DGEBA/3DCM (0 phr),174.9,,,,,,,78.0,3.68,68.0,4.0,13.8,0.7,,,,,,"['DGEBA', '3DCM(0phr)']",j.ijadhadh.2016.02.011
+6,DGEBA/3DCM (10 phr),154.2,,,,,,,79.0,2.52,54.0,3.0,13.9,0.7,,,,,,"['DGEBA', '3DCM(10phr)']",j.ijadhadh.2016.02.011
+7,DGEBA/3DCM (20 phr),149.7,,,,,,,80.0,1.24,50.0,2.0,14.2,0.6,,,,,,"['DGEBA', '3DCM(20phr)']",j.ijadhadh.2016.02.011
+8,DGEBA/3DCM (30 phr),142.3,,,,,,,82.0,0.51,49.0,2.0,14.6,0.5,,,,,,"['DGEBA', '3DCM(30phr)']",j.ijadhadh.2016.02.011
+9,DGEBA/3DCMb,,87.6,7.2,40.9,0.4,0.2,0.2,,,,,,,154.2,,,,,"['DGEBA', '3DCMb']",j.ijadhadh.2016.02.011
+10,DGEBA/3DCM°,,81.6,7.9,41.0,0.5,0.3,0.3,,,,,,,149.7,,,,,"['DGEBA', '3DCM°']",j.ijadhadh.2016.02.011
+11,DGEBA/4MPip,63.5,80.2,8.4,60.4,0.4,0.2,0.8,,,,,,,,,,,,"['DGEBA', '4MPip']",j.ijadhadh.2016.02.011
+12,DGEBA/4MPip (30 phr),63.5,,,,,,,90.0,0.54,32.0,1.0,17.2,0.4,,,,,,"['DGEBA', '4MPip(30phr)']",j.ijadhadh.2016.02.011
+13,DGEBA/IPD,109.5,87.6,6.8,54.1,0.6,0.5,1.0,,,,,,,,,,,,"['DGEBA', 'IPD']",j.ijadhadh.2016.02.011
+14,DGEBA/IPD (30 phr),109.5,,,,,,,78.0,0.44,37.0,3.0,15.5,0.4,,,,,,"['DGEBA', 'IPD(30phr)']",j.ijadhadh.2016.02.011
+15,"Diglycidyl ether of 1,4-butanediol (DGEBD)",,,,,,,,,,,,,,,,Aldrich (60.0%),202.25,2.0,"['Diglycidyletherof1,4', 'butanediol(DGEBD)']",j.ijadhadh.2016.02.011
+16,Diglycidyl ether of bisphenol A (DGEBA),,,,,,,,,,,,,,,H3C CH3 O,Dow Chemical DER 331,371.0,2.0,['DiglycidyletherofbisphenolA(DGEBA)'],j.ijadhadh.2016.02.011
+17,Isophorone diamine (IPD),,,,,,,,,,,,,,,H2N CH3 H2N CH3 CH3,Aldrich (99.0%),170.3,4.0,['Isophoronediamine(IPD)'],j.ijadhadh.2016.02.011

@@ -1,0 +1,19 @@
+,Samples,"DGEBA/RAMA 1/07 Code models : type tff: Fn,Fn,Fn Mechanism scheme A-1 - B-2 -> C-3 -> D","DGEBA/GMA/RAMA 1/1/1 reaction tff: An,Fn,Fn A-1 -> B-2 C-3 - D","DGEBA/GMA/RAMA 2/1/17 tff: An,An,An A-1 - B-2 - C-3 - D","DGEBA/GMA/RAMA 1/2/13 tff: An,An,An A-1 1 B-2 - C-3 -> D","GMARAMA 3/1 tff: An,An,An A-1 - B-2 C-3 - D",Vectors,Ref
+0,E1/mol-1,187.5,278.2,259.1,228.2,246.0,['E(1)/mol-1'],j.compositesb.2013.07.023_6_0
+1,log A1/5-1,13.7,19.2,18.1,15.8,17.6,['logA(1)/5-1'],j.compositesb.2013.07.023_6_0
+2,"dim,",-,0.39,0.31,0.44,0.27,"['dim,']",j.compositesb.2013.07.023_6_0
+3,n,2.97,-,-,-,-,['n'],j.compositesb.2013.07.023_6_0
+4,E2/mol-¹,250.9,227.0,249.7,157.8,166.3,['E(2)/mol-¹'],j.compositesb.2013.07.023_6_0
+5,log A2/s-,38.4,15.3,27.7,10.0,10.2,['logA(2)/s'],j.compositesb.2013.07.023_6_0
+6,dim2,-,-,-,0.39,1.54,['dim(2)'],j.compositesb.2013.07.023_6_0
+7,n2,2.04,0.62,2.72,-,-,['n(2)'],j.compositesb.2013.07.023_6_0
+8,E3/mol-1,188.6,206.3,201.9,270.2,298.7,['E(3)/mol-1'],j.compositesb.2013.07.023_6_0
+9,log A3/s-,12.3,27.3,13.1,27.9,26.2,['logA(3)/s'],j.compositesb.2013.07.023_6_0
+10,dim3,-,-,-,2.68,2.59,['dim(3)'],j.compositesb.2013.07.023_6_0
+11,n3,1.29,2.68,1.96,-,-,['n(3)'],j.compositesb.2013.07.023_6_0
+12,follReact1,0.161,0.65,0.089,0.37,0.26,['follReact(1)'],j.compositesb.2013.07.023_6_0
+13,follReact 2,0.052,0.308,0.13,0.23,0.85,['follReact(2)'],j.compositesb.2013.07.023_6_0
+14,Fexp.,1.16,1.0,1.02,1.29,1.0,['Fexp.'],j.compositesb.2013.07.023_6_0
+15,Fcrit.,1.19,1.18,1.19,1.19,1.19,['Fcrit.'],j.compositesb.2013.07.023_6_0
+16,t-Critical,1.958,1.957,1.958,1.958,1.958,"['t', 'Critical']",j.compositesb.2013.07.023_6_0
+17,Correl-coeff,0.999564,0.999625,0.999659,0.999694,0.999822,"['Correl', 'coeff']",j.compositesb.2013.07.023_6_0

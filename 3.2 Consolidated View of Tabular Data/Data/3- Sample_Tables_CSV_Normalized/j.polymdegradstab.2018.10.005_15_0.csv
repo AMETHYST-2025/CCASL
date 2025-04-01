@@ -1,0 +1,5 @@
+,Samples,T5wt% (°C),T50wt% (°C),CY (650 °C) (%),Calculated CY (650 °C) (%),Vectors,Ref
+0,EP,336.0,373.0,10.7,10.7,['EP'],j.polymdegradstab.2018.10.005_15_0
+1,EP/6BN,336.0,375.0,18.3,16.1,"['EP', '(6)BN']",j.polymdegradstab.2018.10.005_15_0
+2,EP/6BN@PDA,335.0,377.0,16.7,15.9,"['EP', '(6)BN@PDA']",j.polymdegradstab.2018.10.005_15_0
+3,EP/6BN@PDA@Fe,328.0,363.0,19.8,15.8,"['EP', '(6)BN@PDA@Fe']",j.polymdegradstab.2018.10.005_15_0

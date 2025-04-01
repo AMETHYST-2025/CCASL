@@ -1,0 +1,13 @@
+,Samples,EG content (%),P content (%),LOI (%),UL-94,Vectors,Ref
+0,EP/DDS,0.0,0.0,22.5,NR,"['EP', 'DDS']",j.polymdegradstab.2016.03.017_4_0
+1,EP/EG,20.0,0.0,31.0,NR,"['EP', 'EG']",j.polymdegradstab.2016.03.017_4_0
+2,EP/DOPO,0.0,1.1,34.5,V-1,"['EP', 'DOPO']",j.polymdegradstab.2016.03.017_4_0
+3,EP/HPCP,0.0,1.1,32.5,V-1,"['EP', 'HPCP']",j.polymdegradstab.2016.03.017_4_0
+4,EP/EG/DOPO-1,16.0,0.57,35.0,V-1,"['EP', 'EG', 'DOPO-1']",j.polymdegradstab.2016.03.017_4_0
+5,EP/EG/DOPO-2,14.0,0.86,38.0,V-0,"['EP', 'EG', 'DOPO-2']",j.polymdegradstab.2016.03.017_4_0
+6,EP/EG/DOPO-3,12.0,1.15,42.0,V-0,"['EP', 'EG', 'DOPO-3']",j.polymdegradstab.2016.03.017_4_0
+7,EP/EG/DOPO-4,10.0,1.44,41.5,V-0,"['EP', 'EG', 'DOPO-4']",j.polymdegradstab.2016.03.017_4_0
+8,EP/EG/HPCP-1,16.0,0.54,33.5,V-1,"['EP', 'EG', 'HPCP-1']",j.polymdegradstab.2016.03.017_4_0
+9,EP/EG/HPCP-2,14.0,0.81,36.0,V-0,"['EP', 'EG', 'HPCP-2']",j.polymdegradstab.2016.03.017_4_0
+10,EP/EG/HPCP-3,12.0,1.07,40.5,V-0,"['EP', 'EG', 'HPCP-3']",j.polymdegradstab.2016.03.017_4_0
+11,EP/EG/HPCP-4,10.0,1.34,39.0,V-0,"['EP', 'EG', 'HPCP-4']",j.polymdegradstab.2016.03.017_4_0

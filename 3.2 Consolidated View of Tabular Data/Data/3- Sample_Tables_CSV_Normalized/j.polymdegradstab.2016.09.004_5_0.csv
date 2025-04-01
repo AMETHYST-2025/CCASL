@@ -1,0 +1,7 @@
+,Samples,Tg (°C),DGEBA tand,DGEBA Tg(°C),DGEBF tand,Vectors,Ref
+0,Post-cured,226.0,0.4,202.0,0.6,"['Post', 'cured']",j.polymdegradstab.2016.09.004_5_0
+1,50 C - max stress,223.0,0.34,176.0,0.47,"['(50)C', 'maxstress']",j.polymdegradstab.2016.09.004_5_0
+2,80 C - max stress,225.0,0.3,190.0,0.43,"['(80)C', 'maxstress']",j.polymdegradstab.2016.09.004_5_0
+3,50 C - saturated,181.0,0.23,150.0,0.34,"['(50)C', 'saturated']",j.polymdegradstab.2016.09.004_5_0
+4,80 C - saturated,179.0,0.24,142.0,0.41,"['(80)C', 'saturated']",j.polymdegradstab.2016.09.004_5_0
+5,80 °C - desorbed,217.0,0.42,171.0,0.59,"['(80)°C', 'desorbed']",j.polymdegradstab.2016.09.004_5_0

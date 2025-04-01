@@ -1,0 +1,5 @@
+,Samples,PHRR (W/g),THR (kJ/g),Tp (°C),Vectors,Ref
+0,EP,709.6,32.8,395.9,['EP'],j.polymdegradstab.2016.08.013_8_0
+1,EP/3%BPA-BPP,482.8,27.4,379.6,"['EP', '(0.03)BPA-BPP']",j.polymdegradstab.2016.08.013_8_0
+2,EP/6%BPA-BPP,450.1,26.2,363.8,"['EP', '(0.06)BPA-BPP']",j.polymdegradstab.2016.08.013_8_0
+3,EP/9%BPA-BPP,433.8,26.0,352.8,"['EP', '(0.09)BPA-BPP']",j.polymdegradstab.2016.08.013_8_0

@@ -1,0 +1,14 @@
+,Samples,Modification Protocol,Dispersion method,Solvent,filler (wt%),Increase o (%),Increase E (%),% increase in KC,Increase in T (C),In T,Vectors,Ref
+0,m-GO,Silane modification,Bath sonic + mechanical mix,Acetone,1.0,18.8,42.2,85.7,2.55,,"['m', 'GO']",j.eurpolymj.2016.10.004_40_0
+1,m-G,Surfactant modified,mechanical mix,THF,4.0,11.1,22.0,103.0,,,['m-G'],j.eurpolymj.2016.10.004_40_0
+2,m-G,Polybenzimidazole,Bath sonic,DMF,0.3,46.2,31.7,127.2,4.9,4.0,['m-G'],j.eurpolymj.2016.10.004_40_0
+3,GO,Polyvinylpyrrolidone (PVP),Bath sonic,DMF,0.13,24.4,14.4,,9.3,4.0,['GO'],j.eurpolymj.2016.10.004_40_0
+4,m-G,Spirocyclic phosphazene,Bath sonic + mechanical mix,Acetone,1.0,31.8,34.1,75.3,7.6,2.0,['m-G'],j.eurpolymj.2016.10.004_40_0
+5,m-G,Diazonium addition,Bath sonic + shear mix,DMF,0.6,91.5,95.6,93.8,7.6,,['m-G'],j.eurpolymj.2016.10.004_40_0
+6,EGNPs,Dodecylamine,High-pressure processor and 3-roll mill,,0.1,,,66.0,,,['EGNPs'],j.eurpolymj.2016.10.004_40_0
+7,m-GO,"4,4'- diaminodiphenyl sulfone (DDS) (through amide bond)",Bath sonic,Dichloromethane,1.0,,26.0,,14.1,,"['m', 'GO']",j.eurpolymj.2016.10.004_40_0
+8,m-GO,Polyetheramine (short chain),Bath sonic + mechanical mix+ ball mill,Acetone,0.5,63.0,12.0,90.0,0.27,,"['m', 'GO']",j.eurpolymj.2016.10.004_40_0
+9,m-GO,Polyetheramine (long chain),Bath sonic + mechanical mix+ ball mill,Acetone,0.5,51.0,10.0,119.0,0.6,,"['m', 'GO']",j.eurpolymj.2016.10.004_40_0
+10,EGO,"Ethylenediamine (EA), 4,4' oxydianiline (ODA)",Bath sonic + mechanical mix,"DMF, THF, water, alcohol",0.2,,,,,6.0,['EGO'],j.eurpolymj.2016.10.004_40_0
+11,m-G,poly(oxyalkylene)amines,Bath sonic + mechanical mix,Acetone,0.1,21.6,,67.6,5.6,4.0,['m-G'],j.eurpolymj.2016.10.004_40_0
+12,m-G,poly(oxypropylene)diamine,Bath sonic + mechanical mix,Acetone,0.3,20.0,,145.0,10.32,,['m-G'],j.eurpolymj.2016.10.004_40_0

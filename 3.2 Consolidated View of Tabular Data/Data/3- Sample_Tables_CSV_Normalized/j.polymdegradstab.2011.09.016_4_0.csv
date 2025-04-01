@@ -1,0 +1,8 @@
+,Samples,Tonset (°C),Tmax 1 (C),Tmax2 (°C),Residues (700 °C) (%),Vectors,Ref
+0,EP-0,345.0,370.0,559.0,0.1,['EP-0'],j.polymdegradstab.2011.09.016_4_0
+1,EP-1.5,346.0,372.0,561.0,2.0,['EP(1.5)'],j.polymdegradstab.2011.09.016_4_0
+2,EP-2.5,345.0,371.0,562.0,2.8,['EP(2.5)'],j.polymdegradstab.2011.09.016_4_0
+3,EP-3.5,346.0,375.0,595.0,3.8,['EP(3.5)'],j.polymdegradstab.2011.09.016_4_0
+4,EP-5.0,349.0,375.0,599.0,5.2,['EP(5.0)'],j.polymdegradstab.2011.09.016_4_0
+5,EP-10,346.0,423.0,593.0,6.8,['EP(10)'],j.polymdegradstab.2011.09.016_4_0
+6,DOPO-POSS,398.0,522.0,/,46.9,"['DOPO', 'POSS']",j.polymdegradstab.2011.09.016_4_0

@@ -1,0 +1,5 @@
+,Samples,Tensile strength (MPa),Tensile strain (%),Modulus (MPa),Vectors,Tensile strength (MPa)_err,Tensile strain (%)_err,Modulus (MPa)_err,Ref
+0,UPR,8.28,19.87,49.0,['UPR'],1.06,2.1,5.0,j.polymdegradstab.2020.109377_11_0
+1,UPR/30SA,13.31,9.27,143.0,"['UPR', '(30)SA']",3.73,0.72,13.8,j.polymdegradstab.2020.109377_11_0
+2,UPR/30ATH,15.54,8.08,192.0,"['UPR', '(30)ATH']",4.06,0.31,24.3,j.polymdegradstab.2020.109377_11_0
+3,UPR/15ATH15SA,9.84,9.98,90.0,"['UPR', '15ATH15SA']",1.57,0.42,8.5,j.polymdegradstab.2020.109377_11_0

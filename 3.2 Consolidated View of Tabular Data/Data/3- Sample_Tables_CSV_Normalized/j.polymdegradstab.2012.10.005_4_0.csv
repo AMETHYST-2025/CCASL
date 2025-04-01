@@ -1,0 +1,7 @@
+,Samples,LOI (%),UL-94,t1 (s),t2 (s),Dripping,Vectors,Ref
+0,EP,25.0,NR,30.0,/,Yes,['EP'],j.polymdegradstab.2012.10.005_4_0
+1,EP/OPS,27.2,NR,45.0,40.0,No,"['EP', 'OPS']",j.polymdegradstab.2012.10.005_4_0
+2,EP/PPSQ,27.1,NR,30.0,/,No,"['EP', 'PPSQ']",j.polymdegradstab.2012.10.005_4_0
+3,EP/DOPO,30.5,NR,30.0,45.0,No,"['EP', 'DOPO']",j.polymdegradstab.2012.10.005_4_0
+4,EP/DOPO/OPS,31.1,V-0,6.0,3.0,No,"['EP', 'DOPO', 'OPS']",j.polymdegradstab.2012.10.005_4_0
+5,EP/DOPO/PPSQ,31.2,NR,36.0,15.0,No,"['EP', 'DOPO', 'PPSQ']",j.polymdegradstab.2012.10.005_4_0

@@ -1,0 +1,5 @@
+,Samples,EP,DDM,APP,HPCA,Vectors,Ref
+0,EP,100.0,25.0,-,-,['EP'],j.polymdegradstab.2020.109479_2_0
+1,EP/APP,100.0,25.0,14.0,-,"['EP', 'APP']",j.polymdegradstab.2020.109479_2_0
+2,EP/HPCA,100.0,25.0,-,14.0,"['EP', 'HPCA']",j.polymdegradstab.2020.109479_2_0
+3,EP/APP/HPCA,100.0,25.0,7.0,7.0,"['EP', 'APP', 'HPCA']",j.polymdegradstab.2020.109479_2_0

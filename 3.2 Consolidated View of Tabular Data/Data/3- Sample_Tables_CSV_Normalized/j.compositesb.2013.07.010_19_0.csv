@@ -1,0 +1,6 @@
+,Samples,Laminate thickness mm,Standard deviation,Density g/cm 3,Standard deviation.1,Fiber volume fraction,Vectors,Ref
+0,EP/GF,1.456,0.007,1.88,0.01,0.54,"['EP', 'GF']",j.compositesb.2013.07.010_19_0
+1,EP/GF 0.1NF,1.423,0.015,1.89,0.01,0.54,"['EP', 'GF(0.1)NF']",j.compositesb.2013.07.010_19_0
+2,EP/GF 0.3NF,1.414,0.018,1.88,0.02,0.55,"['EP', 'GF(0.3)NF']",j.compositesb.2013.07.010_19_0
+3,EP/GF 0.1F,1.44,0.009,1.87,0.01,0.55,"['EP', 'GF(0.1)F']",j.compositesb.2013.07.010_19_0
+4,EP/GF 0.3F,1.434,0.011,1.87,0.01,0.55,"['EP', 'GF(0.)3F']",j.compositesb.2013.07.010_19_0

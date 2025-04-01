@@ -1,0 +1,8 @@
+,Samples,"CNTs, wt%",GNPs (w%t),Epoxy matrix (wt%),Vectors,Ref
+0,Neat Epoxy,0.0,0.0,100.0,['EP'],j.compositesb.2021.109177_3_0
+1,0.1-CNT-Epoxy,0.1,0.0,99.9,"['(0.1)CNT', 'EP']",j.compositesb.2021.109177_3_0
+2,0.1-GNP-Epoxy,0.0,0.1,99.9,"['(0.1)GNP', 'EP']",j.compositesb.2021.109177_3_0
+3,0.1-CNT/GNP-Epoxy,0.05,0.05,99.9,"['(0.1)CNT/GNP', 'EP']",j.compositesb.2021.109177_3_0
+4,0.5-CNT-Epoxy,0.5,0.0,99.5,"['(0.5)CNT', 'EP']",j.compositesb.2021.109177_3_0
+5,0.5-GNP-Epoxy,0.0,0.5,99.5,"['(0.5)GNP', 'EP']",j.compositesb.2021.109177_3_0
+6,0.5-CNT/GNP-Epoxy,0.25,0.25,99.5,"['(0.5)CNT/GNP', 'EP']",j.compositesb.2021.109177_3_0

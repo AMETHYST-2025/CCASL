@@ -1,0 +1,7 @@
+,Samples,Tg (°C),Tonset (°C),Vectors,Tg (°C)_err,Ref
+0,Pure EP,87.6,326.6,['EP'],0.2,j.compositesb.2019.107457_6_0
+1,SBM/EP,88.2,325.9,"['SBM', 'EP']",0.5,j.compositesb.2019.107457_6_0
+2,MAM/EP,,323.5,"['MAM', 'EP']",86.9,j.compositesb.2019.107457_6_0
+3,0.5 OZ-CNT/EP,,328.0,"['(0.5)OZ-CNT', 'EP']",90.5,j.compositesb.2019.107457_6_0
+4,0.5 OZ-CNT + SBM/ EP,,328.3,"['(0.5)OZ-CNT+SBM', 'EP']",89.1,j.compositesb.2019.107457_6_0
+5,1.0 OZ-CNT + MAM/EP,,325.2,"['(1.0)OZ-CNT+MAM', 'EP']",88.2,j.compositesb.2019.107457_6_0

@@ -1,0 +1,6 @@
+,Samples,Tonset (°C),Tmax1 b (C),Tmax2 (°C),W (800°C) (%),W800°C_theo d (%),Vectors,Ref
+0,3TT-3BA,147.0,136.0,363.0,56.9,-,['(3)TT-3BA'],j.polymdegradstab.2016.06.011_3_1
+1,EP,209.0,174.0,363.0,7.7,-,['EP'],j.polymdegradstab.2016.06.011_3_1
+2,EP/MH,154.0,138.0,336.0,19.4,17.9,"['EP', 'MH']",j.polymdegradstab.2016.06.011_3_1
+3,EP/B,144.0,143.0,370.0,23.0,15.9,['EP/B'],j.polymdegradstab.2016.06.011_3_1
+4,EP/MH/B2,181.0,144.0,323.0,30.4,16.9,"['EP', 'MH', 'B(2)']",j.polymdegradstab.2016.06.011_3_1

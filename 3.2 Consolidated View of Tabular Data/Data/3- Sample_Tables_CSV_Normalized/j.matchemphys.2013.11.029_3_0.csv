@@ -1,0 +1,6 @@
+,Samples,DOPO-VTS/ TGIC-KH 10 wt% total,Phosphorus contents (wt%),Flame retardant LOI,Flame retardant UL94,Flame retardant Time (t1/t2),Vectors,Flame retardant LOI_err,Ref
+0,EP,-,-,22.0,NR,-,['EP'],1.0,j.matchemphys.2013.11.029_3_0
+1,EP-NO,NO: 5/0,1.24,29.0,V2,3.5,"['EP', 'NO']",0.5,j.matchemphys.2013.11.029_3_0
+2,EP-N1,N1: 4/1,0.99,29.5,V0,1.8,"['EP', 'N(1)']",0.5,j.matchemphys.2013.11.029_3_0
+3,EP-N2,N2: 3/2,0.74,28.0,V2,2.7,"['EP', 'N(2)']",0.5,j.matchemphys.2013.11.029_3_0
+4,EP-N3,N3: 2/3,0.5,27.0,NR,-,"['EP', 'N(3)']",0.5,j.matchemphys.2013.11.029_3_0

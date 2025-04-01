@@ -1,0 +1,3 @@
+,Samples,TTI (s),Tp (s),PHRR (kW/m²),FIGRA (kW/m²s),THR (MJ/m²),MARHE (kW/m²),PSPR (m²/s),TSP (m²),TSR (m²/m²),av-COY,av-EHC,Char residue (wt%),Vectors,Tp (s)_err,PHRR (kW/m²)_err,THR (MJ/m²)_err,PSPR (m²/s)_err,TSP (m²)_err,TSR (m²/m²)_err,av-COY_err,av-EHC_err,Char residue (wt%)_err,Ref
+0,EP,60.0,130.0,1073.0,8.3,76.0,291.6,0.55,71.4,5241.0,0.095,21.1,10.2,['EP'],3.0,55.0,3.0,0.02,3.0,400.0,0.01,1.0,0.5,j.polymdegradstab.2019.108981_4_1
+1,EP/18MAPPO,68.0,140.0,443.0,3.2,46.0,176.9,0.28,27.4,3015.0,0.094,19.3,31.6,"['EP', '(18)MAPPO']",4.0,20.0,2.0,0.01,1.0,200.0,0.01,1.0,1.5,j.polymdegradstab.2019.108981_4_1

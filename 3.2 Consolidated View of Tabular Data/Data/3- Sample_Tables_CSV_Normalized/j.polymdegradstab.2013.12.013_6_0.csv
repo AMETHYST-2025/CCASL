@@ -1,0 +1,4 @@
+,Samples,tign (s),Time PHRR (s),PHRR (kW/m²),THR (MJ/m²),AMLR (g/s),Vectors,Ref
+0,Neat EP,86.0,138.0,1650.0,213.0,0.0837,['EP'],j.polymdegradstab.2013.12.013_6_0
+1,EP/SDPS-2,62.0,122.0,1378.0,203.0,0.0828,"['EP', 'SDPS(2)']",j.polymdegradstab.2013.12.013_6_0
+2,EP/SDPS/SPDM-2,62.0,134.0,1122.0,207.0,0.0706,"['EP', 'SDPS', 'SPDM(2)']",j.polymdegradstab.2013.12.013_6_0

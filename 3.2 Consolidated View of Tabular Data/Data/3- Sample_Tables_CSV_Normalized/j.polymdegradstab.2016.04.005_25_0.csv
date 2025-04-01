@@ -1,0 +1,5 @@
+,Samples,DGEBA,Composition (g) DDM,Composition (g) PDAP,Composition (g) PDAP (wt%),Composition (g) P (wt%),Vectors,Ref
+0,EP,100.0,21.82,0.0,0.0,0.0,['EP'],j.polymdegradstab.2016.04.005_25_0
+1,EP/PDAP4,100.0,20.98,5.04,4.0,0.37,"['EP', 'PDAP(4)']",j.polymdegradstab.2016.04.005_25_0
+2,EP/PDAP7,100.0,20.31,9.06,7.0,0.64,"['EP', 'PDAP(7)']",j.polymdegradstab.2016.04.005_25_0
+3,EP/PDAP10,100.0,19.6,13.29,10.0,0.92,"['EP', 'PDAP(10)']",j.polymdegradstab.2016.04.005_25_0

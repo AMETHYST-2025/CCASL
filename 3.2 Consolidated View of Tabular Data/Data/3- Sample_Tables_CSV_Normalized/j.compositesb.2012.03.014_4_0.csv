@@ -1,0 +1,5 @@
+,Samples,Tg (°C),Vectors,Ref
+0,Neat epoxy,77.98,['EP'],j.compositesb.2012.03.014_4_0
+1,PC-epoxy,80.65,"['PC', 'EP']",j.compositesb.2012.03.014_4_0
+2,PBT-epoxy,81.77,"['PBT', 'EP']",j.compositesb.2012.03.014_4_0
+3,PEI-epoxy,82.13,"['PEI', 'EP']",j.compositesb.2012.03.014_4_0

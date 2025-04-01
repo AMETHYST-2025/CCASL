@@ -1,0 +1,11 @@
+,Samples,Pd 1N° (um),P 4N (um),Lc1b (mN),Lc2c (mN),Vectors,Pd 1N° (um)_err,P 4N (um)_err,Ref
+0,Neat,10.1,31.6,670.0,3530,['EP'],0.3,0.2,j.eurpolymj.2015.06.029_8_0
+1,10% TEOS,10.1,30.7,800.0,3000,['(0.1)TEOS'],0.9,2.5,j.eurpolymj.2015.06.029_8_0
+2,20% TEOS,10.9,35.9,560.0,3740,['(0.2)TEOS'],1.7,6.7,j.eurpolymj.2015.06.029_8_0
+3,30% TEOS,9.8,28.8,260.0,3840,['(0.3)TEOS'],1.7,0.7,j.eurpolymj.2015.06.029_8_0
+4,40% TEOS,10.5,30.5,430.0,3730,['(0.4)TEOS'],1.2,0.8,j.eurpolymj.2015.06.029_8_0
+5,10% GPTMS,16.3,46.2,650.0,Not detected,['(0.1)GPTMS'],2.7,2.2,j.eurpolymj.2015.06.029_8_0
+6,20% GPTMS,12.4,39.8,680.0,Not detected,['(0.2)GPTMS'],0.4,2.6,j.eurpolymj.2015.06.029_8_0
+7,30% GPTMS,16.1,45.1,620.0,Not detected,['(0.3)GPTMS'],1.0,1.1,j.eurpolymj.2015.06.029_8_0
+8,40% GPTMS,16.2,48.9,820.0,Not detected,['(0.4)GPTMS'],1.6,4.1,j.eurpolymj.2015.06.029_8_0
+9,20% TEOS/20% GPTMS,11.9,36.3,450.0,Not detected,"['(0.2)TEOS', '(0.2)GPTMS']",3.6,8.2,j.eurpolymj.2015.06.029_8_0

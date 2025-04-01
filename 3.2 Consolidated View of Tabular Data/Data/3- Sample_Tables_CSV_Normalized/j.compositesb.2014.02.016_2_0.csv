@@ -1,0 +1,6 @@
+,Samples,Epoxy,Nanoclay,MWCNT,Vectors,Ref
+0,GFRP,100.0,-,-,['GFRP'],j.compositesb.2014.02.016_2_0
+1,GFRP + 1% NC,99.0,1.0,-,"['GFRP', '(0.01)NC']",j.compositesb.2014.02.016_2_0
+2,GFRP + 3% NC,97.0,3.0,-,"['GFRP', '(0.03)NC']",j.compositesb.2014.02.016_2_0
+3,GFRP + 0.5% CNT,99.5,-,0.5,"['GFRP', '(0.005)CNT']",j.compositesb.2014.02.016_2_0
+4,GFRP + 1% CNT,99.0,-,1.0,"['GFRP', '(0.01)CNT']",j.compositesb.2014.02.016_2_0

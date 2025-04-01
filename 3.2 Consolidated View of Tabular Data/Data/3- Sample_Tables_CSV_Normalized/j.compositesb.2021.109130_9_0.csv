@@ -1,0 +1,6 @@
+,Samples,HCN (ppm),NO (ppm),N2O (ppm),NH3 (ppm),CO (ppm),CO2 (%),HCHO (ppm),C6H5OH (ppm),H2O (%),C2H4 (ppm),Vectors,Ref
+0,Error,5.0,5.0,0.5,0.1,10.0,0.1,0.1,0.1,0.1,0.5,['Error'],j.compositesb.2021.109130_9_0
+1,Neat ABS,200.0,268.0,11.8,2.5,1041.0,3.4,12.5,4.5,2.6,34.0,['EPABS'],j.compositesb.2021.109130_9_0
+2,ABS/BODIPY-MXene0.5,133.0,209.0,6.3,0.6,741.0,2.3,8.4,3.8,2.1,22.2,"['ABS', 'BODIPY-MXene(0.5)']",j.compositesb.2021.109130_9_0
+3,ABS/BODIPY-MXene2.0,142.0,198.0,7.1,0.4,747.0,1.8,8.6,3.0,2.2,24.3,"['ABS', 'BODIPY-MXene(2.0)']",j.compositesb.2021.109130_9_0
+4,ABS/BODIPY2.0,167.0,239.0,8.3,1.0,877.0,2.7,9.5,5.0,2.4,25.1,"['ABS', 'BODIPY(2.0)']",j.compositesb.2021.109130_9_0

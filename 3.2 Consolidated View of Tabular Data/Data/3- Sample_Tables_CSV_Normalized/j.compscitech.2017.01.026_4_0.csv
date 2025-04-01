@@ -1,0 +1,9 @@
+,Samples,CNT/Epoxy adhesive  rd,CNT/Epoxy adhesive  Y,"Epoxy adhesive ,d Y",Epoxy adhesive Y,GFRP rd,GFRP y,Vectors,Ref
+0,Water/Formamide,18.06,2.25,3.06,38.03,4.41,40.11,"['Water', 'Formamide']",j.compscitech.2017.01.026_4_0
+1,Water/Ethyleneglycol,20.9,1.45,8.16,29.47,11.95,29.47,"['Water', 'Ethyleneglycol']",j.compscitech.2017.01.026_4_0
+2,Water/Diiodomethane,28.58,0.59,33.73,11.98,32.67,15.39,"['Water', 'Diiodomethane']",j.compscitech.2017.01.026_4_0
+3,Formamide/Ethyleneglycol,31.36,0.0,40.96,1.0,60.84,0.0,"['Formamide', 'Ethyleneglycol']",j.compscitech.2017.01.026_4_0
+4,Formamide/Diiodomethane,29.94,0.02,39.33,1.31,37.56,3.45,"['Formamide', 'Diiodomethane']",j.compscitech.2017.01.026_4_0
+5,Ethyleneglycol/Diiodomethane,29.88,0.03,39.27,1.36,36.8,4.69,"['Ethyleneglycol', 'Diiodomethane']",j.compscitech.2017.01.026_4_0
+6,Average,26.45,0.72,27.42,13.86,30.71,15.52,['Average'],j.compscitech.2017.01.026_4_0
+7,Linear regression,27.24,0.58,26.09,12.01,26.11,15.36,['Linearregression'],j.compscitech.2017.01.026_4_0

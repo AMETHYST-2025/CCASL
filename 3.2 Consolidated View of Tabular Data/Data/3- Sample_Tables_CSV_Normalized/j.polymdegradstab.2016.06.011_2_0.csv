@@ -1,0 +1,6 @@
+,Samples,EP,MH,3TT-3BA,Ethylenediamine,Vectors,Ref
+0,EP,100.0,0.0,0.0,7.0,['EP'],j.polymdegradstab.2016.06.011_2_0
+1,EP/MH³,100.0,20.0,0.0,7.0,"['EP', 'MH³']",j.polymdegradstab.2016.06.011_2_0
+2,EP/B,100.0,0.0,20.0,7.0,['EP/B'],j.polymdegradstab.2016.06.011_2_0
+3,EP/MH/B1°,100.0,10.0,5.0,7.0,"['EP', 'MH', 'B(1)°']",j.polymdegradstab.2016.06.011_2_0
+4,EP/MH/B2d,100.0,10.0,10.0,7.0,"['EP', 'MH', 'B(2)d']",j.polymdegradstab.2016.06.011_2_0

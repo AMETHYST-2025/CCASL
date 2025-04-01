@@ -1,0 +1,4 @@
+,Samples,Tinitial (°C),R1peak/T1peak (%/min) (°C),R2peak/T2peak (% min-1/°C),Char residue (700 °C) (wt%),Vectors,Ref
+0,CTP-DOPO,314.6,1.65,5.23,42.8,['CTP-DOPO'],j.polymdegradstab.2015.11.018_6_0
+1,DGEBA,380.7,20.46,-,14.1,['DGEBA'],j.polymdegradstab.2015.11.018_6_0
+2,DGEBA/CTP-DOPO,345.3,10.09,-,29.2,"['DGEBA', 'CTP-DOPO']",j.polymdegradstab.2015.11.018_6_0

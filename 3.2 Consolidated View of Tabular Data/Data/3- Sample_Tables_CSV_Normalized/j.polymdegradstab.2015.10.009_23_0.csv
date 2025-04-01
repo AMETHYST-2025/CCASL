@@ -1,0 +1,5 @@
+,Samples,C-C Area (%),C-O Area (%),C-N Area (%),Vectors,Ref
+0,DGEBA-PA,95.96,4.06,0.0,"['DGEBA', 'PA']",j.polymdegradstab.2015.10.009_23_0
+1,DGEBA-PEPA,88.51,11.46,0.0,"['DGEBA', 'PEPA']",j.polymdegradstab.2015.10.009_23_0
+2,Azo-EP-PA,91.57,3.02,5.41,"['Azo', 'EP', 'PA']",j.polymdegradstab.2015.10.009_23_0
+3,Azo-EP-PEPA,90.08,4.68,5.24,"['Azo', 'EP', 'PEPA']",j.polymdegradstab.2015.10.009_23_0

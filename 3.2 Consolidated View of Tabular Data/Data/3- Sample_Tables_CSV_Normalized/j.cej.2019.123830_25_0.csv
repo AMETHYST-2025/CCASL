@@ -1,0 +1,5 @@
+,Samples,WAP  12 h,at 70 (%) 24 h,(°C)  48 h,Tensile strength (MPa),Elongation at break (%),Tensile modulus (GPa),Flexural strength (MPa),Flexural modulus (GPa),Vectors,Elongation at break (%)_err,Ref
+0,EP,0.23,0.32,0.65,63.7,11.2,1.07,115.17,3.55,['EP'],2.0,j.cej.2019.123830_25_0
+1,EP@PCTP-4,0.14,0.27,0.6,70.91,8.8,1.1,119.8,3.61,"['EP', 'PCTP(4)']",0.3,j.cej.2019.123830_25_0
+2,EP@PCTP-6,0.11,0.19,0.53,68.61,8.5,1.15,121.04,3.77,"['EP', 'PCTP(6)']",0.2,j.cej.2019.123830_25_0
+3,EP@PCTP-8,0.08,0.15,0.47,64.31,7.8,1.18,114.6,3.9,"['EP', 'PCTP(8)']",0.2,j.cej.2019.123830_25_0

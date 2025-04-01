@@ -1,0 +1,6 @@
+,Samples,"Td,5% (°C)",Tmax (°C),Residuals at 700 °C (wt%),Vectors,Ref
+0,Neat EP,361.0,376.0,14.1,['EP'],j.polymdegradstab.2015.10.011_6_0
+1,2%APHP/EP,362.0,376.0,18.1,"['(0.02)APHP', 'EP']",j.polymdegradstab.2015.10.011_6_0
+2,4%APHP/EP,361.0,375.0,22.9,"['(0.04)APHP', 'EP']",j.polymdegradstab.2015.10.011_6_0
+3,6%APHP/EP,362.0,377.0,24.2,"['(0.06)APHP', 'EP']",j.polymdegradstab.2015.10.011_6_0
+4,APHP,416.0,486.0,45.8,['APHP'],j.polymdegradstab.2015.10.011_6_0

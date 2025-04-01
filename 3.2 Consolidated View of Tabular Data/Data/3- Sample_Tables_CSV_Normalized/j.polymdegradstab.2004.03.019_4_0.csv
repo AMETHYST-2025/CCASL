@@ -1,0 +1,7 @@
+,Samples,Degradation stage,In N₂ E (kJ/mol),In N₂ R,In air E (kJ/mol),In air R,Vectors,Ref
+0,MPGE-DDM,I,245.0,0.9706,130.0,0.9994,"['MPGE', 'DDM']",j.polymdegradstab.2004.03.019_4_0
+1,,II,-,-,90.0,0.9919,[''],j.polymdegradstab.2004.03.019_4_0
+2,MPGE-DEP,Pre,260.0,0.9888,220.0,0.9981,"['MPGE', 'DEP']",j.polymdegradstab.2004.03.019_4_0
+3,,I,270.0,0.9975,255.0,0.9939,[''],j.polymdegradstab.2004.03.019_4_0
+4,,II,140.0,0.9993,140.0,0.9902,[''],j.polymdegradstab.2004.03.019_4_0
+5,,III,-,-,125.0,0.9805,[''],j.polymdegradstab.2004.03.019_4_0

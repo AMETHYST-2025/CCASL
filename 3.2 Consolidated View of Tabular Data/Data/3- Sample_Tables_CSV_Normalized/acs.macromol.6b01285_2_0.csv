@@ -1,0 +1,6 @@
+,Samples,pH,R/C (mol/mol),Vectors,Ref
+0,A,7.2,100.0,['A'],acs.macromol.6b01285_2_0
+1,B,7.0,150.0,['B'],acs.macromol.6b01285_2_0
+2,C,6.7,250.0,['C'],acs.macromol.6b01285_2_0
+3,D,6.3,500.0,['D'],acs.macromol.6b01285_2_0
+4,dRNPs b,,246.0,['dRNPsb'],acs.macromol.6b01285_2_0

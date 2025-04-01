@@ -1,0 +1,5 @@
+,Samples,T5% (C) N₂,T5% (C) air,Tmax N₂ (°C),Tmax air (°C),Residue 800° C N superscript(2),at (%) air,Vectors,Ref
+0,EP,355.8,367.5,380.5,381.1,17.5,0.4,['EP'],j.polymdegradstab.2019.06.011_5_0
+1,EP/10% DOPMPA,319.3,330.5,345.5,357.6,20.8,1.0,"['EP', '(0.1)DOPMPA']",j.polymdegradstab.2019.06.011_5_0
+2,EP/13% DOPMPA,312.2,329.4,344.9,352.7,21.3,2.0,"['EP', '(0.13)DOPMPA']",j.polymdegradstab.2019.06.011_5_0
+3,EP/15% DOPMPA,311.0,326.3,344.9,352.3,21.2,3.3,"['EP', '(0.15)DOPMPA']",j.polymdegradstab.2019.06.011_5_0

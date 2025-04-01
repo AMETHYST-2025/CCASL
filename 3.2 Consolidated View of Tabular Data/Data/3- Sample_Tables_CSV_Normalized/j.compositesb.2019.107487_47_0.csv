@@ -1,0 +1,10 @@
+,Samples,Curing agents,P content (%),Char yield (%) a,LOI (%),UL-94,PHRR reduction (%),Reference,Vectors,Ref
+0,TECP,MXDA,2.4,12.0,/,/,52.0,29.0,['TECP'],j.compositesb.2019.107487_47_0
+1,TEEP,MXDA,4.5,43.0,/,,56.0,29.0,['TEEP'],j.compositesb.2019.107487_47_0
+2,DEEP,MXDA,5.8,41.0,,,60.0,29.0,['DEEP'],j.compositesb.2019.107487_47_0
+3,DEEP-Ph,MXDA,5.8,35.0,,,55.0,29.0,"['DEEP', 'Ph']",j.compositesb.2019.107487_47_0
+4,EP1,DDM,6.5,53.0,31.4,V-0,/,37.0,['EP1'],j.compositesb.2019.107487_47_0
+5,EP2,DDM,7.2,58.0,32.8,V-0,/,37.0,['EP2'],j.compositesb.2019.107487_47_0
+6,DOPO-III,DDM,3.9,18.0,31.0,/,/,44.0,"['DOPO', 'III']",j.compositesb.2019.107487_47_0
+7,DOPO-III,BAMPO,5.7,16.0,32.0,/,/,44.0,"['DOPO', 'III']",j.compositesb.2019.107487_47_0
+8,EADI,MHHPA,4.4,5.3,22.8,V-0,/,45.0,['EADI'],j.compositesb.2019.107487_47_0

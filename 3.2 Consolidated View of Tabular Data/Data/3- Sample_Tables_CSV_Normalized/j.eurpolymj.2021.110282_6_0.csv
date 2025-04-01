@@ -1,0 +1,4 @@
+,Samples,Tensile strength (MPa),Tensile modulus (GPa),Tensile strain (%),Vectors,Tensile strength (MPa)_err,Tensile modulus (GPa)_err,Tensile strain (%)_err,Ref
+0,REEP/HDDM,77.8,2.5,4.5,"['REEP', 'HDDM']",18.9,0.2,1.5,j.eurpolymj.2021.110282_6_0
+1,REEP/DGEBA/ HDDM,70.8,2.5,3.5,"['REEP', 'DGEBA', 'HDDM']",15.9,0.1,0.7,j.eurpolymj.2021.110282_6_0
+2,DGEBA/HDDM,63.6,2.3,3.7,"['DGEBA', 'HDDM']",9.3,0.1,1.0,j.eurpolymj.2021.110282_6_0

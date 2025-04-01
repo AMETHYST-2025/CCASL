@@ -1,0 +1,9 @@
+,Samples,Heating rates (q) (°C min 1),Tp (K),Ea Kissinger (kJ/mol),Ea (kJ/mol) Ozawa,In A Kissinger,In A Ozawa,Vectors,Ref
+0,DGEBA/,5.0,425.6,53.8,58.14,14.45,15.78,"['DGEBA', '']",j.compositesb.2020.107926_6_0
+1,DDM,10.0,443.5,,,,,['DDM'],j.compositesb.2020.107926_6_0
+2,,15.0,454.6,,,,,[''],j.compositesb.2020.107926_6_0
+3,,20.0,462.7,,,,,[''],j.compositesb.2020.107926_6_0
+4,DGEBDB/,5.0,405.8,54.91,58.85,15.64,15.87,"['DGEBDB', '']",j.compositesb.2020.107926_6_0
+5,DDM,10.0,419.9,,,,,['DDM'],j.compositesb.2020.107926_6_0
+6,,15.0,429.8,,,,,[''],j.compositesb.2020.107926_6_0
+7,,20.0,439.3,,,,,[''],j.compositesb.2020.107926_6_0

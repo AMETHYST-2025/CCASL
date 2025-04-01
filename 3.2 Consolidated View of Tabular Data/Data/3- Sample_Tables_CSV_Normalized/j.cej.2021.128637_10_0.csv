@@ -1,0 +1,4 @@
+,Samples,Ecorr VS SCE (V),2 corr (uA/ cm ²,Ba 3 (V/ dec),BACK (V/ dec),Corrosion Rate (mm/year),Vectors,Ref
+0,Blank (NaCl),0.73,8.13,0.088,0.199,0.026,['Blank(NaCl)'],j.cej.2021.128637_10_0
+1,O-MWCNT- PANI,0.7212,3.75,0.06,0.096,0.012,"['O', 'MWCNT', 'PANI']",j.cej.2021.128637_10_0
+2,O-MWCNT- PANI-Zn,0.7079,2.39,0.054,0.06,0.007,"['O', 'MWCNT', 'PANI', 'Zn']",j.cej.2021.128637_10_0

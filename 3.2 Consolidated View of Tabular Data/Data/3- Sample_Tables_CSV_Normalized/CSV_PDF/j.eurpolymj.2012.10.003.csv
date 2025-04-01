@@ -1,0 +1,13 @@
+,Samples,T5 (°C),T10 (°C),Idm (°C),Residual yield at 800 o °C (wt%),THR (kJ/g),HRC (J/gk),THR (kJ/g)_err,HRC (J/gk)_err,.1,.2,C1s,.3,.4,N1s,.5,01s,.6,Si2,Vectors,Ref
+0,Atomic %,,,,,,,,,56.2,23.0,7.2,4.3,1.3,0.3,3.7,3.6,0.5,-,['Atomic%'],j.eurpolymj.2012.10.003
+1,Atomic %,,,,,,,,,53.5,21.7,5.9,2.5,0.5,4.6,2.7,5.6,-,2.2,['Atomic%'],j.eurpolymj.2012.10.003
+2,BE (eV),,,,,,,,,284.5,286.1,288.6,290.6,292.5,400.4,531.3,532.9,535.6,-,['BE(eV)'],j.eurpolymj.2012.10.003
+3,BE (eV),,,,,,,,,284.5,286.1,288.6,290.6,292.5,400.4,531.1,532.8,-,102.6,['BE(eV)'],j.eurpolymj.2012.10.003
+4,Epoxy,357.0,373.0,380.0,21.6,17.4,660.0,0.5,50.0,,,,,,,,,,,['EP'],j.eurpolymj.2012.10.003
+5,MWCNT-APTES,,,,,,,,,,,,,,,,,,,"['MWCNT', 'APTES']",j.eurpolymj.2012.10.003
+6,MWCNT-COOH,,,,,,,,,,,,,,,,,,,"['MWCNT', 'COOH']",j.eurpolymj.2012.10.003
+7,Nanocomposite with MWCNT-APTES,364.0,377.0,380.0,23.6,17.3,801.0,0.5,50.0,,,,,,,,,,,"['NanocompositewithMWCNT', 'APTES']",j.eurpolymj.2012.10.003
+8,Nanocomposite with MWCNT-COOH,356.0,374.0,380.0,25.6,18.1,597.0,0.5,20.0,,,,,,,,,,,"['NanocompositewithMWCNT', 'COOH']",j.eurpolymj.2012.10.003
+9,Nanocomposite with MWCNT-SiO2-x(OH)x,364.0,377.0,380.0,23.4,16.9,604.0,0.5,50.0,,,,,,,,,,,"['NanocompositewithMWCNT', 'SiO2', 'x(OH)x']",j.eurpolymj.2012.10.003
+10,Total %,,,,,,,,,,,91.9,,,0.3,,7.8,,-,['Total%'],j.eurpolymj.2012.10.003
+11,Total %,,,,,,,,,,,84.1,,,4.6,,9.1,,2.2,['Total%'],j.eurpolymj.2012.10.003

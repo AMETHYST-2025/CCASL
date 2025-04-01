@@ -1,0 +1,5 @@
+,Samples,Stress at break (MPa),Elongation at break (%),E (40 °C) (MPa),E peak (MPa),Tg (°C),P (mol/m³),Vectors,Stress at break (MPa)_err,Elongation at break (%)_err,Ref
+0,EP,64.9,7.2,3128.0,321.5,157.6,1380.0,['EP'],6.3,0.5,j.compositesb.2021.108857_11_0
+1,EP/a-SEP,66.5,6.9,4820.0,341.8,164.6,2420.0,"['EP', 'a-SEP']",6.1,0.9,j.compositesb.2021.108857_11_0
+2,EP/LDH,68.5,6.9,5811.0,341.1,166.7,2520.0,"['EP', 'LDH']",6.2,0.5,j.compositesb.2021.108857_11_0
+3,EP/a-SEP@LDH,78.9,8.4,3965.0,286.4,174.1,1550.0,"['EP', 'a-SEP@LDH']",1.0,0.2,j.compositesb.2021.108857_11_0

@@ -1,0 +1,14 @@
+,Samples,Final residue (wt%) + 1.0 wt%,P Content material (wt%) + 0.1 wt%,P Content final residue (wt%) + 0.1 wt%,Remainder of original total P content in % = 8-13%,N content material (wt%) + 0.4 wt%,N content final residue (wt%) + 0.4 wt%,Remainder of original total N content in % + 6-40%,T5wt% (°C),PMLR (wt%)/s +0.02,TPMLR in °C +,Residue (wt%) +1.0,Cal. residue (wt%),MPZnP (wt%),MPP (wt%),AIO(OH) (wt%),P Content (wt%) + 0.2,N content (wt%) + 0.4,Vectors,Ref
+0,AIO(OH),,,,,,,,495.0,0.06,521.0,83.2,-,,,,,,['AIO(OH)'],j.polymdegradstab.2016.06.023
+1,EP,5.3,,,,3.1,4.5,8.0,346.0,0.3,373.0,9.5,-,-,-,-,-,3.1,['EP'],j.polymdegradstab.2016.06.023
+2,EP + (MPZnP + AIO(OH)),18.0,1.4,8.6,113.0,,,,334.0,0.21,362.0,21.1,20.1,10.0,-,10.0,1.4,5.7,"['EP', '(MPZnP', 'AIO(OH))']",j.polymdegradstab.2016.06.023
+3,EP + (MPZnP + AIO(OH)),18.0,,,,5.7,1.0,3.0,334.0,0.21,362.0,21.1,20.1,10.0,-,10.0,1.4,5.7,"['EP', '(MPZnP', 'AIO(OH))']",j.polymdegradstab.2016.06.023
+4,EP + (MPZnP + MPP),17.1,2.8,11.1,68.0,,,,324.0,0.21,350.0,18.7,14.6,10.0,10.0,-,2.8,10.0,"['EP', '(MPZnP', 'MPP)']",j.polymdegradstab.2016.06.023
+5,EP + (MPZnP + MPP),17.1,,,,10.0,4.7,8.0,324.0,0.21,350.0,18.7,14.6,10.0,10.0,-,2.8,10.0,"['EP', '(MPZnP', 'MPP)']",j.polymdegradstab.2016.06.023
+6,EP + AIO(OH),15.7,,,,2.5,0.3,2.0,346.0,0.22,373.0,23.9,24.2,-,-,20.0,-,2.5,"['EP', 'AIO(OH)']",j.polymdegradstab.2016.06.023
+7,EP + MPP,29.2,2.8,8.6,88.0,,,,324.0,0.22,349.0,17.6,13.2,-,20.0,-,2.8,6.7,"['EP', 'MPP']",j.polymdegradstab.2016.06.023
+8,EP + MPP,29.2,,,,6.7,7.1,31.0,324.0,0.22,349.0,17.6,13.2,-,20.0,-,2.8,6.7,"['EP', 'MPP']",j.polymdegradstab.2016.06.023
+9,EP + MPZnP,13.5,2.7,14.2,70.0,,,,324.0,0.2,357.0,19.4,16.0,20.0,-,-,2.7,8.9,"['EP', 'MPZnP']",j.polymdegradstab.2016.06.023
+10,EP + MPZnP,13.5,,,,8.9,3.2,5.0,324.0,0.2,357.0,19.4,16.0,20.0,-,-,2.7,8.9,"['EP', 'MPZnP']",j.polymdegradstab.2016.06.023
+11,MPP,,,,,,,,383.0,0.08,390.0,27.9,-,,,,,,['MPP'],j.polymdegradstab.2016.06.023
+12,MPZnP,,,,,,,,345.0,0.05,393.0,41.9,-,,,,,,['MPZnP'],j.polymdegradstab.2016.06.023

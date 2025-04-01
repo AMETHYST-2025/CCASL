@@ -1,0 +1,4 @@
+,Samples,TTI (s),Test time(s),Tp (s),PHRR (kW/m²),FIGRA,THR (MJ/m²),PSPR (m²/s),TSP (m²),EHC (MJ/kg),COY (kg/kg),AV-C02Y(kg/kg),Char residue (%),Vectors,TTI (s)_err,Test time(s)_err,Tp (s)_err,PHRR (kW/m²)_err,THR (MJ/m²)_err,PSPR (m²/s)_err,TSP (m²)_err,EHC (MJ/kg)_err,COY (kg/kg)_err,AV-C02Y(kg/kg)_err,Char residue (%)_err,Ref
+0,EP,59.0,590.0,130.0,1063.0,8.17,76.1,0.52,71.4,21.4,0.054,0.995,11.9,['EP'],1.0,18.0,2.0,25.0,1.9,0.02,2.5,0.9,0.003,0.008,0.5,j.polymdegradstab.2019.06.011_5_1
+1,EP/10% DOPMPA,68.0,800.0,140.0,393.0,2.8,56.3,0.29,36.9,18.7,0.067,0.652,30.0,"['EP', '(0.1)DOPMPA']",2.0,23.0,3.0,15.0,1.9,0.01,1.5,0.6,0.003,0.005,0.9,j.polymdegradstab.2019.06.011_5_1
+2,EP/13% DOPMPA,67.0,395.0,130.0,285.0,2.19,27.4,0.21,15.4,15.4,0.106,0.453,55.3,"['EP', '(0.13)DOPMPA']",1.0,13.0,2.0,11.0,1.1,0.01,0.4,0.3,0.004,0.005,1.5,j.polymdegradstab.2019.06.011_5_1

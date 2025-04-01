@@ -1,0 +1,5 @@
+,Samples,Atomic C,concentration N (%),concentration o (%),C/O,Vectors,Ref
+0,GO,59.41,0.0,40.59,1.46,['GO'],j.compositesb.2020.108075_5_0
+1,GO-PPD,76.75,10.13,13.12,5.85,"['GO', 'PPD']",j.compositesb.2020.108075_5_0
+2,GO-HMD,83.11,4.17,12.72,6.53,"['GO', 'HMD']",j.compositesb.2020.108075_5_0
+3,GO-NH3,76.92,7.58,15.5,4.96,['GO-NH3'],j.compositesb.2020.108075_5_0

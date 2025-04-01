@@ -1,0 +1,9 @@
+,Samples,EP,OPS,PEPA,APP,DOPO,Si content,P Content,Vectors,Ref
+0,Pure EP,100.0,/,/,/,/,/,/,['EP'],j.polymdegradstab.2014.07.023_2_0
+1,EP/PEPA,94.8,/,5.2,/,,,0.9,"['EP', 'PEPA']",j.polymdegradstab.2014.07.023_2_0
+2,EP/APP,97.1,,/,2.9,/,/,0.9,"['EP', 'APP']",j.polymdegradstab.2014.07.023_2_0
+3,EP/DOPO,93.7,/,,/,6.3,/,0.9,"['EP', 'DOPO']",j.polymdegradstab.2014.07.023_2_0
+4,EP/OPS,95.9,4.1,/,/,/,0.9,/,"['EP', 'OPS']",j.polymdegradstab.2014.07.023_2_0
+5,EP/OPS/PEPA,95.3,2.1,2.6,/,,0.45,0.45,"['EP', 'OPS', 'PEPA']",j.polymdegradstab.2014.07.023_2_0
+6,EP/OPS/APP,96.5,2.1,/,1.4,,0.45,0.45,"['EP', 'OPS', 'APP']",j.polymdegradstab.2014.07.023_2_0
+7,EP/OPS/DOPO,94.8,2.1,/,,3.1,0.45,0.45,"['EP', 'OPS', 'DOPO']",j.polymdegradstab.2014.07.023_2_0

@@ -1,0 +1,8 @@
+,Samples,Filler type,"Filler content, wt%",Vectors,Ref
+0,EP,-,-,['EP'],j.polymdegradstab.2020.109292_3_0
+1,20APP,APP,20.0,['(20)APP'],j.polymdegradstab.2020.109292_3_0
+2,20LHP,LHP,20.0,['(20)LHP'],j.polymdegradstab.2020.109292_3_0
+3,20HS,HS,20.0,['(20)HS'],j.polymdegradstab.2020.109292_3_0
+4,15HS/5LHP,"HS, LHP",15.0,"['(15)HS', '(5)LHP']",j.polymdegradstab.2020.109292_3_0
+5,10HS/10LHP,"HS, LHP",10.0,"['(10)HS', '(10)LHP']",j.polymdegradstab.2020.109292_3_0
+6,5HS/15LHP,"HS, LHP",5.0,"['(5)HS', '(15)LHP']",j.polymdegradstab.2020.109292_3_0

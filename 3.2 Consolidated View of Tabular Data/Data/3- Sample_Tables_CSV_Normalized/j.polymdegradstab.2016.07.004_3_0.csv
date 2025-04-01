@@ -1,0 +1,5 @@
+,Samples,EP (g),PEI (g),Imidazole (g),PEI-APPa (g),Vectors,Ref
+0,PEI/EP,98.8,1.2,0.5,-,"['PEI', 'EP']",j.polymdegradstab.2016.07.004_3_0
+1,PEI-APP 5/EP,95.0,-,0.5,5.0,"['PEI-APP5', 'EP']",j.polymdegradstab.2016.07.004_3_0
+2,PEI-APP 10/EP,90.0,-,0.5,10.0,"['PEI-APP(10)', 'EP']",j.polymdegradstab.2016.07.004_3_0
+3,PEI-APP 15/EP,85.0,-,0.5,15.0,"['PEI-APP(15)', 'EP']",j.polymdegradstab.2016.07.004_3_0

@@ -1,0 +1,7 @@
+,Samples,G(kcal/mol),A (kcal/mol),Vectors,Ref
+0,#1 33DDS-DGEBA 1st/2nd,37.59,32.91,"['#133DDS-DGEBA1st', '(2)nd']",j.eurpolymj.2016.04.019_7_0
+1,#1 33DDS-DGEBA8 1st/2nd,39.2,31.06,"['#133DDS-DGEBA81st', '(2)nd']",j.eurpolymj.2016.04.019_7_0
+2,#2 44DDS-DGEBA 1st/2nd,42.01,28.31,"['#244DDS-DGEBA1st', '(2)nd']",j.eurpolymj.2016.04.019_7_0
+3,#2 44DDS-DGEBA8 1st/2nd,40.9,30.27,"['#244DDS-DGEBA81st', '(2)nd']",j.eurpolymj.2016.04.019_7_0
+4,#3 33DDS-TGDDM 1st/2nd,41.92,26.03,"['#333DDS-TGDDM1st', '(2)nd']",j.eurpolymj.2016.04.019_7_0
+5,#4 44DDS-TGDDM 1st/2nd,43.68,26.07,"['#444DDS-TGDDM1st', '(2)nd']",j.eurpolymj.2016.04.019_7_0

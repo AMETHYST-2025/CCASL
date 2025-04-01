@@ -1,0 +1,10 @@
+,Samples,Time of the appearance of carbamate FTIR peak (min),Vectors,Ref
+0,PT-30,-,['PT-30'],j.polymdegradstab.2016.02.015_5_1
+1,20% PT-30 - 80% DGEBA,-,"['(0.2)PT-30', '(0.8)DGEBA']",j.polymdegradstab.2016.02.015_5_1
+2,40% PT-30 - 60% DGEBA,-,"['(0.4)PT-30', '(0.6)DGEBA']",j.polymdegradstab.2016.02.015_5_1
+3,20% PT-30 - DGEBA - DOPO 2%P,1260.0,"['(0.2)PT-30', 'DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_5_1
+4,30% PT-30 - DGEBA - DOPO 2%P,420.0,"['(0.3)PT-30', 'DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_5_1
+5,40% PT-30 - DGEBA - DOPO 2%P,420.0,"['(0.4)PT-30', 'DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_5_1
+6,20% PT-30 - DGEBA - DOPO 3%P,240.0,"['(0.2)PT-30', 'DGEBA', 'DOPO(0.03)P']",j.polymdegradstab.2016.02.015_5_1
+7,25% PT-30 - DGEBA - DOPO 3%P,120.0,"['(0.25)PT-30', 'DGEBA', 'DOPO(0.03)P']",j.polymdegradstab.2016.02.015_5_1
+8,40% PT-30 - DGEBA - DOPO 3%P,60.0,"['(0.4)PT-30', 'DGEBA', 'DOPO(0.03)P']",j.polymdegradstab.2016.02.015_5_1

@@ -1,0 +1,6 @@
+,Samples,TTI (s),PHRR (kW/m²),THR (MJ/m²),PSPR (m²/s),TSP (m²),PCOP (g/s),PCO₂P (g/s),Vectors,Ref
+0,Error,2.0,15.0,0.5,0.01,0.5,0.005,0.02,['Error'],j.compositesb.2021.109130_8_0
+1,Neat ABS,51.0,1174.0,81.2,0.315,24.7,0.035,0.84,['EPABS'],j.compositesb.2021.109130_8_0
+2,ABS/BODIPY-MXene0.5,35.0,886.0,79.8,0.257,25.7,0.023,0.64,"['ABS', 'BODIPY-MXene(0.5)']",j.compositesb.2021.109130_8_0
+3,ABS/BODIPY-MXene2.0,40.0,900.0,81.0,0.296,27.6,0.025,0.64,"['ABS', 'BODIPY-MXene(2.0)']",j.compositesb.2021.109130_8_0
+4,ABS/BODIPY2.0,45.0,1032.0,81.3,0.296,25.6,0.028,0.73,"['ABS', 'BODIPY(2.0)']",j.compositesb.2021.109130_8_0

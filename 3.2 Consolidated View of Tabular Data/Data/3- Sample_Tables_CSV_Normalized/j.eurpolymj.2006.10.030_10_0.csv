@@ -1,0 +1,5 @@
+,Samples,Flexural strength (MPa),Flexural modulus (GPa),Tensile strength (MPa),Tensile modulus (GPa),Vectors,Ref
+0,BGTF/HMPA,123.0,2.88,76.0,1.7,"['BGTF', 'HMPA']",j.eurpolymj.2006.10.030_10_0
+1,BGTF/DDM,88.0,2.79,56.0,1.55,"['BGTF', 'DDM']",j.eurpolymj.2006.10.030_10_0
+2,BADGE/HMPA,128.0,2.67,65.0,1.82,"['BADGE', 'HMPA']",j.eurpolymj.2006.10.030_10_0
+3,BADGE/DDM,101.0,2.17,53.0,1.92,"['BADGE', 'DDM']",j.eurpolymj.2006.10.030_10_0

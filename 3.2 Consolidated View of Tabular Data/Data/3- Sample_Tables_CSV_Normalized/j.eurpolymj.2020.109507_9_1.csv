@@ -1,0 +1,4 @@
+,Samples,"Heat conduction coefficient, W/mK",Vectors,Ref
+0,DGEBA/BN,0.2,"['DGEBA', 'BN']",j.eurpolymj.2020.109507_9_1
+1,DGETAM (isotropic phase),0.35,['DGETAM(isotropicphase)'],j.eurpolymj.2020.109507_9_1
+2,DGETAM (multi-domain LC phase),0.38,['DGETAM(multi-domainLCphase)'],j.eurpolymj.2020.109507_9_1

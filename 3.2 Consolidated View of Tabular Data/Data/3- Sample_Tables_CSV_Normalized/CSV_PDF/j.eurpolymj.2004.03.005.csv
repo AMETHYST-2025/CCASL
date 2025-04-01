@@ -1,0 +1,27 @@
+,Code,CS (MPa) (SD),Viscosity (cp),Samples,CS (MPa) (SD)_err,Ratio in liquid (wt%),Peak temperature (°C),Curing time (min),Shrinkage (%),Peak temperature (°C)_err,Curing time (min)_err,Shrinkage (%)_err,Vectors,Ref
+0,,,,30/70 (BTTEMAT/TEGDMA),,,31.1,3.8,4.0,0.4,0.3,0.29,"['30', '70(BTTEMAT', 'TEGDMA)']",j.eurpolymj.2004.03.005
+1,A,235.5,172.0,35/6/47/12 (HA/SrF2/ZnO/SiO2),7.3,,,,,,,,"['35', '6', '47', '12(HA', 'SrF2', 'ZnO', 'SiO2)']",j.eurpolymj.2004.03.005
+2,,,,40/40/20 (BTTEMAT/TEGDMA/TMPTMA),,,32.8,3.3,2.42,1.2,0.3,0.3,"['40', '40', '20(BTTEMAT', 'TEGDMA', 'TMPTMA)']",j.eurpolymj.2004.03.005
+3,,,,40/60 (BTTEMAT/EB-40),,,37.0,3.8,0.57,0.7,0.5,0.21,"['40', '60(BTTEMAT', 'EB-40)']",j.eurpolymj.2004.03.005
+4,,,,40/60 (BTTEMAT/TEGDMA),,,29.7,4.3,3.12,1.2,0.4,0.49,"['40', '60(BTTEMAT', 'TEGDMA)']",j.eurpolymj.2004.03.005
+5,,,,40/60 (BTTEMAT/TMPTMA),,,32.7,4.3,2.55,0.6,0.3,0.36,"['40', '60(BTTEMAT', 'TMPTMA)']",j.eurpolymj.2004.03.005
+6,D,213.7,172.0,47/6/35/12 (HA/SrF2/ZnO/SiO2),10.1,,,,,,,,"['47', '6', '35', '12(HA', 'SrF2', 'ZnO', 'SiO2)']",j.eurpolymj.2004.03.005
+7,,,,50,,,49.2,5.3,4.54,2.0,0.8,0.33,['50'],j.eurpolymj.2004.03.005
+8,,,,67,,,38.5,3.5,3.1,1.2,0.5,0.13,['67'],j.eurpolymj.2004.03.005
+9,,,,70/30 (BTTEMAT/TEGDMA),,,26.6,8.3,2.06,0.5,0.8,0.33,"['70', '30(BTTEMAT', 'TEGDMA)']",j.eurpolymj.2004.03.005
+10,,,,75,,,32.8,3.3,2.42,1.2,0.3,0.3,['75'],j.eurpolymj.2004.03.005
+11,,,,80,,,28.4,7.5,2.21,0.7,0.4,0.25,['80'],j.eurpolymj.2004.03.005
+12,B,184.8,151.0,BPTEMA/TEGDMA,15.5,,,,,,,,"['BPTEMA', 'TEGDMA']",j.eurpolymj.2004.03.005
+13,,183.0,799.0,BTTEMA/EB-40,12.5,40.0,,,,,,,"['BTTEMA', 'EB(40)']",j.eurpolymj.2004.03.005
+14,A,235.5,172.0,BTTEMA/TEGDMA,7.3,,,,,,,,"['BTTEMA', 'TEGDMA']",j.eurpolymj.2004.03.005
+15,,249.0,51.0,BTTEMA/TEGDMA,14.0,40.0,,,,,,,"['BTTEMA', 'TEGDMA']",j.eurpolymj.2004.03.005
+16,,241.1,175.0,BTTEMA/TEGDMA/EB-40,10.9,40.0,,,,,,,"['BTTEMA', 'TEGDMA', 'EB(40)']",j.eurpolymj.2004.03.005
+17,,227.2,207.0,BTTEMA/TEGDMA/EB-40,14.9,40.0,,,,,,,"['BTTEMA', 'TEGDMA', 'EB(40)']",j.eurpolymj.2004.03.005
+18,,189.6,322.0,BTTEMA/TEGDMA/EB-40,10.6,40.0,,,,,,,"['BTTEMA', 'TEGDMA', 'EB(40)']",j.eurpolymj.2004.03.005
+19,,261.5,99.0,BTTEMA/TEGDMA/TMPTMA,6.3,40.0,,,,,,,"['BTTEMA', 'TEGDMA', 'TMPTMA']",j.eurpolymj.2004.03.005
+20,,260.8,159.0,BTTEMA/TEGDMA/TMPTMA,9.6,40.0,,,,,,,"['BTTEMA', 'TEGDMA', 'TMPTMA']",j.eurpolymj.2004.03.005
+21,,231.7,244.0,BTTEMA/TEGDMA/TMPTMA,11.2,40.0,,,,,,,"['BTTEMA', 'TEGDMA', 'TMPTMA']",j.eurpolymj.2004.03.005
+22,,216.0,610.0,BTTEMA/TMPTMA,16.0,40.0,,,,,,,"['BTTEMA', 'TMPTMA']",j.eurpolymj.2004.03.005
+23,,,,"Filler level (%, by weight)",,,,,,,,,"['Fillerlevel(%,byweight)']",j.eurpolymj.2004.03.005
+24,C,199.4,84.0,IPTEMA/TEGDMA,8.0,,,,,,,,"['IPTEMA', 'TEGDMA']",j.eurpolymj.2004.03.005
+25,,,,Oligomer/diluent ratio (by weight)),,,,,,,,,"['Oligomer', 'diluentratio(byweight))']",j.eurpolymj.2004.03.005

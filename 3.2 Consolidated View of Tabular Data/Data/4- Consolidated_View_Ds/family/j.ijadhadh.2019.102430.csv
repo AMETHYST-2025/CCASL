@@ -1,0 +1,8 @@
+,Samples,Cods,Molar rations,Synthesis manner,Tensile strength (MPa),Elongation at break (%),Vectors,Ref
+0,DGEPEG:DGEBA/APEG:IPDA/5.0 wt % SiO2,D,1.0,Combinational,,,"['DGEPEG:DGEBA', 'APEG:IPDA', '(0.05)SiO2']",j.ijadhadh.2019.102430
+1,DGEPEG/IPDA/5.0wt% SiO2,E,1.0,Non- Combinational,,,"['DGEPEG', 'IPDA', '(0.05)SiO2']",j.ijadhadh.2019.102430
+2,DGEBA/APEG/5.0wt% SiO2,F,1.0,Non- Combinational,,,"['DGEBA', 'APEG', '(0.05)SiO2']",j.ijadhadh.2019.102430
+3,DGEPEG:DGEBA/APEG:IPDA/ 5.0 wt% SiO2,D,,,1.11,29.0,"['DGEPEG', 'DGEBA', 'APEG', 'IPDA', '(0.05)SiO2']",j.ijadhadh.2019.102430
+4,DGEPEG:DGEBA/APEG:IPDA,A,1.0,Combinational,0.69,21.0,"['DGEPEG:DGEBA', 'APEG:IPDA']",j.ijadhadh.2019.102430
+5,DGEPEG/IPDA,B,1.0,Non- Combinational,0.6,23.0,"['DGEPEG', 'IPDA']",j.ijadhadh.2019.102430
+6,DGEBA/APEG,C,1.0,Non- Combinational,0.65,23.0,"['DGEBA', 'APEG']",j.ijadhadh.2019.102430

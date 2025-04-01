@@ -1,0 +1,6 @@
+,Samples,Mean Storage Glassy State (MPa),Rubbery modulus (MPa),Mean From DMA (C),T8 From TMA (C),T8 Below Tg (ppm °C-1,"CTE Above Tg (ppm °C"")",CTE T10% (C),TGA T50% (C),TGA T70% (C),Vectors,Ref
+0,EP,2369.0,29.2,164.5,152.6,68.1,187.7,374.6,416.0,530.0,['EP'],j.compositesb.2016.10.081_33_0
+1,EP/SNP,2693.5,37.8,160.6,137.2,62.4,173.1,377.6,426.8,546.3,"['EP', 'SNP']",j.compositesb.2016.10.081_33_0
+2,EP/SNP-NH2,2741.0,37.7,158.3,136.6,61.0,178.6,376.1,425.5,583.9,"['EP', 'SNP-NH(2)']",j.compositesb.2016.10.081_33_0
+3,EP/SNP-EP,2727.5,40.7,163.4,139.9,62.6,173.0,375.8,428.9,563.9,"['EP', 'SNP-EP']",j.compositesb.2016.10.081_33_0
+4,EP/SNP-C,2743.0,41.2,163.9,141.2,61.6,175.1,375.6,425.0,545.4,"['EP', 'SNP-C']",j.compositesb.2016.10.081_33_0

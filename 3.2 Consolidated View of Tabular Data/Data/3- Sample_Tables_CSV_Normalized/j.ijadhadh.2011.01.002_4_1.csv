@@ -1,0 +1,5 @@
+,Samples,Tg (°C),Adhesive strength (MPa),Vectors,Adhesive strength (MPa)_err,Ref
+0,DGEBA/TETA,124.0,16.6,"['DGEBA', 'TETA']",0.8,j.ijadhadh.2011.01.002_4_1
+1,DGEBA/AEP,115.0,19.9,"['DGEBA', 'AEP']",0.8,j.ijadhadh.2011.01.002_4_1
+2,DGEBA/Pip,80.0,21.0,"['DGEBA', 'Pip']",0.4,j.ijadhadh.2011.01.002_4_1
+3,DGEBA/IPD,155.0,17.5,"['DGEBA', 'IPD']",0.5,j.ijadhadh.2011.01.002_4_1

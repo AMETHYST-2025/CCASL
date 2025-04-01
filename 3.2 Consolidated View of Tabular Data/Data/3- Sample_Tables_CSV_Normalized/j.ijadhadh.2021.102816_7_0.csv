@@ -1,0 +1,5 @@
+,Samples,Tg experimental (°C),Tg predicted (°C),Vectors,Ref
+0,EP-NEAT,74.0,,['EP'],j.ijadhadh.2021.102816_7_0
+1,EP-PEEKTOH (5),77.0,76.0,"['EP', 'PEEKTOH(5)']",j.ijadhadh.2021.102816_7_0
+2,EP-PEEKTOH (10),75.0,76.0,"['EP', 'PEEKTOH(10)']",j.ijadhadh.2021.102816_7_0
+3,EP-PEEKTOH (15),80.0,79.0,"['EP', 'PEEKTOH(15)']",j.ijadhadh.2021.102816_7_0

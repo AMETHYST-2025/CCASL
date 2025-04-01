@@ -1,0 +1,7 @@
+,Samples,DGEBA (g),DDS (g),DOPO (g),DTA (g),P (wt%),Vectors,Ref
+0,EP/DDS,100.0,33.0,0.0,0.0,0.0,"['EP', 'DDS']",j.polymdegradstab.2019.03.003_3_0
+1,EP/DDS/DOPO,100.0,33.0,10.0,0.0,1.0,"['EP', 'DDS', 'DOPO']",j.polymdegradstab.2019.03.003_3_0
+2,EP/DDS/DTA-0.25,100.0,31.5,0.0,4.4,0.25,"['EP', 'DDS', 'DTA(0.25)']",j.polymdegradstab.2019.03.003_3_0
+3,EP/DDS/DTA-0.5,100.0,30.1,0.0,8.9,0.5,"['EP', 'DDS', 'DTA(0.5)']",j.polymdegradstab.2019.03.003_3_0
+4,EP/DDS/DTA-0.75,100.0,28.6,0.0,13.7,0.75,"['EP', 'DDS', 'DTA(0.75)']",j.polymdegradstab.2019.03.003_3_0
+5,EP/DDS/DTA-1.0,100.0,27.1,0.0,18.7,1.0,"['EP', 'DDS', 'DTA(1.0)']",j.polymdegradstab.2019.03.003_3_0

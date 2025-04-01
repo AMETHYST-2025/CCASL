@@ -1,0 +1,6 @@
+,Samples,E (kJ/mol),log(to/s)a,Vectors,Ref
+0,PEO (bulk),40.0,16.6,['PEO(bulk)'],acs.macromol.6b01285_7_0
+1,PEO/RNPs-A,38.0,15.2,"['PEO', 'RNPs-A']",acs.macromol.6b01285_7_0
+2,PEO/RNPs-B,36.0,14.8,"['PEO', 'RNPs-B']",acs.macromol.6b01285_7_0
+3,PEO/RNPs-C,40.0,15.5,"['PEO', 'RNPs-C']",acs.macromol.6b01285_7_0
+4,PEO/RNPs-D,37.0,14.7,"['PEO', 'RNPs-D']",acs.macromol.6b01285_7_0

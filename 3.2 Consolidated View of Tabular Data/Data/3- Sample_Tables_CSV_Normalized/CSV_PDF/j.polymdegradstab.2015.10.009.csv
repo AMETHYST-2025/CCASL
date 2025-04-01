@@ -1,0 +1,5 @@
+,Samples,T5% (°C),"Tmax max (C)""",The rate of Tmax max (wt%/min),Residue (700 °C) (wt%),C-C Area (%),C-O Area (%),C-N Area (%),Retention Time (min),M,Assigned structure,I (s)a,IRR (kW/m²),eraged HRR (kW/m²),Vectors,Ref
+0,Azo-EP-PA,262.1,358.0,3.9,29.7,91.57,3.02,5.41,,,,39.0,344.0,58.0,"['Azo', 'EP', 'PA']",j.polymdegradstab.2015.10.009
+1,Azo-EP-PEPA,296.4,362.0,2.6,48.2,90.08,4.68,5.24,,,,45.0,289.0,42.0,"['Azo', 'EP', 'PEPA']",j.polymdegradstab.2015.10.009
+2,DGEBA-PA,345.5,394.0,16.3,6.2,95.96,4.06,0.0,4.5,118.0,OH,63.0,694.0,77.0,"['DGEBA', 'PA']",j.polymdegradstab.2015.10.009
+3,DGEBA-PEPA,355.6,397.0,10.5,38.1,88.51,11.46,0.0,4.4,94.0,HO,62.0,857.0,61.0,"['DGEBA', 'PEPA']",j.polymdegradstab.2015.10.009

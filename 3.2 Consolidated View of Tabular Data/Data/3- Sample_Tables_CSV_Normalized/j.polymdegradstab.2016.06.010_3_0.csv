@@ -1,0 +1,10 @@
+,Samples,LOI (%),UL-94,,Vectors,Ref
+0,,,Rating,Dripping,[''],j.polymdegradstab.2016.06.010_3_0
+1,1%APHP/1%DOPO/EP,31.7,Unrated,No,"['(0.01)APHP', '(0.01)DOPO', 'EP']",j.polymdegradstab.2016.06.010_3_0
+2,2%APHP/2%DOPO/EP,37.2,V-1,No,"['(0.02)APHP', '(0.02)DOPO', 'EP']",j.polymdegradstab.2016.06.010_3_0
+3,3%APHP/3%DOPO/EP,39.3,V-1,No,"['(0.03)APHP', '(0.03)DOPO', 'EP']",j.polymdegradstab.2016.06.010_3_0
+4,1%APHP/2%DOPO/EP,34.7,V-1,No,"['(0.01)APHP', '(0.02)DOPO', 'EP']",j.polymdegradstab.2016.06.010_3_0
+5,2%APHP/4%DOPO/EP,39.5,V-0,No,"['(0.02)APHP', '(0.04)DOPO', 'EP']",j.polymdegradstab.2016.06.010_3_0
+6,6% APHP/EP,33.1,Unrated,No,"['(0.06)APHP', 'EP']",j.polymdegradstab.2016.06.010_3_0
+7,6% DOPO/EP,38.5,V-1,No,"['(0.06)DOPO', 'EP']",j.polymdegradstab.2016.06.010_3_0
+8,EP,26.2,Unrated,Yes,['EP'],j.polymdegradstab.2016.06.010_3_0

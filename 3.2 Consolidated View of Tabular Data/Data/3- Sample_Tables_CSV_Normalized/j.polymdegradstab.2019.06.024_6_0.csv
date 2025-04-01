@@ -1,0 +1,6 @@
+,Samples,TTI (s),THR (MJ/m²),pk1-HRR (kW/m²),TML (wt%),EHC (MJ/kg),COY (kg/kg),CO₂Y (kg/kg),TSR (m²/m²),Vectors,TTI (s)_err,Ref
+0,EP,,143.6,1420.0,92.2,29.9,0.13,2.51,5912.0,['EP'],56.0,j.polymdegradstab.2019.06.024_6_0
+1,3%ABD/EP,,101.5,1043.0,87.7,22.6,0.12,1.78,5709.0,"['(0.03)ABD', 'EP']",51.0,j.polymdegradstab.2019.06.024_6_0
+2,4%ABD/EP,,94.3,933.0,87.1,21.4,0.13,1.68,5618.0,"['(0.04)ABD', 'EP']",51.0,j.polymdegradstab.2019.06.024_6_0
+3,3%DOPO/EP,,91.9,1182.0,88.7,21.5,0.14,1.62,6003.0,"['(0.03)DOPO', 'EP']",52.0,j.polymdegradstab.2019.06.024_6_0
+4,Error range,,2.0,45.0,0.5,0.5,0.01,0.03,64.0,['Errorrange'],1.0,j.polymdegradstab.2019.06.024_6_0

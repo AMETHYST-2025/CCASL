@@ -1,0 +1,6 @@
+,Samples,Tg (°C),Tonset (°C),Tmax (°C),Residues at 800 o °C (%),Vectors,Ref
+0,DOPO-POSS,106.6,334.0,479.0,40.6,"['DOPO', 'POSS']",j.polymdegradstab.2011.07.014_4_0
+1,EP control,137.9,372.0,390.0,11.6,['EPcontrol'],j.polymdegradstab.2011.07.014_4_0
+2,EP-1,145.6,360.0,391.0,13.0,['EP-1'],j.polymdegradstab.2011.07.014_4_0
+3,EP-2,146.6,359.0,394.0,16.1,['EP-2'],j.polymdegradstab.2011.07.014_4_0
+4,EP-3,142.7,362.0,442.0,20.9,['EP-3'],j.polymdegradstab.2011.07.014_4_0

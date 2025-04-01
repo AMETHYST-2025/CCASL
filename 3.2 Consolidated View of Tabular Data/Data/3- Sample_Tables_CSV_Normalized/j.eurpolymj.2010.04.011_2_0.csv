@@ -1,0 +1,5 @@
+,Samples,Curing temperature (°C),Curing time (h),Post cure temperature (C),Post cure time (h),Vectors,Ref
+0,PSER/m-PDA,120.0,3.0,150.0,4.0,"['PSER', 'm-PDA']",j.eurpolymj.2010.04.011_2_0
+1,TGCS/m-PDA,150.0,3.0,180.0,4.0,"['TGCS', 'm-PDA']",j.eurpolymj.2010.04.011_2_0
+2,PSER/2E4MZ,120.0,3.0,150.0,4.0,"['PSER', '2E4MZ']",j.eurpolymj.2010.04.011_2_0
+3,TGCS/2E4MZ,150.0,3.0,180.0,4.0,"['TGCS', '2E4MZ']",j.eurpolymj.2010.04.011_2_0

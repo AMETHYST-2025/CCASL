@@ -1,0 +1,11 @@
+,Samples,Unnamed: 1,resin-epoxide Mixing ratio,resin-epoxide Number of atoms,G(kcal/mol),A (kcal/mol),Vectors,Ref
+0,#1 33DDS-DGEBA 1st/2nd,,,,37.59,32.91,"['#133DDS-DGEBA1st', '(2)nd']",j.eurpolymj.2016.04.019
+1,#1 33DDS-DGEBA8 1st/2nd,,,,39.2,31.06,"['#133DDS-DGEBA81st', '(2)nd']",j.eurpolymj.2016.04.019
+2,#2 44DDS-DGEBA 1st/2nd,,,,42.01,28.31,"['#244DDS-DGEBA1st', '(2)nd']",j.eurpolymj.2016.04.019
+3,#2 44DDS-DGEBA8 1st/2nd,,,,40.9,30.27,"['#244DDS-DGEBA81st', '(2)nd']",j.eurpolymj.2016.04.019
+4,#3 33DDS-TGDDM 1st/2nd,,,,41.92,26.03,"['#333DDS-TGDDM1st', '(2)nd']",j.eurpolymj.2016.04.019
+5,#4 44DDS-TGDDM 1st/2nd,,,,43.68,26.07,"['#444DDS-TGDDM1st', '(2)nd']",j.eurpolymj.2016.04.019
+6,DGEBA/DEGBA8/33DDS,1.0,16.0,4225.0,,,"['DGEBA', 'DEGBA(8)', '33DDS']",j.eurpolymj.2016.04.019
+7,IDGEBA/DEGBA8/44DDS,2.0,16.0,4225.0,,,"['IDGEBA', 'DEGBA(8)', '44DDS']",j.eurpolymj.2016.04.019
+8,TGDDM/33DDS,3.0,1.0,4860.0,,,"['TGDDM', '33DDS']",j.eurpolymj.2016.04.019
+9,TGDDM/44DDS,4.0,1.0,4860.0,,,"['TGDDM', '44DDS']",j.eurpolymj.2016.04.019

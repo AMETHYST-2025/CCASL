@@ -1,0 +1,8 @@
+,Samples,T5% (°C),Tmax (°C),Char yields (800 °C) (%),Vectors,Ref
+0,EP,370.0,390.0,18.4,['EP'],j.polymdegradstab.2015.10.006_5_1
+1,EP/DOPO,339.0,378.0,19.5,"['EP', 'DOPO']",j.polymdegradstab.2015.10.006_5_1
+2,EP/TMT,363.0,386.0,21.0,"['EP', 'TMT']",j.polymdegradstab.2015.10.006_5_1
+3,EP/TMT/DOPO-0.4,347.0,380.0,20.5,"['EP', 'TMT', 'DOPO(0.4)']",j.polymdegradstab.2015.10.006_5_1
+4,EP/TMT/DOPO-0.6,342.0,374.0,22.2,"['EP', 'TMT', 'DOPO(0.6)']",j.polymdegradstab.2015.10.006_5_1
+5,EP/TMT/DOPO-0.8,340.0,370.0,22.7,"['EP', 'TMT', 'DOPO(0.8)']",j.polymdegradstab.2015.10.006_5_1
+6,EP/TMT/DOPO-1.0,337.0,365.0,24.0,"['EP', 'TMT', 'DOPO(1.0)']",j.polymdegradstab.2015.10.006_5_1

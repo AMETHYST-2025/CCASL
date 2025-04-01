@@ -1,0 +1,5 @@
+,Samples,Energy (J),Impact strength (KJ/m²),Vectors,Ref
+0,EP,0.181,5.0,['EP'],j.polymdegradstab.2016.06.011_6_0
+1,EP/MH,0.107,2.9,"['EP', 'MH']",j.polymdegradstab.2016.06.011_6_0
+2,EP/B,0.219,6.1,['EP/B'],j.polymdegradstab.2016.06.011_6_0
+3,EP/MH/B2,0.19,5.2,"['EP', 'MH', 'B(2)']",j.polymdegradstab.2016.06.011_6_0

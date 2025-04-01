@@ -1,0 +1,6 @@
+,Samples,TTI (s),PHRR (kW/m²),Time PHRR (s),THR (MJ/m²),Residue,Vectors,Ref
+0,PER 3%P APP laminated,20.0,247.0,35.0,15.9,50.0,['PER(0.03)PAPPlaminated'],j.polymdegradstab.2020.109094_6_0
+1,PER 3%P APP infusion site UP,26.0,184.0,43.0,15.5,62.0,['PER(0.03)PAPPinfusionsiteUP'],j.polymdegradstab.2020.109094_6_0
+2,PER 3%P APP infusion site DOWN,24.0,208.0,47.0,17.2,62.0,['PER(0.03)PAPPinfusionsiteDOWN'],j.polymdegradstab.2020.109094_6_0
+3,PER 1-5%P APP 5%P UP,24.0,228.0,43.0,21.1,52.0,"['PER(1)', '(0.05)PAPP', '(0.05)PUP']",j.polymdegradstab.2020.109094_6_0
+4,PER 1-5%P APP 1%P UP,22.0,221.0,41.0,18.9,41.0,"['PER(1)', '(0.05)PAPP', '(0.01)PUP']",j.polymdegradstab.2020.109094_6_0

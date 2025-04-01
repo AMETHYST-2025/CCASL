@@ -1,0 +1,6 @@
+,Samples,T5% (°C),Tmax (°C),Vmax (%/°C),CY600 (%),Tg (°C),Vectors,Ref
+0,STZ,285.5,288.3,0.32,47.2,-,['STZ'],j.polymdegradstab.2020.109078_4_0
+1,EP,327.9,400.2,1.16,26.5,255.3,['EP'],j.polymdegradstab.2020.109078_4_0
+2,EP/STZ2,320.6,394.1,1.01,29.4,253.7,"['EP', 'STZ(2)']",j.polymdegradstab.2020.109078_4_0
+3,EP/STZ4,308.7,391.7,0.86,33.3,252.1,"['EP', 'STZ(4)']",j.polymdegradstab.2020.109078_4_0
+4,EP/STZ6,305.2,390.2,0.8,36.1,250.9,"['EP', 'STZ(6)']",j.polymdegradstab.2020.109078_4_0

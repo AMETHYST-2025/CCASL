@@ -1,0 +1,5 @@
+,Samples,.1,.2,Eg (kJ/mol),R,R5,Vectors,Ref
+0,DGEBA/1.0GPPI,Tan o,713.0,71.7,0.984,0.987,"['DGEBA', '(1.0)GPPI']",j.matchemphys.2012.11.060_7_1
+1,,"E""",657.0,37.6,0.879,0.975,[''],j.matchemphys.2012.11.060_7_1
+2,DGEBA/PAN4,Tan o,309.0,65.0,0.995,0.994,"['DGEBA', 'PAN(4)']",j.matchemphys.2012.11.060_7_1
+3,,"E""",311.0,69.9,0.983,0.997,[''],j.matchemphys.2012.11.060_7_1

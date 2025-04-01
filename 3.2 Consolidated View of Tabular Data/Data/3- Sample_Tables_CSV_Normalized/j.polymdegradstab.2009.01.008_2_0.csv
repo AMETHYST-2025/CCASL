@@ -1,0 +1,5 @@
+,Samples,Curing temperature (°C),Curing time (min),Postcuring temperature (°C),Postcuril time (m),Vectors,Ref
+0,PN-EP/DDM,120.0,60.0,150.0,180.0,"['PN-EP', 'DDM']",j.polymdegradstab.2009.01.008_2_0
+1,PN-EP/DICY,160.0,30.0,190.0,60.0,"['PN-EP', 'DICY']",j.polymdegradstab.2009.01.008_2_0
+2,PN-EP/novolak,140.0,60.0,170.0,180.0,"['PN-EP', 'novolak']",j.polymdegradstab.2009.01.008_2_0
+3,PN-EP/PMDA,180.0,60.0,200.0,180.0,"['PN-EP', 'PMDA']",j.polymdegradstab.2009.01.008_2_0

@@ -1,0 +1,12 @@
+,Samples,EP (g),DDM (g),CNTs or (x = 5) (g),"CNT-PD-x 10,20) (wt%)",Vectors,Ref
+0,Pure EP,100.0,25.3,0.0,0.0,['EP'],j.polymdegradstab.2016.04.011_2_1
+1,2%CNT/EP,100.0,25.3,2.6,2.0,"['(0.02)CNT', 'EP']",j.polymdegradstab.2016.04.011_2_1
+2,4%CNT/EP,100.0,25.3,5.2,4.0,"['(0.04)CNT', 'EP']",j.polymdegradstab.2016.04.011_2_1
+3,2%PD/EP,100.0,25.3,2.6,2.0,"['(0.02)PD', 'EP']",j.polymdegradstab.2016.04.011_2_1
+4,4%PD/EP,100.0,25.3,5.2,4.0,"['(0.04)PD', 'EP']",j.polymdegradstab.2016.04.011_2_1
+5,2%CNT-PD-5/EP,100.0,25.3,2.6,2.0,"['(0.02)CNT-PD-5', 'EP']",j.polymdegradstab.2016.04.011_2_1
+6,4%CNT-PD-5/EP,100.0,25.3,5.2,4.0,"['(0.04)CNT-PD-5', 'EP']",j.polymdegradstab.2016.04.011_2_1
+7,2%CNT-PD-10/EP,100.0,25.3,2.6,2.0,"['(0.02)CNT-PD-10', 'EP']",j.polymdegradstab.2016.04.011_2_1
+8,4%CNT-PD-10/EP,100.0,25.3,5.2,4.0,"['(0.04)CNT-PD-10', 'EP']",j.polymdegradstab.2016.04.011_2_1
+9,2%CNT-PD-20/EP,100.0,25.3,2.6,2.0,"['(0.02)CNT-PD-20', 'EP']",j.polymdegradstab.2016.04.011_2_1
+10,4%CNT-PD-20/EP,100.0,25.3,5.2,4.0,"['(0.04)CNT-PD-20', 'EP']",j.polymdegradstab.2016.04.011_2_1

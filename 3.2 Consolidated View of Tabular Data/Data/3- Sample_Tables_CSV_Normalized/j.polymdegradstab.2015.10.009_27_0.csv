@@ -1,0 +1,17 @@
+,Samples,Retention Time (min),M,Assigned structure,Vectors,Ref
+0,DGEBA-PA,4.5,118.0,OH,"['DGEBA', 'PA']",j.polymdegradstab.2015.10.009_27_0
+1,,5.3,120.0,OH,[''],j.polymdegradstab.2015.10.009_27_0
+2,,5.5,134.0,o,[''],j.polymdegradstab.2015.10.009_27_0
+3,,6.5,122.0,OH,[''],j.polymdegradstab.2015.10.009_27_0
+4,,6.9,122.0,OH,[''],j.polymdegradstab.2015.10.009_27_0
+5,,7.2,162.0,,[''],j.polymdegradstab.2015.10.009_27_0
+6,,7.8,134.0,HO HO or,[''],j.polymdegradstab.2015.10.009_27_0
+7,,8.1,148.0,o,[''],j.polymdegradstab.2015.10.009_27_0
+8,,12.1,212.0,OH,[''],j.polymdegradstab.2015.10.009_27_0
+9,,13.9,228.0,HO OH,[''],j.polymdegradstab.2015.10.009_27_0
+10,,14.4,252.0,HO,[''],j.polymdegradstab.2015.10.009_27_0
+11,,15.2,266.0,,[''],j.polymdegradstab.2015.10.009_27_0
+12,DGEBA-PEPA,4.4,94.0,HO,"['DGEBA', 'PEPA']",j.polymdegradstab.2015.10.009_27_0
+13,,7.0,136.0,HO,[''],j.polymdegradstab.2015.10.009_27_0
+14,,7.7,160.0,,[''],j.polymdegradstab.2015.10.009_27_0
+15,,7.8,148.0,o,[''],j.polymdegradstab.2015.10.009_27_0

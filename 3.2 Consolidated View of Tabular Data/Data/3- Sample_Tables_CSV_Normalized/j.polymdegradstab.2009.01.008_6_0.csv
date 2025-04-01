@@ -1,0 +1,9 @@
+,Samples,Tg (°C),Temperature characteristic weight 3 wt%,at loss (C) 10 wt%,Temperature at rapid weight loss (C),Char yield at 600 °C (wt%),Vectors,Ref
+0,DGEBA/DDM,132.7,281.6,385.4,395.5,9.4,"['DGEBA', 'DDM']",j.polymdegradstab.2009.01.008_6_0
+1,PN-EP/DDM,137.5,270.7,373.8,396.9,23.5,"['PN-EP', 'DDM']",j.polymdegradstab.2009.01.008_6_0
+2,DGEBA/DICY,129.6,325.1,362.4,402.5,7.6,"['DGEBA', 'DICY']",j.polymdegradstab.2009.01.008_6_0
+3,PN-EP/DICY,133.8,322.4,365.8,408.8,42.4,"['PN-EP', 'DICY']",j.polymdegradstab.2009.01.008_6_0
+4,DGEBA/novolak,135.4,362.1,390.5,401.7,8.7,"['DGEBA', 'novolak']",j.polymdegradstab.2009.01.008_6_0
+5,PN-EP/novolak,144.6,378.6,400.1,409.4,56.2,"['PN-EP', 'novolak']",j.polymdegradstab.2009.01.008_6_0
+6,DGEBA/PMDA,131.5,259.4,352.6,385.6,8.1,"['DGEBA', 'PMDA']",j.polymdegradstab.2009.01.008_6_0
+7,PN-EP/PMDA,138.2,238.2,340.8,387.3,54.6,"['PN-EP', 'PMDA']",j.polymdegradstab.2009.01.008_6_0

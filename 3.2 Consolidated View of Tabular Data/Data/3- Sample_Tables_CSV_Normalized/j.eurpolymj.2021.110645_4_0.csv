@@ -1,0 +1,20 @@
+,Samples,Feedstock,T5d (°C),T (°C),Residual mass (%),Ref,Vectors
+0,PA-PN,anethole,483.0,450.0,72.0,j.eurpolymj.2021.110645_4_0,"['PA', 'PN']"
+1,Poly (BPN),lignin,417.0,400.0,72.0,j.eurpolymj.2021.110645_4_0,['Poly(BPN)']
+2,Poly (EPN),eugenol,465.0,394.0,78.0,j.eurpolymj.2021.110645_4_0,['Poly(EPN)']
+3,Poly (GPN),guaiacol,484.0,392.0,75.0,j.eurpolymj.2021.110645_4_0,['Poly(GPN)']
+4,TBHQPh,"1,3,5-benzen- etricarbonyltrichloride",536.0,500.0,74.0,j.eurpolymj.2021.110645_4_0,['TBHQPh']
+5,PIPN,"4,4'-oxydiphthalic anhydride",518.0,-,69.0,j.eurpolymj.2021.110645_4_0,['PIPN']
+6,HPPN,bisphenol A(PPO),391.0,351.0,65.0,j.eurpolymj.2021.110645_4_0,['HPPN']
+7,TPN,L-Tyrosine,450.0,455.0,71.0,j.eurpolymj.2021.110645_4_0,['TPN']
+8,Poly(BA- ph),bisphenol A,439.0,300.0,66.0,j.eurpolymj.2021.110645_4_0,['Poly(BA-ph)']
+9,4a,resveratrol,510.0,400.0,65.0,j.eurpolymj.2021.110645_4_0,['(4)a']
+10,4b,resveratrol,500.0,400.0,62.0,j.eurpolymj.2021.110645_4_0,['(4)b']
+11,BA-ph/ BPA,bisphenol A (BPA),443.0,299.0,65.0,j.eurpolymj.2021.110645_4_0,"['BA', 'ph/BPA']"
+12,Bis- ADPN/ DDS,Bisphenol A,478.0,400.0,62.0,j.eurpolymj.2021.110645_4_0,"['Bis', 'ADPN/DDS']"
+13,Cured-3a,Vanillin,482.0,500.0,78.0,j.eurpolymj.2021.110645_4_0,"['Cured', '(3)a']"
+14,Cured-3b,Vanillin,477.0,500.0,76.0,j.eurpolymj.2021.110645_4_0,"['Cured', '(3)b']"
+15,V-PN,Vanillin,486.0,400.0,76.0,j.eurpolymj.2021.110645_4_0,"['V', 'PN']"
+16,HBPPN,4-hydroxybenzoic acid,452.0,329.0,66.0,j.eurpolymj.2021.110645_4_0,['HBPPN']
+17,BDS,bis-(4-hydroxyphenyl) sulfone,436.0,322.0,57.0,j.eurpolymj.2021.110645_4_0,['BDS']
+18,Cured 5d,"1,6- dihydroxynaphthalene",551.0,500.0,66.5,j.eurpolymj.2021.110645_4_0,['Cured(5)d']

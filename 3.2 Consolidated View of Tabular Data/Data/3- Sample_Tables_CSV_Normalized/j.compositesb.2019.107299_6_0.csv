@@ -1,0 +1,13 @@
+,Samples,0c a,t,Reference,Vectors,Ref
+0,SWCNT/epoxy,5.2,2.7,Bryning [39],"['SWCNT', 'EP']",j.compositesb.2019.107299_6_0
+1,MWCNT/RF xerogel,2.5,1.0,Haghgoo [31],"['MWCNT', 'RFxerogel']",j.compositesb.2019.107299_6_0
+2,graphene aerogel/epoxy,6.0,-,Jang-Kyo Kim [40],"['grapheneaerogel', 'EP']",j.compositesb.2019.107299_6_0
+3,MWCNT/epoxy,4.0,2.28,Demont [41],"['MWCNT', 'EP']",j.compositesb.2019.107299_6_0
+4,CNF/epoxy,3.2,1.94,Hoa [42],"['CNF', 'EP']",j.compositesb.2019.107299_6_0
+5,MWCNT/poly(ethylene terephthalate),4.5,2.2,Yang [40],"['MWCNT', 'poly(ethyleneterephthalate)']",j.compositesb.2019.107299_6_0
+6,graphene-RF aerogel/epoxy,1.2,-,Green [43],"['graphene-RFaerogel', 'EP']",j.compositesb.2019.107299_6_0
+7,SWCNT/epoxy,3.1,2.68,Gao [44],"['SWCNT', 'EP']",j.compositesb.2019.107299_6_0
+8,CNT/PA/E,2.8,1.07,present work,"['CNT', 'PA', 'E']",j.compositesb.2019.107299_6_0
+9,CNT/E,4.5,1.54,present work,['CNT/E'],j.compositesb.2019.107299_6_0
+10,CNF/PA/E,1.9,1.33,present work,"['CNF', 'PA', 'E']",j.compositesb.2019.107299_6_0
+11,CNF/E,8.3,1.96,present work,['CNF/E'],j.compositesb.2019.107299_6_0

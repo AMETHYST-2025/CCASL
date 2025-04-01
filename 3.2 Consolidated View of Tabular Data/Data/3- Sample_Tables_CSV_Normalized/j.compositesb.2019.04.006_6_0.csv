@@ -1,0 +1,6 @@
+,Samples,T10 (°C),T80 (°C),TPeak [MPa] <,Char yield (%),Vectors,T10 (°C)_err,T80 (°C)_err,TPeak [MPa] <_err,Char yield (%)_err,Ref
+0,Neat RTM6,344.6,436.7,380.1,9.05,['RTM6'],1.3,1.0,0.1,0.3,j.compositesb.2019.04.006_6_0
+1,RTM6 + 0.1 wt% HBPG,342.4,429.0,374.6,9.54,"['RTM6', '(0.001)HBPG']",0.9,1.5,1.5,0.1,j.compositesb.2019.04.006_6_0
+2,RTM6 + 5 wt% HBPG,342.8,443.5,372.4,10.78,"['RTM6', '(0.05)HBPG']",0.8,1.0,1.6,0.4,j.compositesb.2019.04.006_6_0
+3,RTM6 + 0.1 wt% HBPR,342.9,431.5,375.8,9.55,"['RTM6', '(0.001)HBPR']",0.6,2.0,0.2,0.4,j.compositesb.2019.04.006_6_0
+4,RTM6 + 5 wt% HBPR,341.0,448.8,370.6,11.6,"['RTM6', '(0.05)HBPR']",0.9,0.7,0.8,0.3,j.compositesb.2019.04.006_6_0

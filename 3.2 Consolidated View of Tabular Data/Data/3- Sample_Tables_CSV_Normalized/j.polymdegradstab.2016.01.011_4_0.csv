@@ -1,0 +1,8 @@
+,Samples,P content (%),LOI (%),UL-94,(mm),Vectors,Ref
+0,,,,Rating,Dripping,[''],j.polymdegradstab.2016.01.011_4_0
+1,EP,0.0,22.5,NR,Yes,['EP'],j.polymdegradstab.2016.01.011_4_0
+2,EP/HMCP-0.25,0.25,27.0,NR,No,"['EP', 'HMCP(0.25)']",j.polymdegradstab.2016.01.011_4_0
+3,EP/HMCP-0.5,0.5,29.0,V-1,No,"['EP', 'HMCP(0.5)']",j.polymdegradstab.2016.01.011_4_0
+4,EP/HMCP-0.75,0.75,33.4,V-0,No,"['EP', 'HMCP(0.75)']",j.polymdegradstab.2016.01.011_4_0
+5,EP/HMCP-1.0,1.0,35.0,V-0,No,"['EP', 'HMCP(1.0)']",j.polymdegradstab.2016.01.011_4_0
+6,EP/HMCP-1.25,1.25,36.5,V-0,No,"['EP', 'HMCP(1.25)']",j.polymdegradstab.2016.01.011_4_0

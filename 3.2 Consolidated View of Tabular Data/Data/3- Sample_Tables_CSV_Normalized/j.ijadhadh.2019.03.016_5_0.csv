@@ -1,0 +1,4 @@
+,Samples,Heat of cure (mJ/g),Maximum peak temperature (°C),Initial peak temperature (°C),Vectors,Ref
+0,Neat TGDDM,176.9,114.4,64.9,['TGDDM'],j.ijadhadh.2019.03.016_5_0
+1,NT-alumina filled TGDDM,230.1,119.8,63.2,"['NT', 'aluminaTGDDM']",j.ijadhadh.2019.03.016_5_0
+2,GT-alumina filled TGDDM,277.6,123.2,63.0,"['GT', 'aluminaTGDDM']",j.ijadhadh.2019.03.016_5_0

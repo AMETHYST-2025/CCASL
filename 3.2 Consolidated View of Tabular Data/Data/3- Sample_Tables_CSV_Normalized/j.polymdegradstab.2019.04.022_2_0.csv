@@ -1,0 +1,5 @@
+,Samples,DGEBA (g),DDM (g),MFR (g),Vectors,Ref
+0,EP,100.0,25.0,0.0,['EP'],j.polymdegradstab.2019.04.022_2_0
+1,EP/10%MFR,100.0,25.0,12.5,"['EP', '(0.1)MFR']",j.polymdegradstab.2019.04.022_2_0
+2,EP/15%MFR,100.0,25.0,18.75,"['EP', '(0.15)MFR']",j.polymdegradstab.2019.04.022_2_0
+3,EP/20%MFR,100.0,25.0,25.0,"['EP', '(0.2)MFR']",j.polymdegradstab.2019.04.022_2_0

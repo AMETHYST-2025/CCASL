@@ -1,0 +1,4 @@
+,Samples,Tonset (°C),Tmax (°C),Residues (800 °C) (%),Vectors,Ref
+0,Pure EP,398.0,444.0,12.3,['EP'],j.polymdegradstab.2014.11.017_5_0
+1,EP/APP-MMT,347.0,376.0,30.6,"['EP', 'APP-MMT']",j.polymdegradstab.2014.11.017_5_0
+2,EP/OPS/DOPO,380.0,414.0,20.8,"['EP', 'OPS', 'DOPO']",j.polymdegradstab.2014.11.017_5_0

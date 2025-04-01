@@ -1,0 +1,6 @@
+,Samples,LOI (%),UL-94,bar Dripping,bar Rating,Vectors,LOI (%)_err,Ref
+0,EP,26.5,100.0,Yes,No,['EP'],0.4,j.polymdegradstab.2020.109078_5_0
+1,EP/STZ2,27.8,12.9,No,V-1,"['EP', 'STZ(2)']",0.3,j.polymdegradstab.2020.109078_5_0
+2,EP/STZ4,29.1,8.8,No,V-0,"['EP', 'STZ(4)']",0.3,j.polymdegradstab.2020.109078_5_0
+3,EP/STZ6,30.7,5.4,No,V-0,"['EP', 'STZ(6)']",0.4,j.polymdegradstab.2020.109078_5_0
+4,EP/DOPO4,27.5,20.7,No,V-1,"['EP', 'DOPO4']",0.3,j.polymdegradstab.2020.109078_5_0

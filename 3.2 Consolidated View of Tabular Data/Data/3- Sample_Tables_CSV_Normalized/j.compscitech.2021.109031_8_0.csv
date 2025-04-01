@@ -1,0 +1,8 @@
+,Samples,DMTA Tan 8,DMTA Tg (C),TGA Tmax (°C),TGA Residualed ash (%),Vectors,Ref
+0,R,1.053,129.5,426.97,4.85,['R'],j.compscitech.2021.109031_8_0
+1,Ep/CA0.1,1.06,128.3,431.14,6.46,"['Ep', 'CA(0.1)']",j.compscitech.2021.109031_8_0
+2,Ep/CA0.3,1.073,126.0,431.32,7.16,"['Ep', 'CA(0.3)']",j.compscitech.2021.109031_8_0
+3,Ep/CA0.5,1.033,130.1,433.82,7.81,"['Ep', 'CA(0.5)']",j.compscitech.2021.109031_8_0
+4,Ep/CNT-CA0.1,1.111,126.8,432.39,6.76,"['Ep', 'CNT-CA(0.1)']",j.compscitech.2021.109031_8_0
+5,Ep/CNT-CA0.3,0.974,131.2,435.39,7.58,"['Ep', 'CNT-CA(0.3)']",j.compscitech.2021.109031_8_0
+6,Ep/CNT-CA0.5,0.756,133.8,438.08,8.11,"['Ep', 'CNT-CA(0.5)']",j.compscitech.2021.109031_8_0

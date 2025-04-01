@@ -1,0 +1,4 @@
+,Samples,tig (s+2),PHRR (kW/m²),THR (MJ/m²),TSP (m²),EHC (MJ/kg),Residue (wt%),Vectors,Ref
+0,EP,57.0,968.0,157.5,33.2,29.3,5.2,['EP'],j.polymdegradstab.2021.109715_7_0
+1,EP/Tetra-DOPO-2.5,50.0,805.0,135.7,31.4,26.2,6.9,"['EP', 'Tetra-DOPO(2.5)']",j.polymdegradstab.2021.109715_7_0
+2,EP/Tetra-DOPO-5.0,48.0,725.0,128.0,28.6,25.7,7.9,"['EP', 'Tetra-DOPO(5.0)']",j.polymdegradstab.2021.109715_7_0

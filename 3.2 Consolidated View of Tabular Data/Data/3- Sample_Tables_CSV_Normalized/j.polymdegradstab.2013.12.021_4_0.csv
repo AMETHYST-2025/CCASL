@@ -1,0 +1,13 @@
+,Samples,TTI (s),FO(s),PHRR (kW/m²),THR (MJ/m²),EHC (MJ/kg),TSR (m²/m²),Char (%),Vectors,Ref
+0,UP/epoxy-PH: 70/30,39.0,148.0,885.0,54.0,18.0,2699.0,11.0,"['UP(0.7)', 'epoxy-PH(0.3)']",j.polymdegradstab.2013.12.021_4_0
+1,UP/epoxy-PH: 70/30-RDP,44.0,143.0,558.0,38.0,12.2,4040.0,17.0,"['UP(0.7)', 'epoxy-PH(0.3)', 'RDP']",j.polymdegradstab.2013.12.021_4_0
+2,UP/epoxy-PH: 70/30-BADP,42.0,157.0,565.0,45.0,16.0,4302.0,14.0,"['UP(0.7)', 'epoxy-PH(0.3)', 'BADP']",j.polymdegradstab.2013.12.021_4_0
+3,UP/epoxy-PH: 70/30-DOPO,20.0,149.0,509.0,46.0,14.1,3645.0,14.0,"['UP(0.7)', 'epoxy-PH(0.3)', 'DOPO']",j.polymdegradstab.2013.12.021_4_0
+4,UP/epoxy-PH: 50/50,34.0,151.0,682.0,50.0,18.9,2203.0,20.0,"['UP(0.5)', 'epoxy-PH(0.5)']",j.polymdegradstab.2013.12.021_4_0
+5,UP/epoxy-PH: 50/50-RDP,45.0,139.0,528.0,36.0,12.0,3602.0,22.0,"['UP(0.5)', 'epoxy-PH(0.5)', 'RDP']",j.polymdegradstab.2013.12.021_4_0
+6,UP/epoxy-PH: 50/50-BADP,44.0,145.0,549.0,40.0,14.0,3665.0,19.0,"['UP(0.5)', 'epoxy-PH(0.5)', 'BADP']",j.polymdegradstab.2013.12.021_4_0
+7,UP/epoxy-PH: 50/50-DOPO,24.0,115.0,542.0,36.0,14.0,2756.0,18.0,"['UP(0.5)', 'epoxy-PH(0.5)', 'DOPO']",j.polymdegradstab.2013.12.021_4_0
+8,Epoxy-PH,35.0,145.0,489.0,34.0,23.4,603.0,48.0,['Epoxy-PH'],j.polymdegradstab.2013.12.021_4_0
+9,Epoxy-PH: RDP,40.0,113.0,539.0,26.0,15.0,1510.0,40.0,"['Epoxy-PH', 'RDP']",j.polymdegradstab.2013.12.021_4_0
+10,Epoxy-PH: BADP,38.0,119.0,514.0,28.0,15.6,1777.0,38.0,"['Epoxy-PH', 'BADP']",j.polymdegradstab.2013.12.021_4_0
+11,Epoxy-PH: DOPO,22.0,115.0,502.0,30.0,17.4,1345.0,42.0,"['Epoxy-PH', 'DOPO']",j.polymdegradstab.2013.12.021_4_0

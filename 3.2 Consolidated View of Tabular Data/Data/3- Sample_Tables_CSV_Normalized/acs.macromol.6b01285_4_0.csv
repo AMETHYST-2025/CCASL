@@ -1,0 +1,5 @@
+,Samples,PEO mass uptake (wt%),Sext/PEO/RNPs (m²/g),"Vmes,PEO/RNPs (cm³/g)",a DSext (%),b DVmes (%),Vectors,Ref
+0,A,9.0,201.0,0.18,36.6,28.0,['A'],acs.macromol.6b01285_4_0
+1,B,18.0,207.0,0.28,31.9,24.0,['B'],acs.macromol.6b01285_4_0
+2,C,22.0,165.0,0.47,50.9,31.0,['C'],acs.macromol.6b01285_4_0
+3,D,19.0,111.0,1.0,25.5,16.0,['D'],acs.macromol.6b01285_4_0

@@ -1,0 +1,22 @@
+,Samples,based resins Retention Time (min.),based resins Suspected Compound Name,based resins Structure,Vectors,Ref
+0,,2.28,3-methylpentane,,[''],j.polymdegradstab.2004.03.019_10_0
+1,MPGE-DDM 250-350°C,2.46,acetic acid,OH,"['MPGE', 'DDM(250)', '(350)°C']",j.polymdegradstab.2004.03.019_10_0
+2,,2.66,benzene,O,[''],j.polymdegradstab.2004.03.019_10_0
+3,,3.8,toluene,O,[''],j.polymdegradstab.2004.03.019_10_0
+4,,5.06,o-xylene,,[''],j.polymdegradstab.2004.03.019_10_0
+5,,5.19,p-xylene,O,[''],j.polymdegradstab.2004.03.019_10_0
+6,,6.27,isocyanato benzene,of,[''],j.polymdegradstab.2004.03.019_10_0
+7,,6.44,aniline,NH2 O,[''],j.polymdegradstab.2004.03.019_10_0
+8,,6.58,phenol,CH C,[''],j.polymdegradstab.2004.03.019_10_0
+9,,8.29,"5,7-dimethylundecane",,[''],j.polymdegradstab.2004.03.019_10_0
+10,,8.6,benzenamine 2-ethyl,NH O,[''],j.polymdegradstab.2004.03.019_10_0
+11,,9.17,"aniline, N-methyl",NH o,[''],j.polymdegradstab.2004.03.019_10_0
+12,,9.7,o-ethylaniline,NH2 o,[''],j.polymdegradstab.2004.03.019_10_0
+13,MPGE-DDM,2.28,--methylpentane,,"['MPGE', 'DDM']",j.polymdegradstab.2004.03.019_10_0
+14,350-450 °C,2.46,acetic acid,OH,['(350450)°C'],j.polymdegradstab.2004.03.019_10_0
+15,,3.8,toluene,O,[''],j.polymdegradstab.2004.03.019_10_0
+16,,6.49,aniline,NH2 O,[''],j.polymdegradstab.2004.03.019_10_0
+17,,6.71,phenol,OH O,[''],j.polymdegradstab.2004.03.019_10_0
+18,,7.56,2-methylphenol,OH,[''],j.polymdegradstab.2004.03.019_10_0
+19,,7.72,p-aminotoluene,0 NH2,[''],j.polymdegradstab.2004.03.019_10_0
+20,,8.47,2-ethylphenol,OH,[''],j.polymdegradstab.2004.03.019_10_0

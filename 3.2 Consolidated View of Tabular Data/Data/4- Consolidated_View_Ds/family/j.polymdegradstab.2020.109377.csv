@@ -1,0 +1,5 @@
+,Samples,T d at 95wt%,Td onset,Td max,Tdfinal,R wt% at 600°C,Tensile strength (MPa),Tensile strain (%),Modulus (MPa),Tensile strength (MPa)_err,Tensile strain (%)_err,Modulus (MPa)_err,Vectors,Ref
+0,UPR,188.0,275.0,325.0,400.0,1.8,8.28,19.87,49.0,1.06,2.1,5.0,['UPR'],j.polymdegradstab.2020.109377
+1,UPR/15ATH15SA,215.0,305.0,355.0,430.0,18.1,9.84,9.98,90.0,1.57,0.42,8.5,"['UPR', '15ATH15SA']",j.polymdegradstab.2020.109377
+2,UPR/30ATH,204.0,255.0,340.0,405.0,30.5,15.54,8.08,192.0,4.06,0.31,24.3,"['UPR', '(30)ATH']",j.polymdegradstab.2020.109377
+3,UPR/30SA,190.0,278.0,340.0,415.0,6.8,13.31,9.27,143.0,3.73,0.72,13.8,"['UPR', '(30)SA']",j.polymdegradstab.2020.109377

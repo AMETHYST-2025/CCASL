@@ -1,0 +1,7 @@
+,Samples,MPZnP (wt%),MPP (wt%),AIO(OH) (wt%),P Content (wt%) + 0.2,N content (wt%) + 0.4,Vectors,Ref
+0,EP,-,-,-,-,3.1,['EP'],j.polymdegradstab.2016.06.023_2_0
+1,EP + MPZnP,20.0,-,-,2.7,8.9,"['EP', 'MPZnP']",j.polymdegradstab.2016.06.023_2_0
+2,EP + MPP,-,20.0,-,2.8,6.7,"['EP', 'MPP']",j.polymdegradstab.2016.06.023_2_0
+3,EP + AIO(OH),-,-,20.0,-,2.5,"['EP', 'AIO(OH)']",j.polymdegradstab.2016.06.023_2_0
+4,EP + (MPZnP + MPP),10.0,10.0,-,2.8,10.0,"['EP', 'MPZnP', 'MPP']",j.polymdegradstab.2016.06.023_2_0
+5,EP + (MPZnP + AIO(OH)),10.0,-,10.0,1.4,5.7,"['EP', 'MPZnP', 'AIO(OH)']",j.polymdegradstab.2016.06.023_2_0

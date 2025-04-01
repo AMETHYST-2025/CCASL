@@ -1,0 +1,6 @@
+,Samples,FR content (phr),PHRR (kW/m²),THR (MJ/m²),TSP (m²),Heat flux (kWm-2),Heat flux Reference,Vectors,Ref
+0,BPFA,9.9,47.0,29.0,48.0,50.0,[51],['BPFA'],j.cej.2019.123830_18_0
+1,HAP-DOPO,10.3,57.0,/,/,50.0,[64],"['HAP', 'DOPO']",j.cej.2019.123830_18_0
+2,BPA-BPP,9.9,60.0,11.0,31.0,35.0,[65],['BPA-BPP'],j.cej.2019.123830_18_0
+3,BPS-BPP,9.9,46.0,15.0,71.0,35.0,[66],"['BPS', 'BPP']",j.cej.2019.123830_18_0
+4,PCTP,8.7,73.0,69.0,42.0,35.0,This work,['PCTP'],j.cej.2019.123830_18_0

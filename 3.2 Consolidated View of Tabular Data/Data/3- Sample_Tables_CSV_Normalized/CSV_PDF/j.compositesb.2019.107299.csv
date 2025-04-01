@@ -1,0 +1,42 @@
+,Samples,0c a,t,Reference,P (g/cm³ 0.01,%AL /L 0.01,Dave b (um) 0.01,Vtotal C (cm3/gr) 3 0.02,Ed 0.02 (%),CMWCNT(CNF)-mix (W/V)b,0,Rk 10 8 1,Vectors,Ref
+0,CNF/E,8.3,1.96,present work,,,,,,,,7.9,['CNF/E'],j.compositesb.2019.107299
+1,CNF/E000,,,,,,,,,0.0,0.0,,"['CNF', 'E000']",j.compositesb.2019.107299
+2,CNF/E001,,,,,,,,,0.0002,0.01,,"['CNF', 'E001']",j.compositesb.2019.107299
+3,CNF/E010,,,,,,,,,0.0018,0.1,,"['CNF', 'E010']",j.compositesb.2019.107299
+4,CNF/E050,,,,,,,,,0.0092,0.5,,"['CNF', 'E050']",j.compositesb.2019.107299
+5,CNF/E100,,,,,,,,,0.0183,1.0,,"['CNF', 'E100']",j.compositesb.2019.107299
+6,CNF/E165,,,,,,,,,0.3585,16.5,,"['CNF', 'E165']",j.compositesb.2019.107299
+7,CNF/PA 010,,,,0.06,4.98,1.9,14.76,94.4,,,,"['CNF', 'PA010']",j.compositesb.2019.107299
+8,CNF/PA/E,1.9,1.33,present work,,,,,,,,0.84,"['CNF', 'PA', 'E']",j.compositesb.2019.107299
+9,CNF/PA/E000,,,,,,,,,0.0,0.0,,"['CNF', 'PA', 'E000']",j.compositesb.2019.107299
+10,CNF/PA/E001,,,,,,,,,0.0002,0.01,,"['CNF', 'PA', 'E001']",j.compositesb.2019.107299
+11,CNF/PA/E010,,,,,,,,,0.0016,0.1,,"['CNF', 'PA', 'E010']",j.compositesb.2019.107299
+12,CNF/PA/E050,,,,,,,,,0.0084,0.5,,"['CNF', 'PA', 'E050']",j.compositesb.2019.107299
+13,CNF/PA/E100,,,,,,,,,0.0169,1.0,,"['CNF', 'PA', 'E100']",j.compositesb.2019.107299
+14,CNF/PA/E165,,,,,,,,,0.2789,16.5,,"['CNF', 'PA', 'E165']",j.compositesb.2019.107299
+15,CNF/PA010/E,,,,1.07,-,-,0.28,0.7,,,,"['CNF', 'PA010', 'E']",j.compositesb.2019.107299
+16,CNF/epoxy,3.2,1.94,Hoa [42],,,,,,,,,"['CNF', 'EP']",j.compositesb.2019.107299
+17,CNT/E,4.5,1.54,present work,,,,,,,,3.6,['CNT/E'],j.compositesb.2019.107299
+18,CNT/E000,,,,,,,,,0.0,0.0,,"['CNT', 'E000']",j.compositesb.2019.107299
+19,CNT/E001,,,,,,,,,0.0002,0.01,,"['CNT', 'E001']",j.compositesb.2019.107299
+20,CNT/E010,,,,,,,,,0.0019,0.1,,"['CNT', 'E010']",j.compositesb.2019.107299
+21,CNT/E050,,,,,,,,,0.0089,0.5,,"['CNT', 'E050']",j.compositesb.2019.107299
+22,CNT/E100,,,,,,,,,0.0177,1.0,,"['CNT', 'E100']",j.compositesb.2019.107299
+23,CNT/E165,,,,,,,,,0.3211,16.5,,"['CNT', 'E165']",j.compositesb.2019.107299
+24,CNT/PA 010,,,,0.06,4.87,1.78,15.01,94.52,,,,"['CNT', 'PA010']",j.compositesb.2019.107299
+25,CNT/PA 010/E,,,,1.15,-,-,0.21,0.53,,,,"['CNT', 'PA010', 'E']",j.compositesb.2019.107299
+26,CNT/PA/E,2.8,1.07,present work,,,,,,,,0.44,"['CNT', 'PA', 'E']",j.compositesb.2019.107299
+27,CNT/PA/E000,,,,,,,,,0.0,0.0,,"['CNT', 'PA', 'E000']",j.compositesb.2019.107299
+28,CNT/PA/E001,,,,,,,,,0.0002,0.01,,"['CNT', 'PA', 'E001']",j.compositesb.2019.107299
+29,CNT/PA/E010,,,,,,,,,0.0017,0.1,,"['CNT', 'PA', 'E010']",j.compositesb.2019.107299
+30,CNT/PA/E050,,,,,,,,,0.0085,0.5,,"['CNT', 'PA', 'E050']",j.compositesb.2019.107299
+31,CNT/PA/E100,,,,,,,,,0.017,1.0,,"['CNT', 'PA', 'E100']",j.compositesb.2019.107299
+32,CNT/PA/E165,,,,,,,,,0.2805,16.5,,"['CNT', 'PA', 'E165']",j.compositesb.2019.107299
+33,MWCNT/RF xerogel,2.5,1.0,Haghgoo [31],,,,,,,,,"['MWCNT', 'RFxerogel']",j.compositesb.2019.107299
+34,MWCNT/epoxy,4.0,2.28,Demont [41],,,,,,,,,"['MWCNT', 'EP']",j.compositesb.2019.107299
+35,MWCNT/poly(ethylene terephthalate),4.5,2.2,Yang [40],,,,,,,,,"['MWCNT', 'poly(ethyleneterephthalate)']",j.compositesb.2019.107299
+36,PA,,,,0.06,5.0,2.01,14.31,94.31,,,,['PA'],j.compositesb.2019.107299
+37,SWCNT/epoxy,5.2,2.7,Bryning [39],,,,,,,,,"['SWCNT', 'EP']",j.compositesb.2019.107299
+38,SWCNT/epoxy,3.1,2.68,Gao [44],,,,,,,,,"['SWCNT', 'EP']",j.compositesb.2019.107299
+39,graphene aerogel/epoxy,6.0,-,Jang-Kyo Kim [40],,,,,,,,,"['grapheneaerogel', 'EP']",j.compositesb.2019.107299
+40,graphene-RF aerogel/epoxy,1.2,-,Green [43],,,,,,,,,"['graphene-RFaerogel', 'EP']",j.compositesb.2019.107299

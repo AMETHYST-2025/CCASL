@@ -1,0 +1,6 @@
+,Samples,Storage modulus (0°C) (MPa),y-Transition (°C),B-Transition (°C),Vectors,Ref
+0,pCBT,2810.0,82.9,65.7,['pCBT'],j.eurpolymj.2011.10.017_7_0
+1,pCBT/EP 1%,2072.0,88.4,67.9,"['pCBT', 'EP(0.01)']",j.eurpolymj.2011.10.017_7_0
+2,pCBT/EP 2%,2591.0,94.2,62.3,"['pCBT', 'EP(0.02)']",j.eurpolymj.2011.10.017_7_0
+3,pCBT/EP 3%,2142.0,92.9,62.6,"['pCBT', 'EP(0.03)']",j.eurpolymj.2011.10.017_7_0
+4,pCBT/EP 4%,2209.0,86.6,60.3,"['pCBT', 'EP(0.04)']",j.eurpolymj.2011.10.017_7_0

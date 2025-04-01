@@ -1,0 +1,4 @@
+,Samples,Fitting line,"Thermal resistance (RK, m²K/W)",Critical exponent (t),Vectors,Ref
+0,CNT/epoxy,Line (2),1.0,1.6,"['CNT', 'EP']",j.compscitech.2014.02.008_4_0
+1,ac-CNT/epoxy,Line (3),8.0,1.3,"['ac-CNT', 'EP']",j.compscitech.2014.02.008_4_0
+2,Pac-CNT/epoxy,Line (4),5.0,1.2,"['Pac-CNT', 'EP']",j.compscitech.2014.02.008_4_0

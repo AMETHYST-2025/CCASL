@@ -1,0 +1,7 @@
+,Samples,Heating rate o 'Cmin' -1,T onset o C,T peak ° C,W600 (%),T10 (°C),T20 (°C),T50 (°C),.1,.2,.3,.4,.5,.6,Heating rate °Cmin,T onset o °C,Tpeak o C,T 20 °C,Undecayed blank,A. brasiliensis decayed,P chrysogenum decayed,C. cladosporioides decayed,Vectors,Ref
+0,DGEBA/EFO/RAMA,10.0,380.0,422.0,1.2,259.0,374.0,413.0,,,,,,,,,,,,,,,"['DGEBA', 'EFO', 'RAMA']",j.polymdegradstab.2018.12.022
+1,DGEBA/EHO/RAMA,20.0,383.0,429.0,2.2,355.0,387.0,429.0,,,,,,,,,,,,,,,"['DGEBA', 'EHO', 'RAMA']",j.polymdegradstab.2018.12.022
+2,Sample,,,,,,,,,mean weight loss a,,,humidity a.,,,,,,,,,,['Sample'],j.polymdegradstab.2018.12.022
+3,W,,,,,,,,19.4,4.47,6.37,50.4,50.5,33.5,,,,,74.0,67.58,70.04,70.1,['W'],j.polymdegradstab.2018.12.022
+4,W/DGEBA/EFO/RAMA,,,,17.4,286.0,,361.0,1.89,1.39,1.22,38.5,36.9,16.7,10.0,319.0,356.0,320.0,69.2,63.6,67.7,67.0,"['W', 'DGEBA', 'EFO', 'RAMA']",j.polymdegradstab.2018.12.022
+5,W/DGEBA/EHO/RAMA,,,,20.5,296.0,,362.0,1.82,1.38,"0,43",6.97,22.6,26.7,10.0,321.0,354.0,323.0,67.4,63.2,64.4,64.13,"['W', 'DGEBA', 'EHO', 'RAMA']",j.polymdegradstab.2018.12.022

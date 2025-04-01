@@ -1,0 +1,11 @@
+,Samples,E(kj.mol-1),Preexponential factor (s⁻¹),Correlation coefficient,Standard deviation,"T1 ""(°C)",T2 (°C),HCI release ratio (%),Dehydrochlorination efficiency (%),Vectors,Ref
+0,PVC,108.0,5.0,0.9965,0.0242,225.0,264.0,100.0,0.0,['PVC'],j.polymdegradstab.2020.109153
+1,PVC/(LDH + CNTs)b,102.0,8.7,0.9904,0.0599,,,,,"['PVC', '(LDH+CNTs)b']",j.polymdegradstab.2020.109153
+2,PVC/CNTsb,97.0,3.6,0.9956,0.0242,,,,,"['PVC', 'CNTsb']",j.polymdegradstab.2020.109153
+3,PVC/LDH,118.0,4.3,0.9986,0.0165,,,,,"['PVC', 'LDH']",j.polymdegradstab.2020.109153
+4,PVC/LDH/CNTs,188.0,3.5,0.9944,0.0665,272.0,300.0,57.8,42.2,"['PVC', 'LDH', 'CNTs']",j.polymdegradstab.2020.109153
+5,PVC/LDH/CNTs,188.0,3.5,0.9944,0.0665,277.0,300.0,35.2,64.8,"['PVC', 'LDH', 'CNTs']",j.polymdegradstab.2020.109153
+6,PVC/LDH/CNTs,218.0,1.8,0.9926,0.0425,272.0,300.0,57.8,42.2,"['PVC', 'LDH', 'CNTs']",j.polymdegradstab.2020.109153
+7,PVC/LDH/CNTs,218.0,1.8,0.9926,0.0425,277.0,300.0,35.2,64.8,"['PVC', 'LDH', 'CNTs']",j.polymdegradstab.2020.109153
+8,PVC/Mg-LDH/CNTs,,,,,231.0,268.0,77.9,22.1,"['PVC', 'Mg-LDH', 'CNTs']",j.polymdegradstab.2020.109153
+9,PVC/Zn-LDH/CNTs,,,,,229.0,274.0,78.9,21.1,"['PVC', 'Zn-LDH', 'CNTs']",j.polymdegradstab.2020.109153

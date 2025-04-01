@@ -1,0 +1,7 @@
+,Samples,T5% (°C),T10% (°C),Tmax (°C),Tmax (C).1,Residue weight ratio at 600 °C (%),Vectors,Ref
+0,Neat EP,355.0,378.0,422.0,574.0,5.9,['EP'],j.polymdegradstab.2013.12.013_7_0
+1,EP/SDPS-2,330.0,359.0,406.0,582.0,10.7,"['EP', 'SDPS(2)']",j.polymdegradstab.2013.12.013_7_0
+2,EP/SPDM-2,303.0,326.0,406.0,598.0,15.9,"['EP', 'SPDM(2)']",j.polymdegradstab.2013.12.013_7_0
+3,EP/SDPS/SPDM-1,321.0,343.0,390.0,590.0,11.8,"['EP', 'SDPS', 'SPDM(1)']",j.polymdegradstab.2013.12.013_7_0
+4,EP/SDPS/SPDM-2,327.0,344.0,382.0,582.0,18.3,"['EP', 'SDPS', 'SPDM(2)']",j.polymdegradstab.2013.12.013_7_0
+5,EP/SDPS/SPDM-3,306.0,328.0,374.0,590.0,13.5,"['EP', 'SDPS', 'SPDM(3)']",j.polymdegradstab.2013.12.013_7_0

@@ -1,0 +1,14 @@
+,Samples,T5% 1 °C,char residue R1peak / (%°C-1),char residue Tmax1 / °C,char residue Y  at 700°C Cal. Exp.,LOI (%),UL-94,t1 (s),t2 (s),Vectors,Ref
+0,EP,362.4,17.9,396.0,5.08,21.0,NR,-,-,['EP'],j.polymdegradstab.2016.09.029
+1,EP/10%HPSi,,,,,23.0,NR,-,-,"['EP', '(0.1)HPSi']",j.polymdegradstab.2016.09.029
+2,EP/10%HPSi/0.3%MQ,357.3,12.43,359.4,12.1,,,,,"['EP', '(0.1)HPSi', '(0.003)MQ']",j.polymdegradstab.2016.09.029
+3,EP/10%HPSi/0.5%MQ,358.2,11.57,396.1,13.54,,,,,"['EP', '(0.1)HPSi', '(0.005)MQ']",j.polymdegradstab.2016.09.029
+4,EP/10%HPSi/1%MQ,350.2,4.91,388.0,15.62,,,,,"['EP', '(0.1)HPSi', '(0.01)MQ']",j.polymdegradstab.2016.09.029
+5,EP/10%HPSi/3%MQ,357.9,4.81,399.0,16.22,,,,,"['EP', '(0.1)HPSi', '(0.03)MQ']",j.polymdegradstab.2016.09.029
+6,EP/10%HPSi/5%MQ,348.8,5.05,376.5,17.53,,,,,"['EP', '(0.1)HPSi', '(0.05)MQ']",j.polymdegradstab.2016.09.029
+7,MQ,314.3,5.28,493.8,48.49,,,,,['MQ'],j.polymdegradstab.2016.09.029
+8,P/10%HPSi/0.3%MQ,,,,,26.0,V-1,11.49,3.47,"['P', '(0.1)HPSi', '(0.003)MQ']",j.polymdegradstab.2016.09.029
+9,P/10%HPSi/0.5%MQ,,,,,30.5,V-0,4.38,3.49,"['P', '(0.1)HPSi', '(0.005)MQ']",j.polymdegradstab.2016.09.029
+10,P/10%HPSi/1%MQ,,,,,31.0,V-0,6.38,3.22,"['P', '(0.1)HPSi', '(0.01)MQ']",j.polymdegradstab.2016.09.029
+11,P/10%HPSi/3%MQ,,,,,30.0,V-1,8.36,5.01,"['P', '(0.1)HPSi', '(0.03)MQ']",j.polymdegradstab.2016.09.029
+12,P/10%HPSi/5%MQ,,,,,28.0,V-1,7.62,5.34,"['P', '(0.1)HPSi', '(0.05)MQ']",j.polymdegradstab.2016.09.029

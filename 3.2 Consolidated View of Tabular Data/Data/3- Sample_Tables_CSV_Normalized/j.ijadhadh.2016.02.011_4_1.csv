@@ -1,0 +1,4 @@
+,Samples,Tg (°C),Sigma (MPa),E (%),Emax (%),Vectors,Sigma (MPa)_err,E (%)_err,Emax (%)_err,Ref
+0,DGEBA/3DCM,142.3,91.4,6.4,39.1,"['DGEBA', '3DCM']",0.7,0.3,0.3,j.ijadhadh.2016.02.011_4_1
+1,DGEBA/IPD,109.5,87.6,6.8,54.1,"['DGEBA', 'IPD']",0.6,0.5,1.0,j.ijadhadh.2016.02.011_4_1
+2,DGEBA/4MPip,63.5,80.2,8.4,60.4,"['DGEBA', '(4)MPip']",0.4,0.2,0.8,j.ijadhadh.2016.02.011_4_1

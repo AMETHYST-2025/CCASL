@@ -1,0 +1,8 @@
+,Samples,LOI (%),UL-94,t1 (s),t2 (s),Vectors,Ref
+0,EP,21.0,NR,-,-,['EP'],j.polymdegradstab.2016.09.029_8_0
+1,EP/10%HPSi,23.0,NR,-,-,"['EP', '(0.1)HPSi']",j.polymdegradstab.2016.09.029_8_0
+2,P/10%HPSi/0.3%MQ,26.0,V-1,11.49,3.47,"['P', '(0.1)HPSi', '(0.003)MQ']",j.polymdegradstab.2016.09.029_8_0
+3,P/10%HPSi/0.5%MQ,30.5,V-0,4.38,3.49,"['P', '(0.1)HPSi', '(0.005)MQ']",j.polymdegradstab.2016.09.029_8_0
+4,P/10%HPSi/1%MQ,31.0,V-0,6.38,3.22,"['P', '(0.1)HPSi', '(0.01)MQ']",j.polymdegradstab.2016.09.029_8_0
+5,P/10%HPSi/3%MQ,30.0,V-1,8.36,5.01,"['P', '(0.1)HPSi', '(0.03)MQ']",j.polymdegradstab.2016.09.029_8_0
+6,P/10%HPSi/5%MQ,28.0,V-1,7.62,5.34,"['P', '(0.1)HPSi', '(0.05)MQ']",j.polymdegradstab.2016.09.029_8_0

@@ -1,0 +1,5 @@
+,Samples,Entry,a,Tds (°C),Td30 (°C),Tmax b (C),Rsoo (%),HRC (J/gk),PHRR (W/g),THR (kJ/ g),Peak temperature (°C),Tg a (°C),Erb (MPa),E° (MPa),Ve (mol/dm³),Tensile strength (MPa),Elongation at break (%),Shore Hardness (HD),Vectors,Ref
+0,DGF/33DDS,1.0,176.0,324.0,366.0,337.0,27.0,132.0,128.3,20.5,369.0,,,,,,,,"['DGF', '33DDS']",j.eurpolymj.2019.109292
+1,DGF/44DDS,2.0,215.0,324.0,355.0,339.0,18.0,222.0,215.0,31.7,370.0,,,,,,,,"['DGF', '44DDS']",j.eurpolymj.2019.109292
+2,DGEBA/33DDS,3.0,184.0,405.0,417.0,418.0,20.0,601.0,553.0,32.3,452.8,,,,,,,,"['DGEBA', '33DDS']",j.eurpolymj.2019.109292
+3,DGEBA/44DDS,4.0,238.0,397.0,414.0,420.0,14.0,516.0,498.8,36.4,449.3,,,,,,,,"['DGEBA', '44DDS']",j.eurpolymj.2019.109292

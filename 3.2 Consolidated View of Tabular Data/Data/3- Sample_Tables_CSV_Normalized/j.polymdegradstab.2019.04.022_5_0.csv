@@ -1,0 +1,6 @@
+,Samples,MFR content (wt%),P content (wt%),LOI (%),UL 94 rating (3.0,(mm),Vectors,Ref
+0,,,,,Rating a,Dripping,[''],j.polymdegradstab.2019.04.022_5_0
+1,EP,0.0,0.0,22.3,NR,Yes,['EP'],j.polymdegradstab.2019.04.022_5_0
+2,EP/10%MFR,10.0,0.95,29.6,V-1,No,"['EP', '(0.1)MFR']",j.polymdegradstab.2019.04.022_5_0
+3,EP/15%MFR,15.0,1.42,30.8,V-0,No,"['EP', '(0.15)MFR']",j.polymdegradstab.2019.04.022_5_0
+4,EP/20%MFR,20.0,1.9,32.2,V-0,No,"['EP', '(0.2)MFR']",j.polymdegradstab.2019.04.022_5_0

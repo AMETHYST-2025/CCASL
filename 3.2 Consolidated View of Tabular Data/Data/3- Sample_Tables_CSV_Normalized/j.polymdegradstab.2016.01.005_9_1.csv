@@ -1,0 +1,6 @@
+,Samples,TTI (s),FO(s),PHRR (kW/m²),THR (MJ/m²),TSR (m²/m²),CY/wt%,Vectors,TTI (s)_err,FO(s)_err,PHRR (kW/m²)_err,THR (MJ/m²)_err,TSR (m²/m²)_err,Ref
+0,UP,34.0,144.0,1143.0,80.0,3868.0,1.0,['UP'],0.0,1.0,15.0,1.0,89.0,j.polymdegradstab.2016.01.005_9_1
+1,70/30 UP/VB-novolac (no additional styrene),32.0,174.0,800.0,70.0,3672.0,11.6,"['(0.7)', 'VB-novolac(noadditionalstyrene(0.3)']",4.0,2.0,19.0,0.0,50.0,j.polymdegradstab.2016.01.005_9_1
+2,50/50 UP/VB-novolac (15 wt% additional styrene),20.0,154.0,720.0,65.0,3348.0,12.6,"['(0.5)', 'VB-novolac((0.15)additionalstyrene50']",1.0,6.0,80.0,5.0,210.0,j.polymdegradstab.2016.01.005_9_1
+3,50/50 UP/VB-novolac (30 wt% additional styrene),24.0,152.0,895.0,67.0,3624.0,13.3,"['(0.5)', 'VB-novolac((0.3)additionalstyrene50']",6.0,19.0,113.0,9.0,309.0,j.polymdegradstab.2016.01.005_9_1
+4,VB-novolac (no added styrene),29.0,160.0,611.0,52.0,2888.0,32.5,['VB-novolac(noaddedstyrene)'],1.0,8.0,43.0,3.0,78.0,j.polymdegradstab.2016.01.005_9_1

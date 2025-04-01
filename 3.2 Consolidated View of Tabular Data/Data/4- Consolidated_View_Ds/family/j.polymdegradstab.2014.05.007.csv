@@ -1,0 +1,7 @@
+,Samples,LOI (%),UL-94,Unnamed: 4,Element C,content (wt%) N,content (wt%) o,content (wt%) P,content (wt%) S,Tg (°C),Td1% (°C),"Td, 2% (C)",Char yields at 700 O C (wt%),TTI (s),HRR (kW/m²),PHRR (kW/m²),EHC (MJ/kg),THR (MJ/m²),COY (kg/kg),CO₂Y (kg/kg),Vectors,Ref
+0,10%TGIC-DOPO/DGEBA/DDS,35.2,V-1,No,77.78,4.36,14.97,1.73,1.35,180.0,314.0,353.0,18.5,50.0,131.0,520.0,19.0,71.0,0.14,1.521,"['(0.1)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007
+1,12%TGIC-DOPO/DGEBA/DDS,33.3,V-0,No,76.92,4.04,15.96,1.86,1.22,176.0,337.0,347.0,18.8,48.0,113.0,481.0,17.0,61.0,0.135,1.482,"['(0.12)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007
+2,6%TGIC-DOPO/DGEBA/DDS,33.3,Unrated,No,76.49,5.47,15.43,1.62,1.0,190.0,339.0,358.0,18.5,54.0,135.0,800.0,22.0,75.0,0.154,1.94,"['(0.06)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007
+3,8%TGIC-DOPO/DGEBA/DDS,34.3,V-1,No,77.82,5.51,13.87,1.58,1.23,182.0,346.0,357.0,18.4,54.0,141.0,680.0,20.0,76.0,0.151,1.753,"['(0.08)TGIC-DOPO', 'DGEBA', 'DDS']",j.polymdegradstab.2014.05.007
+4,DGEBA/DDS,22.5,Unrated,Yes,80.76,6.3,12.31,0.15,0.49,191.0,378.0,391.0,12.6,65.0,194.0,966.0,24.0,102.0,0.095,2.087,"['DGEBA', 'DDS']",j.polymdegradstab.2014.05.007
+5,TGIC-DOPO,,,,,,,,,107.0,211.0,251.0,7.4,,,,,,,,['TGIC-DOPO'],j.polymdegradstab.2014.05.007

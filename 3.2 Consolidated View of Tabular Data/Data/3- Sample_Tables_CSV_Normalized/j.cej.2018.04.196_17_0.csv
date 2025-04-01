@@ -1,0 +1,16 @@
+,Samples,composites. Fill loading (vol%),composites. TC (W m ² -1 K ¹),composites. TC enhancement (%),composites. n,composites. Test method,composites. Year Ref.,Vectors,Ref
+0,EP/3D-C-BNNS,9.6,3.13,1547.0,161.0,Laser flash,2017.0,"['EP', '3D-C-BNNS']",j.cej.2018.04.196_17_0
+1,PCL/PCL-g-BNNS,11.2,1.01,400.0,35.7,Laser flash,2016.0,"['PCL', 'PCL-g-BNNS']",j.cej.2018.04.196_17_0
+2,PDMS/PVA/BNNS,15.6,1.94,977.0,62.6,Laser flash,2017.0,"['PDMS', 'PVA', 'BNNS']",j.cej.2018.04.196_17_0
+3,EP/BN&Fe,38.5,3.59,1690.0,43.9,Laser flash,2016.0,"['EP', 'BN&Fe']",j.cej.2018.04.196_17_0
+4,PMMA/NF-BNNS,69.1,10.22,4545.0,65.8,Laser flash,2016.0,"['PMMA', 'NF-BNNS']",j.cej.2018.04.196_17_0
+5,PEI/PI-BN,49.1,1.7,672.0,13.7,Laser flash,2014.0,"['PEI', 'PI-BN']",j.cej.2018.04.196_17_0
+6,TmhBN-silicone,9.2,0.58,241.0,26.2,Laser flash,2015.0,['TmhBN-silicone'],j.cej.2018.04.196_17_0
+7,EP/VmhBN,13.5,0.85,420.0,31.1,Laser flash,2013.0,"['EP', 'VmhBN']",j.cej.2018.04.196_17_0
+8,EP/h-BN,40.0,9.0,4400.0,110.0,Laser flash,2017.0,"['EP', 'h-BN']",j.cej.2018.04.196_17_0
+9,EP/3D-BNNS,9.3,2.4,1100.0,118.3,Laser flash,2015.0,"['EP', '3D-BNNS']",j.cej.2018.04.196_17_0
+10,EP/3D-BN,34.0,4.4,2100.0,61.7,Laser flash,2017.0,"['EP', '3D-BN']",j.cej.2018.04.196_17_0
+11,CE/BN,19.6,0.64,156.0,8.0,Steady-state,2018.0,"['CE', 'BN']",j.cej.2018.04.196_17_0
+12,PA6/BNNS/graphene,4.8,0.89,354.0,73.8,Laser flash,2016.0,"['PA6', 'BNNS', 'graphene']",j.cej.2018.04.196_17_0
+13,HDPE/oriented BN,24.0,3.57,865.0,36.0,Laser flash,2017.0,"['HDPE', 'orientedBN']",j.cej.2018.04.196_17_0
+14,EP/MF@BNNS,1.1,0.6,239.0,217.3,Laser flash,This work,"['EP', 'MF@BNNS']",j.cej.2018.04.196_17_0

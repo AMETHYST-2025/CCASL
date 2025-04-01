@@ -1,0 +1,5 @@
+,Samples,TTI (s),THR (MJ/m²),PHRR (kW/m²),EHC (MJ/kg),COY (kg/kg),Residue (wt%),TML (wt%),CO₂Y (kg/kg),Vectors,Ref
+0,EP,56.0,144.0,1420.0,29.9,0.13,6.0,94.0,2.51,['EP'],j.polymdegradstab.2015.10.011_5_0
+1,2%APHP/EP,54.0,98.0,742.0,22.4,0.12,13.3,86.7,1.74,"['(0.02)APHP', 'EP']",j.polymdegradstab.2015.10.011_5_0
+2,4%APHP/EP,58.0,95.0,540.0,22.0,0.12,16.5,83.5,1.75,"['(0.04)APHP', 'EP']",j.polymdegradstab.2015.10.011_5_0
+3,6%APHP/EP,55.0,93.0,603.0,21.4,0.14,15.0,85.0,1.76,"['(0.06)APHP', 'EP']",j.polymdegradstab.2015.10.011_5_0

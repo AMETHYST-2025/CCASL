@@ -1,0 +1,6 @@
+,Samples,"LCTE below (10-5,",Tg (°C),LCTE above Tg (10-5/°C),Tg(°C)' (from DS curves),Vectors,"LCTE below (10-5,_err",LCTE above Tg (10-5/°C)_err,Tg(°C)' (from DS curves)_err,Ref
+0,E-0-CNT,6.04,,18.92,42.1,"['E', '0', 'CNT']",0.1,1.6,1.0,j.compscitech.2016.10.030_14_0
+1,E-0.5-CNT,5.84,,18.16,43.6,"['E', '0.5', 'CNT']",0.5,0.8,1.0,j.compscitech.2016.10.030_14_0
+2,E-1-CNT,5.97,,18.67,44.11,"['E', '1', 'CNT']",0.3,1.4,1.5,j.compscitech.2016.10.030_14_0
+3,E-1.5-CNT,5.72,,18.79,44.6,"['E', '1.5', 'CNT']",0.9,1.7,1.3,j.compscitech.2016.10.030_14_0
+4,E-2-CNT,5.56,,17.67,44.8,"['E', '2', 'CNT']",0.2,0.7,1.0,j.compscitech.2016.10.030_14_0

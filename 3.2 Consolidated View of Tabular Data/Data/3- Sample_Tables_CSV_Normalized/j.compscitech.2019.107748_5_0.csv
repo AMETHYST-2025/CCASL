@@ -1,0 +1,6 @@
+,Samples,TTI (s),PHRR (kW/m²),THR (MJ/m²),pSPR (m ² superscript(1)),TSP (m²),Char residue (wt%),Vectors,TTI (s)_err,PHRR (kW/m²)_err,THR (MJ/m²)_err,TSP (m²)_err,Char residue (wt%)_err,Ref
+0,EP,93.0,975.0,99.0,0.2404,29.7,14.0,['EP'],3.0,14.0,3.0,5.0,0.6,j.compscitech.2019.107748_5_0
+1,EP/1 wt%FePP,86.0,759.0,84.0,0.2042,22.9,20.8,"['EP', '(0.01)FePP']",3.0,16.0,3.0,4.5,1.3,j.compscitech.2019.107748_5_0
+2,EP/2 wt%FePP,78.0,691.0,74.0,0.1878,19.3,22.0,"['EP', '(0.02)FePP']",2.0,12.0,1.5,3.0,0.9,j.compscitech.2019.107748_5_0
+3,EP/4 wt%FePP,80.0,560.0,73.0,0.1621,19.8,25.3,"['EP', '(0.04)FePP']",1.0,18.0,3.0,3.0,1.4,j.compscitech.2019.107748_5_0
+4,EP/6 wt%FePP,80.0,476.0,72.0,0.1406,17.9,26.9,"['EP', '(0.06)FePP']",3.0,11.0,2.0,2.0,0.7,j.compscitech.2019.107748_5_0

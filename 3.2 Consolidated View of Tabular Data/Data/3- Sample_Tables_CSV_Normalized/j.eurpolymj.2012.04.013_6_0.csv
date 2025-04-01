@@ -1,0 +1,6 @@
+,Samples,Epoxy ring opening,15-16 epoxy ring reaction,12-13 epoxy ring reaction,9-10 epoxy ring reaction,Vectors,Ref
+0,EPOAME/CH/TEA,T.R = below 195 °C Ea = 298 KJ/mol InA = 74.5,-,-,T.R = 195-260 °C Ea = 107 KJ/mol InA = 22.4,"['EPOAME', 'CH', 'TEA']",j.eurpolymj.2012.04.013_6_0
+1,EPSOME/CH/TEA,"T.R = below 170 °C Ea = 216 KJ/mol InA = 53,1",-,T.R = 210-260°C Ea = 28 KJ/mol InA = 1.07,T.R = 170-210 °C Ea = 130 KJ/mol InA = 30.1,"['EPSOME', 'CH', 'TEA']",j.eurpolymj.2012.04.013_6_0
+2,EPLOME/CH/TEA,T.R = below 166 °C,T.R = 166-183 °C,T.R = 183-230 °C,T.R = 230-260 °C,"['EPLOME', 'CH', 'TEA']",j.eurpolymj.2012.04.013_6_0
+3,,Ea = 136 KJ/mol,Ea = 22 KJ/mol,Ea = 37 KJ/mol,Ea = 112 KJ/mol,[''],j.eurpolymj.2012.04.013_6_0
+4,,InA = 31.9,InA = 0.33,InA = 4.7,InA = 24.8,[''],j.eurpolymj.2012.04.013_6_0

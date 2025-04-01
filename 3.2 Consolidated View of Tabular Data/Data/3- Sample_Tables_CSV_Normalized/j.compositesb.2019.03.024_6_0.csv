@@ -1,0 +1,6 @@
+,Samples,mGFRP (g),mp (g),V (m S -1) -,Ve (m s-1),Decrease Ve (%),Absorbed energy (J),SEA (kJ kg - 1,Change of SEA relative to neat epoxy,Vectors,Ref
+0,Neat epoxy,123.4,28.4,131.6,43.6,67.0,218.9,1.77,-,['EP'],j.compositesb.2019.03.024_6_0
+1,EP + GNP,121.8,28.4,135.0,30.6,77.3,245.5,2.02,13.6,"['EP', 'GNP']",j.compositesb.2019.03.024_6_0
+2,EP + CNT,132.2,28.5,135.0,20.1,85.1,253.9,1.92,8.3,"['EP', 'CNT']",j.compositesb.2019.03.024_6_0
+3,EP + BNNS + CNT,121.5,28.4,135.0,23.9,82.3,250.7,2.06,16.3,"['EP', 'BNNS', 'CNT']",j.compositesb.2019.03.024_6_0
+4,EP + BNNT + GNP,134.1,28.4,135.0,14.7,89.1,255.7,1.91,7.5,"['EP', 'BNNT', 'GNP']",j.compositesb.2019.03.024_6_0

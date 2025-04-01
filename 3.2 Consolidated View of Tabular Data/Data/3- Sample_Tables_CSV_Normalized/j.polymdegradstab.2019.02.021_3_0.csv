@@ -1,0 +1,11 @@
+,Samples,EP (%),DDM (%),APP (%),BPOPA (%),APP: BPOPA,UL-94,LOI (%),Vectors,LOI (%)_err,Ref
+0,EP,80.0,20.0,0.0,0.0,-,NR,26.2,['EP'],0.2,j.polymdegradstab.2019.02.021_3_0
+1,EP/10APP,72.0,18.0,10.0,0.0,-,NR,30.2,"['EP', '(10)APP']",0.3,j.polymdegradstab.2019.02.021_3_0
+2,EP/20APP,64.0,16.0,20.0,0.0,-,NR,37.5,"['EP', '(20)APP']",0.3,j.polymdegradstab.2019.02.021_3_0
+3,EP/20BPOPA,64.0,16.0,0.0,20.0,-,NR,28.0,"['EP', '(20)BPOPA']",0.3,j.polymdegradstab.2019.02.021_3_0
+4,EP/7.5APP/7.5BPOPA,68.0,17.0,7.5,7.5,1.0,V-0,36.3,"['EP', '(7.5)APP', '(7.5)BPOPA']",0.2,j.polymdegradstab.2019.02.021_3_0
+5,EP/10APP/5BPOPA,68.0,17.0,10.0,5.0,2.0,V-0,35.0,"['EP', '(10)APP', '(5)BPOPA']",0.3,j.polymdegradstab.2019.02.021_3_0
+6,EP/11.25APP/3.75BPOPA,68.0,17.0,11.25,3.75,3.0,V-0,37.0,"['EP', '(11.25)APP', '(3.75)BPOPA']",0.2,j.polymdegradstab.2019.02.021_3_0
+7,EP/12APP/3BPOPA,68.0,17.0,12.0,3.0,4.0,V-0,36.0,"['EP', '(12)APP', '(3)BPOPA']",0.2,j.polymdegradstab.2019.02.021_3_0
+8,EP/7.5APP/2.5BPOPA,72.0,18.0,7.5,2.5,3.0,V-0,33.1,"['EP', '(7.5)APP', '(2.5)BPOPA']",0.3,j.polymdegradstab.2019.02.021_3_0
+9,EP/6APP/2BPOPA,73.6,18.4,6.0,2.0,3.0,NR,31.2,"['EP', '(6)APP', '(2)BPOPA']",0.3,j.polymdegradstab.2019.02.021_3_0

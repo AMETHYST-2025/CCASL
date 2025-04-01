@@ -1,0 +1,6 @@
+,Samples,Composition (g) TGDDM,Composition (g) DDS,Composition (g) STZ,Composition (g) DOPO,STZ (wt%),DOPO (wt%),Vectors,Ref
+0,EP,100.0,53.98,0.0,0.0,0.0,0.0,['EP'],j.polymdegradstab.2020.109078_2_0
+1,EP/STZ2,100.0,53.98,3.14,0.0,2.0,0.0,"['EP', 'STZ(2)']",j.polymdegradstab.2020.109078_2_0
+2,EP/STZ4,100.0,53.98,6.42,0.0,4.0,0.0,"['EP', 'STZ(4)']",j.polymdegradstab.2020.109078_2_0
+3,EP/STZ6,100.0,53.98,9.83,0.0,6.0,0.0,"['EP', 'STZ(6)']",j.polymdegradstab.2020.109078_2_0
+4,EP/DOPO4,100.0,53.98,0.0,6.42,0.0,4.0,"['EP', 'DOPO4']",j.polymdegradstab.2020.109078_2_0

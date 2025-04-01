@@ -1,0 +1,12 @@
+,Samples,Content,Conductivity (S/m),EMI SE (dB),Frequency (GHz),Ref.,Vectors,Ref
+0,EP/MWCNT- Fe3O4@Ag,15 wt%,28.0,35.0,8.2,[24],"['EP', 'MWCNT-Fe3O4@Ag']",j.compositesb.2020.107990_6_0
+1,EP/F- MWCNTs/ MnZn ferrite,4 vol%,-,17.0,8.2,[44],"['EP', 'F-MWCNTs', 'MnZnferrite']",j.compositesb.2020.107990_6_0
+2,EP/SWCNTs,15 wt%,20.0,25.0,10.0,[23],"['EP', 'SWCNTs']",j.compositesb.2020.107990_6_0
+3,EP/graphene,15 wt%,10.0,21.0,8.2,[45],"['EP', 'graphene']",j.compositesb.2020.107990_6_0
+4,EP/CB,30,-,44.0,1.0,[46],"['EP', 'CB']",j.compositesb.2020.107990_6_0
+5,EP/TGO/SCI,33 wt%,-,32.0,8.2,[47],"['EP', 'TGO', 'SCI']",j.compositesb.2020.107990_6_0
+6,EP/GNPs/rGO,20.5 wt %,179.0,51.0,8.2,[48],"['EP', 'GNPs', 'rGO']",j.compositesb.2020.107990_6_0
+7,EP/GCF/MG3,9 wt%,11.0,37.0,8.2,[49],"['EP', 'GCF', 'MG(3)']",j.compositesb.2020.107990_6_0
+8,EP/F-MWCNT,5 wt%,0.03,20.5,8.2,[50],"['EP', 'F-MWCNT']",j.compositesb.2020.107990_6_0
+9,EP/SWCNT,0.6 wt%,5.0,12.8,8.2,[51],"['EP', 'SWCNT']",j.compositesb.2020.107990_6_0
+10,FREP-CF,6 wt%,216.0,33.0,8.2,This work,['FREP-CF'],j.compositesb.2020.107990_6_0

@@ -1,0 +1,6 @@
+,Samples,Tonset (°C),Tmax (°C),Residue (wt%) at 700 °C,Vectors,Ref
+0,Pure EP,350.0,411.0,14.2,['EP'],j.compscitech.2019.107748_4_0
+1,EP/1 wt% FePP,326.0,392.0,23.8,"['EP', '(0.01)FePP']",j.compscitech.2019.107748_4_0
+2,EP/2 wt% FePP,330.0,391.0,27.8,"['EP', '(0.02)FePP']",j.compscitech.2019.107748_4_0
+3,EP/4 wt% FePP,327.0,391.0,28.9,"['EP', '(0.04)FePP']",j.compscitech.2019.107748_4_0
+4,EP/6 wt% FePP,329.0,393.0,30.1,"['EP', '(0.06)FePP']",j.compscitech.2019.107748_4_0

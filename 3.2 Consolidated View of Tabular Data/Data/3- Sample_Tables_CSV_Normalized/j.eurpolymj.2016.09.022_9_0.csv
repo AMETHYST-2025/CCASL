@@ -1,0 +1,7 @@
+,Samples,K1c (MPa.m1/2),Rrms (nm),da/10-4,Vectors,Ref
+0,EP/MTHPA-89 neat,0.457,10.5,7.0,"['EP', 'MTHPA(89)EP']",j.eurpolymj.2016.09.022_9_0
+1,EP/MTHPA-89 filled,0.501,71.5,38.6,"['EP', 'MTHPA(89)filled']",j.eurpolymj.2016.09.022_9_0
+2,EP/T403-44 neat,1.5,15.0,4.9,"['EP', 'T403(44)']",j.eurpolymj.2016.09.022_9_0
+3,EP/T403-44 filled,1.244,108.0,46.0,"['EP', 'T403(44)']",j.eurpolymj.2016.09.022_9_0
+4,EP/D230-29 neat,0.696,9.3,28.6,"['EP', 'D230(29)']",j.eurpolymj.2016.09.022_9_0
+5,EP/D230-29 filled,0.847,35.3,87.4,"['EP', 'D230(29)']",j.eurpolymj.2016.09.022_9_0

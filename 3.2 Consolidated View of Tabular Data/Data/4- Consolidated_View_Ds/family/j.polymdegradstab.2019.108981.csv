@@ -1,0 +1,6 @@
+,Samples,TTI (s),Tp (s),PHRR (kW/m²),FIGRA (kW/m²s),THR (MJ/m²),MARHE (kW/m²),PSPR (m²/s),TSP (m²),TSR (m²/m²),av-COY,av-EHC,Char residue (wt%),Tp (s)_err,PHRR (kW/m²)_err,THR (MJ/m²)_err,PSPR (m²/s)_err,TSP (m²)_err,TSR (m²/m²)_err,av-COY_err,av-EHC_err,Char residue (wt%)_err,T5% (°C),Tmax (°C),Rate at Tmax (%/min),Residue (700 °C) (wt%),DGEBA (%),DDM (%),MAPPO (%),UL-94,LOI (%),LOI (%)_err,Vectors,Ref
+0,EP,60.0,130.0,1073.0,8.3,76.0,291.6,0.55,71.4,5241.0,0.095,21.1,10.2,3.0,55.0,3.0,0.02,3.0,400.0,0.01,1.0,0.5,355.8,380.5,1.4,20.2,80.0,20.0,0.0,NR,25.6,0.5,['EP'],j.polymdegradstab.2019.108981
+1,EP/10MAPPO,,,,,,,,,,,,,,,,,,,,,,290.1,369.2,0.78,27.1,72.0,18.0,10.0,V-1,33.3,0.5,"['EP', '(10)MAPPO']",j.polymdegradstab.2019.108981
+2,EP/15MAPPO,,,,,,,,,,,,,,,,,,,,,,,,,,68.0,17.0,15.0,V-1,34.0,0.5,"['EP', '(15)MAPPO']",j.polymdegradstab.2019.108981
+3,EP/18MAPPO,68.0,140.0,443.0,3.2,46.0,176.9,0.28,27.4,3015.0,0.094,19.3,31.6,4.0,20.0,2.0,0.01,1.0,200.0,0.01,1.0,1.5,285.1,359.2,0.66,23.6,65.6,16.4,18.0,V-0,33.0,0.5,"['EP', '(18)MAPPO']",j.polymdegradstab.2019.108981
+4,EP/5MAPPO,,,,,,,,,,,,,,,,,,,,,,309.5,372.7,0.84,25.2,76.0,19.0,5.0,NR,32.2,0.5,"['EP', '(5)MAPPO']",j.polymdegradstab.2019.108981

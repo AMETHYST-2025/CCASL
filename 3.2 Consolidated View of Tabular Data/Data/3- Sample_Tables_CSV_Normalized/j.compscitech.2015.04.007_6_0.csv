@@ -1,0 +1,7 @@
+,Samples,K (MPa m 1/2),GIC (J/m²),Vectors,K (MPa m 1/2)_err,GIC (J/m²)_err,Ref
+0,Neat EP (standard SENB),0.418,48.52,['EP(standardSENB)'],0.022,7.22,j.compscitech.2015.04.007_6_0
+1,CNTs/EP composite (standard SENB),0.48,62.02,"['CNTs', 'EPcomposite(standardSENB)']",0.027,9.87,j.compscitech.2015.04.007_6_0
+2,"CNTs/EP composite (sandwich SENB, no MF) crack growth in longitudinal direction",0.468,60.82,"['CNTs', 'EPcomposite(sandwichSENB,noMF)crackgrowthinlongitudinaldirection']",0.016,5.88,j.compscitech.2015.04.007_6_0
+3,"CNTs/EP composite (sandwich SENB, no MF) crack growth in transverse direction",0.46,58.76,"['CNTs', 'EPcomposite(sandwichSENB,noMF)crackgrowthintransversedirection']",0.006,2.17,j.compscitech.2015.04.007_6_0
+4,"CNTs/EP composite (sandwich SENB, MF) crack growth parallel to aligned CNTs",0.453,56.98,"['CNTs', 'EPcomposite(sandwichSENB,MF)crackgrowthparalleltoalignedCNTs']",0.025,8.89,j.compscitech.2015.04.007_6_0
+5,"CNTs/EP composite (sandwich SENB, MF) crack growth transverse to aligned CNTs",0.504,70.54,"['CNTs', 'EPcomposite(sandwichSENB,MF)crackgrowthtransversetoalignedCNTs']",0.021,8.31,j.compscitech.2015.04.007_6_0

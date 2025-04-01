@@ -1,0 +1,5 @@
+,Samples,DGEBA (wt%),DDM* * (wt%),DPOD (wt%),P content (wt%),Vectors,Ref
+0,EP,82.1,17.9,0.0,0.0,['EP'],j.compositesb.2019.107471_6_0
+1,EP/DPOD4,78.8,17.2,4.0,0.38,"['EP', 'DPOD(4)']",j.compositesb.2019.107471_6_0
+2,EP/DPOD6,77.1,16.9,6.0,0.56,"['EP', 'DPOD(6)']",j.compositesb.2019.107471_6_0
+3,EP/DPOD8,75.5,16.5,8.0,0.75,"['EP', 'DPOD(8)']",j.compositesb.2019.107471_6_0

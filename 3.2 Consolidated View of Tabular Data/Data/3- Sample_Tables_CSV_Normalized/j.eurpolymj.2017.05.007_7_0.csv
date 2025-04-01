@@ -1,0 +1,7 @@
+,Samples,Tan 8 peak temperature (C),"E"" peak temperature (C)",Td5 (°C),dio (°C),Td20 (°C),Char yield at 500 °C (%),Vectors,Ref
+0,DGEDVCP-GCN,100.0,82.0,387.0,422.0,438.0,48.0,"['DGEDVCP', 'GCN']",j.eurpolymj.2017.05.007_7_0
+1,DGEDVCP-QC,141.0,130.0,386.0,419.0,431.0,61.0,"['DGEDVCP', 'QC']",j.eurpolymj.2017.05.007_7_0
+2,DGEDVCP-PN,131.0,128.0,394.0,428.0,440.0,59.0,"['DGEDVCP', 'PN']",j.eurpolymj.2017.05.007_7_0
+3,DGEBA-GCN,77.0,76.0,408.0,431.0,440.0,30.0,"['DGEBA', 'GCN']",j.eurpolymj.2017.05.007_7_0
+4,DGEBA-QC,155.0,144.0,394.0,420.0,439.0,39.0,"['DGEBA', 'QC']",j.eurpolymj.2017.05.007_7_0
+5,DGEBA-PN,133.0,121.0,413.0,432.0,450.0,35.0,"['DGEBA', 'PN']",j.eurpolymj.2017.05.007_7_0

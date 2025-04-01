@@ -1,0 +1,4 @@
+,Samples,(°C),E' (30 °C)b (MPa),Ve (molm,Flexural modulus (MPa),Flexural strength (MPa),Vectors,Flexural modulus (MPa)_err,Flexural strength (MPa)_err,Ref
+0,DGEM/DDS-1,172.24,3433.0,867.0,,,"['DGEM', 'DDS-1']",-,-,j.cej.2020.124115_7_0
+1,DGEM/DDS-2,279.0,3678.0,3176.0,3455.0,108.1,"['DGEM', 'DDS-2']",39.0,6.7,j.cej.2020.124115_7_0
+2,DGEBA/DDS,231.0,2493.0,2335.0,2446.0,106.6,"['DGEBA', 'DDS']",66.0,4.9,j.cej.2020.124115_7_0

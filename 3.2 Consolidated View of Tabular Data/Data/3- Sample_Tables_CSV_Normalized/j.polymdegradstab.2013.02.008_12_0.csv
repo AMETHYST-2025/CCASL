@@ -1,0 +1,16 @@
+,Samples,LOI (%),UL-94,vertical burning testing Flaming drips,vertical burning testing Total flaming time (sec),vertical burning testing Maximal flaming time (sec),Vectors,Ref
+0,DGEBA/DICY,22.7,Failed,Yes,250.0,50.0,"['DGEBA', 'DICY']",j.polymdegradstab.2013.02.008_12_0
+1,DGEBA+5 wt.% PN-EPC3/DICY,25.2,Failed,None,201.6,47.3,"['DGEBA', '(0.05)PN-EPC3', 'DICY']",j.polymdegradstab.2013.02.008_12_0
+2,DGEBA+10 wt.% PN-EPC3/DICY,26.7,V-1,None,136.8,25.5,"['DGEBA', '(0.1)PN-EPC3', 'DICY']",j.polymdegradstab.2013.02.008_12_0
+3,DGEBA+15 wt.% PN-EPC /DICY,29.1,V-1,None,45.8,12.6,"['DGEBA', '(0.15)PN-EPC', 'DICY']",j.polymdegradstab.2013.02.008_12_0
+4,DGEBA+20 wt.% PN-EPC 3/DICY,31.8,V-0,None,23.1,6.7,"['DGEBA', '(0.2)PN-EPC3', 'DICY']",j.polymdegradstab.2013.02.008_12_0
+5,DGEBA/DDM,22.5,Failed,Yes,250.0,50.0,"['DGEBA', 'DDM']",j.polymdegradstab.2013.02.008_12_0
+6,DGEBA+5 wt.% PN-EPC/DDM,24.9,Failed,None,205.2,44.2,"['DGEBA', '(0.05)PN-EPC', 'DDM']",j.polymdegradstab.2013.02.008_12_0
+7,DGEBA+10 wt.% PN-EPC3/DDM,26.2,V-1,None,127.9,29.2,"['DGEBA', '(0.1)PN-EPC3', 'DDM']",j.polymdegradstab.2013.02.008_12_0
+8,DGEBA+15 wt.% PN-EPC/DDM,28.7,V-1,None,55.8,14.7,"['DGEBA', '(0.15)PN-EPC', 'DDM']",j.polymdegradstab.2013.02.008_12_0
+9,DGEBA+20 wt.% PN-EPC3/DDM,31.2,V-0,None,22.7,6.4,"['DGEBA', '(0.2)PN-EPC3', 'DDM']",j.polymdegradstab.2013.02.008_12_0
+10,DGEBA/MeTHPA,21.7,Failed,Yes,250.0,50.0,"['DGEBA', 'MeTHPA']",j.polymdegradstab.2013.02.008_12_0
+11,DGEBA+5 wt.% PN-EPC /MeTHPA,24.6,Failed,Yes,208.6,42.1,"['DGEBA', '(0.05)PN-EPC', 'MeTHPA']",j.polymdegradstab.2013.02.008_12_0
+12,DGEBA+10 wt.% PN-EPC /MeTHPA,25.8,Failed,None,146.5,31.5,"['DGEBA', '(0.1)PN-EPC', 'MeTHPA']",j.polymdegradstab.2013.02.008_12_0
+13,DGEBA+15 wt.% PN-EPC/MeTHPA,28.1,V-1,None,52.5,15.4,"['DGEBA', '(0.15)PN-EPC', 'MeTHPA']",j.polymdegradstab.2013.02.008_12_0
+14,DGEBA+20 wt.% PN-EPC /MeTHPA,30.2,V-0,None,31.6,7.8,"['DGEBA', '(0.2)PN-EPC', 'MeTHPA']",j.polymdegradstab.2013.02.008_12_0

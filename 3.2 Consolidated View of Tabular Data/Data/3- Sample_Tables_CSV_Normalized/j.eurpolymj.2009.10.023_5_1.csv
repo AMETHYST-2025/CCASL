@@ -1,0 +1,5 @@
+,Samples,T5 (°C)ª,T10 (°C)b,Hydrolytical weight loss (%)°,Vectors,Ref
+0,DGEBA,380.0,417.0,0.03,['DGEBA'],j.eurpolymj.2009.10.023_5_1
+1,DGEBA/CL 95:5,333.0,378.0,2.0,"['DGEBA', 'CL(95)', '(5)']",j.eurpolymj.2009.10.023_5_1
+2,DGEBA/CL 92:8,317.0,350.0,3.0,"['DGEBA', 'CL(92)', '(8)']",j.eurpolymj.2009.10.023_5_1
+3,DGEBA/CL 90:10,317.0,350.0,5.0,"['DGEBA', 'CL(90)', '(10)']",j.eurpolymj.2009.10.023_5_1

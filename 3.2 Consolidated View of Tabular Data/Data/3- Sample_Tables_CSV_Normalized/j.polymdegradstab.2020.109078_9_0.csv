@@ -1,0 +1,5 @@
+,Samples,Tensile strength (MPa),Elongation at break (%),Vectors,Tensile strength (MPa)_err,Elongation at break (%)_err,Ref
+0,EP,52.8,3.3,['EP'],3.5,0.5,j.polymdegradstab.2020.109078_9_0
+1,EP/STZ2,55.3,2.9,"['EP', 'STZ(2)']",4.1,0.3,j.polymdegradstab.2020.109078_9_0
+2,EP/STZ4,59.2,2.7,"['EP', 'STZ(4)']",9.9,0.3,j.polymdegradstab.2020.109078_9_0
+3,EP/STZ6,60.9,2.4,"['EP', 'STZ(6)']",3.7,0.4,j.polymdegradstab.2020.109078_9_0

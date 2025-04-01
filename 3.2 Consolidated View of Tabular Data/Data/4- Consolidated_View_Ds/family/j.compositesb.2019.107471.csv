@@ -1,0 +1,5 @@
+,Samples,T5wt%(°C),Tmax (°C),Vmax (%/°C),CY800-cal (%),CY800-exp (%),DGEBA (wt%),DDM* * (wt%),DPOD (wt%),P content (wt%),Vectors,Ref
+0,EP,370.0,391.0,1.74,-,15.5,82.1,17.9,0.0,0.0,['EP'],j.compositesb.2019.107471
+1,EP/DPOD4,356.0,391.0,1.25,15.5,16.5,78.8,17.2,4.0,0.38,"['EP', 'DPOD(4)']",j.compositesb.2019.107471
+2,EP/DPOD6,350.0,389.0,1.02,15.6,17.3,77.1,16.9,6.0,0.56,"['EP', 'DPOD(6)']",j.compositesb.2019.107471
+3,EP/DPOD8,351.0,376.0,1.06,15.6,18.3,75.5,16.5,8.0,0.75,"['EP', 'DPOD(8)']",j.compositesb.2019.107471

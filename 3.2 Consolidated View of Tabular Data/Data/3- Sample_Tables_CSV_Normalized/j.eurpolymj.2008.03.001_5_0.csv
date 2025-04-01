@@ -1,0 +1,30 @@
+,Samples,Opaque,T 8/°C (from tan 8),Conversion from Methacrylate,NIR Epoxy (%),Vectors,Ref
+0,Neat resins,,,,,['EPresins'],j.eurpolymj.2008.03.001_5_0
+1,Neat NEGDMA/DMAAP (uncured),,-32 (by DSC),,,"['EPNEGDMA', 'DMAAP(uncured)']",j.eurpolymj.2008.03.001_5_0
+2,Neat DGEBA/HHMPA/DMBA (uncured),,-33 (by DSC),,,"['DGEBA', 'HHMPA', 'DMBA(uncured)']",j.eurpolymj.2008.03.001_5_0
+3,Neat NEGDMA/DMAAP (UV cure at 40 °C/ 40 min),No,15,95.0,,"['EPNEGDMA', 'DMAAP(UVcureat(40)°C', '(40)min']",j.eurpolymj.2008.03.001_5_0
+4,"Neat DGEBA/HHMPA/DMBA (isothermal cure at 80 °C/12 h, postcured at 150 °C/2 h)",No,158,,92.0,"['DGEBA', 'HHMPA', 'DMBA(isothermalcureat(80)°C', '(12)h,postcuredat150°C', '(2)h']",j.eurpolymj.2008.03.001_5_0
+5,25:75 IPN systems,,,,,"['(0.25)', 'IPNsystems(0.75)']",j.eurpolymj.2008.03.001_5_0
+6,25:75 IPNs-partially cured,,,,,"['(0.25)', 'IPNs-partiallycured(0.75)']",j.eurpolymj.2008.03.001_5_0
+7,25:75 IPN (UV cure at 40 °C/40 min),No,4,96.0,7.0,"['(25)', '75IPN(UVcureat40°C', '(40)min']",j.eurpolymj.2008.03.001_5_0
+8,25:75 IPN but without DMBA catalyst for epoxy (UV cure at 40 °C/40 min),No,-13,96.0,0.0,"['(25)', '75IPNbutwithoutDMBAcatalystforEP(UVcureat40°C', '(40)min']",j.eurpolymj.2008.03.001_5_0
+9,25:75 IPN (isothermal cure at 80 °C/12 h),No,ca. -25 and 85,0.0,95.0,"['(25)', '75IPN(isothermalcureat80°C', '(12)h']",j.eurpolymj.2008.03.001_5_0
+10,25:75 IPNs-fully cured,,,,,"['(0.25)', 'IPNs-fullycured(0.75)']",j.eurpolymj.2008.03.001_5_0
+11,"25:75 IPN (UV cure at 40 °C/40 min and then isothermal cure at 80 °C/12 h, postcured at 150 °C/2 h)",No,ca. 124 and 145,96.0,92.0,"['(25)', '75IPN(UVcureat40°C', '(40)minandthenisothermalcureat80°C', '(12)h,postcuredat150°C', '(2)h']",j.eurpolymj.2008.03.001_5_0
+12,"25:75 IPN (isothermal cure at 80 °C/12 h and then UV cure at 80 °C/40 min, postcured at 150 °C/21 h)",No,ca. 30 and 119,74.0,96.0,"['(25)', '75IPN(isothermalcureat80°C', '(12)handthenUVcureat80°C', '(40)min,postcuredat150°C', '(21)h']",j.eurpolymj.2008.03.001_5_0
+13,50:50 IPN systems,,,,,"['(0.5)', 'IPNsystems(0.5)']",j.eurpolymj.2008.03.001_5_0
+14,50:50 IPNs-partially cured,,,,,"['(0.5)', 'IPNs-partiallycured(0.5)']",j.eurpolymj.2008.03.001_5_0
+15,50:50 IPN (UV cure at 40 °C/40 min),No,-3,96.0,12.0,"['(50)', '50IPN(UVcureat40°C', '(40)min']",j.eurpolymj.2008.03.001_5_0
+16,50:50 IPN but without DMBA catalyst for epoxy (UV cure at 40 °C/40 min),No,-11,96.0,0.0,"['(50)', '50IPNbutwithoutDMBAcatalystforEP(UVcureat40°C', '(40)min']",j.eurpolymj.2008.03.001_5_0
+17,50:50 IPN (isothermal cure at 80 °C/12 h),No,-44 and 56,0.0,96.0,"['(50)', '50IPN(isothermalcureat80°C', '(12)h']",j.eurpolymj.2008.03.001_5_0
+18,50:50 IPNs-fully cured,,,,,"['(0.5)', 'IPNs-fullycured(0.5)']",j.eurpolymj.2008.03.001_5_0
+19,"50:50 IPN (UV cure at 40 °C/40 min and then isothermal cure at 80 °C/12 h, postcured at 150 °C/2 h)",No,Broad damping range from -5 to 150,96.0,95.0,"['(50)', '50IPN(UVcureat40°C', '(40)minandthenisothermalcureat80°C', '(12)h,postcuredat150°C', '(2)h']",j.eurpolymj.2008.03.001_5_0
+20,"50:50 IPN (isothermal cure at 80 °C/12 h and then UV cure at 80 °C/40 min, postcured at 150 °C/2 h)",No,ca. 20 and 123 with damping between,95.0,96.0,"['(50)', '50IPN(isothermalcureat80°C', '(12)handthenUVcureat80°C', '(40)min,postcuredat150°C', '(2)h']",j.eurpolymj.2008.03.001_5_0
+21,75:25 IPN systems,,,,,"['(0.75)', 'IPNsystems(0.25)']",j.eurpolymj.2008.03.001_5_0
+22,75:25 IPNs-partially cured,,,,,"['(0.75)', 'IPNs-partiallycured(0.25)']",j.eurpolymj.2008.03.001_5_0
+23,75:25 IPN (UV cure at 40 °C/40 min),No,-1,93.0,18.0,"['(75)', '25IPN(UVcureat40°C', '(40)min']",j.eurpolymj.2008.03.001_5_0
+24,75:25 IPN but without DMBA catalyst for epoxy (UV cure at 40 °C/40 min),No,-5,93.0,0.0,"['(75)', '25IPNbutwithoutDMBAcatalystforEP(UVcureat40°C', '(40)min']",j.eurpolymj.2008.03.001_5_0
+25,75:25 IPN (isothermal cure at 80 °C/12 h) 75:25 IPNs-Fully Cured,Yes,-45 and -15,0.0,95.0,"['(75)', '25IPN(isothermalcureat80°C', '(12)h)75', '(25)IPNs-FullyCured']",j.eurpolymj.2008.03.001_5_0
+26,"75:25 IPN (UV cure at 40 °C/40 min and then isothermal cure at 80 °C/12 h, postcured at 150 °C/2 h)",No,Broad peak centred at 28,94.0,96.0,"['(75)', '25IPN(UVcureat40°C', '(40)minandthenisothermalcureat80°C', '(12)h,postcuredat150°C', '(2)h']",j.eurpolymj.2008.03.001_5_0
+27,"75:25 IPN (isothermal cure at 80 °C/12 h and then UV cure at 80 °C/40 min, postcured at 150 °C/2 h)",yes,19 and 94,98.0,96.0,"['(75)', '25IPN(isothermalcureat80°C', '(12)handthenUVcureat80°C', '(40)min,postcuredat150°C', '(2)h']",j.eurpolymj.2008.03.001_5_0
+28,,,,,,[''],j.eurpolymj.2008.03.001_5_0

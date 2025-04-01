@@ -1,0 +1,8 @@
+,Samples,Tracture tougnness Values from,literature.,,.1,Vectors,Ref
+0,Material,Reference,Fracture Toughness (K),Fracture energy (rc),Test method,['Material'],j.ijadhadh.2018.02.009_24_0
+1,Cement paste,Akono et al. (2011) [29],0.66 MPaVn,14.1 //m2*,Micro-scratch test,['Cementpaste'],j.ijadhadh.2018.02.009_24_0
+2,Cement paste,Higgins and Bailey (1976) [30],0.65 MPavm,13.7 //m2*,Notched three- point bending,['Cementpaste'],j.ijadhadh.2018.02.009_24_0
+3,Cement paste,Cotterell and Mai (1987) [31],0.62 MPavm,12.5 //m2*,Notched three- point bending test,['Cementpaste'],j.ijadhadh.2018.02.009_24_0
+4,DGEBA+Jeffamine D-230,Ma et al. (2008)[32],"0,73 MPavm",180 //m2,Compact tension (CT),"['DGEBA', 'D230']",j.ijadhadh.2018.02.009_24_0
+5,DGEBA+Peperidine,Dittanet and Pearson (2012),1.11 MPavm,300 J/m2,Single-edge,"['DGEBA', 'Peperidine']",j.ijadhadh.2018.02.009_24_0
+6,,,,,,[''],j.ijadhadh.2018.02.009_24_0

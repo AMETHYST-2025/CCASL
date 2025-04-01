@@ -1,0 +1,5 @@
+,Samples,"Tg, DSC (C)","Tg, DMA (°C)",Modulus (),Ve (x103 mol/m³,T5 wt% (C),Tmax (°C),char yield (wt%),Vectors,Ref
+0,EP,137.4,151.0,1.55,2.39,367.3,384.7,12.6,['EP'],j.eurpolymj.2021.110319_6_1
+1,EP/1%DABP-2DOPO,158.8,170.0,1.86,3.59,364.3,389.3,14.5,"['EP', '(0.01)DABP-2DOPO']",j.eurpolymj.2021.110319_6_1
+2,EP/5%DABP-2DOPO,153.9,164.9,1.79,2.85,360.2,385.5,17.7,"['EP', '(0.05)DABP-2DOPO']",j.eurpolymj.2021.110319_6_1
+3,EP/10%DABP-2DOPO,151.7,163.4,1.8,2.55,357.7,382.7,19.4,"['EP', '(0.1)DABP-2DOPO']",j.eurpolymj.2021.110319_6_1

@@ -1,0 +1,45 @@
+,Samples,Peak load (N),Increase (%),Fracture displacement (mm),Increase.1 (%),Peak load (N)_err,Fracture displacement (mm)_err,"CNTs, wt%",GNPs (w%t),Epoxy matrix (wt%),compartson KC (MPa m 1/2,compartson % Increase,compartson GIC (J/m²,compartson$$$$ % Increase,compartson KC (MPa m 1/2_err,compartson GIC (J/m²_err,Author(s),Nanoparticle weight concentration (%),Normalized K,Vectors,Ref
+0,0.1-CNT-Epoxy,132.09,53.0,0.26,36.0,2.86,0.003,0.1,0.0,99.9,1.14,52.0,502.92,103.0,0.02,16.27,,,,"['0.1', 'CNT', 'EP']",j.compositesb.2021.109177
+1,0.1-CNT/GNP-Epoxy,122.84,41.0,0.24,26.0,8.32,0.01,0.05,0.05,99.9,1.06,41.0,440.53,78.0,0.07,49.1,,,,"['0.1', 'CNT/GNP', 'EP']",j.compositesb.2021.109177
+2,0.1-GNP-Epoxy,126.99,46.0,0.25,32.0,6.01,0.01,0.0,0.1,99.9,1.1,46.0,469.18,89.0,0.05,39.69,,,,"['0.1', 'GNP', 'EP']",j.compositesb.2021.109177
+3,0.5-CNT-Epoxy,190.49,120.0,0.36,89.0,6.94,0.01,0.5,0.0,99.5,1.64,118.0,1017.6,311.0,0.059,65.57,,,,"['0.5', 'CNT', 'EP']",j.compositesb.2021.109177
+4,0.5-CNT/GNP-Epoxy,179.4,108.0,0.35,84.0,4.97,0.01,0.25,0.25,99.5,1.55,106.0,927.14,275.0,0.043,36.64,,,,"['0.5', 'CNT/GNP', 'EP']",j.compositesb.2021.109177
+5,0.5-GNP-Epoxy,182.7,111.0,0.34,78.0,5.91,0.01,0.0,0.5,99.5,1.58,110.0,923.0,273.0,0.05,43.69,,,,"['0.5', 'GNP', 'EP']",j.compositesb.2021.109177
+6,1.7:0.3 GNP-CNT-Epoxy,,,,,,,,,,,,,,,,,2.0,1.75,"['1.7:0.3GNP', 'CNT', 'EP']",j.compositesb.2021.109177
+7,1:3 CNT-GNP-Epoxy,,,,,,,,,,,,,,,,,0.5,1.7,"['1:(3)CNT', 'GNP', 'EP']",j.compositesb.2021.109177
+8,1:5 CNT:GNP-Epoxy,,,,,,,,,,,,,,,,,0.5,1.24,"['1:(5)CNT:GNP', 'EP']",j.compositesb.2021.109177
+9,1:9 CNT:GNP-Epoxy,,,,,,,,,,,,,,,,,0.5,1.46,"['1:(9)CNT:GNP', 'EP']",j.compositesb.2021.109177
+10,25 um GNP-Epoxy,,,,,,,,,,,,,,,,,0.5,1.6,"['25umGNP', 'EP']",j.compositesb.2021.109177
+11,25 um GNP-Epoxy,,,,,,,,,,,,,,,,,0.1,1.52,"['25umGNP', 'EP']",j.compositesb.2021.109177
+12,25 um GNP-Epoxy,,,,,,,,,,,,,,,,Ahmadi-Mohgadum et al. (2014),0.5,1.24,"['25umGNP', 'EP']",j.compositesb.2021.109177
+13,2:3 (25 um GNP):CNT-Epoxy,,,,,,,,,,,,,,,,,0.5,1.32,"['2:3(25umGNP):CNT', 'EP']",j.compositesb.2021.109177
+14,3:1 CNT:GNP-Epoxy,,,,,,,,,,,,,,,,,0.5,1.7,"['3:(1)CNT:GNP', 'EP']",j.compositesb.2021.109177
+15,5 um GNP-Epoxy,,,,,,,,,,,,,,,,Chatterjee et al. (2012),0.1,1.02,"['5umGNP', 'EP']",j.compositesb.2021.109177
+16,5:1 CNT:GNP-Epoxy,,,,,,,,,,,,,,,,,0.5,1.46,"['5:(1)CNT:GNP', 'EP']",j.compositesb.2021.109177
+17,7:3 GNP-CNT-Epoxy,,,,,,,,,,,,,,,,,1.0,1.62,"['7:3GNP', 'CNT', 'EP']",j.compositesb.2021.109177
+18,9:1 CNT:GNP-Epoxy,,,,,,,,,,,,,,,,,0.5,1.79,"['9:(1)CNT:GNP', 'EP']",j.compositesb.2021.109177
+19,CNT-EPoxy,,,,,,,,,,,,,,,,,0.1,1.64,"['CNT', 'EPoxy']",j.compositesb.2021.109177
+20,CNT-Epoxy,,,,,,,,,,,,,,,,Chatterjee et al. (2012),0.5,1.8,"['CNT', 'EP']",j.compositesb.2021.109177
+21,CNT-Epoxy,,,,,,,,,,,,,,,,Hernandez-Perez et al. (2007),1.0,1.33,"['CNT', 'EP']",j.compositesb.2021.109177
+22,CNT-Epoxy,,,,,,,,,,,,,,,,Zhou et al. (2007),0.1,1.17,"['CNT', 'EP']",j.compositesb.2021.109177
+23,CNT-Epoxy,,,,,,,,,,,,,,,,,0.5,1.4,"['CNT', 'EP']",j.compositesb.2021.109177
+24,CNT-Epoxy,,,,,,,,,,,,,,,,Zeinedini et al. (2018),0.1,1.085,"['CNT', 'EP']",j.compositesb.2021.109177
+25,Epoxy-DWCNT,,,,,,,,,,,,,,,,,0.1,1.169,"['EP', 'DWCNT']",j.compositesb.2021.109177
+26,Epoxy-Functionalized SWCNTs (ammonia),,,,,,,,,,,,,,,,,1.0,1.17,"['EP', 'FunctionalizedSWCNTs(ammonia)']",j.compositesb.2021.109177
+27,Epoxy-MWCNT,,,,,,,,,,,,,,,,,0.1,1.215,"['EP', 'MWCNT']",j.compositesb.2021.109177
+28,Epoxy-Pristine SWCNTs,,,,,,,,,,,,,,,,Sun et al. (2007),1.0,1.035,"['EP', 'PristineSWCNTs']",j.compositesb.2021.109177
+29,Epoxy-SWCNT,,,,,,,,,,,,,,,,Gojny et al. (2005),0.05,1.1,"['EP', 'SWCNT']",j.compositesb.2021.109177
+30,GNP-Epoxy,,,,,,,,,,,,,,,,Zaman et al. (2011),0.25,1.42,"['GNP', 'EP']",j.compositesb.2021.109177
+31,GNP-Epoxy,,,,,,,,,,,,,,,,Shokrieh et al. (2014),0.5,1.152,"['GNP', 'EP']",j.compositesb.2021.109177
+32,GNP-Epoxy,,,,,,,,,,,,,,,,Kumar et al.,0.1,2.42,"['GNP', 'EP']",j.compositesb.2021.109177
+33,GNP-Epoxy,,,,,,,,,,,,,,,,Cha et al. (2019),2.0,1.49,"['GNP', 'EP']",j.compositesb.2021.109177
+34,GNP-Epoxy,,,,,,,,,,,,,,,,Bisht et al. (2017),0.1,1.4,"['GNP', 'EP']",j.compositesb.2021.109177
+35,GPL-Epoxy,,,,,,,,,,,,,,,,,0.1,1.467,"['GPL', 'EP']",j.compositesb.2021.109177
+36,MWCNT-Epoxy,,,,,,,,,,,,,,,,Ayatollahi et al. (2010),0.1,1.15,"['MWCNT', 'EP']",j.compositesb.2021.109177
+37,MWCNT-Epoxy,,,,,,,,,,,,,,,,Hsieh et al. (2011),0.1,1.23,"['MWCNT', 'EP']",j.compositesb.2021.109177
+38,MWCNT-Epoxy,,,,,,,,,,,,,,,,,0.1,1.18,"['MWCNT', 'EP']",j.compositesb.2021.109177
+39,Melamine-CNT-Epoxy,,,,,,,,,,,,,,,,Cha et al. (2017),1.0,1.98,"['Melamine', 'CNT', 'EP']",j.compositesb.2021.109177
+40,Melamine-GNP-Epoxy,,,,,,,,,,,,,,,,,2.0,2.25,"['Melamine', 'GNP', 'EP']",j.compositesb.2021.109177
+41,Neat Epoxy,86.74,-,0.19,-,5.04,0.01,0.0,0.0,100.0,0.75,-,247.4,-,0.04,29.87,,,,['EP'],j.compositesb.2021.109177
+42,Nitric Acid Functionalized GNP-Epoxy,,,,,,,,,,,,,,,,Domun et al. (2017),0.1,1.32,"['NitricAcidFunctionalizedGNP', 'EP']",j.compositesb.2021.109177
+43,SWCNT-Epoxy,,,,,,,,,,,,,,,,Rafiee et al. (2009),0.1,1.12,"['SWCNT', 'EP']",j.compositesb.2021.109177

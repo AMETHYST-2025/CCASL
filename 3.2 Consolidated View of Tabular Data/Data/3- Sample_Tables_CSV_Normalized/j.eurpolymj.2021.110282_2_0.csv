@@ -1,0 +1,11 @@
+,Samples,Chemical structure,Curing agent,Tg (°C),Tensile strength (MPa),Td5% (°C),Ref,Vectors
+0,REEP,,HDDM,320.0,77.8,319.9,j.eurpolymj.2021.110282_2_0,['REEP']
+1,TEU-EP,,33DDS,203.0,-,325.3,j.eurpolymj.2021.110282_2_0,"['TEU', 'EP']"
+2,TPEU-EP,,33DDS,168.4,-,338.0,j.eurpolymj.2021.110282_2_0,"['TPEU', 'EP']"
+3,DGED,O,DDM,205.0,83.0,335.0,j.eurpolymj.2021.110282_2_0,['DGED']
+4,DGEM,,44DDS,279.0,-,402.0,j.eurpolymj.2021.110282_2_0,['DGEM']
+5,DEU-EP,,DDM,114.4,-,341.0,j.eurpolymj.2021.110282_2_0,"['DEU', 'EP']"
+6,TEUP-EP,O,DDM,203.7,-,320.3,j.eurpolymj.2021.110282_2_0,"['TEUP', 'EP']"
+7,GSPZ-EP,o o,DDM,187.0,63.5,331.0,j.eurpolymj.2021.110282_2_0,"['GSPZ', 'EP']"
+8,DGEBG,o,HDDM,111.0,-,-,j.eurpolymj.2021.110282_2_0,['DGEBG']
+9,DGEVA,O C,HDDM,107.0,-,341.0,j.eurpolymj.2021.110282_2_0,['DGEVA']

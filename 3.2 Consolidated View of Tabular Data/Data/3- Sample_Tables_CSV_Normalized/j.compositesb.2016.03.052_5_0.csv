@@ -1,0 +1,7 @@
+,Samples,Tp (°C),,Vectors,Ref
+0,DGEBA,174.3,277.4,['DGEBA'],j.compositesb.2016.03.052_5_0
+1,"DGEBA/EG,",172.4,296.4,"['DGEBA', 'EG,']",j.compositesb.2016.03.052_5_0
+2,DGEBA/EG0.75/GO0.25,170.2,272.4,"['DGEBA', 'EG(0.75)', 'GO(0.25)']",j.compositesb.2016.03.052_5_0
+3,DGEBA/EGo.s/GOo.5,169.6,244.7,"['DGEBA', 'EGo.s', 'GOo(.5)']",j.compositesb.2016.03.052_5_0
+4,DGEBA/EGo25/GO0.75,171.3,255.3,"['DGEBA', 'EGo(25)', 'GO(0.75)']",j.compositesb.2016.03.052_5_0
+5,DGEBA/GO,173.7,267.9,"['DGEBA', 'GO']",j.compositesb.2016.03.052_5_0

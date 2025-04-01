@@ -1,0 +1,5 @@
+,Samples,Filler content (wt%),IPDT (°C),Char yield (550 °C) (%),Vectors,Ref
+0,Neat Epoxy,-,433.17,5.74,['EP'],j.compscitech.2020.108183_9_0
+1,BNNS-Epoxy,10.0,485.21,8.77,"['BNNS', 'EP']",j.compscitech.2020.108183_9_0
+2,MLG-Epoxy,10.0,442.3,10.25,"['MLG', 'EP']",j.compscitech.2020.108183_9_0
+3,H-BSG-Epoxy,10.0,542.99,13.69,"['H', 'BSG', 'EP']",j.compscitech.2020.108183_9_0

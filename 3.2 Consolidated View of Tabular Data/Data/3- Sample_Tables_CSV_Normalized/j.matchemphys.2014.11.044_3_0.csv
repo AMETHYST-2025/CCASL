@@ -1,0 +1,5 @@
+,Samples,Modulus (GPa),Hardness (GPa),Plasticity index,Vectors,Ref
+0,Ep,3.96,0.174,0.59,['Ep'],j.matchemphys.2014.11.044_3_0
+1,Ep-CNT,4.5,0.253,0.57,"['Ep', 'CNT']",j.matchemphys.2014.11.044_3_0
+2,Ep-Caps,3.87,0.157,0.64,"['Ep', 'Caps']",j.matchemphys.2014.11.044_3_0
+3,Ep-CNT-Caps,4.32,0.22,0.6,"['Ep', 'CNT', 'Caps']",j.matchemphys.2014.11.044_3_0

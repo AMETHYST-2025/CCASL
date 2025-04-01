@@ -1,0 +1,9 @@
+,Samples,Omax (deg),,hw (deg),orfct,Prominence factor,Weighed orfct,Vectors,Ref
+0,"LCEM/DDM - FIELD 0.16 A-1, all four LCEM peaks",36.0,216.0,16.5,0.91,0.87,0.79,"['LCEM/DDM', 'FIELD(0.16)A', '(1),allfourLCEMpeaks']",j.eurpolymj.2015.09.018_13_0
+1,"LCEM/DDM - FIELD 0,49 À-1 (LCEM)",90.0,270.0,64.0,0.64,0.26,0.17,"['LCEM/DDM', 'FIELD(0.49)À', '(1)(LCEM)']",j.eurpolymj.2015.09.018_13_0
+2,LCEM/DDM - FIELD 1.40 A-Superscript(1) (LCEM),0.0,180.0,44.5,0.75,0.82,0.62,"['LCEM/DDM', 'FIELD(1.40)A', 'Superscript((1))(LCEM)']",j.eurpolymj.2015.09.018_13_0
+3,LCEM/DDM/NR - NO FIELD 1.40 A-Superscript(1) (LCEM),90.0,270.0,72.5,0.6,0.37,0.22,"['LCEM/DDM/NR', 'NOFIELD(1.40)A', 'Superscript((1))(LCEM)']",j.eurpolymj.2015.09.018_13_0
+4,"LCEM/DDM/NR - FIELD 0.16 A-1, all four LCEM peaks",36.0,216.324,20.0,0.89,0.92,0.82,"['LCEM/DDM/NR', 'FIELD(0.16)A', '(1),allfourLCEMpeaks']",j.eurpolymj.2015.09.018_13_0
+5,"LCEM/DDM/NR - FIELD 0.49 A-1, LCEM peaks",90.0,270.0,51.5,0.71,0.37,0.26,"['LCEM/DDM/NR', 'FIELD(0.49)A', '(1),LCEMpeaks']",j.eurpolymj.2015.09.018_13_0
+6,"LCEM/DDM/NR - FIELD 0.51 A-1, NR peaks",0.0,180.0,25.7,0.86,0.5,0.43,"['LCEM/DDM/NR', 'FIELD(0.51)A', '(1),NRpeaks']",j.eurpolymj.2015.09.018_13_0
+7,LCEM/DDM/NR - FIELD 1.40 (LCEM),0.0,180.0,36.2,0.8,0.87,0.69,"['LCEM/DDM/NR', 'FIELD(1.40)(LCEM)']",j.eurpolymj.2015.09.018_13_0

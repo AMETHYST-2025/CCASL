@@ -1,0 +1,4 @@
+,Samples,Td5% (°C),Tdmax (°C),dW/dT (%/min),Residues (wt%),Vectors,Ref
+0,EP,333.0,405.0,19.8,17.2,['EP'],j.matchemphys.2020.124101_4_0
+1,Al-lignin 20/EP,340.0,401.0,16.5,21.5,"['Al-lignin(20)', 'EP']",j.matchemphys.2020.124101_4_0
+2,F-lignin@APP 20/EP,325.0,382.0,11.8,32.5,"['F-lignin@APP(20)', 'EP']",j.matchemphys.2020.124101_4_0

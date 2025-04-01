@@ -1,0 +1,4 @@
+,Samples,PHRR (kW/m²),THR (MJ/m²),EHC (MJ/kg),COY (kg/kg),CO₂Y (kg/kg),Char yield (%),Vectors,PHRR (kW/m²)_err,THR (MJ/m²)_err,EHC (MJ/kg)_err,COY (kg/kg)_err,CO₂Y (kg/kg)_err,Char yield (%)_err,Ref
+0,Pure EP,1420.0,144.0,29.9,0.126,2.51,8.81,['EP'],53.0,5.0,0.3,0.005,0.1,0.25,j.polymdegradstab.2016.04.011_5_0
+1,2%CNT/EP,963.0,119.0,26.4,0.101,2.16,9.75,"['(0.02)CNT', 'EP']",36.0,3.0,0.3,0.004,0.09,0.27,j.polymdegradstab.2016.04.011_5_0
+2,2%CNT-PD-10/EP,754.0,102.0,23.6,0.132,1.9,14.7,"['(0.02)CNT-PD-10', 'EP']",31.0,3.0,0.2,0.005,0.08,0.32,j.polymdegradstab.2016.04.011_5_0

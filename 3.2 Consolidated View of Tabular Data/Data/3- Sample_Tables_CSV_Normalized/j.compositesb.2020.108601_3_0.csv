@@ -1,0 +1,6 @@
+,Samples,DGEBA (g),BIM (g),DOPO (g),BICP (g),P content (wt%),Vectors,Ref
+0,EP/BIM-10,100.0,10,/,/,/,"['EP', 'BIM(10)']",j.compositesb.2020.108601_3_0
+1,EP/BICP-12,100.0,/,/,12.0,1.2,"['EP', 'BICP(12)']",j.compositesb.2020.108601_3_0
+2,EP/DOPO/ BICP-7,100.0,/,10.0,7.7,1.9,"['EP', 'DOPO', 'BICP(7)']",j.compositesb.2020.108601_3_0
+3,EP/DOPO/ BICP-11,100.0,/,10.0,12.1,2.3,"['EP', 'DOPO', 'BICP(11)']",j.compositesb.2020.108601_3_0
+4,EP/DOPO/ BICP-15,100.0,/,10.0,16.5,2.6,"['EP', 'DOPO', 'BICP(15)']",j.compositesb.2020.108601_3_0

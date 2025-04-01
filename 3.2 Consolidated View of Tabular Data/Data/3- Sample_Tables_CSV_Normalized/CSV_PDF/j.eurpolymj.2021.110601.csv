@@ -1,0 +1,11 @@
+,Samples,T5% (°C),T50% I 1 (°C),Char residue (800 °C),Elongation at break (%),Tensile strength (MPa),Storage modulus (MPa),Vectors,Ref
+0,APP@ATNi10,,,,,,,"['APP', 'ATNi10']",j.eurpolymj.2021.110601
+1,APP@ATNi15,,,,,,,"['APP', 'ATNi15']",j.eurpolymj.2021.110601
+2,EP,367.5,402.2,16.82,3.5,39.7,1750.0,['EP'],j.eurpolymj.2021.110601
+3,EP/,334.3,384.5,29.09,,,,"['EP', '']",j.eurpolymj.2021.110601
+4,EP/,340.6,387.4,27.0,,,,"['EP', '']",j.eurpolymj.2021.110601
+5,EP/ APP@ATNi10,,,,3.0,38.6,1840.0,"['EP', 'APP', 'ATNi10']",j.eurpolymj.2021.110601
+6,EP/ APP@ATNi15,,,,2.6,39.6,2000.0,"['EP', 'APP', 'ATNi15']",j.eurpolymj.2021.110601
+7,EP/ APP@ATNi5,,,,2.7,32.5,1820.0,"['EP', 'APP', 'ATNi5']",j.eurpolymj.2021.110601
+8,EP/APP5,327.8,385.7,23.83,1.9,26.6,1750.0,"['EP', 'APP(5)']",j.eurpolymj.2021.110601
+9,EP/APP@ATNi5,335.5,377.3,24.68,,,,"['EP', 'APP', 'ATNi5']",j.eurpolymj.2021.110601

@@ -1,0 +1,4 @@
+,Samples,Flexural modulus (MPa),Flexural stress max (MPa),Vectors,Flexural modulus (MPa)_err,Flexural stress max (MPa)_err,Ref
+0,Epoxy-DDM-1,3019.0,68.0,"['EP', 'DDM1']",83.0,1.6,j.compositesb.2019.01.020_5_0
+1,Epoxy-DDM-2,2863.0,66.0,"['EP', 'DDM2']",276.0,4.05,j.compositesb.2019.01.020_5_0
+2,Epoxy-DDM-3,3270.0,74.0,"['EP', 'DDM3']",76.0,1.58,j.compositesb.2019.01.020_5_0

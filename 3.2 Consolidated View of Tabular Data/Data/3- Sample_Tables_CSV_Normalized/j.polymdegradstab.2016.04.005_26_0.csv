@@ -1,0 +1,5 @@
+,Samples,T5% (C) N₂,T5% (C) Air,T5% (C)$$ N₂,Tmax ( C ) Air,Vmax max ( %/°C ) N2,Vmax max ( %/°C ) Air,Char yield N2 (700 °C) (%),Char yield Air (700 °C) (%),Vectors,Ref
+0,EP,354.7,330.6,379.9,368.6,1.31,1.48,17.5,0.5,['EP'],j.polymdegradstab.2016.04.005_26_0
+1,EP/PDAP4,326.9,314.5,368.8,361.0,0.96,0.83,22.6,1.0,"['EP', 'PDAP(4)']",j.polymdegradstab.2016.04.005_26_0
+2,EP/PDAP7,315.4,303.2,364.6,356.3,0.9,0.79,24.0,1.2,"['EP', 'PDAP(7)']",j.polymdegradstab.2016.04.005_26_0
+3,EP/PDAP10,309.1,294.7,360.7,347.7,0.87,0.77,24.4,2.5,"['EP', 'PDAP(10)']",j.polymdegradstab.2016.04.005_26_0

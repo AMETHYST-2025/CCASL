@@ -1,0 +1,6 @@
+,Samples,Tgs (°C),Log E' at - -25 °C (MPa),Log E' at 0 °C (MPa),Log E' at 25 °C (MPa),Vectors,Ref
+0,TPU-0,59.5,2.14,1.9,1.34,['TPU(0)'],j.compositesb.2020.108075_12_1
+1,TPU/GO 0.10,65.5,2.3,1.95,1.42,"['TPU', 'GO(0.10)']",j.compositesb.2020.108075_12_1
+2,TPU/GO-PPD 0.10,67.8,2.4,2.07,1.53,"['TPU', 'GO-PPD(0.10)']",j.compositesb.2020.108075_12_1
+3,TPU/GO-HMD 0.10,71.0,2.32,1.98,1.46,"['TPU', 'GO-HMD(0.10)']",j.compositesb.2020.108075_12_1
+4,TPU/GO-NH3 0.10,70.2,2.35,2.03,1.48,"['TPU', 'GO-NH3(0.10)']",j.compositesb.2020.108075_12_1

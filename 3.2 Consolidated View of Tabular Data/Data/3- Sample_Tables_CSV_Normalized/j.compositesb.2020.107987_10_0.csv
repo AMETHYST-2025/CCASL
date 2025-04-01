@@ -1,0 +1,3 @@
+,Samples,ILSS (+std. dev.) (MPa),In-plane electrical conductivity (S/m),Vectors,ILSS (+std. dev.) (MPa)_err,Ref
+0,rSCF/EP,15.7,20.6,"['rSCF', 'EP']",1.4,j.compositesb.2020.107987_10_0
+1,pDop-rSCF/EP,20.0,22.4,"['pDop-rSCF', 'EP']",0.6,j.compositesb.2020.107987_10_0

@@ -1,0 +1,5 @@
+,Entry,Samples,HRC (J/gk),PHRR (W/g),THR (kJ/ g),Peak temperature (°C),Vectors,Ref
+0,1.0,DGF/33DDS,132.0,128.3,20.5,369.0,"['DGF', '33DDS']",j.eurpolymj.2019.109292_5_0
+1,2.0,DGF/44DDS,222.0,215.0,31.7,370.0,"['DGF', '44DDS']",j.eurpolymj.2019.109292_5_0
+2,3.0,DGEBA/ 33DDS,601.0,553.0,32.3,452.8,"['DGEBA', '33DDS']",j.eurpolymj.2019.109292_5_0
+3,4.0,DGEBA/ 44DDS,516.0,498.8,36.4,449.3,"['DGEBA', '44DDS']",j.eurpolymj.2019.109292_5_0

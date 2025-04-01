@@ -1,0 +1,6 @@
+,Samples,DGEBA (g),DDS (g),PBI (g),PBI content (wt%),phosphorus content (wt%),Vectors,Ref
+0,EP/DDS,100.0,33.0,0.0,0.0,0.0,"['EP', 'DDS']",j.polymdegradstab.2019.06.020_3_0
+1,EP/DDS/PBI-0.25,100.0,31.5,4.9,3.6,0.25,"['EP', 'DDS', 'PBI(0.25)']",j.polymdegradstab.2019.06.020_3_0
+2,EP/DDS/PBI-0.5,100.0,30.1,10.0,7.1,0.5,"['EP', 'DDS', 'PBI(0.5)']",j.polymdegradstab.2019.06.020_3_0
+3,EP/DDS/PBI-0.75,100.0,28.6,15.5,10.8,0.75,"['EP', 'DDS', 'PBI(0.75)']",j.polymdegradstab.2019.06.020_3_0
+4,EP/DDS/PBI-1.0,100.0,27.0,21.2,14.3,1.0,"['EP', 'DDS', 'PBI(1.0)']",j.polymdegradstab.2019.06.020_3_0

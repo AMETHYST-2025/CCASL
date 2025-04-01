@@ -1,0 +1,18 @@
+,Samples,Chemical structure,Curing agent,Tg (°C),Tensile strength (MPa),Td5% (°C),Resin REEP,Resin DGEBA,Curing agent HDDM,Tg DMA (°C),E'at 25 °C/ MPa,E (200 °C) (MPa),E (300 °C) (MPa),TgTMA/ °C,B/°C min ¹,T;/°C,Tp/°C,T / °C,Tensile modulus (GPa),Tensile strain (%),Tensile strength (MPa)_err,Tensile modulus (GPa)_err,Tensile strain (%)_err,Td5%,Td15%,Td30%,Ts,Char yield (%),IPDT,LOI (%),Vectors,Ref
+0,REEP,,HDDM,320.0,77.8,319.9,,,,,,,,,,,,,,,,,,,,,,,,,['REEP'],j.eurpolymj.2021.110282
+1,TEU-EP,,33DDS,203.0,-,325.3,,,,,,,,,,,,,,,,,,,,,,,,,"['TEU', 'EP']",j.eurpolymj.2021.110282
+2,TPEU-EP,,33DDS,168.4,-,338.0,,,,,,,,,,,,,,,,,,,,,,,,,"['TPEU', 'EP']",j.eurpolymj.2021.110282
+3,DGED,O,DDM,205.0,83.0,335.0,,,,,,,,,,,,,,,,,,,,,,,,,['DGED'],j.eurpolymj.2021.110282
+4,DGEM,,44DDS,279.0,-,402.0,,,,,,,,,,,,,,,,,,,,,,,,,['DGEM'],j.eurpolymj.2021.110282
+5,DEU-EP,,DDM,114.4,-,341.0,,,,,,,,,,,,,,,,,,,,,,,,,"['DEU', 'EP']",j.eurpolymj.2021.110282
+6,TEUP-EP,O,DDM,203.7,-,320.3,,,,,,,,,,,,,,,,,,,,,,,,,"['TEUP', 'EP']",j.eurpolymj.2021.110282
+7,GSPZ-EP,o o,DDM,187.0,63.5,331.0,,,,,,,,,,,,,,,,,,,,,,,,,"['GSPZ', 'EP']",j.eurpolymj.2021.110282
+8,DGEBG,o,HDDM,111.0,-,-,,,,,,,,,,,,,,,,,,,,,,,,,['DGEBG'],j.eurpolymj.2021.110282
+9,DGEVA,O C,HDDM,107.0,-,341.0,,,,,,,,,,,,,,,,,,,,,,,,,['DGEVA'],j.eurpolymj.2021.110282
+10,DGEBA/ HDDM,,,,,,,,,161.4,2445.0,40.6,-,301.9,,,,,,,,,,348.1,359.35,369.04,176.7,4.2,438.5,21.0,"['DGEBA', 'HDDM']",j.eurpolymj.2021.110282
+11,DGEBA/HDDM,,,,63.6,,-,10.0,2.73,,,,,,5.0,46.3,104.2,156.4,2.3,3.7,9.3,0.1,1.0,,,,,,,,"['DGEBA', 'HDDM']",j.eurpolymj.2021.110282
+12,REEP/ DGEBA/ HDDM,,,,,,,,,206.4,1928.0,407.3,-,187.5,,,,,,,,,,335.1,347.7,358.44,171.1,9.4,508.1,22.8,"['REEP', 'DGEBA', 'HDDM']",j.eurpolymj.2021.110282
+13,REEP/ HDDM,,,,,,,,,320.0,1864.0,637.4,363.0,149.4,,,,,,,,,,319.9,334.86,347.83,165.0,12.4,553.8,24.3,"['REEP', 'HDDM']",j.eurpolymj.2021.110282
+14,REEP/DGEBA/ HDDM,,,,70.8,,,,,,,,,,,,,,2.5,3.5,15.9,0.1,0.7,,,,,,,,"['REEP', 'DGEBA', 'HDDM']",j.eurpolymj.2021.110282
+15,REEP/DGEBA/HDDM,,,,,,5.0,5.0,3.19,,,,,,,,,,,,,,,,,,,,,,"['REEP', 'DGEBA', 'HDDM']",j.eurpolymj.2021.110282
+16,REEP/HDDM,,,,77.8,,10.0,-,3.65,,,,,,5.0,55.6,87.2,120.8,2.5,4.5,18.9,0.2,1.5,,,,,,,,"['REEP', 'HDDM']",j.eurpolymj.2021.110282

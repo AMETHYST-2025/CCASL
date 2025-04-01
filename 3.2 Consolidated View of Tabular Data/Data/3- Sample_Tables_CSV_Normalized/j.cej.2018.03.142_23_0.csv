@@ -1,0 +1,3 @@
+,Samples,TTI (s),Peak HRR (kW/m²),Time PHRR (s),FGR (kW/m²s),THR (MJ/m²),PSPR (m²/s),TSP (m²),Residue (%),Vectors,Ref
+0,PEI-EP,58.0,1770.0,115.0,15.4,98.5,1.253,145.3,3.2,"['PEI', 'EP']",j.cej.2018.03.142_23_0
+1,DPPEI-EP,47.0,645.0,77.0,8.4,30.0,0.565,31.6,15.0,"['DPPEI', 'EP']",j.cej.2018.03.142_23_0

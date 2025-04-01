@@ -1,0 +1,5 @@
+,,Samples,TID (C) (STD),TD5 (°C) (STD)b,Tmax (°C) (STD),Char yield (STD) (%),Tg (C) (STD),Vectors,TID (C) (STD)_err,TD5 (°C) (STD)b_err,Tmax (°C) (STD)_err,Char yield (STD) (%)_err,Tg (C) (STD)_err,Ref
+0,,EP/TETA,352.0,353.0,385.0,12.4,101.0,"['EP', 'TETA']",5.0,4.0,6.0,0.4,3.0,j.compscitech.2016.10.014_11_0
+1,,"0,25 GO/EP/TETA",357.0,352.0,387.0,13.0,102.0,"['(0.25)GO', 'EP', 'TETA']",4.5,3.5,4.8,1.1,3.4,j.compscitech.2016.10.014_11_0
+2,,0.25 I-GO/EP/TETA,364.0,367.0,389.0,15.0,104.0,"['(0.25)I-GO', 'EP', 'TETA']",6.1,5.2,3.6,0.3,2.3,j.compscitech.2016.10.014_11_0
+3,,0.25 PVI-g-GO/EP/TETA,375.0,381.0,395.0,18.8,108.0,"['(0.25)PVI-g-GO', 'EP', 'TETA']",5.1,6.6,6.1,1.2,4.1,j.compscitech.2016.10.014_11_0

@@ -1,0 +1,11 @@
+,Samples,E (kJ/mol),log(to/s)a,PEO mass uptake (wt%),Sext/PEO/RNPs (m²/g),"Vmes,PEO/RNPs (cm³/g)",a DSext (%),b DVmes (%),pH,R/C (mol/mol),Vectors,Ref
+0,A,,,9.0,201.0,0.18,36.6,28.0,7.2,100.0,['A'],acs.macromol.6b01285
+1,B,,,18.0,207.0,0.28,31.9,24.0,7.0,150.0,['B'],acs.macromol.6b01285
+2,C,,,22.0,165.0,0.47,50.9,31.0,6.7,250.0,['C'],acs.macromol.6b01285
+3,D,,,19.0,111.0,1.0,25.5,16.0,6.3,500.0,['D'],acs.macromol.6b01285
+4,PEO (bulk),40.0,16.6,,,,,,,,['PEO(bulk)'],acs.macromol.6b01285
+5,PEO/RNPs-A,38.0,15.2,,,,,,,,"['PEO', 'RNPs-A']",acs.macromol.6b01285
+6,PEO/RNPs-B,36.0,14.8,,,,,,,,"['PEO', 'RNPs-B']",acs.macromol.6b01285
+7,PEO/RNPs-C,40.0,15.5,,,,,,,,"['PEO', 'RNPs-C']",acs.macromol.6b01285
+8,PEO/RNPs-D,37.0,14.7,,,,,,,,"['PEO', 'RNPs-D']",acs.macromol.6b01285
+9,dRNPs b,,,,,,,,,246.0,['dRNPsb'],acs.macromol.6b01285

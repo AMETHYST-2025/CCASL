@@ -1,0 +1,5 @@
+,Samples,Tg (°C) peak of tan ρ,Storage modulus (50°C) (GPa),Storage modulus (Tg+40°C) (GPa),Vectors,Ref
+0,BGTF/HMPA,175.0,1.97,0.024,"['BGTF', 'HMPA']",j.eurpolymj.2006.10.030_9_0
+1,BGTF/DDM,170.0,2.23,0.026,"['BGTF', 'DDM']",j.eurpolymj.2006.10.030_9_0
+2,BADGE/HMPA,164.0,1.81,0.028,"['BADGE', 'HMPA']",j.eurpolymj.2006.10.030_9_0
+3,BADGE/DDM,187.0,1.63,0.039,"['BADGE', 'DDM']",j.eurpolymj.2006.10.030_9_0

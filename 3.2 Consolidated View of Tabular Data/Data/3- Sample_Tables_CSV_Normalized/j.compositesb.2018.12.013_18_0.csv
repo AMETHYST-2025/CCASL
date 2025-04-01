@@ -1,0 +1,3 @@
+,Samples,Fiber volume fraction (%),Theoretical density (g/cm³),Measured density (g/cm³),Vectors,Theoretical density (g/cm³)_err,Measured density (g/cm³)_err,Ref
+0,BF/EP composites,42.0,1.04,1.08,"['BF', 'EPcomposites']",0.02,0.12,j.compositesb.2018.12.013_18_0
+1,ALK-BF/EP composites,42.0,1.19,1.16,"['ALK-BF', 'EPcomposites']",0.02,0.02,j.compositesb.2018.12.013_18_0

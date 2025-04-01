@@ -1,0 +1,6 @@
+,Samples,To (°C),"Tp,1° (C)","Tp,2° (°C)",Tt (°C),ΔH (J/g),Vectors,Ref
+0,EP/BIM-10,95.0,106.0,166.0,204.0,470.0,"['EP', 'BIM(10)']",j.compositesb.2020.108601_4_0
+1,EP/BICP-12,192.0,211.0,/,236.0,535.0,"['EP', 'BICP(12)']",j.compositesb.2020.108601_4_0
+2,EP/DOPO/BICP-7,153.0,169.0,186.0,215.0,453.0,"['EP', 'DOPO', 'BICP(7)']",j.compositesb.2020.108601_4_0
+3,EP/DOPO/BICP-11,151.0,168.0,183.0,206.0,469.0,"['EP', 'DOPO', 'BICP(11)']",j.compositesb.2020.108601_4_0
+4,EP/DOPO/BICP-15,153.0,168.0,181.0,202.0,494.0,"['EP', 'DOPO', 'BICP(15)']",j.compositesb.2020.108601_4_0

@@ -1,0 +1,3 @@
+,Samples,TTI (s),PHRR (kW/m²),THR (MJ/m²),Tp (s),FIGRA (kW/m²s),MAHRE® (kW/m2),TSR (m²/m²),TSP (m²),Residue (wt%),Vectors,Ref
+0,EP,82.0,1148.0,88.4,135.0,8.5,312.0,6564.0,58.0,4.4,['EP'],j.polymdegradstab.2016.08.013_9_0
+1,EP/9%BPA-BPP,72.0,457.0,78.4,150.0,3.0,207.0,4522.0,40.0,22.7,"['EP', '(0.09)BPA-BPP']",j.polymdegradstab.2016.08.013_9_0

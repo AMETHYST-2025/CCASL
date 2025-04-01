@@ -1,0 +1,7 @@
+,Samples,% Si (w/w),Tonset (°C),Tmax (°C),Curing T (°C),Curing t (min),Postcuring T (C),Postcuring t (min),"T, g (C) 1/2AC p","T, g (C) Tan 8",Vectors,Ref
+0,DGEBA/DDM,-,135.0,168.0,120.0,120.0,180.0,120.0,155.0,158.0,"['DGEBA', 'DDM']",j.polymdegradstab.2006.05.007_4_0
+1,EpSi 2-1/DDM Superscript(a),2.4,96.0,136.0,140.0,60.0,160.0,60.0,124.0,131.0,"['EpSi(2)-1', 'DDMSuperscript(a)']",j.polymdegradstab.2006.05.007_4_0
+2,EpSi 3-2/DDM,3.3,106.0,135.0,130.0,60.0,160.0,60.0,110.0,112.0,"['EpSi(3)-2', 'DDM']",j.polymdegradstab.2006.05.007_4_0
+3,DGDPS/DDM,6.5,128.0,167.0,120.0,150.0,170.0,120.0,94.0,103.0,"['DGDPS', 'DDM']",j.polymdegradstab.2006.05.007_4_0
+4,TGPS/DDM,6.6,93.0,135.0,120.0,150.0,170.0,120.0,100.0,106.0,"['TGPS', 'DDM']",j.polymdegradstab.2006.05.007_4_0
+5,BGDMSB/DDM,12.8,106.0,160.0,120.0,180.0,170.0,120.0,60.0,64.0,"['BGDMSB', 'DDM']",j.polymdegradstab.2006.05.007_4_0

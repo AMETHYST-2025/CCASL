@@ -1,0 +1,8 @@
+,Samples,P content (%),LOI (%),UL-94,Vectors,Ref
+0,EP,0.0,24.5,NR,['EP'],j.polymdegradstab.2015.10.006_5_0
+1,EP/DOPO,1.0,35.2,V-1,"['EP', 'DOPO']",j.polymdegradstab.2015.10.006_5_0
+2,EP/TMT,0.0,27.0,NR,"['EP', 'TMT']",j.polymdegradstab.2015.10.006_5_0
+3,EP/TMT/DOPO-0.4,0.4,34.0,V-1,"['EP', 'TMT', 'DOPO(0.4)']",j.polymdegradstab.2015.10.006_5_0
+4,EP/TMT/DOPO-0.6,0.6,36.5,V-0,"['EP', 'TMT', 'DOPO(0.6)']",j.polymdegradstab.2015.10.006_5_0
+5,EP/TMT/DOPO-0.8,0.8,38.0,V-0,"['EP', 'TMT', 'DOPO(0.8)']",j.polymdegradstab.2015.10.006_5_0
+6,EP/TMT/DOPO-1.0,1.0,40.3,V-0,"['EP', 'TMT', 'DOPO(1.0)']",j.polymdegradstab.2015.10.006_5_0

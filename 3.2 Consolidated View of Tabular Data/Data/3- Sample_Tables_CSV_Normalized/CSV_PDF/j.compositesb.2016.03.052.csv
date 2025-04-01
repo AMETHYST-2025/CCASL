@@ -1,0 +1,13 @@
+,Samples,PDT (°C),IPDT (°C),Et (kJ/mol),Char yield (800 °C) (%),EG/GO-filled epoxy EG (wt%),composites GO (wt%),Impact strength (KJ/m²),K (MPa m 1/2),GIC (kJ/m²),Impact strength (KJ/m²)_err,K (MPa m 1/2)_err,GIC (kJ/m²)_err,Tp (°C),Unnamed: 3,Vectors,Ref
+0,DGEBA,359.8,391.0,59.2,11.2,0.0,0.0,4.74,0.95,2.56,0.27,0.14,0.28,174.3,277.4,['DGEBA'],j.compositesb.2016.03.052
+1,"DGEBA/EG,",,,,,,,,,,,,,172.4,296.4,"['DGEBA', 'EG,']",j.compositesb.2016.03.052
+2,DGEBA/EG0.75/GO0.2,,,,,,,6.36,1.31,5.29,0.43,0.15,0.44,,,"['DGEBA', 'EG0.75', 'GO(0.2)']",j.compositesb.2016.03.052
+3,DGEBA/EG0.75/GO0.25,370.2,400.7,72.5,16.4,0.75,0.25,,,,,,,170.2,272.4,"['DGEBA', 'EG0.75', 'GO(0.25)']",j.compositesb.2016.03.052
+4,DGEBA/EG1,360.3,396.6,65.6,16.2,1.0,0.0,5.75,1.03,3.08,0.51,0.17,0.32,,,"['DGEBA', 'EG1']",j.compositesb.2016.03.052
+5,DGEBA/EGo.25/GO0.75,355.4,393.2,64.8,12.5,0.25,0.75,6.18,1.22,4.62,0.36,0.11,0.35,,,"['DGEBA', 'EGo.25', 'GO(0.75)']",j.compositesb.2016.03.052
+6,DGEBA/EGo.5/GO0.5,,,,,0.5,0.5,,,,,,,,,"['DGEBA', 'EGo.5', 'GO(0.5)']",j.compositesb.2016.03.052
+7,DGEBA/EGo.s/GO0.5,371.1,406.0,79.2,17.0,,,,,,,,,,,"['DGEBA', 'EGo.s', 'GO(0.5)']",j.compositesb.2016.03.052
+8,DGEBA/EGo.s/GOo.5,,,,,,,,,,,,,169.6,244.7,"['DGEBA', 'EGo.s', 'GOo.5']",j.compositesb.2016.03.052
+9,DGEBA/EGo25/GO0.75,,,,,,,,,,,,,171.3,255.3,"['DGEBA', 'EGo25', 'GO(0.75)']",j.compositesb.2016.03.052
+10,DGEBA/GO,,,,,,,,,,,,,173.7,267.9,"['DGEBA', 'GO']",j.compositesb.2016.03.052
+11,DGEBA/GO1,358.5,391.9,61.0,12.4,0.0,1.0,5.19,1.06,3.77,0.27,0.18,0.4,,,"['DGEBA', 'GO(1)']",j.compositesb.2016.03.052

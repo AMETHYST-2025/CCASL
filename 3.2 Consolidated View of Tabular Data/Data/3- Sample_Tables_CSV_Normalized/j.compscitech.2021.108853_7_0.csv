@@ -1,0 +1,27 @@
+,Samples,IFSS (MPa),Std. Dev.,m,No. of measurements,Vectors,Ref
+0,GF/EP,19.4,6.0,3.6,49.0,"['GF', 'EP']",j.compscitech.2021.108853_7_0
+1,GF-CNF1ppm/EP,30.8,3.8,8.8,23.0,"['GF-CNF(1)ppm', 'EP']",j.compscitech.2021.108853_7_0
+2,GF-CNF5ppm/EP,27.1,4.1,7.2,44.0,"['GF-CNF(5)ppm', 'EP']",j.compscitech.2021.108853_7_0
+3,GF-CNF10 ppm/EP,34.5,3.1,12.3,32.0,"['GF-CNF(10)ppm', 'EP']",j.compscitech.2021.108853_7_0
+4,GF-CNF50 ppm/EP,30.6,5.1,5.8,8.0,"['GF-CNF(50)ppm', 'EP']",j.compscitech.2021.108853_7_0
+5,GF-CNF0.01/EP,31.9,3.4,9.9,22.0,"['GF-CNF(0.01)', 'EP']",j.compscitech.2021.108853_7_0
+6,GF-CNF0.05/EP,30.8,6.0,5.5,34.0,"['GF-CNF(0.05)', 'EP']",j.compscitech.2021.108853_7_0
+7,GF-CNF0.1/EP,30.2,2.7,12.4,27.0,"['GF-CNF(0.1)', 'EP']",j.compscitech.2021.108853_7_0
+8,GF-CNF0.5/EP,15.8,4.8,3.0,8.0,"['GF-CNF(0.5)', 'EP']",j.compscitech.2021.108853_7_0
+9,S/GF/EP,39.1,5.1,8.4,26.0,"['S', 'GF', 'EP']",j.compscitech.2021.108853_7_0
+10,S/GF-CNF1ppm/EP,36.4,5.8,6.8,21.0,"['S', 'GF-CNF(1)ppm', 'EP']",j.compscitech.2021.108853_7_0
+11,S/GF-CNF5ppm/EP,34.2,6.0,6.1,28.0,"['S', 'GF-CNF(5)ppm', 'EP']",j.compscitech.2021.108853_7_0
+12,S/GF-CNF10 ppm/EP,46.6,3.7,12.8,14.0,"['S', 'GF-CNF(10)ppm', 'EP']",j.compscitech.2021.108853_7_0
+13,S/GF-CNF50 ppm/EP,34.2,9.0,3.2,8.0,"['S', 'GF-CNF(50)ppm', 'EP']",j.compscitech.2021.108853_7_0
+14,S/GF-CNF0.01/EP,45.5,6.8,7.4,34.0,"['S', 'GF-CNF(0.01)', 'EP']",j.compscitech.2021.108853_7_0
+15,S/GF-CNFo.05/EP,43.5,8.6,5.4,30.0,"['S', 'GF-CNFo(.05)', 'EP']",j.compscitech.2021.108853_7_0
+16,S/GF-CNFo1/EP,45.9,8.1,6.2,25.0,"['S', 'GF-CNFo(1)', 'EP']",j.compscitech.2021.108853_7_0
+17,S/GF-CNFo.5/EP,28.8,18.4,1.1,9.0,"['S', 'GF-CNFo(.5)', 'EP']",j.compscitech.2021.108853_7_0
+18,2P/GF-CNFo.1/EP,25.6,4.4,6.4,52.0,"['(2)P', 'GF-CNFo(.1)', 'EP']",j.compscitech.2021.108853_7_0
+19,3P/GF-CNFo1E,23.4,7.9,3.1,45.0,"['(3)P', 'GF-CNFo(1)E']",j.compscitech.2021.108853_7_0
+20,/S/GF CNF01/EP,9.7,2.7,4.1,40.0,"['', 'S', 'GFCNF(01)', 'EP']",j.compscitech.2021.108853_7_0
+21,3P/S/GF-CNF0_1/EP,30.6,6.8,5.0,31.0,"['(3)P', 'S', 'GF-CNF(0)_1', 'EP']",j.compscitech.2021.108853_7_0
+22,As-GF/EP,26.0,4.5,7.0,60.0,"['As-GF', 'EP']",j.compscitech.2021.108853_7_0
+23,As-GF-CNF10 ppm/EP,24.0,3.9,7.5,52.0,"['As-GF-CNF(10)ppm', 'EP']",j.compscitech.2021.108853_7_0
+24,As-GF-CNF0.01/EP,23.0,5.8,4.0,60.0,"['As-GF-CNF(0.01)', 'EP']",j.compscitech.2021.108853_7_0
+25,As-GF-CNF,23.0,4.1,6.1,51.0,['As-GF-CNF'],j.compscitech.2021.108853_7_0

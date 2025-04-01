@@ -1,0 +1,5 @@
+,Samples,Nitrogen T5% (°C),Nitrogen Tmax (°C),atmosphere IPDT (°C),"atmosphere Char (700 °C, wt%)",Air T5% (°C),atmosphere Tmax (°C),atmosphere.1$ IPDT (C),"atmosphere Char (700 O C, wt%)","atmosphere.1$$$ Char (700 O C, wt%)",Vectors,Ref
+0,3F-epxoy-D230,335.4,369.0,454.4,7.7,291.4,356.7,411.6,0.1,,"['3F', 'epxoy', 'D230']",j.polymdegradstab.2012.02.012_5_0
+1,3F-epxoy-2MI,337.5,427.6,637.6,19.2,347.6,436.7,470.7,0.2,,"['3F', 'epxoy', '2MI']",j.polymdegradstab.2012.02.012_5_0
+2,3F-epxoy-DDM,362.3,386.0,670.9,21.8,355.6,377.0,469.3,0.0,,"['3F', 'epxoy', 'DDM']",j.polymdegradstab.2012.02.012_5_0
+3,3F-epxoy-PA,358.7,396.1,485.7,5.3,355.2,401.7,437.0,0.0,,"['3F', 'epxoy', 'PA']",j.polymdegradstab.2012.02.012_5_0

@@ -1,0 +1,5 @@
+,Entry,Samples,a,Tds (°C),Td30 (°C),Tmax b (C),Rsoo (%),Vectors,Ref
+0,1.0,DGF/33DDS,176.0,324.0,366.0,337.0,27.0,"['DGF', '33DDS']",j.eurpolymj.2019.109292_4_0
+1,2.0,DGF/44DDS,215.0,324.0,355.0,339.0,18.0,"['DGF', '44DDS']",j.eurpolymj.2019.109292_4_0
+2,3.0,DGEBA/33DDS,184.0,405.0,417.0,418.0,20.0,"['DGEBA', '33DDS']",j.eurpolymj.2019.109292_4_0
+3,4.0,DGEBA/44DDS,238.0,397.0,414.0,420.0,14.0,"['DGEBA', '44DDS']",j.eurpolymj.2019.109292_4_0

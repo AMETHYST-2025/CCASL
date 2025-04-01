@@ -1,0 +1,3 @@
+,Samples,Absorption 9 GHz Theory (dB),Absorption 9 GHz Exp (dB),Absorption 12 GHz Theory (dB),Absorption 12 GHz Exp (dB),Multiple reflection (dB)  Exp.,Multiple reflection (dB)  Theory,Vectors,Ref
+0,TPU/TRGO5,8.18,12.18,7.42,12.57,Negligible,0.0,"['TPU', 'TRGO(5)']",j.eurpolymj.2017.08.038_16_0
+1,TPU/mTRGO5,10.0,21.06,9.93,22.28,Negligible,0.0,"['TPU', 'mTRGO(5)']",j.eurpolymj.2017.08.038_16_0

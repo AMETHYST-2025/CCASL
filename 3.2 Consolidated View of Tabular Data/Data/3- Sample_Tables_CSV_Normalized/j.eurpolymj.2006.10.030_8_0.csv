@@ -1,0 +1,5 @@
+,Samples,T5 (°C),T10 (°C),R (wt%),Vectors,Ref
+0,BGTF/HMPA,382.0,402.0,11.3,"['BGTF', 'HMPA']",j.eurpolymj.2006.10.030_8_0
+1,BGTF/DDM,370.0,395.0,47.3,"['BGTF', 'DDM']",j.eurpolymj.2006.10.030_8_0
+2,BADGE/HMPA,380.0,399.0,13.0,"['BADGE', 'HMPA']",j.eurpolymj.2006.10.030_8_0
+3,BADGE/DDM,374.0,395.0,26.9,"['BADGE', 'DDM']",j.eurpolymj.2006.10.030_8_0

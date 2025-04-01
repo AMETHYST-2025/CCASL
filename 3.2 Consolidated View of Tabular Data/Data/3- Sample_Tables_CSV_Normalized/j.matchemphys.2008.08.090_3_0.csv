@@ -1,0 +1,17 @@
+,Samples,Al2O3 (phr),Temperature (°C),n,k (1/s),Vectors,Ref
+0,DGEBA/Dien,0.0,70.0,0.88,0.0473,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+1,DGEBA/Dien,0.0,80.0,0.9,0.0678,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+2,DGEBA/Dien,0.0,85.0,0.89,0.0797,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+3,DGEBA/Dien,0.0,90.0,0.74,0.159,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+4,DGEBA/Dien,0.5,70.0,0.79,0.088,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+5,DGEBA/Dien,0.5,80.0,0.81,0.1163,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+6,DGEBA/Dien,0.5,85.0,0.72,0.1798,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+7,DGEBA/Dien,0.5,90.0,0.75,0.1896,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+8,DGEBA/Dien,2.0,70.0,0.8,0.0591,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+9,DGEBA/Dien,2.0,80.0,0.74,0.0844,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+10,DGEBA/Dien,2.0,85.0,0.73,0.0993,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+11,DGEBA/Dien,2.0,90.0,0.77,0.1187,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+12,DGEBA/Dien,5.0,70.0,0.82,0.0635,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+13,DGEBA/Dien,5.0,80.0,0.78,0.086,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+14,DGEBA/Dien,5.0,85.0,0.73,0.114,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0
+15,DGEBA/Dien,5.0,90.0,0.71,0.143,"['DGEBA', 'Dien']",j.matchemphys.2008.08.090_3_0

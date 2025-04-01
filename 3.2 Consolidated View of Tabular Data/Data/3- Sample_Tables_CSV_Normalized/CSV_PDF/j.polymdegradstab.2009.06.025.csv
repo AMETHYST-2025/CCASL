@@ -1,0 +1,8 @@
+,Samples,POSS content Inorganic part (wt%),POSS content (wt%),POSS content (mol),MDEA (mol),DGEBA (mol),Tignition (s),HRRmax (KW/m²),Improvement (%),Tignition (s)_err,HRRmax (KW/m²)_err,Vectors,Ref
+0,+ 3.7 wt% OctaPh POSS,,,,,,140.0,689.0,34.0,17.0,43.0,['(0.037000000000000005)OctaPhPOSS'],j.polymdegradstab.2009.06.025
+1,+ 3.7 wt% pre-reacted Gly-Ph POSS,,,,,,153.0,622.0,40.0,6.0,20.0,"['(0.037000000000000005)pre', 'reactedGly', 'PhPOSS']",j.polymdegradstab.2009.06.025
+2,+ 3.7 wt% pre-reacted Gly-iBu POSS,,,,,,129.0,782.0,25.0,12.0,25.0,"['(0.037000000000000005)pre', 'reactedGly', 'iBuPOSS']",j.polymdegradstab.2009.06.025
+3,Gly-Ph POSS,1.5,3.86,1.0,26.0,51.5,,,,,,"['Gly', 'PhPOSS']",j.polymdegradstab.2009.06.025
+4,Gly-iBu POSS,1.51,3.38,1.0,16.0,51.5,,,,,,"['Gly', 'iBuPOSS']",j.polymdegradstab.2009.06.025
+5,Neat epoxy,,,,,,132.0,1040.0,/,16.0,74.0,['EP'],j.polymdegradstab.2009.06.025
+6,OctaPh POSS,1.5,3.73,1.0,26.9,53.7,,,,,,['OctaPhPOSS'],j.polymdegradstab.2009.06.025

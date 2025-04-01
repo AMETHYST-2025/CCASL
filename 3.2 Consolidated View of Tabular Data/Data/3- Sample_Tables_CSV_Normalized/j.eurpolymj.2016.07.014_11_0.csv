@@ -1,0 +1,6 @@
+,Samples,Strength (MPa),Vectors,Strength (MPa)_err,Ref
+0,DGEBA-DDM,6.1,"['DGEBA', 'DDM']",0.2,j.eurpolymj.2016.07.014_11_0
+1,25%DOL-DDM,6.3,"['(0.25)DOL', 'DDM']",0.1,j.eurpolymj.2016.07.014_11_0
+2,50%DOL-DDM,7.7,"['(0.5)DOL', 'DDM']",0.3,j.eurpolymj.2016.07.014_11_0
+3,75%DOL-DDM,4.7,"['(0.75)DOL', 'DDM']",0.1,j.eurpolymj.2016.07.014_11_0
+4,100%DOL-DDM,3.9,"['(1.0)DOL', 'DDM']",0.4,j.eurpolymj.2016.07.014_11_0

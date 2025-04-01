@@ -1,0 +1,3 @@
+,Samples,Ob (MPa),E (MPa),Eb (%),Vectors,Ob (MPa)_err,E (MPa)_err,Eb (%)_err,Ref
+0,TMOPP/DTDA,95.2,4145.0,3.3,"['TMOPP', 'DTDA']",2.1,105.0,0.4,j.eurpolymj.2020.109805_4_0
+1,DGEBA/DTDA,84.3,2554.0,7.5,"['DGEBA', 'DTDA']",1.4,42.0,0.6,j.eurpolymj.2020.109805_4_0

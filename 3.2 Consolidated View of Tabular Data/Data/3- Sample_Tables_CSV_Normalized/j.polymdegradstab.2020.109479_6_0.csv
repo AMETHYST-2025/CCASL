@@ -1,0 +1,5 @@
+,Samples,PHRR (kW/m²),THR (MJ/m²),Residue (wt%),TTI (s),TSR (m²/m²),EHC (MJ/kg),Vectors,Residue (wt%)_err,TTI (s)_err,Ref
+0,EP,138510.0,931.0,0.1,53.0,498515.0,22.1,['EP'],0.2,2.0,j.polymdegradstab.2020.109479_6_0
+1,EP/APP,126710.0,62.0,32.5,34.0,3501.0,20.14,"['EP', 'APP']",1.0,1.0,j.polymdegradstab.2020.109479_6_0
+2,EP/HPCA,12009.0,841.0,12.1,28.0,351213.0,21.7,"['EP', 'HPCA']",1.1,3.0,j.polymdegradstab.2020.109479_6_0
+3,EP/APP/HPCA,3405.0,53.0,39.9,31.0,219410.0,17.7,"['EP', 'APP', 'HPCA']",1.3,1.0,j.polymdegradstab.2020.109479_6_0

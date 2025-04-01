@@ -1,0 +1,8 @@
+,Samples,P content (wt%),LOI (%),UL-94,,Vectors,Ref
+0,,,,Rating,Dripping,[''],j.polymdegradstab.2018.11.021_5_1
+1,EP/DDS,0.0,22.5,No rating,Yes,"['EP', 'DDS']",j.polymdegradstab.2018.11.021_5_1
+2,EP/DDS/DOPO,1.0,34.1,V-1,No,"['EP', 'DDS', 'DOPO']",j.polymdegradstab.2018.11.021_5_1
+3,EP/DDS/DIB-0.25,0.25,32.3,No rating,No,"['EP', 'DDS', 'DIB(0.25)']",j.polymdegradstab.2018.11.021_5_1
+4,EP/DDS/DIB-0.5,0.5,35.9,V-1,No,"['EP', 'DDS', 'DIB(0.5)']",j.polymdegradstab.2018.11.021_5_1
+5,EP/DDS/DIB-0.75,0.75,36.8,V-0,No,"['EP', 'DDS', 'DIB(0.75)']",j.polymdegradstab.2018.11.021_5_1
+6,EP/DDS/DIB-1.0,1.0,38.5,V-0,No,"['EP', 'DDS', 'DIB(1.0)']",j.polymdegradstab.2018.11.021_5_1

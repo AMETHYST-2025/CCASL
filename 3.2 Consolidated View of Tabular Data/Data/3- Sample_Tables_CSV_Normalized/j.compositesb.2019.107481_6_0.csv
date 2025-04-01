@@ -1,0 +1,8 @@
+,Samples,LOI (%),Vertical After-flame t1 (s),burning test time t2 (s),burning test UL94 Rating,burning test Dripping,Vectors,Ref
+0,EP,26.4,83.0,-,Unrated,No,['EP'],j.compositesb.2019.107481_6_0
+1,4%DiDSi/EP,32.4,12.8,9.2,V-1,No,"['(0.04)DiDSi', 'EP']",j.compositesb.2019.107481_6_0
+2,4%TriDSi/EP,33.4,8.1,10.5,V-1,No,"['(0.04)TriDSi', 'EP']",j.compositesb.2019.107481_6_0
+3,4%TetraDSi/EP,34.6,11.5,9.0,V-1,No,"['(0.04)TetraDSi', 'EP']",j.compositesb.2019.107481_6_0
+4,6%DiDSi/EP,34.1,8.2,7.1,V-1,No,"['(0.06)DiDSi', 'EP']",j.compositesb.2019.107481_6_0
+5,6%TriDSi/EP,35.2,5.2,3.5,V-0,No,"['(0.06)TriDSi', 'EP']",j.compositesb.2019.107481_6_0
+6,6%TetraDSi/EP,36.0,3.0,2.4,V-0,No,"['(0.06)TetraDSi', 'EP']",j.compositesb.2019.107481_6_0

@@ -1,0 +1,4 @@
+,Samples,Element C,content (wt%) o,content (wt%) N,content (wt%) P,Vectors,Ref
+0,Pure EP,82.46,7.08,10.46,0.0,['EP'],j.polymdegradstab.2016.04.011_8_0
+1,2%CNT/EP,82.21,7.89,9.9,0.0,"['(0.02)CNT', 'EP']",j.polymdegradstab.2016.04.011_8_0
+2,2%CNT-PD-10/EP,78.21,11.98,9.14,0.67,"['(0.02)CNT-PD-10', 'EP']",j.polymdegradstab.2016.04.011_8_0

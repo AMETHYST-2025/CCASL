@@ -1,0 +1,12 @@
+,Samples,Sample thickness (mm),Band frequency (GHz),"SET, dB",Ref.,Vectors,Ref
+0,wt.%GNP/PBAT,1.0,8.0,5.0,50.0,"['wt.%GNP', 'PBAT']",j.matchemphys.2019.122234_23_0
+1,5wt.%GNP/PBAT,,,13.0,,"['(0.05)GNP', 'PBAT']",j.matchemphys.2019.122234_23_0
+2,5wt.%r-GO/PS,2.0,18.0,21.4,51.0,"['(0.05)r-GO', 'PS']",j.matchemphys.2019.122234_23_0
+3,vol.%GNP/PP/PE,1.0,8.0,5.0,52.0,"['vol.%GNP', 'PP', 'PE']",j.matchemphys.2019.122234_23_0
+4,vol.%GNP/2vol.%CNT/PP/PE,1.0,8.0,13.0,52.0,"['vol.%GNP', '2vol.%CNT', 'PP', 'PE']",j.matchemphys.2019.122234_23_0
+5,Owt.%(GNP/CNT)/PU,3.0,12.4,47.0,53.0,"['Owt.%(GNP', 'CNT', 'PU']",j.matchemphys.2019.122234_23_0
+6,wt% (GNP/CF)/epoxy,2.0,26.5,25.0,54.0,"['wt%(GNP', 'CF', 'EP']",j.matchemphys.2019.122234_23_0
+7,Owt.% BT/PEK,2.0,8.2,7.5,55.0,"['Owt.%BT', 'PEK']",j.matchemphys.2019.122234_23_0
+8,0vol.%BaTiO3/10vol.%Ag/PVDF,1.2,8.0,26.0,56.0,"['(0.0)vol.BaTiO3', '(0.1)vol.Ag', 'PVDF']",j.matchemphys.2019.122234_23_0
+9,wt.%MWNT+1vol.%(BT- GO)/PVDF/ABS,5.0,8.0,26.0,45.0,"['wt.%MWNT+1vol.%(BT-GO)', 'PVDF', 'ABS']",j.matchemphys.2019.122234_23_0
+10,6wt.%(Graphene-Fe3O4-,2.0,1.0,35.0,57.0,['(0.06)(Graphene-Fe3O4-'],j.matchemphys.2019.122234_23_0

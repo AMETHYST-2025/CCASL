@@ -1,0 +1,7 @@
+,Samples,DGEBA (g),DDS (g),HMCP (g),HMCP content (wt%),P content (w,Vectors,Ref
+0,EP,100.0,33.0,0.0,0.0,0.0,['EP'],j.polymdegradstab.2016.01.011_3_0
+1,EP/HMCP-0.25,100.0,34.4,4.7,3.4,0.25,"['EP', 'HMCP(0.25)']",j.polymdegradstab.2016.01.011_3_0
+2,EP/HMCP-0.5,100.0,35.9,10.0,6.8,0.5,"['EP', 'HMCP(0.5)']",j.polymdegradstab.2016.01.011_3_0
+3,EP/HMCP-0.75,100.0,37.6,15.6,10.2,0.75,"['EP', 'HMCP(0.75)']",j.polymdegradstab.2016.01.011_3_0
+4,EP/HMCP-1.0,100.0,39.5,21.9,13.6,1.0,"['EP', 'HMCP(1.0)']",j.polymdegradstab.2016.01.011_3_0
+5,EP/HMCP-1.25,100.0,41.5,28.9,17.0,1.25,"['EP', 'HMCP(1.25)']",j.polymdegradstab.2016.01.011_3_0

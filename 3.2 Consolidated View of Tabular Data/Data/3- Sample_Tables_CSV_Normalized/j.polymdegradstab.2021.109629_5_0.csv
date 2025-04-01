@@ -1,0 +1,7 @@
+,Samples,Phosphorus content (%),T5% (°C),T1 (°C),T2 (°C),Rmax (wt%/°C),Residual (%),Tg (°C),LOI (%),Vectors,Ref
+0,Neat epoxy resins,0.0,378.4,395.7,-,2.3,14.3,151.9,21.0,['EPs'],j.polymdegradstab.2021.109629_5_0
+1,Cured d-FREP,0.22,346.3,384.1,507.4,0.4,28.5,192.9,40.0,"['Curedd', 'FREP']",j.polymdegradstab.2021.109629_5_0
+2,DOPO-EP1 [40],8.0,330.0,-,-,-,24.2,145.0,46.0,"['DOPO', 'EP1']",j.polymdegradstab.2021.109629_5_0
+3,DOPO-EP2 [40],4.4,338.0,-,-,-,18.0,131.0,38.5,"['DOPO', 'EP2']",j.polymdegradstab.2021.109629_5_0
+4,EADI-P4.4 [12],4.4,288.5,-,-,-,6.5,101.9,22.8,"['EADI', 'P(4.4)']",j.polymdegradstab.2021.109629_5_0
+5,PPR-EP [41],4.1,360.0,-,-,-,16.7,109.0,30.1,"['PPR', 'EP']",j.polymdegradstab.2021.109629_5_0

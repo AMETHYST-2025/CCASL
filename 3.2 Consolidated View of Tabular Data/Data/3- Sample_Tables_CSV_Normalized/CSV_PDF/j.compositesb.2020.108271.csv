@@ -1,0 +1,16 @@
+,Samples,T5% (°C),Tmax (°C),Char yield/% (700 °C),DMA Tg (°C),DMA E'190 MPa,DMA Tang,The 3-point Strain (%),blending Stress (Mpa),DMA Tg (°C)_err,DMA E'190 MPa_err,DMA Tang_err,The 3-point Strain (%)_err,blending Stress (Mpa)_err,PHRR (kW/m²),THR (MJ/m²),TSP (m²),Time PHRR (s),PHRR (kW/m²)_err,THR (MJ/m²)_err,TSP (m²)_err,Time PHRR (s)_err,Vectors,Ref
+0,AlPhP-PGO/ EP,,,,169.8,25.8,,0.062,110.1,0.2,0.4,0.597,0.004,2.0,,,,,,,,,"['AlPhP-PGO', 'EP']",j.compositesb.2020.108271
+1,AlPhP-PGO/EP,333.9,386.4,25.74,,,,,,,,,,,628.0,78.9,40.0,150.0,15.0,1.4,0.7,5.0,"['AlPhP-PGO', 'EP']",j.compositesb.2020.108271
+2,AlPhP/EP,333.2,386.9,22.83,,,,,,,,,,,,,,,,,,,"['AlPhP', 'EP']",j.compositesb.2020.108271
+3,CePhP- PGO/EP,,,,167.0,25.3,0.636,0.063,111.9,0.3,0.2,0.008,0.002,1.8,,,,,,,,,"['CePhP-PGO', 'EP']",j.compositesb.2020.108271
+4,CePhP-PGO/EP,333.8,378.4,25.97,,,,,,,,,,,497.0,73.3,36.9,145.0,13.0,1.9,0.5,5.0,"['CePhP-PGO', 'EP']",j.compositesb.2020.108271
+5,CePhP/EP,337.8,379.7,23.46,,,,,,,,,,,,,,,,,,,"['CePhP', 'EP']",j.compositesb.2020.108271
+6,CoPhP- PGO/EP,,,,168.5,31.4,0.605,0.065,114.9,0.1,0.3,0.012,0.002,1.7,,,,,,,,,"['CoPhP-PGO', 'EP']",j.compositesb.2020.108271
+7,CoPhP-PGO/EP,335.2,377.4,23.03,,,,,,,,,,,787.0,92.8,45.1,145.0,16.0,2.0,0.8,5.0,"['CoPhP-PGO', 'EP']",j.compositesb.2020.108271
+8,CoPhP/EP,341.5,380.3,22.49,,,,,,,,,,,,,,,,,,,"['CoPhP', 'EP']",j.compositesb.2020.108271
+9,EP,348.8,388.7,17.62,151.3,16.8,0.559,0.059,107.9,0.2,0.1,0.005,0.001,1.6,1357.0,119.7,53.6,160.0,28.0,2.1,0.4,5.0,['EP'],j.compositesb.2020.108271
+10,GO/EP,332.3,376.1,19.73,155.9,24.4,,0.058,105.7,0.1,0.2,0.442,0.001,1.5,,,,,,,,,"['GO', 'EP']",j.compositesb.2020.108271
+11,PGO/EP,,,,,,,,,0.1,0.3,0.011,0.003,1.9,,,,,,,,,"['PGO', 'EP']",j.compositesb.2020.108271
+12,ZnPhP-,,,,168.0,29.0,0.655,0.064,115.0,0.4,0.8,,,0.0,,,,,,,,,['ZnPhP-'],j.compositesb.2020.108271
+13,ZnPhP-PGO/EP,341.6,380.6,22.13,,,,,,,,,,,795.0,99.2,47.4,150.0,19.0,1.8,0.7,5.0,"['ZnPhP-PGO', 'EP']",j.compositesb.2020.108271
+14,ZnPhP/EP,343.0,381.1,22.26,,,,,,,,,,,,,,,,,,,"['ZnPhP', 'EP']",j.compositesb.2020.108271

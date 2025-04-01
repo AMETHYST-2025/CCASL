@@ -1,0 +1,4 @@
+,Samples,Tensile strength (MPa),Elongation at break (%),Modulus (MPa),T (°C),Vectors,Tensile strength (MPa)_err,Elongation at break (%)_err,Modulus (MPa)_err,Ref
+0,GEMA,42.5,3.2,1930.3,108.0,['GEMA'],3.6,0.5,205.1,j.eurpolymj.2015.06.027_8_0
+1,GEEA/MA [16],42.4,3.1,1949.1,106.0,"['GEEA', 'MA']",1.1,0.5,152.5,j.eurpolymj.2015.06.027_8_0
+2,Epon 825/NMA [22],60.2,2.09,3620.0,136.0,"['Epon(825)', 'NMA']",1.7,0.26,70.0,j.eurpolymj.2015.06.027_8_0

@@ -1,0 +1,5 @@
+,Samples,Tg (°C),Storage modulus (30°C) (MPa),Storage modulus (Tg+40°C) (MPa),Ve x 10-3 (mol/m³),Vectors,Ref
+0,EP,185.0,2926.0,47.29,3.81,['EP'],j.compositesb.2020.108228_10_0
+1,EP/7.5%TAP,185.0,2966.0,38.94,3.13,"['EP', '(0.075)TAP']",j.compositesb.2020.108228_10_0
+2,EP/10%TAP,178.0,3200.0,32.95,2.69,"['EP', '(0.1)TAP']",j.compositesb.2020.108228_10_0
+3,EP/12.5%TAP,177.0,3141.0,31.59,2.59,"['EP', '(0.125)TAP']",j.compositesb.2020.108228_10_0

@@ -1,0 +1,5 @@
+,Samples,Tensile strengh (MPa),Young's modulus (MPa),Elongation at break (%),Vectors,Tensile strengh (MPa)_err,Young's modulus (MPa)_err,Elongation at break (%)_err,Ref
+0,Neat ABS,31.3,2223.0,33.5,['EPABS'],5.2,248.0,5.0,j.compositesb.2021.109130_5_0
+1,ABS/BODIPY- MXene0.5,40.0,2636.0,39.5,"['ABS', 'BODIPY-MXene(0.5)']",1.4,225.0,9.5,j.compositesb.2021.109130_5_0
+2,ABS/BODIPY- MXene2.0,38.4,2770.0,28.5,"['ABS', 'BODIPY-MXene(2.0)']",3.7,212.0,2.2,j.compositesb.2021.109130_5_0
+3,ABS/BODIPY2.0,31.9,2277.0,37.4,"['ABS', 'BODIPY(2.0)']",4.9,359.0,6.2,j.compositesb.2021.109130_5_0

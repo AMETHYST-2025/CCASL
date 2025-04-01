@@ -1,0 +1,10 @@
+,Samples,EA (eV),Vectors,Ref
+0,Neat epoxy,0.503,['EP'],j.matchemphys.2012.05.060_2_0
+1,5 (nm) BaTiO3/epoxy,1.225,"['(5)(nm)BaTiO3', 'EP']",j.matchemphys.2012.05.060_2_0
+2,7 (nm) BaTiO3/epoxy,1.225,"['(7)(nm)BaTiO3', 'EP']",j.matchemphys.2012.05.060_2_0
+3,10 (nm) BaTiO3/epoxy,1.27,"['(10)(nm)BaTiO3', 'EP']",j.matchemphys.2012.05.060_2_0
+4,7 (um) BaTiO3/epoxy,1.24,"['(7)(um)BaTiO3', 'EP']",j.matchemphys.2012.05.060_2_0
+5,10 (um) BaTiO/epoxy,1.188,"['(10)(um)BaTiO', 'EP']",j.matchemphys.2012.05.060_2_0
+6,3 xGnP/epoxy,1.747,"['(3)xGnP', 'EP']",j.matchemphys.2012.05.060_2_0
+7,5 xGnP/epoxy,1.914,"['(5)xGnP', 'EP']",j.matchemphys.2012.05.060_2_0
+8,10 xGnP/epoxy,1.603,"['(10)xGnP', 'EP']",j.matchemphys.2012.05.060_2_0

@@ -1,0 +1,7 @@
+,Samples,HRR (kW/m²),Pk HRR (kW/m ²,EHC (MJ/kg),CO (kg/kg),CO₂ (kg/kg),Percent Mass Remaining (%),Time to Flame Subjection 20 (S),Flame after 20 S ignition 43 S Completely burned,Rating Unrated,Cotton Ignition N/A,LOI (%),Flame after 20 S ignition 43 S Completely burned_err,LOI (%)_err,Vectors,Ref
+0,VE,144.73,1499.0,24.62,0.19,1.87,0.26,,,,,,,,['VE'],j.compositesb.2020.108585
+1,VPE,137.68,509.0,12.96,0.17,0.92,5.53,20.0,9.1,0.0,No,26.6,0.5,0.3,['VPE'],j.compositesb.2020.108585
+2,VPE/3% FGO,136.51,465.14,13.47,0.17,0.92,6.1,20.0,9.1,0.0,No,27.1,0.3,0.1,"['VPE', '(0.03)FGO']",j.compositesb.2020.108585
+3,VPE/5% FGO,132.22,457.46,14.38,0.17,0.89,8.32,20.0,8.4,0.0,No,27.3,0.4,0.4,"['VPE', '(0.05)FGO']",j.compositesb.2020.108585
+4,VPE/7% FGO,128.13,445.35,14.99,0.16,0.88,9.45,20.0,7.2,0.0,No,28.2,0.3,0.2,"['VPE', '(0.07)FGO']",j.compositesb.2020.108585
+5,VPE/9% FGO,120.9,391.27,13.01,0.15,0.85,10.93,20.0,6.3,0.0,No,29.1,0.2,0.3,"['VPE', '(0.09)FGO']",j.compositesb.2020.108585

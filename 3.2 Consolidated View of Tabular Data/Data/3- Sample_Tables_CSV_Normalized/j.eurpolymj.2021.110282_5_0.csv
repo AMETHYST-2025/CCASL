@@ -1,0 +1,4 @@
+,Samples,Tg DMA (°C),E'at 25 °C/ MPa,E (200 °C) (MPa),E (300 °C) (MPa),TgTMA/ °C,Vectors,Ref
+0,REEP/ HDDM,320.0,1864.0,637.4,363.0,149.4,"['REEP', 'HDDM']",j.eurpolymj.2021.110282_5_0
+1,REEP/ DGEBA/ HDDM,206.4,1928.0,407.3,-,187.5,"['REEP', 'DGEBA', 'HDDM']",j.eurpolymj.2021.110282_5_0
+2,DGEBA/ HDDM,161.4,2445.0,40.6,-,301.9,"['DGEBA', 'HDDM']",j.eurpolymj.2021.110282_5_0

@@ -1,0 +1,6 @@
+,Samples,Flexural modulus (GPa),Flexural strength (MPa),KC [MN/m³/2],Crosslink density (kmol/m³),Tg (°C)b,Td5 (°C),Char yield d.e (%),Vectors,Flexural modulus (GPa)_err,Flexural strength (MPa)_err,KC [MN/m³/2]_err,Ref
+0,BADCY,3.04,191.0,0.52,8.0,8.0,389.0,35.1,['BADCY'],0.04,4.0,0.02,s41428-020-0380-3_7_0
+1,BADCY/o-DAMP0.03,3.61,204.0,0.65,1.96,258.0,342.0,30.9,"['BADCY', 'o-DAMP(0.03)']",0.05,13.0,0.03,s41428-020-0380-3_7_0
+2,BADCY/o-DAMP0.05,3.7,199.0,0.66,1.41,241.0,310.0,25.9,"['BADCY', 'o-DAMP(0.05)']",0.05,15.0,0.02,s41428-020-0380-3_7_0
+3,BADCY/o-DAMP0.07,3.42,207.0,0.75,1.21,224.0,293.0,27.9,"['BADCY', 'o-DAMP(0.07)']",0.13,13.0,0.05,s41428-020-0380-3_7_0
+4,BADCY/o-DAMP0.09,3.83,188.0,0.87,0.75,210.0,282.0,25.1,"['BADCY', 'o-DAMP(0.09)']",0.04,13.0,0.07,s41428-020-0380-3_7_0

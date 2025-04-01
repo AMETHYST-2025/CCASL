@@ -1,0 +1,5 @@
+,Samples,Final residue (wt%) + 1.0 wt%,P Content material (wt%) + 0.1 wt%,P Content final residue (wt%) + 0.1 wt%,Remainder of original total P content in % = 8-13%,Vectors,Ref
+0,EP + MPZnP,13.5,2.7,14.2,70.0,"['EP', 'MPZnP']",j.polymdegradstab.2016.06.023_9_1
+1,EP + MPP,29.2,2.8,8.6,88.0,"['EP', 'MPP']",j.polymdegradstab.2016.06.023_9_1
+2,EP + (MPZnP + MPP),17.1,2.8,11.1,68.0,"['EP', 'MPZnP', 'MPP']",j.polymdegradstab.2016.06.023_9_1
+3,EP + (MPZnP + AIO(OH)),18.0,1.4,8.6,113.0,"['EP', 'MPZnP', 'AIO(OH)']",j.polymdegradstab.2016.06.023_9_1

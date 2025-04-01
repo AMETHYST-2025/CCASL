@@ -1,0 +1,8 @@
+,Samples,T5% (°C),Tmax (°C),amax (% °C-1),Residue at 700 °C (wt%) Test values,Residue at 700 °C (wt%) Calculated values,Vectors,Ref
+0,EP,372.9,392.1,2.0,16.2,/,['EP'],j.polymdegradstab.2019.07.004_4_0
+1,EP/3 wt%PNP,368.9,390.7,1.67,19.0,15.9,"['EP', '(0.03)PNP']",j.polymdegradstab.2019.07.004_4_0
+2,EP/5 wt%PNP,363.4,392.1,1.46,19.4,15.7,"['EP', '(0.05)PNP']",j.polymdegradstab.2019.07.004_4_0
+3,EP/7 wt%PNP,358.9,391.2,1.31,20.1,15.6,"['EP', '(0.07)PNP']",j.polymdegradstab.2019.07.004_4_0
+4,EP/3 wt%PNS,354.1,390.3,1.21,21.6,16.5,"['EP', '(0.03)PNS']",j.polymdegradstab.2019.07.004_4_0
+5,EP/5 wt%PNS,354.1,374.9,0.97,22.9,16.8,"['EP', '(0.05)PNS']",j.polymdegradstab.2019.07.004_4_0
+6,EP/7 wt%PNS,333.8,387.4,0.87,23.8,17.0,"['EP', '(0.07)PNS']",j.polymdegradstab.2019.07.004_4_0

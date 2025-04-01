@@ -1,0 +1,6 @@
+,Samples,LOI (%),UL94 (3 mm) av-t1(s),UL94 (3 mm) av-t2(s),UL94 (3 mm) Dripping,UL94 (3 mm) Rating,Vectors,Ref
+0,EP,24.7,50.8,-,No,NR,['EP'],j.polymdegradstab.2019.06.024_5_0
+1,2%ABD/EP,32.3,7.4,5.8,No,V-1,"['(0.02)ABD', 'EP']",j.polymdegradstab.2019.06.024_5_0
+2,3%ABD/EP,36.2,1.7,4.6,No,V-0,"['(0.03)ABD', 'EP']",j.polymdegradstab.2019.06.024_5_0
+3,4%ABD/EP,39.1,1.4,3.2,No,V-0,"['(0.04)ABD', 'EP']",j.polymdegradstab.2019.06.024_5_0
+4,3%DOPO/EP,35.5,46.4,-,No,NR,"['(0.03)DOPO', 'EP']",j.polymdegradstab.2019.06.024_5_0

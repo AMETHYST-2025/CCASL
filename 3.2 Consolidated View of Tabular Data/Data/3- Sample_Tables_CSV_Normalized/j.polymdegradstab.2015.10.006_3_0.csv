@@ -1,0 +1,8 @@
+,Samples,DGEBA (g),DDM (g),TMT (g),DOPO (g),TMT content (wt%),P content (wt%),Vectors,Ref
+0,EP,100.0,26.2,0.0,0.0,0.0,0.0,['EP'],j.polymdegradstab.2015.10.006_3_0
+1,EP/DOPO,100.0,24.1,0.0,9.5,0.0,1.0,"['EP', 'DOPO']",j.polymdegradstab.2015.10.006_3_0
+2,EP/TMT,100.0,28.8,11.3,0.0,8.0,0.0,"['EP', 'TMT']",j.polymdegradstab.2015.10.006_3_0
+3,EP/TMT/DOPO-0.4,100.0,28.1,12.0,4.0,8.3,0.4,"['EP', 'TMT', 'DOPO(0.4)']",j.polymdegradstab.2015.10.006_3_0
+4,EP/TMT/DOPO-0.6,100.0,27.6,12.0,6.0,8.2,0.6,"['EP', 'TMT', 'DOPO(0.6)']",j.polymdegradstab.2015.10.006_3_0
+5,EP/TMT/DOPO-0.8,100.0,27.1,12.0,8.3,8.1,0.8,"['EP', 'TMT', 'DOPO(0.8)']",j.polymdegradstab.2015.10.006_3_0
+6,EP/TMT/DOPO-1.0,100.0,26.6,12.0,10.5,8.0,1.0,"['EP', 'TMT', 'DOPO(1.0)']",j.polymdegradstab.2015.10.006_3_0

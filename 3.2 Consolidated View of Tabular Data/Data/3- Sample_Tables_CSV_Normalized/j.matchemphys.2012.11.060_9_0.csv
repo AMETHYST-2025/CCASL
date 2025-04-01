@@ -1,0 +1,4 @@
+,Samples,Flexural strength (MPa),Impact strength (KJ/m²),Shear strength (MPa),Gel time (25 °C) (min),Vectors,Flexural strength (MPa)_err,Impact strength (KJ/m²)_err,Shear strength (MPa)_err,Ref
+0,DGEBA/propanediamine,102.0,3.2,2.4,170.0,"['DGEBA', 'propanediamine']",6.1,0.0,0.4,j.matchemphys.2012.11.060_9_0
+1,DGEBA/1.0GPPI,96.8,2.3,4.0,130.0,"['DGEBA', '(1.0)GPPI']",4.3,0.7,0.4,j.matchemphys.2012.11.060_9_0
+2,DGEBA/PAN4,51.8,9.8,16.1,720.0,"['DGEBA', 'PAN(4)']",2.3,1.5,1.0,j.matchemphys.2012.11.060_9_0

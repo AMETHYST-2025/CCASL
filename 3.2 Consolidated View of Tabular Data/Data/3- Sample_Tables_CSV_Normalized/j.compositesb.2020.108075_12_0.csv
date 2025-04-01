@@ -1,0 +1,6 @@
+,Samples,Tin (°C),Tmax (°C),Vectors,Ref
+0,TPU-0,306.2,407.5,['TPU(0)'],j.compositesb.2020.108075_12_0
+1,TPU/GO 0.10,312.0,414.0,"['TPU', 'GO(0.10)']",j.compositesb.2020.108075_12_0
+2,TPU/GO-PPD 0.10,313.5,421.0,"['TPU', 'GO-PPD(0.10)']",j.compositesb.2020.108075_12_0
+3,TPU/GO-HMD 0.10,313.0,418.0,"['TPU', 'GO-HMD(0.10)']",j.compositesb.2020.108075_12_0
+4,TPU/GO-NH3 0.10,318.6,419.0,"['TPU', 'GO-NH3(0.10)']",j.compositesb.2020.108075_12_0

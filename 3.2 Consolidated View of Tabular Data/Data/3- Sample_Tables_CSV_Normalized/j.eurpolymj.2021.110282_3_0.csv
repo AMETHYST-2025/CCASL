@@ -1,0 +1,4 @@
+,Samples,Resin REEP,Resin DGEBA,Curing agent HDDM,Vectors,Ref
+0,REEP/HDDM,10.0,-,3.65,"['REEP', 'HDDM']",j.eurpolymj.2021.110282_3_0
+1,REEP/DGEBA/HDDM,5.0,5.0,3.19,"['REEP', 'DGEBA', 'HDDM']",j.eurpolymj.2021.110282_3_0
+2,DGEBA/HDDM,-,10.0,2.73,"['DGEBA', 'HDDM']",j.eurpolymj.2021.110282_3_0

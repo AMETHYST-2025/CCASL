@@ -1,0 +1,5 @@
+,Samples,T1% (°C),T5% (°C),Tmax (°C),CY-exp (wt%),CY-cal (wt%),Vectors,Ref
+0,EP,386.1,399.4,415.4,12.9,12.9,['EP'],j.polymdegradstab.2021.109613_7_0
+1,8PCOF-EP,302.9,370.7,448.0,18.2,12.5,"['(8)PCOF', 'EP']",j.polymdegradstab.2021.109613_7_0
+2,12PCOF-EP,292.7,357.9,425.0,21.3,12.3,"['(12)PCOF', 'EP']",j.polymdegradstab.2021.109613_7_0
+3,12COF-EP,283.5,357.8,440.1,17.2,12.0,"['(12)COF', 'EP']",j.polymdegradstab.2021.109613_7_0

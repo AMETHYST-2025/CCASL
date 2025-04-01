@@ -1,0 +1,5 @@
+,Cods,Samples,Tensile strength (MPa),Elongation at break (%),Vectors,Ref
+0,A,DGEPEG:DGEBA/APEG:IPDA,0.69,21.0,"['DGEPEG', 'DGEBA', 'APEG', 'IPDA']",j.ijadhadh.2019.102430_6_0
+1,B,DGEPEG/IPDA,0.6,23.0,"['DGEPEG', 'IPDA']",j.ijadhadh.2019.102430_6_0
+2,C,DGEBA/APEG,0.65,23.0,"['DGEBA', 'APEG']",j.ijadhadh.2019.102430_6_0
+3,D,DGEPEG:DGEBA/APEG:IPDA/ 5.0 wt% SiO2,1.11,29.0,"['DGEPEG', 'DGEBA', 'APEG', 'IPDA', '(0.05)SiO2']",j.ijadhadh.2019.102430_6_0

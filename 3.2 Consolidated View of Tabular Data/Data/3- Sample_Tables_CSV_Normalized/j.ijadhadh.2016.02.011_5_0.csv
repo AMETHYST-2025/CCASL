@@ -1,0 +1,7 @@
+,Samples,Viscosity (Pa s),Contact angle (°),Vectors,Contact angle (°)_err,Ref
+0,DGEBA/3DCM (0 phr),3.68,68.0,"['DGEBA', '3DCM((0)phr)']",4.0,j.ijadhadh.2016.02.011_5_0
+1,DGEBA/3DCM (10 phr),2.52,54.0,"['DGEBA', '3DCM((10)phr)']",3.0,j.ijadhadh.2016.02.011_5_0
+2,DGEBA/3DCM (20 phr),1.24,50.0,"['DGEBA', '3DCM((20)phr)']",2.0,j.ijadhadh.2016.02.011_5_0
+3,DGEBA/3DCM (30 phr),0.51,49.0,"['DGEBA', '3DCM((30)phr)']",2.0,j.ijadhadh.2016.02.011_5_0
+4,DGEBA/IPD (30 phr),0.44,37.0,"['DGEBA', 'IPD((30)phr)']",3.0,j.ijadhadh.2016.02.011_5_0
+5,DGEBA/4MPip (30 phr),0.54,32.0,"['DGEBA', '4MPip(30phr)']",1.0,j.ijadhadh.2016.02.011_5_0

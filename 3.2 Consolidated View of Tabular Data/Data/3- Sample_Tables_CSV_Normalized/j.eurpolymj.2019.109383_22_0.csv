@@ -1,0 +1,3 @@
+,Samples,TTI (s),Time PHRR (s),PHRR (kW/m²),THR (MJ/m²),TSR (m²/m²),Residue (wt%),COY (kg/kg),EHC (MJ/kg),F FIGRA x,Vectors,Ref
+0,EP,40.0,135.0,1677.9,148.0,6009.4,6.7,0.13,33.7,12.4,['EP'],j.eurpolymj.2019.109383_22_0
+1,0.7FGO/EP,49.0,120.0,844.7,97.3,3518.5,17.3,0.09,26.1,7.0,"['(0.7)FGO', 'EP']",j.eurpolymj.2019.109383_22_0

@@ -1,0 +1,3 @@
+,Samples,Tensile strength (MPa),Tensile modulus (GPa),Elongation at break (%),Vectors,Tensile strength (MPa)_err,Tensile modulus (GPa)_err,Elongation at break (%)_err,Ref
+0,CF/EMG- 1,417.0,31.3,3.6,"['CF', 'EMG(1)']",26.0,1.8,0.3,j.compositesb.2021.108654_7_0
+1,CF/DMG- 1,423.0,34.7,2.9,"['CF', 'DMG(1)']",31.0,2.1,0.1,j.compositesb.2021.108654_7_0

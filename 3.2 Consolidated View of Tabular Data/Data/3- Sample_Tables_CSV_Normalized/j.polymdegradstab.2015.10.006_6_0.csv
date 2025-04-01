@@ -1,0 +1,8 @@
+,Samples,HRR (kW/m²),PHRR (kW/m²),EHC (MJ/kg),THR (MJ/m²),COY (kg/kg),CO₂Y (kg/kg),TSP (m²),Char yields TOF (%),Vectors,Ref
+0,EP,208.0,1557.0,25.4,94.5,0.085,1.659,34.0,6.2,['EP'],j.polymdegradstab.2015.10.006_6_0
+1,EP/DOPO,142.0,1301.0,20.2,65.0,0.105,1.122,32.8,18.8,"['EP', 'DOPO']",j.polymdegradstab.2015.10.006_6_0
+2,EP/TMT,194.0,1395.0,24.8,88.4,0.089,1.661,26.3,10.5,"['EP', 'TMT']",j.polymdegradstab.2015.10.006_6_0
+3,EP/TMT/DOPO-0.4,160.0,1210.0,21.0,74.7,0.095,1.405,25.4,17.0,"['EP', 'TMT', 'DOPO(0.4)']",j.polymdegradstab.2015.10.006_6_0
+4,EP/TMT/DOPO-0.6,153.0,1085.0,21.0,70.3,0.107,1.372,24.8,18.9,"['EP', 'TMT', 'DOPO(0.6)']",j.polymdegradstab.2015.10.006_6_0
+5,EP/TMT/DOPO-0.8,154.0,1105.0,20.7,70.8,0.115,1.223,25.0,18.6,"['EP', 'TMT', 'DOPO(0.8)']",j.polymdegradstab.2015.10.006_6_0
+6,EP/TMT/DOPO-1.0,131.0,980.0,17.3,61.0,0.121,1.081,26.7,21.3,"['EP', 'TMT', 'DOPO(1.0)']",j.polymdegradstab.2015.10.006_6_0

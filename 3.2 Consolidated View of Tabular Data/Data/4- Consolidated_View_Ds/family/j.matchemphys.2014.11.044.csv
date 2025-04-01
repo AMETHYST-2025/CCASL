@@ -1,0 +1,5 @@
+,Samples,Epoxy (wt%),Microcapsules (wt%),WCl6 (wt%),CNTs (wt%),Modulus (GPa),Hardness (GPa),Plasticity index,Vectors,Ref
+0,Ep,100.0,-,-,-,3.96,0.174,0.59,['Ep'],j.matchemphys.2014.11.044
+1,Ep-CNT,98.0,-,-,2.0,4.5,0.253,0.57,"['Ep', 'CNT']",j.matchemphys.2014.11.044
+2,Ep-CNT-Caps,71.0,15.0,12.0,2.0,4.32,0.22,0.6,"['Ep', 'CNT', 'Caps']",j.matchemphys.2014.11.044
+3,Ep-Caps,73.0,15.0,12.0,-,3.87,0.157,0.64,"['Ep', 'Caps']",j.matchemphys.2014.11.044

@@ -1,0 +1,7 @@
+,Samples,C (%),H (%),N (%),Vectors,Ref
+0,CMC,40.3,5.8,0.03,['CMC'],j.carbpol.2013.05.062_4_0
+1,Al-CMC,39.1,5.7,0.026,"['Al', 'CMC']",j.carbpol.2013.05.062_4_0
+2,CMC-g-PAN,55.9,4.6,15.6,"['CMC', 'g', 'PAN']",j.carbpol.2013.05.062_4_0
+3,CMC-g-PAH,41.4,7.4,34.4,"['CMC', 'g', 'PAH']",j.carbpol.2013.05.062_4_0
+4,CMC-SAL,59.3,5.5,19.5,"['CMC', 'SAL']",j.carbpol.2013.05.062_4_0
+5,U-CMC-SAL,63.2,6.3,17.8,"['U', 'CMC', 'SAL']",j.carbpol.2013.05.062_4_0

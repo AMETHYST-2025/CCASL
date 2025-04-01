@@ -1,0 +1,12 @@
+,Samples,T5% (°C),T50% (°C),dTGmax (mass%/°C),TdTGmax (°C),Char yield (600 °C) (wt%),Vectors,Ref
+0,PT- 30,415.0,-,0.64,435.0,70.0,['PT-30'],j.polymdegradstab.2016.02.015_6_0
+1,DGEBA,302.0,398.0,1.57,395.0,10.0,['DGEBA'],j.polymdegradstab.2016.02.015_6_0
+2,20% PT-30 - 80% DGEBA,377.0,426.0,1.9,422.0,20.0,"['(0.2)PT-30', '(0.8)DGEBA']",j.polymdegradstab.2016.02.015_6_0
+3,40% PT-30 - 60% DGEBA,373.0,424.0,1.24,399.0,30.0,"['(0.4)PT-30', '(0.6)DGEBA']",j.polymdegradstab.2016.02.015_6_0
+4,DGEBA - DOPO 2% P,311.0,387.0,1.43,383.0,10.0,"['DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_6_0
+5,20% PT-30 - DGEBA - DOPO 2%P,339.0,401.0,1.16,389.0,25.0,"['(0.2)PT-30', 'DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_6_0
+6,30% PT-30 - DGEBA - DOPO 2%P,346.0,411.0,1.12,398.0,26.0,"['(0.3)PT-30', 'DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_6_0
+7,40% PT-30 - DGEBA - DOPO 2%P,351.0,426.0,0.94,396.0,32.0,"['(0.4)PT-30', 'DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_6_0
+8,20% PT-30 - DGEBA - DOPO 3%P,306.0,399.0,0.72,379.0,26.0,"['(0.2)PT-30', 'DGEBA', 'DOPO(0.03)P']",j.polymdegradstab.2016.02.015_6_0
+9,25% PT-30 - DGEBA - DOPO 3%P,320.0,408.0,0.68,376.0,25.0,"['(0.25)PT-30', 'DGEBA', 'DOPO(0.03)P']",j.polymdegradstab.2016.02.015_6_0
+10,40% PT-30 - DGEBA - DOPO 3%P,347.0,443.0,0.68,384.0,35.0,"['(0.4)PT-30', 'DGEBA', 'DOPO(0.03)P']",j.polymdegradstab.2016.02.015_6_0

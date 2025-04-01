@@ -1,0 +1,5 @@
+,Samples,Cured epoxy resin (wt%),Content of DOPO- POSS (wt%),LOI (%),UL-94,t1 (s),t2 (s),Dripping,Vectors,Ref
+0,DGEBA/DDS,100.0,0.0,22.0,NR,30.0,/,Yes,"['DGEBA', 'DDS']",j.polymdegradstab.2012.05.020_3_0
+1,DGEBA/DDS/2.5 wt.% DOPO-POSS,97.5,2.5,27.1,V-1,8.0,5.0,No,"['DGEBA', 'DDS', '(0.025)DOPO-POSS']",j.polymdegradstab.2012.05.020_3_0
+2,DGEBA/DDS/5 wt.% DOPO-POSS,95.0,5.0,26.2,NR,44.0,35.0,No,"['DGEBA', 'DDS', '(0.05)DOPO-POSS']",j.polymdegradstab.2012.05.020_3_0
+3,DGEBA/DDS/10 wt.% DOPO-POSS,90.0,10.0,24.8,NR,30.0,/,No,"['DGEBA', 'DDS', '(0.1)DOPO-POSS']",j.polymdegradstab.2012.05.020_3_0

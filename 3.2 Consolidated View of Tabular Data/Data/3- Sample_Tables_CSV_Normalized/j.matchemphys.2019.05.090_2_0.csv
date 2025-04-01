@@ -1,0 +1,7 @@
+,Samples,Weight ratio  BCy,Weight ratio  HBP@GO/MnF,Vectors,Ref
+0,BCy,100.0,0.0,['BCy'],j.matchemphys.2019.05.090_2_0
+1,f-BCy,100.0,0.0,['f-BCy'],j.matchemphys.2019.05.090_2_0
+2,0.5HBP@GO/MnF/BCy,100.0,0.5,"['(0.5)HBP@GO', 'MnF', 'BCy']",j.matchemphys.2019.05.090_2_0
+3,1HBP@GO/MnF/BCy,100.0,1.0,"['(1)HBP@GO', 'MnF', 'BCy']",j.matchemphys.2019.05.090_2_0
+4,2HBP@GO/MnF/BCy,100.0,2.0,"['(2)HBP@GO', 'MnF', 'BCy']",j.matchemphys.2019.05.090_2_0
+5,4HBP@GO/MnF/BCy,100.0,4.0,"['(4)HBP@GO', 'MnF', 'BCy']",j.matchemphys.2019.05.090_2_0

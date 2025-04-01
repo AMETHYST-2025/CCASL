@@ -1,0 +1,5 @@
+,Samples,T5% (°C),Tmax (°C),Residue (%),Vectors,Ref
+0,EP,348.0,375.0,10.7,['EP'],j.polymdegradstab.2017.05.026_8_0
+1,EP/MFAPP/PER,300.0,351.0,16.6,"['EP', 'MFAPP', 'PER']",j.polymdegradstab.2017.05.026_8_0
+2,EP/MFAPP/RCC,293.0,346.0,12.1,"['EP', 'MFAPP', 'RCC']",j.polymdegradstab.2017.05.026_8_0
+3,EP/MFAPP/ORCC15.6,290.0,348.0,19.2,"['EP', 'MFAPP', 'ORCC(15.6)']",j.polymdegradstab.2017.05.026_8_0

@@ -1,0 +1,5 @@
+,Samples,T5%( C),Tmax (°C),RTmax (%/°C),acto (%),Vectors,Ref
+0,EP,384.0,416.0,1.9,10.2,['EP'],j.polymdegradstab.2020.109195_3_1
+1,2%DPHK-EP,384.0,411.0,1.7,18.6,"['(0.02)DPHK', 'EP']",j.polymdegradstab.2020.109195_3_1
+2,3%DPHK-EP,380.0,409.0,1.5,19.7,"['(0.03)DPHK', 'EP']",j.polymdegradstab.2020.109195_3_1
+3,4%DPHK-EP,378.0,405.0,1.4,21.8,"['(0.04)DPHK', 'EP']",j.polymdegradstab.2020.109195_3_1

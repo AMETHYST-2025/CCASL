@@ -1,0 +1,6 @@
+,Samples,Components EP (%),by weight MAP (%),by weight P (%),by weight N (%),Vectors,Ref
+0,EP,100.0,0.0,0.0,0.0,['EP'],j.compositesb.2021.109269_3_0
+1,EP-MAP-1%,99.0,1.0,0.15,0.41,"['EP', 'MAP(0.01)']",j.compositesb.2021.109269_3_0
+2,EP-MAP-2%,98.0,2.0,0.3,0.82,"['EP', 'MAP(0.02)']",j.compositesb.2021.109269_3_0
+3,EP-MAP-3%,97.0,3.0,0.45,1.23,"['EP', 'MAP(0.03)']",j.compositesb.2021.109269_3_0
+4,EP-MAP-4%,96.0,4.0,0.6,1.64,"['EP', 'MAP(0.04)']",j.compositesb.2021.109269_3_0

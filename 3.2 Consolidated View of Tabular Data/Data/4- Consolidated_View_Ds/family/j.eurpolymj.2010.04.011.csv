@@ -1,0 +1,6 @@
+,Samples,Tonset (°C),Unnamed: 3,Ti° (°C),ΔH (J/g),Curing temperature (°C),Curing time (h),Post cure temperature (C),Post cure time (h),T °C),T(°C) a,T5 (°C),Char c (%),Activation energy (kJ/mol),Vectors,Ref
+0,PSER,,,,,,,,,,,,,71.01,['PSER'],j.eurpolymj.2010.04.011
+1,PSER/2E4MZ,125.6,136.4,172.7,204.0,120.0,3.0,150.0,4.0,120.7,296.4,302.9,21.5,65.1,"['PSER', '2E4MZ']",j.eurpolymj.2010.04.011
+2,PSER/m-PDA,75.9,134.7,238.3,153.0,120.0,3.0,150.0,4.0,179.4,289.0,276.0,27.0,36.4,"['PSER', 'm-PDA']",j.eurpolymj.2010.04.011
+3,TGCS/2E4MZ,106.6,165.1,277.2,408.0,150.0,3.0,180.0,4.0,102.9,395.0,377.0,24.6,83.3,"['TGCS', '2E4MZ']",j.eurpolymj.2010.04.011
+4,TGCS/m-PDA,130.0,169.1,254.3,354.0,150.0,3.0,180.0,4.0,160.5,413.2,395.1,29.7,60.2,"['TGCS', 'm-PDA']",j.eurpolymj.2010.04.011

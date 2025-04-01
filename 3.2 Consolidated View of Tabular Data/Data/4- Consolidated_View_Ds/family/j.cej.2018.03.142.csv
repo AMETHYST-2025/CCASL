@@ -1,0 +1,7 @@
+,Samples,C (wt%),N (wt%),P (wt%),O (wt%),Tensile strength (MPa),Flexural strength (MPa),Impact strength (KJ/m²),Impact strength (KJ/m²)_err,TTI (s),Peak HRR (kW/m²),Time PHRR (s),FGR (kW/m²s),THR (MJ/m²),PSPR (m²/s),TSP (m²),Residue (%),Vectors,Ref
+0,DPPEI(20)-EP,,,,,48.4,70.3,6.1,0.2,,,,,,,,,"['DPPEI(20)', 'EP']",j.cej.2018.03.142
+1,DPPEI(25)-EP,,,,,51.4,82.3,6.9,0.3,,,,,,,,,"['DPPEI(25)', 'EP']",j.cej.2018.03.142
+2,DPPEI(30)-EP,,,,,51.5,88.9,7.4,0.5,,,,,,,,,"['DPPEI(30)', 'EP']",j.cej.2018.03.142
+3,DPPEI(35)-EP,,,,,53.4,84.6,7.0,0.7,,,,,,,,,"['DPPEI(35)', 'EP']",j.cej.2018.03.142
+4,DPPEI-EP,60.7,17.7,4.3,17.3,,,,,47.0,645.0,77.0,8.4,30.0,0.565,31.6,15.0,"['DPPEI', 'EP']",j.cej.2018.03.142
+5,PEI-EP,74.0,10.4,0.0,15.6,52.6,89.8,7.5,0.4,58.0,1770.0,115.0,15.4,98.5,1.253,145.3,3.2,"['PEI', 'EP']",j.cej.2018.03.142

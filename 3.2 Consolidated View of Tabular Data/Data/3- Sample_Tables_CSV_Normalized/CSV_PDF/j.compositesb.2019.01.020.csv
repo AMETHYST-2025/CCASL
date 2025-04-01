@@ -1,0 +1,10 @@
+,Samples,Flexural modulus (MPa),Flexural stress max (MPa),Flexural modulus (MPa)_err,Flexural stress max (MPa)_err,Tonset (°C),Tpeak (°C),Tend (°C),ΔH (J/g),Vectors,Ref
+0,Epoxy-DDM-1,3019.0,68.0,83.0,1.6,,,,,"['EP', 'DDM(1)']",j.compositesb.2019.01.020
+1,Epoxy-DDM-2,2863.0,66.0,276.0,4.05,,,,,"['EP', 'DDM(2)']",j.compositesb.2019.01.020
+2,Epoxy-DDM-3,3270.0,74.0,76.0,1.58,,,,,"['EP', 'DDM(3)']",j.compositesb.2019.01.020
+3,Epoxy/0.05-GO,,,,,114.5,144.9,174.6,338.4,"['EP', '0.05-GO']",j.compositesb.2019.01.020
+4,Epoxy/0.10-GO,,,,,114.7,144.3,175.9,346.8,"['EP', '0.10-GO']",j.compositesb.2019.01.020
+5,Epoxy/0.20-GO,,,,,108.4,140.3,172.5,341.3,"['EP', '0.20-GO']",j.compositesb.2019.01.020
+6,Epoxy/0.40-GO,,,,,96.9,136.9,178.3,258.2,"['EP', '0.40-GO']",j.compositesb.2019.01.020
+7,Epoxy/0.60-GO,,,,,94.7,136.0,185.6,205.9,"['EP', '0.60-GO']",j.compositesb.2019.01.020
+8,Neat epoxy,,,,,115.6,145.3,174.6,348.9,['EP'],j.compositesb.2019.01.020

@@ -1,0 +1,7 @@
+,Samples,PHRR (kW/m²),PMLR g/m2 2 S,EHC (MJ/kg),Vectors,Ref
+0,Pure ER,1795.98,62.9,23.67,['ER'],j.compositesb.2018.03.049_5_0
+1,0.1 wt% M15 GNP/ER,1572.18,55.1,23.09,"['(0.001)M15GNP', 'ER']",j.compositesb.2018.03.049_5_0
+2,1.0 wt% M5 GNP/ER,1545.11,52.6,22.78,"['(0.01)M5GNP', 'ER']",j.compositesb.2018.03.049_5_0
+3,1.0 wt% M15 GNP/ER,1456.13,52.5,23.08,"['(0.01)M15GNP', 'ER']",j.compositesb.2018.03.049_5_0
+4,1.0 wt% M25 GNP/ER,1474.61,51.4,23.29,"['(0.01)M25GNP', 'ER']",j.compositesb.2018.03.049_5_0
+5,3.0 wt% M15 GNP/ER,958.48,37.6,22.82,"['(0.03)M15GNP', 'ER']",j.compositesb.2018.03.049_5_0

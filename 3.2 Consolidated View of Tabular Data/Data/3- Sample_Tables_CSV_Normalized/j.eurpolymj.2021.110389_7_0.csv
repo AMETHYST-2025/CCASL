@@ -1,0 +1,9 @@
+,Samples,5% (C),Vectors,Ref
+0,OSL,145.0,['OSL'],j.eurpolymj.2021.110389_7_0
+1,L-COOH,177.0,"['L', 'COOH']",j.eurpolymj.2021.110389_7_0
+2,Neat epoxy,312.0,['EP'],j.eurpolymj.2021.110389_7_0
+3,Lep5,320.0,['Lep(5)'],j.eurpolymj.2021.110389_7_0
+4,Lep10,310.0,['Lep(10)'],j.eurpolymj.2021.110389_7_0
+5,Lep15,316.0,['Lep(15)'],j.eurpolymj.2021.110389_7_0
+6,Lep20,298.0,['Lep(20)'],j.eurpolymj.2021.110389_7_0
+7,Lep10-control,270.0,"['Lep(10)', 'control']",j.eurpolymj.2021.110389_7_0

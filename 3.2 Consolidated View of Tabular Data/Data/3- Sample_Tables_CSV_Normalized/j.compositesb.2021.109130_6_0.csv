@@ -1,0 +1,5 @@
+,Samples,Nitrogen T% (°C),atmosphere Tmax (°C),atmosphere MLRmax (wt%/°C),atmosphere Res a (wt%),Air atmosphere T% (°C),Air atmosphere Tmax1/Tmax2 (C),Air atmosphere MLRmax (wt%/°C),Air atmosphere Re,Vectors,Ref
+0,at ABS,399.0,442.0,2.0,1.0,362.0,412.0,2.1,0.1,['atABS'],j.compositesb.2021.109130_6_0
+1,S/BODIPY-MXene0.5,384.0,438.0,1.9,1.9,343.0,412.0,1.9,0.7,"['S', 'BODIPY-MXene(0.5)']",j.compositesb.2021.109130_6_0
+2,S/BODIPY-MXene2.0,379.0,434.0,1.7,4.7,286.0,413.0,1.6,1.9,"['S', 'BODIPY-MXene(2.0)']",j.compositesb.2021.109130_6_0
+3,/BODIPY2.0,383.0,434.0,1.8,1.2,339.0,416.0,1.6,1.1,"['', 'BODIPY(2.0)']",j.compositesb.2021.109130_6_0

@@ -1,0 +1,17 @@
+,Samples,Tg (°C) DSC,Tg DMA (°C),Mc (g/mol),Activation energy (kJ/mol),Strength (MPa),Strength (MPa)_err,M (g/mol),Mw (g/mol),PDI,Epoxy content (wt%),DGEBA (g),DOL-epoxy resin (g),DKL-epoxy resin (g),DDM (g),Vectors,Ref
+0,100%DKL-DDM,,,,42.4,,,,,,,0.0,0.0,100.0,6.5,"['(1.0)DKL', 'DDM']",j.eurpolymj.2016.07.014
+1,100%DOL-DDM,,,,52.4,3.9,0.4,,,,,0.0,100.0,0.0,9.2,"['(1.0)DOL', 'DDM']",j.eurpolymj.2016.07.014
+2,25% DKL-DDM,,,,45.1,,,,,,,75.0,0.0,25.0,14.2,"['(0.25)DKL', 'DDM']",j.eurpolymj.2016.07.014
+3,25% DOL-DDM,,,,48.3,,,,,,,75.0,25.0,0.0,14.9,"['(0.25)DOL', 'DDM']",j.eurpolymj.2016.07.014
+4,25%DOL-DDM,,,,,6.3,0.1,,,,,,,,,"['(0.25)DOL', 'DDM']",j.eurpolymj.2016.07.014
+5,50% DKL-DDM,,,,50.8,,,,,,,50.0,0.0,50.0,11.7,"['(0.5)DKL', 'DDM']",j.eurpolymj.2016.07.014
+6,50% DOL-DDM,,,,51.9,,,,,,,50.0,50.0,0.0,13.0,"['(0.5)DOL', 'DDM']",j.eurpolymj.2016.07.014
+7,50%DKL-DDM,101.0,100.0,57.9,,,,,,,,,,,,"['(0.5)DKL', 'DDM']",j.eurpolymj.2016.07.014
+8,50%DOL-DDM,85.0,83.0,46.1,,7.7,0.3,,,,,,,,,"['(0.5)DOL', 'DDM']",j.eurpolymj.2016.07.014
+9,75% DKL-DDM,,,,55.5,,,,,,,25.0,0.0,75.0,9.1,"['(0.75)DKL', 'DDM']",j.eurpolymj.2016.07.014
+10,75% DOL-DDM,,,,50.8,,,,,,,25.0,75.0,0.0,11.1,"['(0.75)DOL', 'DDM']",j.eurpolymj.2016.07.014
+11,75%DOL-DDM,,,,,4.7,0.1,,,,,,,,,"['(0.75)DOL', 'DDM']",j.eurpolymj.2016.07.014
+12,DGEBA,129.0,117.0,47.2,,,,550.0,822.0,1.5,14.6,,,,,['DGEBA'],j.eurpolymj.2016.07.014
+13,DGEBA-DDM,,,,48.4,6.1,0.2,,,,,100.0,0.0,0.0,16.8,"['DGEBA', 'DDM']",j.eurpolymj.2016.07.014
+14,DKL-epoxy resin,,,,,,,790.0,2800.0,3.5,5.6,,,,,"['DKL', 'EPresin']",j.eurpolymj.2016.07.014
+15,DOL-epoxy resin,,,,,,,500.0,1400.0,2.8,8.0,,,,,"['DOL', 'EPresin']",j.eurpolymj.2016.07.014

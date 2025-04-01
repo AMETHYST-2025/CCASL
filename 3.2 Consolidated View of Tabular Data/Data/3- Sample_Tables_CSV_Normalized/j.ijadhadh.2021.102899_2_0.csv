@@ -1,0 +1,17 @@
+,Samples,Resin,Fillers,Value of fillers [% mass],Treatment of the substrate,Vectors,Ref
+0,D_PUR,polyurethane,-,-,degreasing,"['D', 'PUR']",j.ijadhadh.2021.102899_2_0
+1,A_PUR,polyurethane,-,-,abrasive blasting,"['A', 'PUR']",j.ijadhadh.2021.102899_2_0
+2,D_EP,epoxy,-,-,degreasing,"['D', 'EP']",j.ijadhadh.2021.102899_2_0
+3,A_EP,epoxy,-,-,abrasive blasting,"['A', 'EP']",j.ijadhadh.2021.102899_2_0
+4,D_PUR_iron_30%,polyurethane,carbonyl iron,30.0,degreasing,"['D', 'PUR', 'iron', '(0.3)']",j.ijadhadh.2021.102899_2_0
+5,D_PUR_ferrite_30%,polyurethane,ferrites,30.0,degreasing,"['D', 'PUR', 'ferrite', '(0.3)']",j.ijadhadh.2021.102899_2_0
+6,D_PUR_graphite_20%,polyurethane,flake graphite,20.0,degreasing,"['D', 'PUR', 'graphite', '(0.2)']",j.ijadhadh.2021.102899_2_0
+7,A_PUR_iron_30%,polyurethane,carbonyl iron,30.0,abrasive blasting,"['A', 'PUR', 'iron', '(0.3)']",j.ijadhadh.2021.102899_2_0
+8,A PUR ferrite_30%,polyurethane,ferrites,30.0,abrasive blasting,"['APURferrite', '(0.3)']",j.ijadhadh.2021.102899_2_0
+9,A_PUR_graphite_20%,polyurethane,flake graphite,20.0,abrasive blasting,"['A', 'PUR', 'graphite', '(0.2)']",j.ijadhadh.2021.102899_2_0
+10,D_EP_iron_30%,epoxy,carbonyl iron,30.0,degreasing,"['D', 'EP', 'iron', '(0.3)']",j.ijadhadh.2021.102899_2_0
+11,D_EP_ferrite_30%,epoxy,ferrites,30.0,degreasing,"['D', 'EP', 'ferrite', '(0.3)']",j.ijadhadh.2021.102899_2_0
+12,D_EPgraphite_20%,epoxy,flake graphite,20.0,degreasing,"['D', 'EPgraphite', '(0.2)']",j.ijadhadh.2021.102899_2_0
+13,A_EP_iron_30%,epoxy,carbonyl iron,30.0,abrasive blasting,"['A', 'EP', 'iron', '(0.3)']",j.ijadhadh.2021.102899_2_0
+14,AEP_ferrite_30%,epoxy,ferrites,30.0,abrasive blasting,"['AEP', 'ferrite', '(0.3)']",j.ijadhadh.2021.102899_2_0
+15,A_EP_graphite_20%,epoxy,flake graphite,20.0,abrasive blasting,"['A', 'EP', 'graphite', '(0.2)']",j.ijadhadh.2021.102899_2_0

@@ -1,0 +1,15 @@
+,Samples,Curing process,Phase morphology,Calculated strand density (mol/g),Weighted strand density (mol/g),Vectors,Ref
+0,NEGDMA,,1 phase,0.00563,0.00563,['NEGDMA'],j.eurpolymj.2008.03.001_15_0
+1,DGEBA/HHMPA,,1 phase,0.00163,0.00163,"['DGEBA', 'HHMPA']",j.eurpolymj.2008.03.001_15_0
+2,25:75 IPN,UV,1 phase,0.00022,0.00141,['25:75IPN'],j.eurpolymj.2008.03.001_15_0
+3,25:75 IPN,Iso,1 major and 1 minor phase,0.00057,0.00122,['25:75IPN'],j.eurpolymj.2008.03.001_15_0
+4,25:75 IPN,UV + iso,Partially phase separated,0.00109,0.00263,['25:75IPN'],j.eurpolymj.2008.03.001_15_0
+5,25:75 IPN,Iso + UV,1 major and 1 minor phase,0.00141,0.00263,['25:75IPN'],j.eurpolymj.2008.03.001_15_0
+6,50:50 IPN,UV,1 phase,0.00165,0.00282,['50:50IPN'],j.eurpolymj.2008.03.001_15_0
+7,50:50 IPN,Iso,2 phase,0.00015,0.00082,['50:50IPN'],j.eurpolymj.2008.03.001_15_0
+8,50:50 IPN,UV + iso,Multiphase,0.00202,0.00363,['50:50IPN'],j.eurpolymj.2008.03.001_15_0
+9,50:50 IPN,Iso + UV,2 phase,0.00135,0.00363,['50:50IPN'],j.eurpolymj.2008.03.001_15_0
+10,75:25 IPN,UV,1 phase,0.00307,0.00422,['75:25IPN'],j.eurpolymj.2008.03.001_15_0
+11,75:25 IPN,Iso,2 phase,4e-05,0.00041,['75:25IPN'],j.eurpolymj.2008.03.001_15_0
+12,75:25 IPN,UV + iso,Mainly 1 phase,0.00552,0.00463,['75:25IPN'],j.eurpolymj.2008.03.001_15_0
+13,75:25 IPN,Iso + UV,2 phase,0.00455,0.00463,['75:25IPN'],j.eurpolymj.2008.03.001_15_0

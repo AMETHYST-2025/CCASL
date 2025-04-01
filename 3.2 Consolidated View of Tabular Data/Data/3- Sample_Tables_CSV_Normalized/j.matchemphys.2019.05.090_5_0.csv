@@ -1,0 +1,6 @@
+,Samples,Tm (°C),T (°C),"Tp,1 (°C)","Tp Tp,2 (°C)",Tf (°C),Vectors,Ref
+0,BCy,83.0,268.0,313.0,,343.0,['BCy'],j.matchemphys.2019.05.090_5_0
+1,0.5HBP@GO/MnF/BCy,83.0,204.0,208.0,278.0,320.0,"['(0.5)HBP@GO', 'MnF', 'BCy']",j.matchemphys.2019.05.090_5_0
+2,1HBP@GO/MnF/BCy,83.0,197.0,212.0,249.0,303.0,"['(1)HBP@GO', 'MnF', 'BCy']",j.matchemphys.2019.05.090_5_0
+3,2HBP@GO/MnF/BCy,85.0,182.0,208.0,246.0,313.0,"['(2)HBP@GO', 'MnF', 'BCy']",j.matchemphys.2019.05.090_5_0
+4,4HBP@GO/MnF/BCy,84.0,177.0,216.0,,296.0,"['(4)HBP@GO', 'MnF', 'BCy']",j.matchemphys.2019.05.090_5_0

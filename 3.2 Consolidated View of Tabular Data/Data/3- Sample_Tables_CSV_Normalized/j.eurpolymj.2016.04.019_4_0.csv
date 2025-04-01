@@ -1,0 +1,5 @@
+,,Samples,resin-epoxide Mixing ratio,resin-epoxide Number of atoms,Vectors,Ref
+0,1.0,DGEBA/DEGBA8/33DDS,16.0,4225.0,"['DGEBA', 'DEGBA(8)', '33DDS']",j.eurpolymj.2016.04.019_4_0
+1,2.0,IDGEBA/DEGBA8/44DDS,16.0,4225.0,"['IDGEBA', 'DEGBA(8)', '44DDS']",j.eurpolymj.2016.04.019_4_0
+2,3.0,TGDDM/33DDS,1.0,4860.0,"['TGDDM', '33DDS']",j.eurpolymj.2016.04.019_4_0
+3,4.0,TGDDM/44DDS,1.0,4860.0,"['TGDDM', '44DDS']",j.eurpolymj.2016.04.019_4_0

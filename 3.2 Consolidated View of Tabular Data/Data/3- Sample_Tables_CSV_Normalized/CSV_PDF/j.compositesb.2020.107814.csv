@@ -1,0 +1,4 @@
+,Samples,Jeffamine Molecule,Unnamed: 3,Epon Molecule,Number of Epon Molecules,Number of Jeffamine R Molecules,Total atoms,Vectors,Ref
+0,Epon/J230,Jeffamine D-230 (n 225.7 g/mol),2.6,"Epon 825 (n 0.13, MW 378.8 g/mol)",1740 molecules with n 0 260 molecules with n 1,400 molecules with n 2 600 molecules with n 3,158180.0,"['Epon', 'J230']",j.compositesb.2020.107814
+1,Epon/J400,Jeffamine D-400 (n 429.5 g/mol),6.1,,1392 molecules with n 0 208 molecules with n 1,720 molecules with n 6 80 molecules with n 7,154544.0,"['Epon', 'J400']",j.compositesb.2020.107814
+2,Epon/J600,Jeffamine D-600 (n 598.4 g/mol),9.0,,1218 molecules with n 0 182 molecules with n 1,700 molecules with n 9,155526.0,"['Epon', 'J600']",j.compositesb.2020.107814

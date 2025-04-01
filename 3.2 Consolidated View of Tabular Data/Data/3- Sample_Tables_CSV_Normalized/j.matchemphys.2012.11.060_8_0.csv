@@ -1,0 +1,3 @@
+,Samples,ΔH (kJ/mol),a Relaxation ASt JK mol-¹,a Relaxation Tloss °C,B Relaxation kJ mol 1,B Relaxation AS+JK-1 mol-¹,B Relaxation Tloss °C,Vectors,Ref
+0,DGEBA/1.0GPPI,709.0,1630.0,141.3,69.8,222.0,43.2,"['DGEBA', '(1.0)GPPI']",j.matchemphys.2012.11.060_8_0
+1,DGEBA/PAN4,306.0,902.0,38.4,63.3,223.0,65.4,"['DGEBA', 'PAN(4)']",j.matchemphys.2012.11.060_8_0

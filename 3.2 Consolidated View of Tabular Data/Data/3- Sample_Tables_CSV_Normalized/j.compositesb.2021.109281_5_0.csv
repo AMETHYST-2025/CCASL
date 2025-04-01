@@ -1,0 +1,5 @@
+,Samples,"Dry conditions 1 Tg, onset (°C)","Dry conditions ~T, tano (°C)","Wet conditions -Tg, onset (°C)","Wet conditions ~Tg, tan8 (C)",Vectors,Ref
+0,Neat epoxy,105.5,125.6,71.5,92.2,['EP'],j.compositesb.2021.109281_5_0
+1,50C CF/Epoxy,105.8,123.8,77.1,94.2,"['(50)CCF', 'EP']",j.compositesb.2021.109281_5_0
+2,FOE CF/Epoxy,109.5,125.2,76.0,92.7,"['FOECF', 'EP']",j.compositesb.2021.109281_5_0
+3,60E CF/Epoxy,104.6,122.1,79.4,95.1,"['(60)ECF', 'EP']",j.compositesb.2021.109281_5_0

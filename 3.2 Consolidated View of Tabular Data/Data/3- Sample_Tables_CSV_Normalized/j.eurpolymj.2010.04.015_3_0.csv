@@ -1,0 +1,10 @@
+,Samples,DGEBA Xeq,DGEBA (wt%),MTHPA Xeq,MTHPA (wt%),BDMA Xeq,BDMA wt%,OH from Xeq,HBP (wt%),Vectors,Ref
+0,DGEBA/MTHPA,1.0,50.0,1.0,50.0,0.0065,0.5,-,-,"['DGEBA', 'MTHPA']",j.eurpolymj.2010.04.015_3_0
+1,,H1500,,,,,,,,[''],j.eurpolymj.2010.04.015_3_0
+2,DGEBA/MTHPA/5%,0.95,48.5,1.05,46.5,0.0061,0.5,0.1,5.0,"['DGEBA', 'MTHPA', '(0.05)']",j.eurpolymj.2010.04.015_3_0
+3,DGEBA/MTHPA/10%,0.9,44.8,1.11,45.2,0.0061,0.5,0.21,10.0,"['DGEBA', 'MTHPA', '(0.1)']",j.eurpolymj.2010.04.015_3_0
+4,DGEBA/MTHPA/15%,0.85,40.8,1.18,44.0,0.0061,0.5,0.33,15.0,"['DGEBA', 'MTHPA', '(0.15)']",j.eurpolymj.2010.04.015_3_0
+5,DGEBA/MTHPA/20%,0.8,37.2,1.24,42.8,0.0061,0.5,0.44,20.0,"['DGEBA', 'MTHPA', '(0.2)']",j.eurpolymj.2010.04.015_3_0
+6,,H30000,,,,,,,,[''],j.eurpolymj.2010.04.015_3_0
+7,DGEBA/MTHPA/5%,0.88,46.7,1.13,48.3,0.0062,0.5,0.23,5.0,"['DGEBA', 'MTHPA', '(0.05)']",j.eurpolymj.2010.04.015_3_0
+8,DGEBA/MTHPA/10%,0.77,41.2,1.3,48.8,0.0061,0.5,0.47,10.0,"['DGEBA', 'MTHPA', '(0.1)']",j.eurpolymj.2010.04.015_3_0

@@ -1,0 +1,14 @@
+,Samples,PT-30,DGEBA,DOPO,AR917,DY070,Vectors,Ref
+0,Reference samples,,,,,,['Referencesamples'],j.polymdegradstab.2016.02.015_3_0
+1,PT-30,100.0,-,-,-,-,['PT-30'],j.polymdegradstab.2016.02.015_3_0
+2,DGEBA,-,52.3,-,47.1,0.6,['DGEBA'],j.polymdegradstab.2016.02.015_3_0
+3,20% PT-30 - 80% DGEBA,20.0,80.0,-,-,-,"['(0.2)PT-30', '(0.8)DGEBA']",j.polymdegradstab.2016.02.015_3_0
+4,40% PT-30 - 60% DGEBA,40.0,60.0,-,-,-,"['(0.4)PT-30', '(0.6)DGEBA']",j.polymdegradstab.2016.02.015_3_0
+5,Flame retarded samples,,,,,,['Flameretardedsamples'],j.polymdegradstab.2016.02.015_3_0
+6,DGEBA - DOPO 2% P,-,56.61,13.94,29.12,0.32,"['DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_3_0
+7,20% PT-30 - DGEBA - DOPO 2% P,20.0,66.06,13.94,-,-,"['(0.2)PT-30', 'DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_3_0
+8,30% PT-30 - DGEBA - DOPO 2% P,29.8,56.26,13.94,-,-,"['(0.3)PT-30', 'DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_3_0
+9,40% PT-30 - DGEBA - DOPO 2% P,40.0,46.06,13.94,-,-,"['(0.4)PT-30', 'DGEBA', 'DOPO(0.02)P']",j.polymdegradstab.2016.02.015_3_0
+10,20% PT-30 - DGEBA - DOPO 3% P,20.0,59.1,20.9,-,-,"['(0.2)PT-30', 'DGEBA', 'DOPO(0.03)P']",j.polymdegradstab.2016.02.015_3_0
+11,25% PT-30 - DGEBA - DOPO 3% P,24.55,54.56,20.9,-,-,"['(0.25)PT-30', 'DGEBA', 'DOPO(0.03)P']",j.polymdegradstab.2016.02.015_3_0
+12,40% PT-30 - DGEBA - DOPO 3% P,40.0,39.1,20.9,-,-,"['(0.4)PT-30', 'DGEBA', 'DOPO(0.03)P']",j.polymdegradstab.2016.02.015_3_0

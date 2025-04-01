@@ -1,0 +1,5 @@
+,Samples,Td5%,TGA (°C) Td10%,TGA (°C) Tdmax,TGA (°C) Tg (°C),Storage modulus (MPa),Contact Angle Degree,Vectors,Contact Angle Degree_err,Ref
+0,BPF-EP / BZMI,385.0,416.0,450.0,115.0,1600.0,75.16,"['BPF-EP', 'BZMI']",0.32,j.polymdegradstab.2018.12.007_15_0
+1,BPF-EP / VBZMI,404.0,421.0,438.0,140.0,3250.0,90.04,"['BPF-EP', 'VBZMI']",0.24,j.polymdegradstab.2018.12.007_15_0
+2,BEF-EP / BZMI,372.0,400.0,430.0,77.0,1080.0,79.53,"['BEF-EP', 'BZMI']",0.41,j.polymdegradstab.2018.12.007_15_0
+3,BEF-EP / VBZMI,395.0,409.0,439.0,98.0,1730.0,94.07,"['BEF-EP', 'VBZMI']",0.36,j.polymdegradstab.2018.12.007_15_0

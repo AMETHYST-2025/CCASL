@@ -1,0 +1,9 @@
+,Samples,CNT Load (wt%),Modification with magnetite,Application of magnetic field,Vectors,Ref
+0,0.1-CNT,0.1,No,No,['(0.1)CNT'],j.compositesb.2012.10.002_3_0
+1,0.1-CNT-CM,,No,Yes,"['(0.1)CNT', 'CM']",j.compositesb.2012.10.002_3_0
+2,0.1-FeO-CNT,,Yes,No,"['(0.1)FeO', 'CNT']",j.compositesb.2012.10.002_3_0
+3,0.1-FeO-CNT-CM,,Yes,Yes,"['(0.1)FeO', 'CNT', 'CM']",j.compositesb.2012.10.002_3_0
+4,0.25-CNT,0.25,No,No,['(0.25)CNT'],j.compositesb.2012.10.002_3_0
+5,0.25-CNT-CM,,No,Yes,"['(0.25)CNT', 'CM']",j.compositesb.2012.10.002_3_0
+6,0.25-FeO-CNT,,Yes,No,"['(0.25)FeO', 'CNT']",j.compositesb.2012.10.002_3_0
+7,0.25-FeO-CNT-CM,,Yes,Yes,"['(0.25)FeO', 'CNT', 'CM']",j.compositesb.2012.10.002_3_0

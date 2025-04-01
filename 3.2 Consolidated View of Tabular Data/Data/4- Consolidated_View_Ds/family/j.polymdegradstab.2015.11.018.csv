@@ -1,0 +1,5 @@
+,Samples,Tinitial (°C),R1peak/T1peak (%/min) (°C),R2peak/T2peak (% min-1/°C),Char residue (700 °C) (wt%),TTI (s),PHRR-1 (kW/m²),Time PHRR-1 (s),Peak2-HRR (kW m-2),Time PHRR-2 (s),THR (MJ/m²),Peak1-SPR (m ² s-1,Time PSPR-1 (s),Peak2-SPR (m ² superscript(2),Time PSPR-2 (s),TSP (m²),EHC (MJ/kg),Vectors,Ref
+0,CTP-DOPO,314.6,1.65,5.23,42.8,,,,,,,,,,,,,['CTP-DOPO'],j.polymdegradstab.2015.11.018
+1,DGEBA,380.7,20.46,-,14.1,63.0,619.9,147.8,-,-,77.6,0.31,132.3,-,-,38.44,21.16,['DGEBA'],j.polymdegradstab.2015.11.018
+2,DGEBA/10.6 wt% CTP-DOPO,,,,,52.0,282.6,69.6,349.9,139.1,51.7,0.21,64.7,0.19,129.2,20.77,18.95,"['DGEBA', '(0.106)CTP-DOPO']",j.polymdegradstab.2015.11.018
+3,DGEBA/CTP-DOPO,345.3,10.09,-,29.2,,,,,,,,,,,,,"['DGEBA', 'CTP-DOPO']",j.polymdegradstab.2015.11.018

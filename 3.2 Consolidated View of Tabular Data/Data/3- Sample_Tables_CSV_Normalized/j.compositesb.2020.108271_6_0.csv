@@ -1,0 +1,11 @@
+,Samples,T5% (°C),Tmax (°C),Char yield/% (700 °C),Vectors,Ref
+0,EP,348.8,388.7,17.62,['EP'],j.compositesb.2020.108271_6_0
+1,GO/EP,332.3,376.1,19.73,"['GO', 'EP']",j.compositesb.2020.108271_6_0
+2,CePhP/EP,337.8,379.7,23.46,"['CePhP', 'EP']",j.compositesb.2020.108271_6_0
+3,CePhP-PGO/EP,333.8,378.4,25.97,"['CePhP-PGO', 'EP']",j.compositesb.2020.108271_6_0
+4,AlPhP/EP,333.2,386.9,22.83,"['AlPhP', 'EP']",j.compositesb.2020.108271_6_0
+5,AlPhP-PGO/EP,333.9,386.4,25.74,"['AlPhP-PGO', 'EP']",j.compositesb.2020.108271_6_0
+6,CoPhP/EP,341.5,380.3,22.49,"['CoPhP', 'EP']",j.compositesb.2020.108271_6_0
+7,CoPhP-PGO/EP,335.2,377.4,23.03,"['CoPhP-PGO', 'EP']",j.compositesb.2020.108271_6_0
+8,ZnPhP/EP,343.0,381.1,22.26,"['ZnPhP', 'EP']",j.compositesb.2020.108271_6_0
+9,ZnPhP-PGO/EP,341.6,380.6,22.13,"['ZnPhP-PGO', 'EP']",j.compositesb.2020.108271_6_0

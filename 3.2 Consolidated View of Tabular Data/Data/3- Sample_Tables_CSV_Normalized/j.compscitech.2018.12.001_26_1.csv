@@ -1,0 +1,6 @@
+,Samples,Element C,content o (%),content N (%),content Cl (%),content Si (%),content N/C (%),content Si/C (%),Vectors,Ref
+0,Untreated CF,95.45,3.46,1.09,0.0,0.0,0.01,0.0,['UntreatedCF'],j.compscitech.2018.12.001_26_1
+1,CF-G-NH2,93.64,2.15,4.21,0.0,0.0,0.04,0.0,"['CF', 'G', 'NH(2)']",j.compscitech.2018.12.001_26_1
+2,CF-Gj-POSS-NH2,70.01,13.96,9.76,0.28,5.99,0.14,0.09,"['CF', 'Gj', 'POSS', 'NH(2)']",j.compscitech.2018.12.001_26_1
+3,CF-G2-POSS-NH2,60.93,15.31,15.09,0.19,8.48,0.28,0.14,"['CF', 'G(2)', 'POSS', 'NH(2)']",j.compscitech.2018.12.001_26_1
+4,CF-G3-POSS-NH2,51.29,16.25,21.39,0.2,10.87,0.42,0.22,"['CF', 'G(3)', 'POSS', 'NH(2)']",j.compscitech.2018.12.001_26_1

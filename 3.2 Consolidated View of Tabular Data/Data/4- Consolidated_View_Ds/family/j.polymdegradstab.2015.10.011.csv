@@ -1,0 +1,6 @@
+,Samples,Element C,content (wt%) N,content (wt%) o,content (wt%) Al,content (wt%) P,"Td,5% (°C)",Tmax (°C),Residuals at 700 °C (wt%),TTI (s),THR (MJ/m²),PHRR (kW/m²),EHC (MJ/kg),COY (kg/kg),Residue (wt%),TML (wt%),CO₂Y (kg/kg),Vectors,Ref
+0,2%APHP/EP,74.85,9.37,13.78,0.58,1.42,362.0,376.0,18.1,54.0,98.0,742.0,22.4,0.12,13.3,86.7,1.74,"['(0.02)APHP', 'EP']",j.polymdegradstab.2015.10.011
+1,4%APHP/EP,41.66,4.34,41.01,5.06,8.12,361.0,375.0,22.9,58.0,95.0,540.0,22.0,0.12,16.5,83.5,1.75,"['(0.04)APHP', 'EP']",j.polymdegradstab.2015.10.011
+2,6%APHP/EP,39.99,3.8,40.58,5.08,10.55,362.0,377.0,24.2,55.0,93.0,603.0,21.4,0.14,15.0,85.0,1.76,"['(0.06)APHP', 'EP']",j.polymdegradstab.2015.10.011
+3,APHP,,,,,,416.0,486.0,45.8,,,,,,,,,['APHP'],j.polymdegradstab.2015.10.011
+4,EP,82.78,4.34,12.88,0.0,0.0,361.0,376.0,14.1,56.0,144.0,1420.0,29.9,0.13,6.0,94.0,2.51,['EP'],j.polymdegradstab.2015.10.011

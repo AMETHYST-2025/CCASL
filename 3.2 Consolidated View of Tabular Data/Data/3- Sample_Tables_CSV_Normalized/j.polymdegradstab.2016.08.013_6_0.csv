@@ -1,0 +1,11 @@
+,,Samples,Tonset (°C),Tmax1 (°C),Tmax2 (°C),amax1 (%/°C),a-max2 (%/°C),Residue at 500 °C (wt%),Residue at 700 °C (wt%) Test values,Residue at 700 °C (wt%) Calculated values,Vectors,Ref
+0,N2,BPA-BPP,276.2,305.9,/,0.189,,66.1,58.9,,['BPA-BPP'],j.polymdegradstab.2016.08.013_6_0
+1,,EP,386.1,400.8,/,2.23,,21.7,16.4,,['EP'],j.polymdegradstab.2016.08.013_6_0
+2,,EP/3%BPA-BPP,331.7,371.3,/,1.296,,27.6,23.7,17.7,"['EP', '(0.03)BPA-BPP']",j.polymdegradstab.2016.08.013_6_0
+3,,EP/6%BPA-BPP,330.5,365.9,/,1.301,,28.0,24.7,19.0,"['EP', '(0.06)BPA-BPP']",j.polymdegradstab.2016.08.013_6_0
+4,,EP/9%BPA-BPP,328.9,360.3,,1.25,,30.1,26.3,20.2,"['EP', '(0.09)BPA-BPP']",j.polymdegradstab.2016.08.013_6_0
+5,Air,BPA-BPP,284.7,345.3,393.7,0.201,0.161,66.4,56.1,/,['BPA-BPP'],j.polymdegradstab.2016.08.013_6_0
+6,,EP,380.7,390.6,573.8,2.01,0.476,44.0,0.8,/,['EP'],j.polymdegradstab.2016.08.013_6_0
+7,,EP/3%BPA-BPP,337.0,359.1,577.6,1.271,0.297,34.6,4.4,2.5,"['EP', '(0.03)BPA-BPP']",j.polymdegradstab.2016.08.013_6_0
+8,,EP/6%BPA-BPP,326.2,355.8,577.3,1.34,0.264,34.9,7.6,4.1,"['EP', '(0.06)BPA-BPP']",j.polymdegradstab.2016.08.013_6_0
+9,,EP/9%BPA-BPP,324.1,354.0,576.4,1.498,0.248,33.0,8.7,5.8,"['EP', '(0.09)BPA-BPP']",j.polymdegradstab.2016.08.013_6_0

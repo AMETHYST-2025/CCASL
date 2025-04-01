@@ -1,0 +1,16 @@
+,Samples,TTI (s),FO(s),PHRR (kW/m²),THR (MJ/m²),TSR (m²/m²),CY/wt%,TTI (s)_err,FO(s)_err,PHRR (kW/m²)_err,THR (MJ/m²)_err,TSR (m²/m²)_err,LOI (%),calorimetric results A CY/wt%,Vectors,Ref
+0,UP,34.0,144.0,1143.0,80.0,3868.0,1.0,0.0,1.0,15.0,1.0,89.0,,,['UP'],j.polymdegradstab.2016.01.005
+1,70/30 UP/VB-novolac (no additional styrene),32.0,174.0,800.0,70.0,3672.0,11.6,4.0,2.0,19.0,0.0,50.0,,,"['70', '30UP', 'VB-novolac(noadditionalstyrene)']",j.polymdegradstab.2016.01.005
+2,50/50 UP/VB-novolac (15 wt% additional styrene),20.0,154.0,720.0,65.0,3348.0,12.6,1.0,6.0,80.0,5.0,210.0,,,"['50', '50UP', 'VB-novolac((0.15)additionalstyrene)']",j.polymdegradstab.2016.01.005
+3,50/50 UP/VB-novolac (30 wt% additional styrene),24.0,152.0,895.0,67.0,3624.0,13.3,6.0,19.0,113.0,9.0,309.0,,,"['50', '50UP', 'VB-novolac((0.3)additionalstyrene)']",j.polymdegradstab.2016.01.005
+4,VB-novolac (no added styrene),29.0,160.0,611.0,52.0,2888.0,32.5,1.0,8.0,43.0,3.0,78.0,,,['VB-novolac(noaddedstyrene)'],j.polymdegradstab.2016.01.005
+5,50UP/50Allyl-resole (no additional styrene) [10],17.0,,225.0,17.9,924.0,,,,,,,1.7,13.0,"['50UP/50Allyl', 'resole(noadditionalstyrene)[10]']",j.polymdegradstab.2016.01.005
+6,50UP/50Methacrylate-novolac (32 wt% additional styrene) [13],1.0,,290.0,19.0,1190.0,,,,,,,1.8,10.5,"['50UP/50Methacrylate', 'novolac((0.32)additionalstyrene)[13]']",j.polymdegradstab.2016.01.005
+7,50UP/50VB-novolac (15 wt% additional styrene),14.0,,423.0,15.0,520.0,,,,,,,1.8,11.6,"['50UP/50VB', 'novolac((0.15)additionalstyrene)']",j.polymdegradstab.2016.01.005
+8,50UP/50VB-novolac (30 wt% additional styrene),10.0,,248.0,13.0,244.0,,,,,,,2.0,12.3,"['50UP/50VB', 'novolac((0.3)additionalstyrene)']",j.polymdegradstab.2016.01.005
+9,70UP/30Allyl resole [10],14.0,,98.0,7.9,271.0,,,,,,,1.1,10.0,['70UP/30Allylresole10'],j.polymdegradstab.2016.01.005
+10,70UP/30Methacrylate-novolad (32 wt% additional styrene) [13],1.0,,198.0,15.0,904.0,,,,,,,1.2,5.7,"['70UP/30Methacrylate', 'novolad((0.32)additionalstyrene)[13]']",j.polymdegradstab.2016.01.005
+11,70UP/30VB-novolac (no additional styrene),2.0,,343.0,10.0,196.0,,,,,,,1.7,10.6,"['70UP/30VB', 'novolac(noadditionalstyrene)']",j.polymdegradstab.2016.01.005
+12,Allyl-resole (no styrene) [10],32.0,,249.0,30.9,1881.0,,,,,,,4.3,26.0,"['Allyl', 'resole(nostyrene)[10]']",j.polymdegradstab.2016.01.005
+13,Methacrylate-novolac (32% additional styrene) [13],3.0,,329.0,22.0,1301.0,,,,,,,3.4,17.8,"['Methacrylate', 'novolac((0.32)additionalstyrene)[13]']",j.polymdegradstab.2016.01.005
+14,VB-novolac (no styrene),5.0,,532.0,28.0,980.0,,,,,,,5.6,31.5,"['VB', 'novolac(nostyrene)']",j.polymdegradstab.2016.01.005

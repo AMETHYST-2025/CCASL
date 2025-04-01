@@ -1,0 +1,4 @@
+,Samples,CNT (g),TEA (g),PPD (g),DDM (g),Yield (%),CPD (wt%),Vectors,Ref
+0,CNT-PD-5,1.0,3.09,2.48,3.02,60.3,77.1,"['CNT', 'PD(5)']",j.polymdegradstab.2016.04.011_2_0
+1,CNT-PD-10,1.0,6.18,4.96,6.05,70.6,80.8,"['CNT', 'PD(10)']",j.polymdegradstab.2016.04.011_2_0
+2,CNT-PD-20,1.0,12.36,9.92,12.1,75.6,92.7,"['CNT', 'PD(20)']",j.polymdegradstab.2016.04.011_2_0

@@ -1,0 +1,3 @@
+,Samples,Reaction exotherm (kJ/mol epoxide) 40°C,Reaction exotherm (kJ/mol epoxide) 50 °C,Reaction exotherm (kJ/mol epoxide) 60°C,Reaction exotherm (kJ/mol epoxide) 70 °C,Reaction exotherm (kJ/mol epoxide) Total,Vectors,Reaction exotherm (kJ/mol epoxide) 40°C_err,Reaction exotherm (kJ/mol epoxide) 50 °C_err,Reaction exotherm (kJ/mol epoxide) 60°C_err,Reaction exotherm (kJ/mol epoxide) 70 °C_err,Ref
+0,DGEBA/TAPA,80.3,88.8,99.7,103.8,113.7,"['DGEBA', 'TAPA']",1.6,1.2,1.8,2.0,j.cej.2012.01.134_5_0
+1,DGEBA/PDA,63.7,80.7,95.1,97.8,103.0,"['DGEBA', 'PDA']",1.7,1.1,1.6,2.1,j.cej.2012.01.134_5_0

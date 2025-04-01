@@ -1,0 +1,13 @@
+,Samples,TTI (s),FO(s),PHRR (kW/m²),THR (MJ/m²),EHC (MJ/kg),TSR (m²/m²),Char (%),Vectors,Ref
+0,UP/allyl-PH: 70/30,54.0,179.0,960.0,71.0,19.6,3820.0,11.0,"['UP(0.7)', 'allyl-PH(0.3)']",j.polymdegradstab.2013.12.021_4_1
+1,UP/allyl-PH: 70/30-RDP,52.0,153.0,620.0,41.0,12.3,4440.0,14.0,"['UP(0.7)', 'allyl-PH(0.3)', 'RDP']",j.polymdegradstab.2013.12.021_4_1
+2,UP/allyl-PH: 70/30-BADP,51.0,156.0,680.0,46.0,13.6,4890.0,13.0,"['UP(0.7)', 'allyl-PH(0.3)', 'BADP']",j.polymdegradstab.2013.12.021_4_1
+3,UP/allyl-PH: 70/30-DOPO,55.0,213.0,540.0,47.0,13.5,4650.0,17.0,"['UP(0.7)', 'allyl-PH(0.3)', 'DOPO']",j.polymdegradstab.2013.12.021_4_1
+4,UP/allyl-PH: 50/50,57.0,201.0,800.0,61.0,18.0,3170.0,14.0,"['UP(0.5)', 'allyl-PH(0.5)']",j.polymdegradstab.2013.12.021_4_1
+5,UP/allyl-PH: 50/50-RDP,47.0,151.0,570.0,40.0,13.6,3660.0,23.0,"['UP(0.5)', 'allyl-PH(0.5)', 'RDP']",j.polymdegradstab.2013.12.021_4_1
+6,UP/allyl-PH: 50/50-BADP,51.0,153.0,590.0,42.0,13.5,4180.0,19.0,"['UP(0.5)', 'allyl-PH(0.5)', 'BADP']",j.polymdegradstab.2013.12.021_4_1
+7,UP/allyl-PH: 50/50-DOPO,47.0,194.0,530.0,44.0,12.5,4220.0,18.0,"['UP(0.5)', 'allyl-PH(0.5)', 'DOPO']",j.polymdegradstab.2013.12.021_4_1
+8,Allyl-PH,72.0,216.0,880.0,48.0,20.1,2210.0,27.0,['Allyl-PH'],j.polymdegradstab.2013.12.021_4_1
+9,Allyl-PH: RDP,61.0,143.0,780.0,33.0,14.2,2410.0,37.0,"['Allyl-PH', 'RDP']",j.polymdegradstab.2013.12.021_4_1
+10,Allyl-PH: BADP,67.0,130.0,830.0,35.0,16.4,2410.0,37.0,"['Allyl-PH', 'BADP']",j.polymdegradstab.2013.12.021_4_1
+11,Allyl-PH: DOPO,83.0,171.0,540.0,32.0,11.8,3060.0,33.0,"['Allyl-PH', 'DOPO']",j.polymdegradstab.2013.12.021_4_1

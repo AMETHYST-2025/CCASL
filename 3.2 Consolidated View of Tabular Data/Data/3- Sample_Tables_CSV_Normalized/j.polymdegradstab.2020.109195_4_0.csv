@@ -1,0 +1,4 @@
+,Samples,TTI (s),PHRR (kW/m²),FIGRA,THR (MJ/m²),TSP (m²),COY/CO2Y (%),av-EHC,Char residue (%),Vectors,TTI (s)_err,PHRR (kW/m²)_err,THR (MJ/m²)_err,TSP (m²)_err,COY/CO2Y (%)_err,av-EHC_err,Char residue (%)_err,Ref
+0,EP,80.0,1367.0,12.1,66.5,22.8,7.4,23.2,10.0,['EP'],1.0,21.0,1.5,1.6,0.1,0.3,1.0,j.polymdegradstab.2020.109195_4_0
+1,2%DPHK-EP,85.0,1160.0,10.7,58.0,17.5,7.9,21.6,22.0,"['(0.02)DPHK', 'EP']",2.0,20.0,0.5,0.5,0.05,0.2,0.5,j.polymdegradstab.2020.109195_4_0
+2,4%DPHK-EP,85.0,907.0,7.7,47.5,15.5,9.1,20.2,23.0,"['(0.04)DPHK', 'EP']",2.0,21.0,2.0,0.5,0.1,0.3,0.5,j.polymdegradstab.2020.109195_4_0

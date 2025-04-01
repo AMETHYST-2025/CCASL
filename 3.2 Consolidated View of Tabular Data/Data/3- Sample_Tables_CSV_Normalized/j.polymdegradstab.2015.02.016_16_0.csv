@@ -1,0 +1,8 @@
+,Samples,TTI (s),PHRR (kW/m²),HRR (kW/m²),EHC (MJ/kg),Vectors,Ref
+0,EP/DDS,49.0,1067.0,328.0,28.0,"['EP', 'DDS']",j.polymdegradstab.2015.02.016_16_0
+1,EP/DDS/BDM,50.0,763.0,230.0,30.7,"['EP', 'DDS', 'BDM']",j.polymdegradstab.2015.02.016_16_0
+2,EP/DDS/DOPO,38.0,536.0,265.0,22.7,"['EP', 'DDS', 'DOPO']",j.polymdegradstab.2015.02.016_16_0
+3,EP/DDS/BDM/DOPO-5,42.0,331.0,154.0,25.2,"['EP', 'DDS', 'BDM', 'DOPO-5']",j.polymdegradstab.2015.02.016_16_0
+4,EP/DDS/BDM/DOPO-10,39.0,634.0,142.0,25.4,"['EP', 'DDS', 'BDM', 'DOPO(10)']",j.polymdegradstab.2015.02.016_16_0
+5,EP/DDS/BDM/DOPO-15,40.0,491.0,158.0,18.4,"['EP', 'DDS', 'BDM', 'DOPO(15)']",j.polymdegradstab.2015.02.016_16_0
+6,EP/DDS/BDM/DOPO-20,37.0,484.0,195.0,25.3,"['EP', 'DDS', 'BDM', 'DOPO(20)']",j.polymdegradstab.2015.02.016_16_0

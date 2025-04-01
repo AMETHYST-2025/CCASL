@@ -1,0 +1,5 @@
+,Samples,TTI (s),PHRR (kW/m²),THR (MJ/m²),TSP (m²),AMLR (g/s),FIGRA (kW/m²s),Vectors,Ref
+0,EP,803.0,1208.0,97.4,21.5,0.13,6.75,['EP'],j.polymdegradstab.2018.10.005_20_0
+1,EP/6BN,1023.0,907.0,88.343,18.2,0.094,4.72,"['EP', '(6)BN']",j.polymdegradstab.2018.10.005_20_0
+2,EP/6BN@PDA,983.0,115839.0,106.74,22.41,0.131,7.65,"['EP', '(6)BN@PDA']",j.polymdegradstab.2018.10.005_20_0
+3,EP/6BN@PDA@Fe,891.0,738.0,83.2,14.5,0.085,4.59,"['EP', '(6)BN@PDA@Fe']",j.polymdegradstab.2018.10.005_20_0

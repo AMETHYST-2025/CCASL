@@ -1,0 +1,7 @@
+,Samples,.1,.2,.3,.4,.5,.6,Vectors,Ref
+0,Sample,,mean weight loss a,,,humidity a.,,['Sample'],j.polymdegradstab.2018.12.022_28_0
+1,,,WL (%),,,H (%),,[''],j.polymdegradstab.2018.12.022_28_0
+2,,A. brasiliensis,P. chrysogenum,C. cladosporioides,A. brasiliensis,P. chrysogenum,C. cladosporioides,[''],j.polymdegradstab.2018.12.022_28_0
+3,W,19.4,4.47,6.37,50.4,50.5,33.5,['W'],j.polymdegradstab.2018.12.022_28_0
+4,W/DGEBA/EHO/RAMA,1.82,1.38,"0,43",6.97,22.6,26.7,"['W', 'DGEBA', 'EHO', 'RAMA']",j.polymdegradstab.2018.12.022_28_0
+5,W/DGEBA/EFO/RAMA,1.89,1.39,1.22,38.5,36.9,16.7,"['W', 'DGEBA', 'EFO', 'RAMA']",j.polymdegradstab.2018.12.022_28_0

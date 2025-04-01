@@ -1,0 +1,5 @@
+,Samples,E1 (kJ mol-1,E2 (kJ mol-1),InA1,In A2,Vectors,Ref
+0,Neat epoxy,54.79,41.96,18.89,8.87,['EP'],j.matchemphys.2009.07.045_6_0
+1,As-received CNFs/epoxy,52.55,46.11,17.06,10.23,"['As-receivedCNFs', 'EP']",j.matchemphys.2009.07.045_6_0
+2,Acid treated CNFs/epoxy,51.34,47.25,16.15,10.01,"['AcidtreatedCNFs', 'EP']",j.matchemphys.2009.07.045_6_0
+3,Silane treated CNFs/epoxy,45.42,49.52,15.78,10.92,"['SilanetreatedCNFs', 'EP']",j.matchemphys.2009.07.045_6_0

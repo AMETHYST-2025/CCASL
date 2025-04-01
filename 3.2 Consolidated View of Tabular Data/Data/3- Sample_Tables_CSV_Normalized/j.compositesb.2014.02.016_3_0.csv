@@ -1,0 +1,6 @@
+,Samples,Tensile strength (MPa),Strength (MPa),Vectors,Tensile strength (MPa)_err,Strength (MPa)_err,Ref
+0,GFRP,332.5,373.1,['GFRP'],21.6,28.2,j.compositesb.2014.02.016_3_0
+1,GFRP + 1% NC,321.3,364.9,"['GFRP', '(0.01)NC']",17.6,15.8,j.compositesb.2014.02.016_3_0
+2,GFRP + 3% NC,305.4,319.6,"['GFRP', '(0.03)NC']",15.5,12.4,j.compositesb.2014.02.016_3_0
+3,GFRP + 0.5% CNT,318.8,360.9,"['GFRP', '(0.005)CNT']",4.9,38.5,j.compositesb.2014.02.016_3_0
+4,GFRP + 1% CNT,309.8,370.5,"['GFRP', '(0.01)CNT']",14.7,9.7,j.compositesb.2014.02.016_3_0

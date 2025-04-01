@@ -1,0 +1,6 @@
+,Samples,Activation energy (kJ/mol),Vectors,Ref
+0,PSER,71.01,['PSER'],j.eurpolymj.2010.04.011_9_0
+1,PSER/m-PDA,36.4,"['PSER', 'm-PDA']",j.eurpolymj.2010.04.011_9_0
+2,TGCS/m-PDA,60.2,"['TGCS', 'm-PDA']",j.eurpolymj.2010.04.011_9_0
+3,PSER/2E4MZ,65.1,"['PSER', '2E4MZ']",j.eurpolymj.2010.04.011_9_0
+4,TGCS/2E4MZ,83.3,"['TGCS', '2E4MZ']",j.eurpolymj.2010.04.011_9_0

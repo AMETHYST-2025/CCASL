@@ -1,0 +1,3 @@
+,Samples,TTI (s),Time to peaks (s) (tp),PHRR (kW/m²),FIGRA,THR (MJ/m²),PSPR (m²/s),TSP (m²),EHC (MJ/kg),COY (kg/kg),CO₂Y (kg/kg),Char residue (%),Vectors,Ref
+0,EP,59.0,130.0,1063.1,8.17,76.1,0.54,71.4,13.4,0.054,0.995,11.9,['EP'],j.carbpol.2020.116530_4_0
+1,EP/10 % CCD,55.0,75.0,997.1,7.41,46.6,0.36,20.1,18.3,0.084,1.151,15.4,"['EP', '(0.1)CCD']",j.carbpol.2020.116530_4_0

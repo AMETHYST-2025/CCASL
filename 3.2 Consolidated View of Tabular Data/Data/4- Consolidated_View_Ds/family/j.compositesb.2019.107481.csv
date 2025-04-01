@@ -1,0 +1,8 @@
+,Samples,DGEBA (g),DDM (g),FR (g),P (wt%),Si (wt%),LOI (%),Vertical After-flame t1 (s),burning test time t2 (s),burning test UL94 Rating,burning test Dripping,TTI (s),PHRR (kW/m²),EHC (MJ/kg),THR (MJ/m²),TSP (m²),COY (kg/kg),CO₂Y (kg/kg),R600s (wt%),Tg (°C),"N superscript(2) atmosphere Td,1% ( C)",N superscript(2) atmosphere MLRmax (%-min 1),N superscript(2) atmosphere R700 C (wt%),Air atmosphere Td1% (°C),Air atmosphere MLRmax (%.min 1),Air atmosphere R700 C (wt%),Air atmosphere R800 C (wt%,Vectors,Ref
+0,4%DiDSi/EP,100.0,24.99,5.21,0.3,0.07,32.4,12.8,9.2,V-1,No,,,,,,,,,,,,,,,,,"['(0.04)DiDSi', 'EP']",j.compositesb.2019.107481
+1,4%TetraDSi/EP,100.0,24.95,5.21,0.33,0.04,34.6,11.5,9.0,V-1,No,,,,,,,,,,,,,,,,,"['(0.04)TetraDSi', 'EP']",j.compositesb.2019.107481
+2,4%TriDSi/EP,100.0,24.97,5.21,0.32,0.05,33.4,8.1,10.5,V-1,No,,,,,,,,,,,,,,,,,"['(0.04)TriDSi', 'EP']",j.compositesb.2019.107481
+3,6%DiDSi/EP,100.0,24.82,7.97,0.45,0.1,34.1,8.2,7.1,V-1,No,55.0,907.0,22.6,101.0,48.8,0.13,1.76,14.1,167.0,375.0,40.2,19.3,357.0,38.1,14.8,5.1,"['(0.06)DiDSi', 'EP']",j.compositesb.2019.107481
+4,6%TetraDSi/EP,100.0,24.77,7.96,0.5,0.06,36.0,3.0,2.4,V-0,No,57.0,776.0,19.9,83.0,45.5,0.11,1.63,13.7,168.0,375.0,35.2,20.1,364.0,37.0,13.2,4.9,"['(0.06)TetraDSi', 'EP']",j.compositesb.2019.107481
+5,6%TriDSi/EP,100.0,24.79,7.97,0.48,0.07,35.2,5.2,3.5,V-0,No,58.0,810.0,21.4,90.0,43.0,0.12,1.7,13.2,167.0,373.0,35.0,20.2,364.0,37.8,13.8,5.3,"['(0.06)TriDSi', 'EP']",j.compositesb.2019.107481
+6,EP,100.0,25.3,-,-,-,26.4,83.0,-,Unrated,No,56.0,1420.0,29.9,144.0,52.2,0.13,2.51,7.7,166.0,379.0,48.8,16.0,348.0,45.4,8.4,0.4,['EP'],j.compositesb.2019.107481

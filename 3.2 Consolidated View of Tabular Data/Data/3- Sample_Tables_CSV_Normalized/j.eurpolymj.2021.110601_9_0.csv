@@ -1,0 +1,6 @@
+,Samples,Elongation at break (%),Tensile strength (MPa),Storage modulus (MPa),Vectors,Ref
+0,EP,3.5,39.7,1750.0,['EP'],j.eurpolymj.2021.110601_9_0
+1,EP/APP5,1.9,26.6,1750.0,"['EP', 'APP5']",j.eurpolymj.2021.110601_9_0
+2,EP/ APP@ATNi5,2.7,32.5,1820.0,"['EP', 'APP@ATNi(5)']",j.eurpolymj.2021.110601_9_0
+3,EP/ APP@ATNi10,3.0,38.6,1840.0,"['EP', 'APP@ATNi(10)']",j.eurpolymj.2021.110601_9_0
+4,EP/ APP@ATNi15,2.6,39.6,2000.0,"['EP', 'APP@ATNi(15)']",j.eurpolymj.2021.110601_9_0

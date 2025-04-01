@@ -1,0 +1,7 @@
+,Samples,Cohesive failure (%),Vectors,Ref
+0,DGEBA/3DCM (0 phr),78.0,"['DGEBA', '3DCM((0)phr)']",j.ijadhadh.2016.02.011_5_2
+1,DGEBA/3DCM (10 phr),79.0,"['DGEBA', '3DCM((10)phr)']",j.ijadhadh.2016.02.011_5_2
+2,DGEBA/3DCM (20 phr),80.0,"['DGEBA', '3DCM((20)phr)']",j.ijadhadh.2016.02.011_5_2
+3,DGEBA/3DCM (30 phr),82.0,"['DGEBA', '3DCM((30)phr)']",j.ijadhadh.2016.02.011_5_2
+4,DGEBA/IPD (30 phr),78.0,"['DGEBA', 'IPD((30)phr)']",j.ijadhadh.2016.02.011_5_2
+5,DGEBA/4MPip (30 phr),90.0,"['DGEBA', '4MPip(30phr)']",j.ijadhadh.2016.02.011_5_2

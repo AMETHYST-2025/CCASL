@@ -1,0 +1,4 @@
+,Samples,1,2,3,4,5,Vectors,Ref
+0,MWCNT,5.68,2.84,1.95,1.42,1.11,['MWCNT'],j.compscitech.2020.108554_5_0
+1,GNP,1.19,585.48,396.82,291.54,231.91,['GNP'],j.compscitech.2020.108554_5_0
+2,MWCNT + GNP,-,-,511.51,378.07,299.85,"['MWCNT', 'GNP']",j.compscitech.2020.108554_5_0
