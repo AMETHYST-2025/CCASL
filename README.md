@@ -33,12 +33,12 @@ This is the most important part of the work because it contains the programs for
 These programs can be executed in the following order
 - [ ] `Table_Extraction.py`: Captures all the tables in a PDF.
 - [ ] `Recommendation.py`: Classifies images of tables based on their relevance using keywords.
-- [ ] `textract.py` : Contains the code for image preprocessing, and the connection to the Amazon Textract API, but we recommend using the web interface, which also offers a free trial. [AWSTextract](https://aws.amazon.com/fr/textract/)
-- [ ] `Normalization.py` & `Samples_Normalization.py`: A global rule-based program designed to normalize certain frequent attributes (e.g., chemical properties) in epoxy-amine publications. 
+- [ ] `textract.py` : Contains the code for image preprocessing, and the connection to the Amazon Textract API, but we recommend using the web interface, which also offers a free trial [AWSTextract](https://aws.amazon.com/fr/textract/).
+- [ ] `Normalization.py` & `Samples_Normalization.py`: A global rule-based program designed to normalize certain frequent attributes (e.g., chemical properties) in epoxy-amine publications.
 - [ ]  `RNN_column_name.py` : A machine learning-based approach for attribute name normalization using RNN.
-- [ ] `ChemDataExtractor.py`: is use in `Normalization.py` to detect acronym and abbreviation, notably 'EP' which is usually describe in "Experimental and method"
+- [ ] `ChemDataExtractor.py`: is use in `Normalization.py` to detect acronym and abbreviation, notably 'EP' which is usually describe in "Experimental and method".
 - [ ] `Data_Integration.py`: Creates an integrated view of the case study from the paper (V(EA), SM_bf, SM_af, Tg).
-- [ ] `Data`: Contains samples of intermediate results, more data is given on [zotero](https://zenodo.org/records/15115892)
+- [ ] `Data`: Contains samples of intermediate results, more data is given on [zotero](https://zenodo.org/records/15115892).
 ***
 
 ## 3.3 CounterExample detection
@@ -50,4 +50,4 @@ These programs can be executed in the following order
 ***
 
 ## Associated paper
-(preprint) TCHAGOUE Aymar, EGLIN Véronique, PRUVOST Sébastien, PETIT Jean-Marc, DUCHET-RUMEAU Jannick, GERARD Jean-Francois. "CCASL: Counterexamples to Comparative Analysis of Scientific Literature - Application to Polymers." *Journal of Intelligent Information Systems*. [10.21203/rs.3.rs-6074889/v1](https://doi.org/10.21203/rs.3.rs-6074889/v1)
+(preprint) TCHAGOUE Aymar, EGLIN Véronique, PRUVOST Sébastien, PETIT Jean-Marc, DUCHET-RUMEAU Jannick, GERARD Jean-Francois. "CCASL: Counterexamples to Comparative Analysis of Scientific Literature - Application to Polymers." *Journal of Intelligent Information Systems* [10.21203/rs.3.rs-6074889/v1](https://doi.org/10.21203/rs.3.rs-6074889/v1).
