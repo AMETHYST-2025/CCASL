@@ -32,7 +32,7 @@ import boto3
 
 aws_access_key_id = '**************' # create your own
 aws_secret_access_key = '**************' # create your own
-client = boto3.client('textract', region_name='eu-west-3', aws_access_key_id = aws_access_key_id, aws_secret_access_key= aws_secret_access_key)
+client = boto3.client('textract', region_name='', aws_access_key_id = "", aws_secret_access_key= "")
 with open('C:/Users/tchag/Desktop/AMETHYST/Image_interest_classifier/0014-3057(87)90125-x_2_0.jpg', 'rb') as file: #example
     img_test = file.read()
     bytes_test = bytearray(img_test)
