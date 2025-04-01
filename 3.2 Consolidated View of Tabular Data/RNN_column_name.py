@@ -20,11 +20,12 @@ print(f"Character Vocabulary:\n{character_vocabulary}\n")
 print(string.printable)
 print(len(character_vocabulary))
 
-df = pd.read_excel('/Users/tchagoue/Documents/AMETHYST/Springer_paper/3.2 Consolidated View of Tabular Data/Data/Norm_column_name_order_Y.xlsx', index_col=0)
+df = pd.read_excel('/Users/tchagoue/Documents/AMETHYST/Springer_paper/3.2 Consolidated View of Tabular Data/Data/RNN_Prediction/Norm_column_name.xlsx', index_col=0)
+df = df.reset_index()
 print(df)
+
 Char_Voc = [' ']
 for i in range(len(df)):
-    print(df['Avant_Norm'][i], i)
     for j in df['Avant_Norm'][i]:
         if j not in Char_Voc :
             Char_Voc.append(j)
@@ -36,7 +37,7 @@ for j in character_vocabulary:
         Char_Voc.append(j)
 
 print(Char_Voc)
-print(len(Char_Voc))
+print(len(Char_Voc), 'herehygkubju')
 # ------------------------------------One hot encoding--------------------------------
 char_to_idx_map = {char: idx for idx, char in enumerate(Char_Voc)}
 print(f"Character to Index Mapping:\n{char_to_idx_map}\n")
@@ -180,7 +181,7 @@ class RNNModel(nn.Module):
 
 # Create RNN
 input_dim = 50  # input dimension
-hidden_dim = 117  # hidden layer dimension
+hidden_dim = 116  # hidden layer dimension
 layer_dim = 1  # number of hidden layers
 output_dim = 50  # output dimension
 
@@ -192,7 +193,7 @@ error = nn.CrossEntropyLoss() #MSELoss() #L1Loss()  #CrossEntropyLoss()
 learning_rate = 0.001
 optimizer = torch.optim.SGD(model.parameters(), lr=learning_rate)
 
-seq_dim = 117
+seq_dim = 116
 loss_list = []
 test_loss_list = []
 iteration_list = []
@@ -279,7 +280,7 @@ def prediction():
                     break
             new_Row = [PRINT(vec_input), decode(vec_pred[:len(vec) - i]), decode(vec[:len(vec) - i])]
             DF_.loc[len(DF_)] = new_Row
-        DF_.to_excel('Noms_Colonnes_Norm_Prediction.xlsx', index=True)
+        DF_.to_excel('/Users/tchagoue/Documents/AMETHYST/Springer_paper/3.2 Consolidated View of Tabular Data/Data/RNN_Prediction/Noms_Colonnes_Norm_Prediction.xlsx', index=True)
 prediction()
 
 plt.plot(iteration_list,loss_list, label='Train_loss',color='red')
