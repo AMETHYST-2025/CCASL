@@ -19,9 +19,9 @@ character_vocabulary = [char for char in string.printable]
 print(f"Character Vocabulary:\n{character_vocabulary}\n")
 print(string.printable)
 print(len(character_vocabulary))
-
-df = pd.read_excel('/Users/tchagoue/Documents/AMETHYST/Springer_paper/3.2 Consolidated View of Tabular Data/Data/RNN_Prediction/Norm_column_name.xlsx', index_col=0)
-df = df.reset_index()
+save_dir = "/Users/tchagoue/Documents/AMETHYST/Springer_paper/3.2 Consolidated View of Tabular Data/Data/RNN_Prediction/"
+df = pd.read_excel(save_dir + 'Norm_column_name.xlsx', index_col=0)
+df = df.reset_index(drop=True)
 print(df)
 
 Char_Voc = [' ']
@@ -37,7 +37,7 @@ for j in character_vocabulary:
         Char_Voc.append(j)
 
 print(Char_Voc)
-print(len(Char_Voc), 'herehygkubju')
+print(len(Char_Voc))
 # ------------------------------------One hot encoding--------------------------------
 char_to_idx_map = {char: idx for idx, char in enumerate(Char_Voc)}
 print(f"Character to Index Mapping:\n{char_to_idx_map}\n")
@@ -70,9 +70,10 @@ def augment_ocr_data(df):
             df.loc[len(df)] = new_Row
     return df
 """
+# Data augmentation
 df = augment_ocr_data(df)
 df = shuffle(df)
-df.to_excel('df_augment.xlsx', index=True)
+df.to_excel(save_dir + 'df_augment.xlsx', index=True)
 df.reset_index(drop=True, inplace=True)
 """
 # ----------------------------Column name to One hot encoding-------------------------
@@ -124,7 +125,7 @@ print(PRINT(DF.target[3]))
 #---------------------------------------------------------------
 
 
-X_train, X_test, y_train, y_test = train_test_split(DF['input'][:], DF['target'][:], train_size=0.7, shuffle=True,random_state = 42)
+X_train, X_test, y_train, y_test = train_test_split(DF['input'][:], DF['target'][:], train_size=0.7, shuffle=True, random_state = 42)
 # Convert to 2D PyTorch tensors
 print(len(X_test),len(X_train),len(y_train),len(y_test))
 X_train.reset_index(drop=True,inplace=True)
@@ -145,9 +146,10 @@ train = TensorDataset(featuresTrain,targetsTrain)
 test = TensorDataset(featuresTest,targetsTest)
 
 # batch_size, epoch and iteration
-batch_size = 20
-n_iters = 5000
-num_epochs = n_iters / (len(featuresTrain) / batch_size)
+batch_size = 1
+n_iters = 40000
+num_epochs = n_iters / (len(featuresTrain) / batch_size) # for n_iters= 40 000, num_epochs = 19
+print(num_epochs)
 num_epochs = int(num_epochs)
 
 # data loader
@@ -261,7 +263,7 @@ for epoch in range(num_epochs):
             iteration_list.append(count)
             accuracy_list.append(accuracy)
             index_accuracy_list.append(index_accuracy)
-            if count % 500 == 0:
+            if count % 1000 == 0:
                 # Print Loss
                 print('Iteration: {}  Train_Loss: {} Test_Loss: {}  Test_Accuracy: {} %  Test_Accuracy_index: {}'.format(count, loss.data, test_loss.data , accuracy, index_accuracy))
 
@@ -280,11 +282,11 @@ def prediction():
                     break
             new_Row = [PRINT(vec_input), decode(vec_pred[:len(vec) - i]), decode(vec[:len(vec) - i])]
             DF_.loc[len(DF_)] = new_Row
-        DF_.to_excel('/Users/tchagoue/Documents/AMETHYST/Springer_paper/3.2 Consolidated View of Tabular Data/Data/RNN_Prediction/Noms_Colonnes_Norm_Prediction.xlsx', index=True)
+        DF_.to_excel(save_dir + 'Noms_Colonnes_Norm_Prediction.xlsx', index=True)
 prediction()
 
 plt.plot(iteration_list,loss_list, label='Train_loss',color='red')
-plt.plot(iteration_list,test_loss_list,color = "blue",label='Test_loss')
+plt.plot(iteration_list,test_loss_list,label='Test_loss', color = "blue")
 plt.xlabel("Number of iteration")
 plt.ylabel("Loss")
 plt.title("RNN: Loss vs Number of iteration")
@@ -295,5 +297,5 @@ plt.plot(iteration_list,index_accuracy_list,color = "red")
 plt.xlabel("Number of iteration")
 plt.ylabel("Accuracy")
 plt.title("RNN: Accuracy vs Number of iteration")
-plt.savefig('graph.png')
+plt.savefig(save_dir +'graph.png')
 plt.show()
