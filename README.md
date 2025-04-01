@@ -9,9 +9,9 @@
 ***
 
 This overview displays the main sections of CCASL, known as:
-- [ ] 3.1 From Domain Knowledge to a Corpus of PDF Documents
-- [ ] 3.2 Creation of a Consolidated View of the Publications' Relevant Tables
-- [ ] 3.3 Counterexample Detection with g3-Relaxed Equality on Adesit
+- [ ] 3.1 From Domain Knowledge to a Corpus of PDF Documents (A,B)
+- [ ] 3.2 Creation of a Consolidated View of the Publications' Relevant Tables (C)
+- [ ] 3.3 Counterexample Detection with g3-Relaxed Equality on Adesit (D)
 ***
 
 ## 3.1 PDF Document Acquisition
