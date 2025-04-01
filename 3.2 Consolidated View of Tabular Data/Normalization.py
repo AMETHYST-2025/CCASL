@@ -32,7 +32,7 @@ import easyocr
 from collections import Counter
 from Levenshtein import ratio
 # **********************************************************************************************************************
-dir_path =  "/Users/tchagoue/Documents/AMETHYST/Datas/Download_GoogleScholar/PDF/Tables_Images/AWS_CSV"
+dir_path =  "/Users/tchagoue/Documents/AMETHYST/CCASL/3.2 Consolidated View of Tabular Data/Data/2.2- Sample_Tables_CSV_(after AWS)"
 list_pdf = []
 numeric_const_pattern = '[-+]? (?: (?: \d* \. \d+ ) | (?: \d+ \.? ) )(?: [Ee] [+-]? \d+ ) ?'
 rx = re.compile(numeric_const_pattern, re.VERBOSE)
@@ -42,7 +42,7 @@ Dict_PP_key = ['LOI (%)', 'Tg (°C)', 'PHRR (kW/m²)', 'THR (MJ/m²)', 'TTI (s)'
                'UL-94', 'Strengh (MPa)',  'Flexural strength (MPa)', 'Strengh (KJ/m²)', 'Tensile modulus (GPa)',
                'Time PHRR (s)', "Young's modulus (MPa)"]
 
-DF_Nom_Column = pd.read_excel('/Users/tchagoue/Documents/AMETHYST/Code_git/AMETHYST/Norm_Column_name/Norm_column_name_order_Y.xlsx', index_col=0)
+DF_Nom_Column = pd.read_excel("/Users/tchagoue/Documents/AMETHYST/Springer_paper/3.2 Consolidated View of Tabular Data/Data/RNN_Prediction/Norm_column_name.xlsx", index_col=0)
 DF_Nom_Column = DF_Nom_Column[['Avant_Norm','Apres_Norm']][:]
 # DF_Nom_Column contains the column names that have already been normalized and manually verified. Since we are confident in their results,
 # we use them to refine the next results, and so on, in a loop.
@@ -623,7 +623,7 @@ def inference(images_dir):
     list_col_name = ''; list_Colo = ''
     list_vectors_all=[]; dict_colonnes_all =[]
     list_fichier = os.listdir(images_dir)
-    list_fichier = list_fichier.sort()
+    list_fichier.sort()
     for file in list_fichier:
         if file.endswith(".zip"):
             try:
