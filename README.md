@@ -47,3 +47,6 @@ These programs can be executed in the following order
 - [ ] The file `CCASL_counterexamples.xlsx` Contains highlighted counterexamples for the following parameters: ε_bf = 330 MPa, ε_af = 8 MPa, and ε_Tg = 12°C
 
 ***
+
+## Associated paper
+(preprint) TCHAGOUE Aymar, EGLIN Véronique, PRUVOST Sébastien, PETIT Jean-Marc, DUCHET-RUMEAU Jannick, GERARD Jean-Francois. "CCASL: Counterexamples to Comparative Analysis of Scientific Literature - Application to Polymers." *Journal of Intelligent Information Systems*. [10.21203/rs.3.rs-6074889/v1](https://doi.org/10.21203/rs.3.rs-6074889/v1)
