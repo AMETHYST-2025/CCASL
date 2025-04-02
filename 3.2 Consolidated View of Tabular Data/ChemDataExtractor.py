@@ -51,6 +51,7 @@ def EP_signification_detection(pdf):
     text = re.sub(u'[^\u0020-\uD7FF\u0009\u000A\u000D\uE000-\uFFFD\U00010000-\U0010FFFF]+', '', text)
     p = Paragraph('u"' + text + '"')
     #-------------------------------------------------------------------------------------------------
+    # Detection of paragraphs describing the components
     key_word_gold = ['Experimental and method','Experimental method', 'Materials and method',
                      'Experimental part','Experimental Part','Experimental section','Experimental Materials',
                      'Experimental procedure','Materials and Method','Experimental Section']
