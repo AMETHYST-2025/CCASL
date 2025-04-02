@@ -148,7 +148,7 @@ test = TensorDataset(featuresTest,targetsTest)
 # batch_size, epoch and iteration
 batch_size = 1
 n_iters = 40000
-num_epochs = n_iters / (len(featuresTrain) / batch_size) # for n_iters= 40 000, num_epochs = 19
+num_epochs = n_iters / (len(featuresTrain) / batch_size) # for n_iters= 40 000, num_epochs = 19.
 print(num_epochs)
 num_epochs = int(num_epochs)
 

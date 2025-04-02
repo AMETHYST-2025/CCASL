@@ -43,7 +43,7 @@ def searchInName(text, key):
     for k in keywords:
         if key.lower() in k.lower(): occurrences += 1  # k.lower(), for low letter
     if occurrences != 0:
-        presence = 1;  #if the searched word exists in the text, "Presence" takes the value 1, and 0 otherwise
+        presence = 1;  #if the searched word exists in the text, "Presence" takes the value 1, and 0 otherwise.
     return occurrences, presence
 
 key_words = ["Sample", "Tg", "Storage", "Modulus", "Tensile", "E’", "G’", "Rubbery", "Glassy", "MPa", "GPa", "°C", "°K"]

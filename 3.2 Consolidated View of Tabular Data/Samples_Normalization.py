@@ -23,7 +23,7 @@ skip_word = ['E-0-CNT', 'E-0.5-CNT', 'E-2-CNT', 'E-1-CNT', 'E-1.5-CNT', 'CNT-PD-
              'TRGB-2000', 'TRGB-1000','EB-40','SrF2','PA6','PA6/GO-0.5','PA6/GO-1.0','RTM6','A-PA6','PD-rGO','LPP-MoSe2',
              'TRGB-700', 'D230', 'T403','LDH-CD-Ferr']
 # "skip_word" is use so that it is not segmented, when partitioning the components, and that the special characters of these compounds
-# do not interfere with occurrence statistics
+# do not interfere with occurrence statistics.
 
 Chemical_Componemt = ['CNT', 'E-0-CNT', 'E-0.5-CNT', 'E-2-CNT', 'E-1.5-CNT', 'E-1-CNT', 'CNT-PD-10', 'CNT-PD-5',
                       'CNT-PD-20', 'BPOPA', '44DDSb', '44DDS', '33DDS', 'APP', 'LHP', 'PMI-HSi', 'HS', 'LHP','LDH-CD-Ferr',

@@ -60,5 +60,5 @@ with open(output_file, "wt") as fout:
     fout.write(csv)
 # show the results
 print('CSV OUTPUT FILE: ', output_file)
-# Saves the table in an excel document for further processing
+# Saves the table in an excel document for further processing.
 #document.tables[0].to_excel("output.xlsx")

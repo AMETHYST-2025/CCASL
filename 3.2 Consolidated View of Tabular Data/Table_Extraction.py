@@ -22,7 +22,7 @@ model = lp.Detectron2LayoutModel('lp://PubLayNet/faster_rcnn_R_50_FPN_3x/config'
 dir_pdf = '/Users/tchagoue/Documents/AMETHYST/Datas/PDF/'
 
 def plt_imshow(title, image):
-    # convert the image frame BGR to RGB color space and display it
+    # convert the image frame BGR to RGB color space and display it.
 	image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 	plt.imshow(image)
 	plt.title(title)

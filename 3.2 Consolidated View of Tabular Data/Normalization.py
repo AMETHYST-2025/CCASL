@@ -148,8 +148,8 @@ def merge_header(df,image_name):
             if str(df.columns[l1]) in empty_H1 : presence_vide = 1
             for ii in range(len(chiffre)):
                 l_chiffre = len(chiffre[ii]) + l_chiffre
-    # If line '0' has half as many digits as characters.
-    # then we can consider that it is a degeneration
+    # If line '0' has half as many digits as characters,
+    # then we can consider that it is a degeneration.
     if l_chiffre + l_total !=0: #The case where no column is significant
         if l_chiffre+1 <= (l_total / 2):
             # --------------------------------------------------------------------------------------------

@@ -62,7 +62,7 @@ def EP_signification_detection(pdf):
     # 2 point if num + key_word
     # 2 point if key_word_gold
     # 3 point if num + key_word_gold
-    # Select the section of text indexes which will have the greatest number of attention (coefficient)
+    # Select the section of text indexes which will have the greatest number of attention (coefficient).
     probability = []; G=[]; ok = 0
     for ele in key_word :
         start = 0

@@ -26,7 +26,7 @@ def get_paperinfo(paper_url):
         print('Status code:', response.status_code)
         raise Exception('Failed to fetch web page ')
 
-    # parse using beautiful soup
+    # parse using beautiful soup.
     paper_doc = BeautifulSoup(response.text, 'html.parser')
 
     return paper_doc

@@ -38,7 +38,7 @@ label = 'family_integration'
 csv_path = '/Users/tchagoue/Documents/AMETHYST/Code_git/AMETHYST/Tables_Images/CSV_Normalized' # folder of all normalized CSVs
 family_path = '/Users/tchagoue/Documents/AMETHYST/Code_git/AMETHYST/Tables_Images/CSV_Normalized/family' # folder of CSVs merge by family
 
-def in_same_file(csv_path): # allows you to group the CSVs from the same pdf by their identifier
+def in_same_file(csv_path): # allows you to group the CSVs from the same pdf by their identifier.
     list_csv = os.listdir(csv_path)
     cluster = []
     while len(list_csv) !=0:
