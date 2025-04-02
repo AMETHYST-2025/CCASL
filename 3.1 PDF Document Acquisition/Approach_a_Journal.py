@@ -20,8 +20,8 @@ prefix = '10.1002'
 
 """
 Some examples provided in the paper :
-Prefixe : 10.1016
-Corresponding Journal :  Composites Part B : Engineering  , Chemical Engineering Journal , Progress in Polymer Science , European Polymer Journal , Carbohydrate Polymers , Composites Science and Technology , Polymer Degradation and Stability , Materials Chemistry and Physics
+    -Prefixe : 10.1016
+    -Corresponding Journal :  Composites Part B : Engineering  , Chemical Engineering Journal , Progress in Polymer Science , European Polymer Journal , Carbohydrate Polymers , Composites Science and Technology , Polymer Degradation and Stability , Materials Chemistry and Physics
 Prefixe-Journals: Polymers-10.3390, Polymers Journal-10.1038, American Chemical Society-10.1021
 """
 #*********************************************************************************************************************************************************#
