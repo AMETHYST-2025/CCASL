@@ -50,4 +50,4 @@ These programs can be executed in the following order
 ***
 
 ## Associated paper
-(preprint) Aymar TCHAGOUE, Véronique EGLIN, Sébastien PRUVOST, Jean-Marc PETIT, Jannick DUCHET-RUMEAU, Jean-Francois GERARD. "CCASL: Counterexamples to Comparative Analysis of Scientific Literature - Application to Polymers." *Journal of Intelligent Information Systems* [10.21203/rs.3.rs-6074889/v1](https://doi.org/10.21203/rs.3.rs-6074889/v1).
+In peer review "CCASL: Counterexamples to Comparative Analysis of Scientific Literature - Application to Polymers." *Journal of Intelligent Information Systems*.
